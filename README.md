@@ -9,6 +9,7 @@ The purpose of this repository is to serve as a registry of groups within the BC
 Currently the Digital Wallet service is under active development on a Pilot project looking at a use case in Mining.
 
 ## Requirements
+The [Wiki](https://github.com/bcgov/bc-vcpedia/wiki) contains detailed instructions on what to include and how to submit for review.
 
 The following minimum requirements must be met in order for your request to be approved:
 - TBD
