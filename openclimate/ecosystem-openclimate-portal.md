@@ -6,3 +6,7 @@ Authentication to OpenClimate Portal Uses a proof request checking for the follo
 
 Business Registration to OpenCLimate Portal - Uses a proof request checking for the following:
 * [BC Business Registration](credential-business-registration.md)
+
+Submit Annual Emissions dat to OC Portal - Uses a presentaiton proposal from the Business Wallet to OC Wallet
+* Annual cO2e per Facility
+* Annual Scope 2
