@@ -16,4 +16,4 @@ The following minimum requirements must be met in order for your request to be a
 
 ## How to submit your governance documents
 
-email to minesdigitalservice@gov.bc.ca
+email to minesdigitaltrust@gov.bc.ca
