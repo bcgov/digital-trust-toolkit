@@ -1,7 +1,8 @@
 # Primary Document
 ## Introduction
-This governance framework document has been developed in accordance with the [Trust Over IP's Governance Metamodel Specification](https://trustoverip.org/permalink/ToIP-Governance-Metamodel-Specification-V1.0-2021-12-21.pdf).
-This framework has been developed by the Mines Digital Trust team as an example Layer 2 governance framework for the Traction Showcase example (Alice/Faber/Acme).
+This governance document outlines the use and policies for the Government of British Columbia Enterprise Traction Service. This service enables **agents** in the BC Government to perform verifiable credential exchange actions by means of an API connected to existing line-of-business applications. There are methods for managing connections, issuing credentials, holding credentials and verifying presentations.
+
+This governance framework document has been developed in accordance with the [Trust Over IP's Governance Metamodel Specification](https://trustoverip.org/permalink/ToIP-Governance-Metamodel-Specification-V1.0-2021-12-21.pdf). 
 
 ## Terminology and Notation
 [Glossary - General Trust over IP Terms](https://trustoverip.github.io/toip/glossary)
@@ -10,8 +11,7 @@ This framework has been developed by the Mines Digital Trust team as an example 
 1. The standard language for this governing framework is American English. 
 
 ## Governing Authority
-**Mines Digital Trust team** is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
-> Example: [The British Columbia Government OCIO](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/office-of-the-chief-information-officer) is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
+[The British Columbia Government OCIO](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/office-of-the-chief-information-officer) is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
 The contact for petitioners and relying parties of this GF is
 * Name ___________
 * Title ____________
@@ -19,7 +19,7 @@ The contact for petitioners and relying parties of this GF is
 * Email minesdigitaltrust@gov.bc.ca
 
 ## Purpose
-This GF describes the BC Gov Traction agency used in the Traction Showcase (Alice/Faber/Acme). The agency is used for supporting BC Government applications with functionality for a wide range of interactions of issuing, holding and verifying credentials.
+The Government of British Columbia Enterprise Traction Service is a multi-tenant service hosted by the BC Government using Hyperledger Aries ACAPy with Traction API layer. 
 
 ## Scope
 The GF covers the following components:
