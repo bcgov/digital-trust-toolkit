@@ -1,4 +1,4 @@
-# Primary Document
+# BC Government Enterprise Traction Service - Primary Document
 ## Introduction
 This governance document outlines the use and policies for the Government of British Columbia Enterprise Traction Service. This service enables **agents** in the BC Government to perform verifiable credential exchange actions by means of an API connected to existing line-of-business applications. There are methods for managing connections, issuing credentials, holding credentials and verifying presentations.
 
