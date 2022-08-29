@@ -1,9 +1,7 @@
 ## Introduction
-_____________________will be involved in the development of Verifiable Credentials that will be administered through the Trust Over IP (ToIP) system. This credential will articulate the Verification Statement required for reporting GHG Emissions. The GHG Emissions credential is based on reported operations. The structure for the credential will contain all information needed to fulfil this statement. This information would include information such as annual reporting deadlines that exist to guide emitters on when reports should be submitted. The requirements and legislative authority for information included within the report is outlined in Section 33 of the Greenhouse Gas Industrial Reporting and Control Act, Greenhouse Gas Emission Reporting Regulation.  
-
+This document articulates the credential for the Emissions Report Verification Statement required for reporting GHG Emissions in British Columbia as per the Greenhouse Gas Industrial Reporting and Control Act, GREENHOUSE GAS EMISSION REPORTING REGULATION. When large emitters of CO2 reporting annual emissions to BC Cliamte Action Secreteriat, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
+B.C. Regulation 249/2015: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015
 Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
-
-GHG emissions accounting utilize the GHG Protocol as the primary standard. Greenhouse Gas Protocol provides the world's most widely used greenhouse gas accounting standards for companies. _____________ will work in partnership with the Trust Over IP Foundation (TOIP) Ecosystem to issue this governance framework.
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
@@ -14,12 +12,11 @@ This governance document has been developed in accordance with the ToIP’s Gove
 ## Localization
 
 1.	The standard language for this governing framework is American English.
-2.	The governance framework website SHALL include introductory remakes in all the languages of the g20 countries.
  
 ## Governing Authority
 
-_________BC is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
-The contact for petitioners and relying parties of this GF is
+BC Climate Action Secreteriat is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
+The contact for petitioners and relying parties of this GF is_
 * 	Name ___________
 * 	Title ____________
 * 	Organization ___________
@@ -29,7 +26,7 @@ The contact for petitioners and relying parties of this GF is
 
 Scope 1 Greenhouse Gas Emissions from various sources have been unreliably accounted for using various sources. Verifiable Credential standards will be developed as an alternative option for reporting GHG Emissions. 
 
-Verifiable Credentials will be built in accordance with the provisions outlined in Section 33 of the BC GHG Regulation, which outlines the required content of an acceptable Verification Statement. 
+The GHG Emissions credential must be issued by a third-party verification body. The structure for the credential contains all information needed to fulfil this Verification Statement.
 
 These systems and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. The purpose of this governance framework to outline all rules associated with governance, issuance, verification, and revocation of these GHG credentials. The governance document is applicable to all parties who consume Emissions Report data. 
 
@@ -39,36 +36,13 @@ The GF covers the following components:
 
 ## Key Roles
 
-Issuers: An entity that can accurately report on GHG emissions
-
-Verifiers: An entity that can accurately attest to reported GHG emissions
-
-Legal Entity: A legal person or structure that is organized under the laws of any jurisdiction that meets the eligibility criteria for registering for a VC.
-
-The scope of the Ecosystem Governance Framework is to enable stakeholder to issue, hold and verify Emissions Report Credentials using the ToIP framework to ensure that these activities take place in compliance with Ecosystem Governance Frameworks.
+Third-party Verifier: Accredited auditor for GHG Emissions
 
 ## Key Processes
 
-The following processes will participate in this GF as Governed Roles
-
-•	Credential Issuance: Will be made by ___________ upon receiving data from that satisfies the requirements under relevant regulations, 
-
-•	Verification: The process by which __________ will verify the originator of GHG credentials
-
-•	GHG Receipt: Process whereby GHG emissions credentials of subject _________ will be collected by the repository
-Key Trust Decisions
-
-The trust decisions made under this GF is the qualification and determination of GHG Emissions Credentials and the determination of Credential Issuance to ___________________ 
+None - see BC Climate Action Secreteriat and https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
 
 ## Out of Scope
-
-* Any other credential other than a GHG emissions report
-
-* __________ operating in other provinces
-
-* Evaluation of other ESG priorities
-
-* Information and provisions in other BC Acts and Regulations
 
 * Any information not associated or included within a Verification Statement as defined in regulation
 
@@ -78,28 +52,9 @@ The objective of this Governance Framework are to define the rules, requirements
  
 ## Principles
 
-The Principles Underlying this GF follow agreed-upon principles for the _________________
-1. Sustainability
-1. Stewardship
-1. Public good
-1. Transparency
-1. Citizen Engagement
-1. Digital Sovereignty
-1. Security
-1. Confidence
-1. Synchronization
 
 ## General Requirements
 
-The General Requirements section is reserved for policies that apply generally to the Governance Framework as a whole and not just in the context of a particular controlled document.
-
-* All articles concerning GHG emissions must remain private and not sold to third parties. All governing parties shall implement responsible use policies that apply to GHG emission recording.
-
-* Entities must identify themselves using high assurance verifiable credentials.
-
-* All revised and outdated Credentials must be expunged each year from the credential repository by January 1st
-
-* All governed parties shall abide by a Code of Conduct
 
 ## Revisions
 
@@ -109,19 +64,6 @@ A key design principle of the ToIP stack model is to “design for change”. In
 * Comment period during the review process must be held during ___________
 * Late comments shall not be accepted but may be considered in the following year’s version
 
-## Schedule of Controlled Documents
-
-The following documents are included as appendices:
-1.	Glossary
-2.	Risk Assessment
-3.	Trust Assurance and Certification
-4.	Governance Requirements
-5.	Business Requirements
-6.	Information Trust Requirements
-7.	Inclusion, Equity and Accessibility Requirements
-8.	Legal Agreements
-
-## Controlled Documents
 
 ## Glossary
 
