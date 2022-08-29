@@ -1,7 +1,7 @@
 # BC GHG Emissions Report Verification Statement Credential
 
 ## Introduction
-This document articulates the credential for the Emissions Report Verification Statement required for reporting GHG Emissions in British Columbia as per the Greenhouse Gas Industrial Reporting and Control Act, GREENHOUSE GAS EMISSION REPORTING REGULATION. When large emitters of CO2 report annual emissions to BC Cliamte Action Secreteriat, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
+This document articulates the credential for the Emissions Report Verification Statement required for reporting GHG Emissions in British Columbia as per the Greenhouse Gas Industrial Reporting and Control Act, GREENHOUSE GAS EMISSION REPORTING REGULATION. When large emitters of CO2 report annual emissions to BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 B.C. Regulation 249/2015: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015
 Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
 
