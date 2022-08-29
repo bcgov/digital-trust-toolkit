@@ -1,4 +1,4 @@
-# Document Information
+# CANdy Utility Provisional Governance Framework
 ## Authors
 - John Kirby, IBM, [@JohnKirbyIBM](https://github.com/JohnKirbyIBM)
 - Andrei Saikouski, IBM [@andreisaikouski](https://github.com/andreisaikouski)
