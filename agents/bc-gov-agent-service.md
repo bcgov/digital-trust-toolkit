@@ -1,4 +1,4 @@
-# BC Governemnt Agency Service Provisional Governance Framework
+# BC Government Agency Service Provisional Governance Framework
 
 ## Authors
 
