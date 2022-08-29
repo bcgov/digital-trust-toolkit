@@ -52,8 +52,69 @@ The objective of this Governance Framework are to define the rules, requirements
  
 ## Principles
 
+N/A
 
 ## General Requirements
+
+## Schema Definition
+
+
+Verification Body 
+Regulation s.33(2)(a) 	[Verification Body name.  Include full legal company name. Trade name may be referenced in parentheses if applicable.]
+
+Business Address
+Regulation s.33(2)(a) 	[Business Address]
+Accreditation 
+Regulation s.33(2)(h) 	[Name of member of the International Accreditation Forum (IAF) and associated identification number]
+Accreditation Status
+Regulation s.33(2)(h) 	[Affirm accreditation status with the IAF is in good standing.]
+
+Verification Body Team 
+Lead Verifier
+Regulation s.33(2)(b) 	[Lead Verifier’s name, business email and telephone]
+	
+Verification Team Members
+Regulation s.33(2)(c) 	[Verifiers name, business email and telephone]
+
+Independent Peer Reviewer
+Regulation s.33(2)(l) 	[Peer Reviewer’s name, business email and telephone]
+
+1.3	REPORTING OPERATION
+General Information
+Reporting Operation
+Regulation s.33(2)(d)	[Legal name of the Reporting Operation ]
+BCGHG ID
+Regulation s.33(2)(d)	[Number provided by the Director established under the Act. For inquiries contact GHGRegulator@gov.bc.ca]
+
+Operator
+Regulation s.33(2)(d)	[Legal name of Operator and head office mailing address.  If an Operator is an extraprovincial company with a head office outside British Columbia, provide the mailing address for the attorney.]
+
+Operation Representative 
+Regulation s.33(2)(d)	[Name, Title, Business email and telephone for the Operation Representative.]
+
+Person Primarily Responsible for Preparing and Submitting the Emission Report
+Regulation s.33(2)(d)	[Name, Title, Business email, telephone and mailing address of the person primarily responsible for preparing and submitting the Emission Report.]
+
+Name of Facility 
+Regulation s.33(2)(d)	[For Single Facility Operations the name of the Facility.  Include N/A if not applicable.]
+
+Facility type:	[Single Facility Operation, Linear Facilities Operation, or Electricity Import Operation] 
+Facility Address
+Regulation s.33(2)(d)	[For Single Facility Operations, the geographic coordinates and street address of the Facility.  Include N/A if not applicable.]
+
+Individual Facilities within an LFO
+Regulation s. 33(2)(d.1), s.14(4)	[For Linear Facilities Operations, identify each individual facility within the operation that emitted during the reporting period:
+(i) greater than or equal to 10 000 tonnes of carbon dioxide equivalent, not including carbon dioxide produced from biomass listed in Schedule C 
+(ii) greater than 1 000 tonnes of carbon dioxide equivalent, not including carbon dioxide produced from biomass listed in Schedule C and less than 10 000 tonnes of carbon dioxide equivalent, not including carbon dioxide produced from biomass listed in Schedule C
+(iii) less than 1 000 tonnes of carbon dioxide equivalent, not including carbon dioxide produced from biomass listed in Schedule C.
+Confirm that the Linear Facilities Operations’ emission report contains the information required by s.14(4) of the Regulation.
+Indicate whether any part of the facility’s operation is a liquefied natural gas (LNG) operation.]
+National Pollutant Release Inventory Identification Number
+Regulation  s.33(2)(d)	[For Single Facility Operations, the national pollutant release inventory identification number assigned to the operation by Environment Canada.  Include N/A if not applicable.]
+
+Process flow diagram
+Regulation s.33(2)(d), s.30(4)(c)	[Confirm that a process follow diagram for the operation has been submitted with the Emission Report, and that the submitted process flow diagram is accurate and reliable for the purposes of the verification.]
+
 
 
 ## Revisions
