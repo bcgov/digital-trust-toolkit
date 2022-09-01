@@ -7,6 +7,8 @@ Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
+Schema is based on https://catalogue.data.gov.bc.ca/dataset/bc-greenhouse-gas-emissions-individual-facilities-summary/resource/95534f08-fa90-4564-9a66-773164d2af13
+
 ## Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
