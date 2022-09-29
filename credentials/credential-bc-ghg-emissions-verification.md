@@ -71,6 +71,6 @@ Person Primarily Responsible for Preparing and Submitting the Emission Report | 
 ## Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
-BCovrin Test | --- | --- | ---
+BCovrin Test | ADCssx1nPW6FQwNHTFTRNW:2:BC_GHG_Emissions_Report_Verification_Statement:1.0 | --- | ---
 
 
