@@ -57,7 +57,7 @@ facility_type | String | Not NULL | [Single Facility Operation, Linear Facilitie
 facility_address | String | Not NULL | Regulation s.33(2)(d)	[For Single Facility Operations, the geographic coordinates and street address of the Facility.  Include N/A if not applicable.]
 facility_longitude | String | Not NULL | Regulation s.33(2)(d)	[For Single Facility Operations, the geographic coordinates and street address of the Facility.  Include N/A if not applicable.]
 facility_latitude | String | Not NULL | Regulation s.33(2)(d)	[For Single Facility Operations, the geographic coordinates and street address of the Facility.  Include N/A if not applicable.]
-total_emissions | String | Not NULL | Total Emissions Attributable to the Reporting Operation during the Reporting Period. 	[#] tonnes CO2e
+total_emissions | String | Not NULL | Total Emissions Attributable to the Reporting Operation during the Reporting Period. 	[#] tonnes CO2e ISO14064
 total_emissions_not_reporting_only | String | Not NULL | Total Emissions that are not Reporting-Only Emissions Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2e
 total emissions_reporting_only | String | Not NULL | Total Reporting-Only Emissions Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2e
 total_co2_from_nonbiomass| String | Not NULL | Total amount of carbon dioxide from non-Biomass that is Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2
