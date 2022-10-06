@@ -41,7 +41,7 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes
 --- | --- | --- | ---
-verification_body_name | String | Not NULL | Regulation s.33(2)(a)	[Verification Body name.  Include full legal company name. Trade name may be referenced in parentheses if applicable.]
+verification_body_name | String | Not NULL | Regulation s.33(2)(a)	[Verification Body name.  Include full legal company name. Trade name may be referenced in parentheses if applicable.ISO 14065 and ISO 17011]
 verification_body_address | String | Not NULL | Regulation s.33(2)(a) 	[Business Address]
 accreditation | String | Not NULL | Regulation s.33(2)(h) 	[Name of member of the International Accreditation Forum (IAF) and associated identification number]
 accreditation_status | String | Not NULL | Regulation s.33(2)(h) 	[Affirm accreditation status with the IAF is in good standing.]
