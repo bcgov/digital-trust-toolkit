@@ -43,7 +43,7 @@ Attribute | Format | Rules | Notes
 --- | --- | --- | ---
 verification_body_name | String | Not NULL | Regulation s.33(2)(a)	[Verification Body name.  Include full legal company name. Trade name may be referenced in parentheses if applicable. ISO 14065 and ISO 17011]
 verification_body_address | String | Not NULL | Regulation s.33(2)(a) 	[Business Address]
-accreditation | String | Not NULL | Regulation s.33(2)(h) 	[Name of member of the International Accreditation Forum (IAF) and associated identification number. ISO14065:2013 Greenhouse Gases]
+accreditation | String | Not NULL | Regulation s.33(2)(h) 	[Name of member of the International Accreditation Forum (IAF) and associated identification number. ISO14065:2013]
 accreditation_status | String | Not NULL | Regulation s.33(2)(h) 	[Affirm accreditation status with the IAF is in good standing. ISO14065:2013]
 lead_verifier_name | String | Not NULL | Regulation s.33(2)(b) 	[Lead Verifier’s name ISO14064-1:2018]
 lead_verifier_email | String | Not NULL | Regulation s.33(2)(b) 	[Lead Verifier’s business email ISO14064-1:2018]
