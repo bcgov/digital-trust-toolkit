@@ -59,7 +59,7 @@ facility_longitude | String | Not NULL | Regulation s.33(2)(d)	[For Single Facil
 facility_latitude | String | Not NULL | Regulation s.33(2)(d)	[For Single Facility Operations, the geographic coordinates and street address of the Facility.  Include N/A if not applicable. ISO14064-1:2018 ISO14064-3:2019]
 total_emissions | String | Not NULL | Total Emissions Attributable to the Reporting Operation during the Reporting Period. 	[#] tonnes CO2e ISO14064-2:2019
 total_emissions_not_reporting_only | String | Not NULL | Total Emissions that are not Reporting-Only Emissions Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2e. ISO14064-2:2019
-total emissions_reporting_only | String | Not NULL | Total Reporting-Only Emissions Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2e. ISO14064-2:2019
+total_emissions_reporting_only | String | Not NULL | Total Reporting-Only Emissions Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2e. ISO14064-2:2019
 total_co2_from_nonbiomass| String | Not NULL | Total amount of carbon dioxide from non-Biomass that is Attributable to the Reporting Operation during the Reporting Period.	[#] tonnes CO2. ISO14064-2:2019
 total_co2_from_nonbiomass_not_schedule_c | String | Not NULL | Total amount of carbon dioxide from Biomass not listed in Schedule C of the Regulation that is Attributable to the Reporting Operation during the Reporting Period:	[#] tonnes CO2. ISO14064-2:2019
 total_co2_from_nonbiomass_in_schedule_c| String | Not NULL | Total amount of carbon dioxide from Biomass listed in Schedule C of the Regulation Attributable to the Reporting Operation during the Reporting Period:	[#] tonnes CO2. ISO14064-2:2019
