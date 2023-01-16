@@ -1,3 +1,5 @@
+## Title: credential-tsm-protocol.md
+
 ## Introduction:
 
 Towards Sustainable Mining (TSM) is a globally recognized performance system that helps mining companies evaluate and manage their environmental and social responsibilities. TSM is a framework consisting of 8 protocols made up of a set of indicators designed to measure a company’s performance in key environmental and social areas.
