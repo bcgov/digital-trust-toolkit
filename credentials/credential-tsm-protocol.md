@@ -1,4 +1,4 @@
-## Title: credential-tsm-protocol.md
+## TSM Protocol Credential Governance Framework (Primary Document)
 
 ## Introduction:
 
