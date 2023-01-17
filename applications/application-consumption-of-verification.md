@@ -1,5 +1,4 @@
-## Title: application-consumption-of-verification.md
-
+# Consumption of Verification Statement Governance Document
 # Introduction
 
 _____________________will be involved in the development of Verifiable Credentials that will be administered through the Trust Over IP (ToIP) system. Requirements for Emissions Verification statements are outlined in Section 33 of the Greenhouse Gas Emission Reporting Regulation under the Greenhouse Gas Industrial Reporting and Control Act outlining the required "Content of Verifications Statements". Current reporting is made through ______________ submitting a PDF Report outlining an operation's GHG Emissions through the SWIM (Single Window Information Manager). With the creation of an option for submitting a VC, any additional data such as supplementary data that is not included in the developed schema would be manually typed into the SWIM form. 
