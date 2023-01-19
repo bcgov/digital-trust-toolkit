@@ -18,7 +18,7 @@ This governance document has been developed in accordance with the ToIP’s Gove
  
 ## Governing Authority
 
-BC Climate Action Secreteriat is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
+___________ is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
 The contact for petitioners and relying parties of this GF is:
 * 	Name ___________
 * 	Title ____________
@@ -27,7 +27,7 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Purpose
 
-The Verification Statement credential must be issued by a third-party verification body. The structure for the credential contains all information needed to fulfil this Verification Statement. These systems and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. The purpose of this governance framework to outline all rules associated with governance, issuance, verification, and revocation of this Verification Statement credential.  
+ 
 
 ## Scope
 
