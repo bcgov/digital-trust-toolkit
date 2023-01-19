@@ -31,7 +31,7 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Scope
 
-The GF only covers the Verification Statement Credential
+The GF covers the ______________
 
 ## Schema Definition
 
