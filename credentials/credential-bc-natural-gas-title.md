@@ -17,7 +17,7 @@ This governance document has been developed in accordance with the ToIP’s Gove
  
 ## Governing Authority
 
-BC Ministry of Energy, Mines and Low Carbon Innovation (EMLI) is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
+The Government of British Columbia is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
 The contact for petitioners and relying parties of this GF is:
 * 	Name ___________
 * 	Title ____________
@@ -26,7 +26,7 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Purpose
 
-This Natural Gas Tenure Title Credential must be issued by The Executive Director of the Government Branch responsible for tenure issuance, administration and management (Ministry of Energy, Mines and Low Carbon Innovation). The structure for the credential contains all information needed to fulfil the legislative requirement and standards for title issuance. These systems and governance will allow a more trustworthy ecosystem. This will be build under this governance framework. The purpose of this governance framework to outline all rules associated with governance, issueance, verification, and revocation of this Natural Gas Tenure Title credential.  
+This Natural Gas Tenure Title Credential must be issued by The Executive Director of the Government Branch responsible for tenure issuance, administration and management. The structure for the credential contains all information needed to fulfil the legislative requirement and standards for title issuance. These systems and governance will allow a more trustworthy ecosystem. This will be build under this governance framework. The purpose of this governance framework to outline all rules associated with governance, issueance, verification, and revocation of this Natural Gas Tenure Title credential.  
 
 ## Scope
 
