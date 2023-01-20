@@ -232,6 +232,14 @@ The structure of the ToIP stack graphically illustrates that governance is only 
 8) Should ____________
 9) Should ____________
 
+## Schema Definition
+
+This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
+
+Attribute | Format | Rules | Notes
+--- | --- | --- | ---
+example_attribute_name | String | Not NULL | See MAC documentation on website?
+
 ## Information Trust Requirements 
 
 The members of the trust community need to mitigate against a common set of threats that could impact members. ___________ will adopt the following information trust policies, across the five Trust Services Criteria:
