@@ -27,17 +27,34 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Purpose
 
- 
+This Title Credential must be issued by __________________. The structure for the credential contains all information needed to fulfill a Title Information Report. This report and governance will allow a more trustworthy ecosystem. THis will be build under this governance framework. The purpose of this governance framework is to outline all rules associated with governance, issuance, verification, and revocation of a Title Credential.  
 
 ## Scope
 
-The GF covers the ______________
+The GF only covers the Title Credential
 
 ## Schema Definition
 
+This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
+
+Attribute | Format | Rules | Notes	
+--- | --- | --- | --- |
+Title Number | String  | not NULL | ---
+Title Type | String | not NULL | ---
+Status | String | not NULL | ---
+Origin | String | not NULL | ---
+Issue Date | String | not NULL | ---
+Expiry Date | String | not NULL | ---
+Hectares | String | not NULL | ---
+Map Ref | String | not NULL | ---
+Effect Date | String | not NULL | ---
+Term | String | not NULL | ---
+Cancel Date | String | not NULL | ---
+Company Name | String | not NULL | ---
+% Interest | String | not NULL | ---
+
 
 ## Credential Implementation
-Ledger | SCHEMA DEF | CRED DEF | Notes	
---- | --- | --- | ---
-|  | --- | ---
+
+
 
