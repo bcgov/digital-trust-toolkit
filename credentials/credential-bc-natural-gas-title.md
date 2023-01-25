@@ -27,7 +27,7 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Purpose
 
-This Title Credential must be issued by __________________. The structure for the credential contains all information needed to fulfill a Title Information Report. This report and governance will allow a more trustworthy ecosystem. THis will be build under this governance framework. The purpose of this governance framework is to outline all rules associated with governance, issuance, verification, and revocation of a Title Credential.  
+This Title Credential must be issued by __________________. The structure for the credential contains all information included in a British Columbia Land Title Document. This title and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. The purpose of this governance framework is to outline all rules associated with governance, issuance, verification, and revocation of a Title Credential.  
 
 ## Scope
 
@@ -40,18 +40,19 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
 Title Number | String  | not NULL | ---
-Title Type | String | not NULL | ---
-Status | String | not NULL | ---
-Origin | String | not NULL | ---
-Issue Date | String | not NULL | ---
-Expiry Date | String | not NULL | ---
-Hectares | String | not NULL | ---
-Map Ref | String | not NULL | ---
-Effect Date | String | not NULL | ---
+Date of Issue | String | not NULL| ---
+Effective Date | String | not NULL | ---
 Term | String | not NULL | ---
-Cancel Date | String | not NULL | ---
-Company Name | String | not NULL | ---
-% Interest | String | not NULL | ---
+Date of Expiry | String | not Null | ---
+Containing | String | not Null | ---
+Lessee (s) | String | not Null | ---
+Percent Interest | String | not Null | ---
+Tract | String | not Null | ---
+Tract Location | String | not Null | ---
+Tract Rights | String | not Null | ---
+Tract Notes | String | not Null | ---
+Caveats | String | not Null | ---
+
 
 
 ## Credential Implementation
