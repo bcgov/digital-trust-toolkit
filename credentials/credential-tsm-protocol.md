@@ -34,7 +34,7 @@ Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.gi
 
 ## Governing Authority
 
-[The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority and party legally responsible for developing, maintaining, and implementing the Governance Framework for TSM.
+[The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority and responsible for developing, maintaining, and implementing the Governance Framework for TSM.
 
 The governance and decision-making process for the TSM program includes the following groups and committees:
 
