@@ -38,7 +38,7 @@ Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.gi
 
 The governance and decision-making process for the TSM program includes the following groups and committees:
 
-* The **TSM governance Team** is a subcommittee of the MAC Board of Directors. This group is responsible for providing strategic direction on all matters related to TSM and making recommendations to the Board on proposed changes to the program.
+* The **TSM Governance Team** is a subcommittee of the MAC Board of Directors. This group is responsible for providing strategic direction on all matters related to TSM and making recommendations to the Board on proposed changes to the program.
 
 * The **MAC Board of Directors** sets the overall objective and recommends changes. In practice, the MAC Board will only consider a decision if the Community of Interest Advisory Panel (COI Panel) is comfortable with the direction proposed.
 
