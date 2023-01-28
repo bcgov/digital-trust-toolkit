@@ -9,7 +9,7 @@ These areas are listed as three pillars: Communities and People, Environmental S
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
 ## Governance Framework Objectives
-The objective of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to digital wallet so that the Mining Association of Canada (MAC) can assess mining companies’ performance on a provincial level.
+The objective of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on a provincial level.
 
 ## In Scope 
 
@@ -42,7 +42,7 @@ The governance and decision-making process for the TSM program includes the foll
 
 * The **MAC Board of Directors** sets the overall objective and recommends changes. In practice, the MAC Board will only consider a decision if the Community of Interest Advisory Panel (COI Panel) is comfortable with the direction proposed.
 
-* The **Community of Interest Advisory Panel (COI Panel)** is an independent advisory body is comprised of individuals from Indigenous groups, mining communities, 
+* The **Community of Interest Advisory Panel (COI Panel)** is an independent advisory body comprised of individuals from Indigenous groups, mining communities, 
 non-governmental organizations, and organized labour, among others. Industry representatives participate in the panel on an exofficio basis.
 
 *reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
