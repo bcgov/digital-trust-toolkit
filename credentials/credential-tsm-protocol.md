@@ -15,7 +15,7 @@ The objective of this Governance Framework are to define the rules, requirements
 
 * TSM governance
 
-* TSM reporting requirement and process 
+* TSM reporting requirements and process 
 
 * TSM objectives
 
@@ -28,29 +28,21 @@ The objective of this Governance Framework are to define the rules, requirements
 * Evaluation of other priorities
 
 Terminology and Notation
-[Glossary - General Trust Over IP Terms] (https://trustoverip.github.io/toip/glossary)
-Localization
+Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
+
 1.	The standard language for this governing framework is American English.
-2.	The governance framework website SHALL include introductory remakes in all the languages of the g20 countries
-3.	Drafts and productions of translations take place as required
 
 ## Governing Authority
 
-MAC is the governing authority and party legally responsible for developing, maintaining, and implementing the Governance Framework.
+[The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority and party legally responsible for developing, maintaining, and implementing the Governance Framework for TSM.
 
-The ongoing development and evolution of TSM is also supported by the Committee of Interest Advisory Panel (COI) and other MAC committees. The COI consist of three groups responsible for governance:
+The governance and decision-making process for the TSM program includes the following groups and committees:
 
-* The ** TSM governance Team **  is a subcommittee of the MAC Board of Directors. This group is responsible for providing strategic direction on all matters related to TSM and making recommendations to the Board on proposed changes to the program.
+* The **TSM governance Team** is a subcommittee of the MAC Board of Directors. This group is responsible for providing strategic direction on all matters related to TSM and making recommendations to the Board on proposed changes to the program.
 
-* The ** MAC Board of Directors ** sets the overall objective and recommends changes.
+* The **MAC Board of Directors** sets the overall objective and recommends changes. In practice, the MAC Board will only consider a decision if the Community of Interest Advisory Panel (COI Panel) is comfortable with the direction proposed.
 
-* The ** TSM Initiative Leaders ** is an assigned senior employee responsible for coordinating and leading the implementation of TSM within the company and typically has a direct reporting relationship with the company’s Board representative.
-
-The contact for the TSM Governance Team and relying parties of this GF is
-Name___________
-Title____________
-Organization___________
-Email____________
+* The **Community of Interest Advisory Panel (COI Panel)** includes internal and external members that provide a high level of overview and consensus on the direction of the TSM program.
 
 ## Purpose
 
