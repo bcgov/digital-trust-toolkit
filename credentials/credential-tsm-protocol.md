@@ -73,6 +73,8 @@ This GF describes the TSM credential consisting of the following eight protocols
 A detailed description of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
 
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
+![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
+
 The TSM report acts as a reference to mining stakeholders, such as investors and purchasers. 
 
 ## Principles
@@ -139,6 +141,8 @@ Scores are by an assigned “TSM Initiative Leader” and submitted using the TS
 
 Every three years TSM self-assessed scores are validated by an [appointed TSM Verification Service Provider (VSP)](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf). 
 More information about the verification process can be found in the [TSM Verification Guide]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Verification-Guide.pdf)
+
+![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
 ## Revisions
 
@@ -239,8 +243,20 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes
 --- | --- | --- | ---
-example_attribute_name | String | Not NULL | See MAC documentation on website?
-example_attribute_name | String | Not NULL | See MAC documentation on website?
+example_attribute_name | String | Not NULL | See documentation
+corp_crisis_and_communication_rvp| String | Not NULL | yes, no
+corp_crisis_and_communication_level| String | Not NULL | yes, no
+corp_crisis_and_communication_l-comments| String | Not NULL | textbox
+corp_crisis_and_communication_review| String | Not NULL | yes, no
+corp_crisis_and_communication_r-comments| String | Not NULL | textbox
+corp_crisis_and_communication_training| String | Not NULL | yes, no
+corp_crisis_and_communication_t-comments| String | Not NULL | textbox
+corp_crisis_and_communication_cs| String | Not NULL | checkbox
+corp_climate_change_level | String | Not NULL | levels C-AAA
+corp_climate_change_comments | String | Not NULL | textbox
+corp_climate_change_cs | String | Not NULL | checkbox
+
+
 
 ## Information Trust Requirements 
 
