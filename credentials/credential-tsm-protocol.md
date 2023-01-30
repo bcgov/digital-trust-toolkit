@@ -113,7 +113,7 @@ A description of the scoring process for each TSM protocols is available here:
 
 * [Biodiversity Conservation Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/Biodiversity-2020-EN.pdf)
 
-* [Climate Change Protocol]( https://mining.ca/wp content/uploads/dlm_uploads/2021/08/FINAL-Climate-Change-Protocol-ENGLISH.pdf)
+* [Climate Change Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/FINAL-Climate-Change-Protocol-ENGLISH.pdf)
 
 * [Crisis Management Protocol]( https://mining.ca/resources/guides-manuals/crisis-management-and-communications-planning-protocol/)
 
