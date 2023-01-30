@@ -15,7 +15,7 @@ Each of the eight protocols consist of a set of indicators designed to help mini
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
 ## Governance Framework Objectives
-The objective of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on a provincial level.
+The objective of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
 
 ## In Scope 
 
