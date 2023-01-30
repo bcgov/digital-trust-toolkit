@@ -3,7 +3,8 @@
 ## Introduction
 This document articulates the title credential for natural gas tenure in British Columbia as per the Petroleum and Natural Gas Act.
 
-B.C. Regulation: [Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01)
+B.C. Regulation: Petroleum and Natural Gas Act [https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01]
+
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
@@ -39,11 +40,11 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
 Title Number | String  | not NULL | ---
-Lease Number | String  | not NULL | ---
+Title Type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
 Date of Issue | String | not NULL| ---
 Effective Date | String | not NULL | ---
 Term | String | not NULL | ---
-Date of Expiry | String | not Null | Effective Date + Term
+Date of Expiry | String | not Null | Effective date plus term
 Containing | String | not Null | ---
 Lessee (s) | String | not Null | ---
 Percent Interest | String | not Null | ---
