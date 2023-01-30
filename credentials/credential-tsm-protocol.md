@@ -265,7 +265,7 @@ site_saftey_health_p-comments | String | Not NULL | textbox
 site_saftey_health_training | String | Not NULL | levels C - AAA
 site_saftey_health_t-comments | String | Not NULL | textbox
 site_saftey_health_monitoring | String | Not NULL | levels C - AAA
-site_saftey_health_t-comments | String | Not NULL | textbox
+site_saftey_health_m-comments | String | Not NULL | textbox
 site_saftey_health_performance | String | Not NULL | levels C - AAA
 site_saftey_health_per-comments | String | Not NULL | textbox
 site_saftey_health_combinedlevel | String | Not NULL | levels C - AAA, lowest score
