@@ -103,14 +103,14 @@ The General Requirements section is reserved for policies that apply generally t
 * All governed parties shall abide by a Code of Conduct
 Self-Assessed TSM reports must be submitted to MAC by ___ deadline date________
 
-# Key Trust Decisions
+## Key Trust Decisions
 
 The trust decisions made under this GF is the qualification and determination the score of TSM performance indicator and the determination of Credential Issuance to ___________________.
 
-# Implementation Process
+## Implementation Process
 New members and new facilities have three years to prepare for submitting their fist TSM report. A full description of this implementation process can be found in the “TSM Implementation” section on page 17 of the TSM Primer.
 
-# Reporting Process
+## Reporting Process
 
 A description of the scoring process for each TSM protocols is available here:
 
@@ -128,7 +128,8 @@ A description of the scoring process for each TSM protocols is available here:
 
 * [Tailings Management Protocol]( https://mining.ca/resources/guides-manuals/tsm-tailings-management-protocol-2019-version/)
 
-* [Water Stewardship Protocol](https://mining.ca/wp content/uploads/dlm_uploads/2021/08/Water-Stewardship-Protocol_Nov2018.pdf)
+* [Water Stewardship Protocol](https://mining.ca/wpcontent/uploads/dlm_uploads/2021/08/Water-Stewardship-Protocol_Nov2018.pdf)
+
 Scores are by an assigned “TSM Initiative Leader” and submitted using the TSM [online portal](https://mining.ca/towards-sustainable-mining/submit-tsm-data/).
 
 ## Verification Process
@@ -150,7 +151,7 @@ A key design principle of the ToIP stack model is to “design for change”. In
 
 ## Extensions
 
-Changes to the TSM systems must be accepted by MAC Board of Directors. The process of developing a framework includes meetings and discussions with member companies. The TSM Governance Team reviews any recommended changes to TSM protocols before they are presented to the MAC Board of Directors. All changes are approved by the Board before implementation.
+Any changes to the TSM protocols must be accepted by MAC Board of Directors. The process of developing a framework includes meetings and discussions with member companies. The TSM Governance Team reviews any recommended changes to TSM protocols before they are presented to the MAC Board of Directors. All changes are approved by the Board before implementation.
 
 ## Schedule of Controlled Documents
 
@@ -177,15 +178,15 @@ h)	Legal Agreements
 
 ## Glossary
 
-In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholder – businesses, legal, technical and operational – share a collective understanding of the terms used within a GF. 
+In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical and operational – share a collective understanding of the terms used within a GF. 
 
-A GF includes a glossary that includes terms in the following three general categories
+A GF glossary includes terms within the following three general categories:
 
-1)	TOIP Core Terms that describe the common components of the TOIP model
+1)	ToIP Core Terms that describe the common components of the ToIP model
 
-2)	TOIP Governance Terms are specialized terms used to describe TOIP governance concepts
+2)	ToIP Governance Terms are specialized terms used to describe governance concepts
 
-3)	GF Specific Terms are terms needed in the context of this GF. This is included in the CAS Scope 1 GHC Emissions Credential Terms Page. 
+3)	GF Specific Terms are terms needed in the context of this GF. 
 
 ## Risk Assessment 
 
@@ -203,12 +204,13 @@ Review of background checks for_______________
 
 Trust in a GF requires a Governing Authority. This trust is rooted in the foundational governance documents for the governing authority itself. This includes
 
-1. TSM Credentials base don sound data
+1. TSM Credentials 
 2. Policies and Regulations
+3. Issuer and Verifier Governance 
 
 ## Business Requirements
 
-Many business requirements will flow directly from the objectives. Policies in this section will outline business rules common to any business or industry organization. Business rules will apply in the specific context of the GF in order to govern specific actions taken by specific actors performing specific roles and processes within the ____________ and _________ Trust Community. The Business rules for TSM Protocol Credential Issuance are:
+Many business requirements will flow directly from the objectives. Policies in this section will outline business rules common to any business or industry organization. Business rules will apply in the specific context of the GF in order to govern specific actions taken by specific actors performing specific roles and processes within the issuer and verifier trust community. The Business rules for TSM Protocol Credential Issuance are:
 
 1)___________________________
 2)___________________________
