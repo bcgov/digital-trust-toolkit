@@ -3,8 +3,7 @@
 ## Introduction
 This document articulates the title credential for natural gas tenure in British Columbia as per the Petroleum and Natural Gas Act.
 
-B.C. Regulation: Petroleum and Natural Gas Act [https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01]
-
+B.C. Regulation: [Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01)
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
