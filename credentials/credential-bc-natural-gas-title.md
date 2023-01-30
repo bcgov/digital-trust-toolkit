@@ -1,4 +1,4 @@
-# BC Natural Gas Title Credential
+# BC Petroleum and Natural Gas Title Credential
 
 ## Introduction
 This document articulates the title credential for natural gas tenure in British Columbia as per the Petroleum and Natural Gas Act.
