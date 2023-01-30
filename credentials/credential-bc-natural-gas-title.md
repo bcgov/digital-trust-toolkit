@@ -43,7 +43,7 @@ Lease Number | String  | not NULL | ---
 Date of Issue | String | not NULL| ---
 Effective Date | String | not NULL | ---
 Term | String | not NULL | ---
-Date of Expiry | String | not Null | ---
+Date of Expiry | String | not Null | Effective Date + Term
 Containing | String | not Null | ---
 Lessee (s) | String | not Null | ---
 Percent Interest | String | not Null | ---
