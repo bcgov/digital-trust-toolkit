@@ -43,7 +43,7 @@ Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.gi
 * The **Community of Interest Advisory Panel (COI Panel)** is an independent advisory body comprised of individuals from Indigenous groups, mining communities, 
 non-governmental organizations, and organized labour, among others. Industry representatives participate in the panel on an exofficio basis.
 
-*reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
+*Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
 ## Purpose
@@ -75,12 +75,14 @@ TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which 
 
 ## Key Roles
 
-*  **MAC**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
+*  **Governing Authority**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
 
-*  **MAC Members**: New MAC members have three years to start publicly reporting, allowing time to train employees for full implementation. Once trained MAC members must annually self-assess their performance against all indicators under the TSM protocols using the rating system (see Section: “Key Processes”).
+*  **Credential Holders**: MAC members are the credential holders. New MAC members have three years to start publicly reporting, allowing time to train employees for full implementation. Once trained, MAC members must annually self-assess their performance against all indicators under the TSM protocols using the rating system (see Section: “Key Processes”).
 
-*  **Verification Service Provider (VSP)**: The VSP acts as auditors’ validation self assessed TSM scores. Every three years, a VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
-##General Requirements
+*  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
+
+
+## Key Processes
 All members of MAC must adhere to the TSM reporting requirements:
 
 * Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”)
@@ -100,8 +102,6 @@ The General Requirements section is reserved for policies that apply generally t
 
 * All governed parties shall abide by a Code of Conduct
 Self-Assessed TSM reports must be submitted to MAC by ___ deadline date________
-
-## Key Processes
 
 # Key Trust Decisions
 
