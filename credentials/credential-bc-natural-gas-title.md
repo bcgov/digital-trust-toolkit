@@ -40,6 +40,7 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
 Title Number | String  | not NULL | ---
+Lease Number | String  | not NULL | ---
 Date of Issue | String | not NULL| ---
 Effective Date | String | not NULL | ---
 Term | String | not NULL | ---
