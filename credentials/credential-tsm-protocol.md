@@ -100,12 +100,9 @@ The General Requirements section is reserved for policies that apply generally t
 
 * Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
 
-* All governed parties shall abide by a Code of Conduct
-Self-Assessed TSM reports must be submitted to MAC by ___ deadline date________
-
 ## Key Trust Decisions
 
-The trust decisions made under this GF is the qualification and determination the score of TSM performance indicator and the determination of Credential Issuance to ___________________.
+The trust decisions made under this GF include the qualification and determination of TSM performance indicator score and the determination of credential issuance and verification.
 
 ## Implementation Process
 New members and new facilities have three years to prepare for submitting their fist TSM report. A full description of this implementation process can be found in the “TSM Implementation” section on page 17 of the TSM Primer.
