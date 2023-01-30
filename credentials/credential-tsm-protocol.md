@@ -51,21 +51,21 @@ non-governmental organizations, and organized labour, among others. Industry rep
 
 This GF describes the TSM credential consisting of the following eight protocols used as performance indicators:
 
-* [Biodiversity Conservation Management Protocol]( https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
+* [Biodiversity Conservation Management Protocol](https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
 
 * [Climate Change Protocol](https://mining.ca/flippingbooks/climate-change/)
 
-* [Crisis Management Protocol]( https://mining.ca/flippingbooks/crisis-management/)
+* [Crisis Management Protocol](https://mining.ca/flippingbooks/crisis-management/)
 
-* [Indigenous and Community Relationships Protocol]( https://mining.ca/flippingbooks/indigenous-and-community-relationships/)
+* [Indigenous and Community Relationships Protocol](https://mining.ca/flippingbooks/indigenous-and-community-relationships/)
 
-* [Prevention of Child and Forced Labor Protocol]( https://mining.ca/flippingbooks/prevention-of-child-and-forced-labour/)
+* [Prevention of Child and Forced Labor Protocol](https://mining.ca/flippingbooks/prevention-of-child-and-forced-labour/)
 
-* [Safety and Health Protocol]( https://mining.ca/flippingbooks/safety-and-health/)
+* [Safety and Health Protocol](https://mining.ca/flippingbooks/safety-and-health/)
 
-* [Tailings Management Protocol]( https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
+* [Tailings Management Protocol](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
 
-* [Water Stewardship Protocol]( https://mining.ca/flippingbooks/water-stewardship/)
+* [Water Stewardship Protocol](https://mining.ca/flippingbooks/water-stewardship/)
 
 A detailed description of the protocols can be accessed at: mining.ca. A primer on TSM Protocols is available [here](https://mining.ca/resources/guides-manuals/tsm-101-a-primer/). TSM credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. The TSM reports acts as a reference to mining stakeholders, such as investors and purchasers. 
 
@@ -114,7 +114,7 @@ New members and new facilities have three years to prepare for submitting their 
 
 A description of the scoring process for each TSM protocols is available here:
 
-* [Biodiversity Conservation Management Protocol]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/Biodiversity-2020-EN.pdf)
+* [Biodiversity Conservation Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/Biodiversity-2020-EN.pdf)
 
 * [Climate Change Protocol]( https://mining.ca/wp content/uploads/dlm_uploads/2021/08/FINAL-Climate-Change-Protocol-ENGLISH.pdf)
 
@@ -128,12 +128,13 @@ A description of the scoring process for each TSM protocols is available here:
 
 * [Tailings Management Protocol]( https://mining.ca/resources/guides-manuals/tsm-tailings-management-protocol-2019-version/)
 
-* [Water Stewardship Protocol]( https://mining.ca/wp content/uploads/dlm_uploads/2021/08/Water-Stewardship-Protocol_Nov2018.pdf)
+* [Water Stewardship Protocol](https://mining.ca/wp content/uploads/dlm_uploads/2021/08/Water-Stewardship-Protocol_Nov2018.pdf)
 Scores are by an assigned “TSM Initiative Leader” and submitted using the TSM [online portal](https://mining.ca/towards-sustainable-mining/submit-tsm-data/).
 
 ## Verification Process
 
-Every three years TSM self-assessed scores are validated by an [appointed a TSM Verification Service Provide (VSP)](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf). More information about the verification process can be found in the [TSM Verification Guide]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Verification-Guide.pdf)
+Every three years TSM self-assessed scores are validated by an [appointed TSM Verification Service Provider (VSP)](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf). 
+More information about the verification process can be found in the [TSM Verification Guide]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Verification-Guide.pdf)
 
 ## Revisions
 
@@ -174,7 +175,7 @@ h)	Legal Agreements
  
 ## Controlled Documents 
 
-### Glossary
+## Glossary
 
 In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholder – businesses, legal, technical and operational – share a collective understanding of the terms used within a GF. 
 
@@ -186,11 +187,11 @@ A GF includes a glossary that includes terms in the following three general cate
 
 3)	GF Specific Terms are terms needed in the context of this GF. This is included in the CAS Scope 1 GHC Emissions Credential Terms Page. 
 
-### Risk Assessment 
+## Risk Assessment 
 
 MAC will develop strategies to mitigate risk. There are risks associated with establishing and maintaining a healthy trust community: technical risks, business risks, governance risks, regulatory risks, etc.
 
-### Trust Assurance and Certification 
+## Trust Assurance and Certification 
 
 While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor
 
@@ -198,14 +199,14 @@ Availability Controls for ____________
 Policies and controls for _______________
 Review of background checks for_______________
 
-### Governance Requirements
+## Governance Requirements
 
 Trust in a GF requires a Governing Authority. This trust is rooted in the foundational governance documents for the governing authority itself. This includes
 
 1. TSM Credentials base don sound data
 2. Policies and Regulations
 
-### Business Requirements
+## Business Requirements
 
 Many business requirements will flow directly from the objectives. Policies in this section will outline business rules common to any business or industry organization. Business rules will apply in the specific context of the GF in order to govern specific actions taken by specific actors performing specific roles and processes within the ____________ and _________ Trust Community. The Business rules for TSM Protocol Credential Issuance are:
 
@@ -245,7 +246,7 @@ The members of the trust community need to mitigate against a common set of thre
 4) Information confidentiality shall _____________
 5) Information privacy shall _____________
 
-### Inclusion, Equity and Accessibility Requirements
+## Inclusion, Equity and Accessibility Requirements
 
 This final category of requirements is especially important for digital trust communities – important enough that this category of controlled document is REQUIRED in a ToIP – compliant GF. TSM Protocol Credentials in this category
 
@@ -253,7 +254,7 @@ This final category of requirements is especially important for digital trust co
 2) ________________________
 3) ________________________
 
-### Legal Agreements
+## Legal Agreements
 
 Legal agreements will be drafted in accordance with TSM policies and procedures. These agreements will outline contractual commitments between the governing authority and the governed parties playing various roles. TSM requires the following legal agreements
 
