@@ -2,11 +2,13 @@
 
 ## Introduction:
 
-Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada’s (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. Established in 2004, the TSM program provides a set of eight (8) protocols that focus on three core areas: 
+Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: 
 
-1. Communities and People
-2. Environmental Stewardship
-3. Energy Efficiency
+**1. Communities and People**
+
+**2. Environmental Stewardship**
+
+**3. Energy Efficiency**
 
 Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
 
