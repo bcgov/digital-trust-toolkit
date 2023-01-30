@@ -89,7 +89,7 @@ TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which 
 ## Key Processes
 All members of MAC must adhere to the TSM reporting requirements:
 
-* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”)
+* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled *“Optional Reporting and Verification Process”
 
 * Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP is provided [here]( https://github.com/bcgov/bc-vcpedia/wiki/www.mining.ca/towardssustainable-mining)
 
