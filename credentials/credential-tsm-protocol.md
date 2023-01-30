@@ -203,9 +203,9 @@ MAC will develop strategies to mitigate risk. There are risks associated with es
 
 While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor:
 
-Availability Controls for ____________
-Policies and controls for _______________
-Review of background checks for_______________
+1. Availability controls for trusted verifiers
+2. Policies and controls for protocol updates
+3. Review of background checks for __________
 
 ## Governance Requirements
 
@@ -273,7 +273,8 @@ site_saftey_health_cs | String | Not NULL | checkbox
 
 ## Information Trust Requirements 
 
-The members of the trust community need to mitigate against a common set of threats that could impact members. ___________ will adopt the following information trust policies, across the five Trust Services Criteria:
+The members of the trust community need to mitigate against a common set of threats that could impact members. 
+MAC as the governing authority, will adopt the following information trust policies, across the five Trust Services Criteria:
 
 1) Information security shall________________
 2) Information availability shall ____________
