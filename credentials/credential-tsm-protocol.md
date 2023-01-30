@@ -52,7 +52,6 @@ non-governmental organizations, and organized labour, among others. Industry rep
 
 ## Purpose
 
-
 This GF describes the TSM credential consisting of the following eight protocols used as performance indicators:
 
 * [Biodiversity Conservation Management Protocol](https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
@@ -71,7 +70,10 @@ This GF describes the TSM credential consisting of the following eight protocols
 
 * [Water Stewardship Protocol](https://mining.ca/flippingbooks/water-stewardship/)
 
-A detailed description of the protocols can be accessed at: mining.ca. A primer on TSM Protocols is available [here](https://mining.ca/resources/guides-manuals/tsm-101-a-primer/). TSM credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. The TSM reports acts as a reference to mining stakeholders, such as investors and purchasers. 
+A detailed description of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
+
+The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
+The TSM report acts as a reference to mining stakeholders, such as investors and purchasers. 
 
 ## Principles
 
@@ -89,7 +91,7 @@ TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which 
 ## Key Processes
 All members of MAC must adhere to the TSM reporting requirements:
 
-* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled *“Optional Reporting and Verification Process”
+* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
 
 * Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP is provided [here]( https://github.com/bcgov/bc-vcpedia/wiki/www.mining.ca/towardssustainable-mining)
 
@@ -237,6 +239,7 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes
 --- | --- | --- | ---
+example_attribute_name | String | Not NULL | See MAC documentation on website?
 example_attribute_name | String | Not NULL | See MAC documentation on website?
 
 ## Information Trust Requirements 
