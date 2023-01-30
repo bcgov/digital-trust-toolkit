@@ -185,7 +185,7 @@ h)	Legal Agreements
 
 ## Glossary
 
-In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical and operational – share a collective understanding of the terms used within a GF. 
+In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical, and operational – share a collective understanding of the terms used within a GF. 
 
 A GF glossary includes terms within the following three general categories:
 
@@ -201,7 +201,7 @@ MAC will develop strategies to mitigate risk. There are risks associated with es
 
 ## Trust Assurance and Certification 
 
-While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor
+While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor:
 
 Availability Controls for ____________
 Policies and controls for _______________
@@ -237,6 +237,8 @@ The structure of the ToIP stack graphically illustrates that governance is only 
 8) Should ____________
 9) Should ____________
 
+![TSMToIPStack](https://user-images.githubusercontent.com/122049466/215455690-6954f5ac-601e-4673-9109-dc6a44fa3cca.PNG)
+
 ## Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
@@ -252,11 +254,22 @@ corp_crisis_and_communication_r-comments| String | Not NULL | textbox
 corp_crisis_and_communication_training| String | Not NULL | yes, no
 corp_crisis_and_communication_t-comments| String | Not NULL | textbox
 corp_crisis_and_communication_cs| String | Not NULL | checkbox
-corp_climate_change_level | String | Not NULL | levels C-AAA
+corp_climate_change_level | String | Not NULL | levels C - AAA
 corp_climate_change_comments | String | Not NULL | textbox
 corp_climate_change_cs | String | Not NULL | checkbox
-
-
+site_saftey_health_rvp | String | Not NULL | yes, no
+site_saftey_health_commitments | String | Not NULL | levels C - AAA
+site_saftey_health_c-comments | String | Not NULL | textbox
+site_saftey_health_planning | String | Not NULL | levels C - AAA
+site_saftey_health_p-comments | String | Not NULL | textbox
+site_saftey_health_training | String | Not NULL | levels C - AAA
+site_saftey_health_t-comments | String | Not NULL | textbox
+site_saftey_health_monitoring | String | Not NULL | levels C - AAA
+site_saftey_health_t-comments | String | Not NULL | textbox
+site_saftey_health_performance | String | Not NULL | levels C - AAA
+site_saftey_health_per-comments | String | Not NULL | textbox
+site_saftey_health_combinedlevel | String | Not NULL | levels C - AAA, lowest score
+site_saftey_health_cs | String | Not NULL | checkbox
 
 ## Information Trust Requirements 
 
