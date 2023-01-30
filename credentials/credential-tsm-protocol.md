@@ -8,9 +8,7 @@ Towards Sustainable Mining™ (TSM) is a globally recognized program developed b
 2. Environmental Stewardship
 3. Energy Efficiency
 
-Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level.
-
-These areas are listed as three pillars: Communities and People, Environmental Stewardship, and Energy Efficiency. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
+Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
