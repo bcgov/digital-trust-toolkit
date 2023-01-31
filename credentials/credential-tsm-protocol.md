@@ -247,7 +247,7 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes
 --- | --- | --- | ---
-example_attribute_name | String | Not NULL | See documentation
+corp_name | String | Not NULL | name of business entity
 corp_crisis_and_communication_rvp| String | Not NULL | yes, no
 corp_crisis_and_communication_level| String | Not NULL | yes, no
 corp_crisis_and_communication_l-comments| String | Not NULL | textbox
@@ -259,6 +259,7 @@ corp_crisis_and_communication_cs| String | Not NULL | checkbox
 corp_climate_change_level | String | Not NULL | levels C - AAA
 corp_climate_change_comments | String | Not NULL | textbox
 corp_climate_change_cs | String | Not NULL | checkbox
+site_name | String | Not NULL | name of business entity
 site_saftey_health_rvp | String | Not NULL | yes, no
 site_saftey_health_commitments | String | Not NULL | levels C - AAA
 site_saftey_health_c-comments | String | Not NULL | textbox
