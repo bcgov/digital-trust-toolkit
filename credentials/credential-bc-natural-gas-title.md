@@ -39,20 +39,20 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-Title Number | String  | not NULL | ---
-Title Type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
-Date of Issue | String | not NULL| ---
-Effective Date | String | not NULL | ---
-Term | String | not NULL | ---
-Date of Expiry | String | not Null | Effective date plus term
-Containing | String | not Null | ---
-Lessee (s) | String | not Null | ---
-Percent Interest | String | not Null | ---
-Tract | String | not Null | ---
-Tract Location | String | not Null | ---
-Tract Rights | String | not Null | ---
-Tract Notes | String | not Null | ---
-Caveats | String | not Null | ---
+title_number | String  | not NULL | ---
+title_type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
+date_of_issue | String | not NULL| ---
+effective_date | String | not NULL | ---
+term | String | not NULL | ---
+date_of_expiry | String | not Null | Effective date plus term
+containing | String | not Null | ---
+lessee (s) | String | not Null | ---
+percent_interest | String | not Null | ---
+tract | String | not Null | ---
+tract_location | String | not Null | ---
+tract_rights | String | not Null | ---
+tract_notes | String | not Null | ---
+caveats | String | not Null | ---
 
 
 
