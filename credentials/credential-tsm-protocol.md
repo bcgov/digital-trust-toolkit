@@ -259,7 +259,7 @@ corp_crisis_and_communication_cs| String | Not NULL | checkbox
 corp_climate_change_level | String | Not NULL | levels C - AAA
 corp_climate_change_comments | String | Not NULL | textbox
 corp_climate_change_cs | String | Not NULL | checkbox
-site_name | String | Not NULL | name of business entity
+site_name | String | Not NULL | name of facility or site
 site_saftey_health_rvp | String | Not NULL | yes, no
 site_saftey_health_commitments | String | Not NULL | levels C - AAA
 site_saftey_health_c-comments | String | Not NULL | textbox
