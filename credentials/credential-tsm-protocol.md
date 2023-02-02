@@ -247,7 +247,19 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes
 --- | --- | --- | ---
-corp_name | String | Not NULL | name of business entity
+company_name | String | Not NULL | name of business entity
+facility_name | String | Not NULL | name of facility or site
+facility_address | String | Not NULL | address of facility or site
+country_operation | String | Not NULL | country of facility or site
+products_name | String | Not NULL | name of products or metals produced on site
+operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
+infrastructure_type | String | Not NULL | roads, rails, ports, other
+verification_company_name | String | Not NULL | name of verification company
+accredited_tsm_verifier | String | Not NULL | yes, no
+verification_dates | String | Not NULL | date range of verification activities
+verification_period | String | Not NULL | textbox
+verification_method_summary | String | Not NULL | textbox 
+verification_activities_summary | String | Not NULL | textbox
 corp_crisis_and_communication_rvp| String | Not NULL | yes, no
 corp_crisis_and_communication_level| String | Not NULL | yes, no
 corp_crisis_and_communication_l-comments| String | Not NULL | textbox
@@ -259,7 +271,6 @@ corp_crisis_and_communication_cs| String | Not NULL | checkbox
 corp_climate_change_level | String | Not NULL | levels C - AAA
 corp_climate_change_comments | String | Not NULL | textbox
 corp_climate_change_cs | String | Not NULL | checkbox
-site_name | String | Not NULL | name of facility or site
 site_saftey_health_rvp | String | Not NULL | yes, no
 site_saftey_health_commitments | String | Not NULL | levels C - AAA
 site_saftey_health_c-comments | String | Not NULL | textbox
