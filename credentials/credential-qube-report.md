@@ -1,9 +1,8 @@
-# Fugitive Methane Emissions
+# Qube Report
 
 ## Introduction
-This document articulates the title credential for Fugitive Methane Emissions in British Columbia.
+This document articulates the credential for the Qube Report Credential. 
 
-B.C. Regulation:_______________________________
 
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
@@ -27,11 +26,11 @@ The contact for petitioners and relying parties of this GF is:
 
 ## Purpose
 
-Fugitive Methane Emissions Credential must be issued by __________________. The structure for the credential ________________________. This __________ governance will allow a more trustworthy ecosystem. This will be built under this governance framework.   
+Qube Report Credential must be issued by __________________. The structure for the credential ________________________. This __________ governance will allow a more trustworthy ecosystem. This will be built under this governance framework.   
 
 ## Scope
 
-The GF only covers the Fugitive Methane Emissions Credential
+The GF only covers the Qube Report Credential
 
 ## Schema Definition
 
