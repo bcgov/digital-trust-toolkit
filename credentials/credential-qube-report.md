@@ -38,13 +38,13 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-Start Date | String  | not NULL | 
-End Date | String | not NULL | 
-Site Name | String | not NULL |
-Site Alias | String | not NULL |
-Methane Emission Volume (Kg) | String | not NULL | 
-Latitude | String | not NULL | 
-Longitude | String | not NULL | 
+start_date | String  | not NULL | 
+end_date | String | not NULL | 
+site_name | String | not NULL |
+site_alias | String | not NULL |
+methane_emission_volume (Kg) | String | not NULL | 
+latitude | String | not NULL | 
+longitude | String | not NULL | 
 
 
 
