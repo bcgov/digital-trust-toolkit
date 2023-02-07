@@ -225,21 +225,12 @@ Many business requirements will flow directly from the objectives. Policies in t
 2)___________________________
 3)___________________________
 
-## Technical Requirements
+## Technical Requirements (Credential)
 
-The structure of the ToIP stack graphically illustrates that governance is only half of what is required for inter-operability within and between trust communities. The other half is technical interoperability. This is the responsibility of the ToIP technology. The Technical policies for TSM GF are the following:
 
-1) The DID for _______ must be ____________
-2) The DID for ___________ must be _______________
-3) The Verifiable Credential format for ______ and _______ must be _____________
-4) All Verifiable Presentations of _____________ and ___________ must use privacy preserving standards
-5) The User interface for obtaining process and presenting ____________ and ____________ credentials
-6) Must be translated into all human languages
-7) Must go through proof testing
-8) Should ____________
-9) Should ____________
+The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
-![TSMToIPStack](https://user-images.githubusercontent.com/122049466/215455690-6954f5ac-601e-4673-9109-dc6a44fa3cca.PNG)
+
 
 ## Schema Definition
 
