@@ -38,14 +38,16 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-| String  | not NULL | 
-| String | not NULL | 
-| String | not NULL | 
-| String | not NULL | 
-| String | not NULL | 
-| String | not Null | 
-| String | not Null | 
-
+Start Date | String  | not NULL | 
+End Date | String | not NULL | 
+Site Name | String | not NULL |
+Site Alias | String | not NULL |
+Methane Emission Volume (Kg) | String | not NULL | 
+Latitude | String | not NULL | 
+Longitude | String | not NULL | 
+| String | not NULL |
+| String | not NULL |
+| String | not NULL |
 
 
 
