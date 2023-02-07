@@ -45,9 +45,7 @@ Site Alias | String | not NULL |
 Methane Emission Volume (Kg) | String | not NULL | 
 Latitude | String | not NULL | 
 Longitude | String | not NULL | 
---- | String | not NULL |
---- | String | not NULL |
---- | String | not NULL |
+
 
 
 
