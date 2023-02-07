@@ -162,29 +162,6 @@ A key design principle of the ToIP stack model is to “design for change”. In
 
 Any changes to the TSM protocols must be accepted by MAC Board of Directors. The process of developing a framework includes meetings and discussions with member companies. The TSM Governance Team reviews any recommended changes to TSM protocols before they are presented to the MAC Board of Directors. All changes are approved by the Board before implementation.
 
-## Schedule of Controlled Documents
-
-The following documents are included as appendices 
-
-a)	Glossary
-
-b)	Risk Assessment
-
-c)	Trust Assurance and Certification
-
-d)	Governance Requirements
-
-e)	Business Requirements
-
-f)	Information Trust Requirements
-
-g)	Inclusion, Equity and Accessibility Requirements
-
-h)	Legal Agreements
-
- 
-## Controlled Documents 
-
 ## Glossary
 
 In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical, and operational – share a collective understanding of the terms used within a GF. 
