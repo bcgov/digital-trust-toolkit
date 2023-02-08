@@ -48,8 +48,13 @@ equipmentGroups | String | not NULL | Array of objects or null (SiteEquipmentGro
 groupByEquipmentCategory | String | not NULL | When set to true the aggregated volumes are additionally grouped by equipment category.
 samplingMethod | String | not NULL | Optionally specify the sampling method to use when sampling site rates
 samplePeriod | String | not NULL | Optionally sample the site rates to a specified sampling period. (required)
+groupByPeriod | String | not NULL | The period by which to group the aggregated volumes. (required)
 totalVolume | String | not NULL | The total volume that was emitted over the course of the emission in the dashboard configured unit.
 measurementTypes | String | not NULL | The type of measurements that should be returned. (required) 
+deviceFilter | String | not NULL | A definition of what devices to filter by. You can specify either: 1) a site alias|id|name 2) a site alias|id|name with a list of device ids or 3) a list of device installation ids. (required)
+production_data | String | not NULL | under review
+thresholds min | String | not NULL | under review
+thresholds max | String | not NULL | under review
 
 
 
