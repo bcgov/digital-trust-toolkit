@@ -44,8 +44,14 @@ siteIds | String | not NULL | A list of site ids. If no Site Aliases or Site Ids
 siteNames | String | not NULL | A list of site names. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
 skip | String | not NULL | Optionally skip a number of alarms. Used for pagination purposes.
 top | String | not NULL | Optionally return a number of alarms. Used for pagination purposes.
-toTime | String | not NULL | Only alarms that have occurred on or before this date will be returned.
-
+alarmParameters | String | not NULL | The configured alarm parameters that resulted in the alarm being triggered. Configured either at the organization level or at the site level.
+createdAt | String | not NULL | The point in time when the alarm was created in the system.
+endTime | String | not NULL | The point in time when the alarm ended. If null then the alarm is ongoing.
+id | String | not NULL | The id of the alarm.
+maxValue | String | not NULL | The maximum value encountered, above the threshold, in dashboard configured units.
+site | String | not NULL | 	object (SiteIdentityModel)
+startTime | String | not NULL | The point in time when the alarm started.
+triggerValue | String | not NULL | The value above the threshold which initially triggered the alarm, in dashboard configured units.
 
 
 
