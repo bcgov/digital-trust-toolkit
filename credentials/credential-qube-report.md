@@ -52,7 +52,13 @@ maxValue | String | not NULL | The maximum value encountered, above the threshol
 site | String | not NULL | 	object (SiteIdentityModel)
 startTime | String | not NULL | The point in time when the alarm started.
 triggerValue | String | not NULL | The value above the threshold which initially triggered the alarm, in dashboard configured units.
-
+type | String | not NULL | string or null 
+title | String | not NULL | string or null 
+status | String | not NULL | integer or null <int32>
+detail | String | not NULL | string or null 
+instance | String | not NULL | string or null 
+errors | String | not NULL | object or null 
+property_name | String | not NULL | any
 
 
 ## Credential Implementation
