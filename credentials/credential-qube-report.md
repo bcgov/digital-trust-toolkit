@@ -59,7 +59,14 @@ detail | String | not NULL | string or null
 instance | String | not NULL | string or null 
 errors | String | not NULL | object or null 
 property_name | String | not NULL | any
-
+deviceFilter | String | not NULL | A definition of what devices to filter by. You can specify either: 1) a site alias|id|name 2) a site alias|id|name with a list of device ids or 3) a list of device installation ids.
+fromTime | String | not NULL | Only measurements that have occurred on or after this date will be returned.
+measurementTypes | String | not NULL | The type of measurements that should be returned.
+samplePeriod | String | not NULL | Specify the sampling period. Maximum values are computed when sampling.
+skip | String | not NULL | Optionally skip a number of measurements. Used for pagination purposes.
+top | String | not NULL | Optionally return a number of measurements. Used for pagination purposes.
+toTime | String | not NULL | Only measurements that have occurred on or before this date will be returned.
+  
 
 ## Credential Implementation
 
