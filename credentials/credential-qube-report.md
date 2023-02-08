@@ -38,34 +38,13 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-fromTime | String  | not NULL | Only alarms that have occurred on or after this date will be returned.
 siteAliases | String | not NULL | A list of site aliases. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
 siteIds | String | not NULL | A list of site ids. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
 siteNames | String | not NULL | A list of site names. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
-skip | String | not NULL | Optionally skip a number of alarms. Used for pagination purposes.
-top | String | not NULL | Optionally return a number of alarms. Used for pagination purposes.
-alarmParameters | String | not NULL | The configured alarm parameters that resulted in the alarm being triggered. Configured either at the organization level or at the site level.
-createdAt | String | not NULL | The point in time when the alarm was created in the system.
-endTime | String | not NULL | The point in time when the alarm ended. If null then the alarm is ongoing.
-id | String | not NULL | The id of the alarm.
-maxValue | String | not NULL | The maximum value encountered, above the threshold, in dashboard configured units.
-site | String | not NULL | 	object (SiteIdentityModel)
-startTime | String | not NULL | The point in time when the alarm started.
-triggerValue | String | not NULL | The value above the threshold which initially triggered the alarm, in dashboard configured units.
-type | String | not NULL | string or null 
-title | String | not NULL | string or null 
-status | String | not NULL | integer or null <int32>
-detail | String | not NULL | string or null 
-instance | String | not NULL | string or null 
-errors | String | not NULL | object or null 
-property_name | String | not NULL | any
-deviceFilter | String | not NULL | A definition of what devices to filter by. You can specify either: 1) a site alias|id|name 2) a site alias|id|name with a list of device ids or 3) a list of device installation ids.
-fromTime | String | not NULL | Only measurements that have occurred on or after this date will be returned.
-measurementTypes | String | not NULL | The type of measurements that should be returned.
-samplePeriod | String | not NULL | Specify the sampling period. Maximum values are computed when sampling.
-skip | String | not NULL | Optionally skip a number of measurements. Used for pagination purposes.
-top | String | not NULL | Optionally return a number of measurements. Used for pagination purposes.
-toTime | String | not NULL | Only measurements that have occurred on or before this date will be returned.
+fromTime | String | not NULL | Only alarms that have occurred on or after this date will be returned.
+toTime | String | not Null | Only alarms that have occurred on or before this date will be returned.
+
+
   
 
 ## Credential Implementation
