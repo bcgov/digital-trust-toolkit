@@ -38,13 +38,13 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-start_date | String  | not NULL | 
-end_date | String | not NULL | 
-site_name | String | not NULL |
-site_alias | String | not NULL |
-methane_emission_volume (Kg) | String | not NULL | 
-latitude | String | not NULL | 
-longitude | String | not NULL | 
+fromTime | String  | not NULL | Only alarms that have occurred on or after this date will be returned.
+siteAliases | String | not NULL | A list of site aliases. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
+siteIds | String | not NULL | A list of site ids. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
+siteNames | String | not NULL | A list of site names. If no Site Aliases or Site Ids or Site Names are specified then alarms for all sites in the organization will be returned.
+skip | String | not NULL | Optionally skip a number of alarms. Used for pagination purposes.
+top | String | not NULL | Optionally return a number of alarms. Used for pagination purposes.
+toTime | String | not NULL | Only alarms that have occurred on or before this date will be returned.
 
 
 
