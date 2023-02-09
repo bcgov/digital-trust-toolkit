@@ -25,7 +25,7 @@ The Verification Statement credential must be issued by a third-party verificati
 
 ## Scope
 
-The GF only covers the Verification Statement Credential
+This governance framework only covers the credential for the EO100™ certification from Equitable Origin.
 
 ## Schema Definition
 
