@@ -1,4 +1,4 @@
-# BC Petroleum and Natural Gas Title Credential
+# BC Petroleum and Natural Gas Title Credential (Tenure)
 
 ## Introduction
 This document articulates the title credential for natural gas tenure in British Columbia as per the Petroleum and Natural Gas Act.
@@ -39,20 +39,20 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-Title Number | String  | not NULL | Petroleum and Natural Gas Act Section 50 Leases and Their Rights
-Title Type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
-Date of Issue | String | not NULL| Petroleum and Natural Gas Act Section 47 Term and Renewal
-Effective Date | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
-Term | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
-Date of Expiry | String | not Null | Effective date plus term Petroleum and Natural Gas Act section 58 (3) outlines Expiration and Continuation of Leases.
-Containing | String | not Null | Petroleum and Natural Gas Act section 65 outlines Spacing Areas "For the purposes of this act and the Oil and Gas activities Act, British Columbia, except where insufficient area exists adjacent to its boundaries, is divided into normal spacing areas for petroleum and natural gas wells."
-Lessee (s) | String | not Null | Petroleum and Natural Gas Act Section 50 (1) and (2) outlines Leasee (s) and their rights. Section 1 outlines lessee as "a person in whose name a lease is recorded in the divisions records"
-Percent Interest | String | not Null | As defined in Petroleum and Natural Gas Act Section 1 outlining the definition of "interest"
-Tract | String | not Null | ---
-Tract Location | String | not Null | Petroleum and Natural Gas Act Section 1 defines "location means the land described in a permit, licence or lease"
-Tract Rights | String | not Null | Petroleum and Natural Gas Act Section 38 describes "Rights Conferred by Permit". this includes "the holder of a permit has the exclusive right to apply under the Oil and Gas Activities Act to do exploratory drilling for petroleum or natural gas or both owned by the government and within the boundaries of the location of the permit"
-Tract Notes | String | not Null | ---
-Caveats | String | not Null | ---
+title_number | String  | not NULL | Petroleum and Natural Gas Act Section 50 Leases and Their Rights
+title_type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
+date-issue | String | not NULL| Petroleum and Natural Gas Act Section 47 Term and Renewal
+effective_date | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
+term | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
+date_expiry | String | not Null | Effective date plus term Petroleum and Natural Gas Act section 58 (3) outlines Expiration and Continuation of Leases.
+containing | String | not Null | Petroleum and Natural Gas Act section 65 outlines Spacing Areas "For the purposes of this act and the Oil and Gas activities Act, British Columbia, except where insufficient area exists adjacent to its boundaries, is divided into normal spacing areas for petroleum and natural gas wells."
+lessee| String | not Null | Petroleum and Natural Gas Act Section 50 (1) and (2) outlines Leasee (s) and their rights. Section 1 outlines lessee as "a person in whose name a lease is recorded in the divisions records"
+percent_interest | String | not Null | As defined in Petroleum and Natural Gas Act Section 1 outlining the definition of "interest"
+tract_id | String | not Null | number ID
+tract_location | String | not Null | Petroleum and Natural Gas Act Section 1 defines "location means the land described in a permit, licence or lease"
+tract_rights | String | not Null | Petroleum and Natural Gas Act Section 38 describes "Rights Conferred by Permit". this includes "the holder of a permit has the exclusive right to apply under the Oil and Gas Activities Act to do exploratory drilling for petroleum or natural gas or both owned by the government and within the boundaries of the location of the permit"
+tract_notes | String | not Null | textbox
+caveats | String | not Null | textbox
 
 
 
