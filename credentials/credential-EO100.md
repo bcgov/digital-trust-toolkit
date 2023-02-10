@@ -29,7 +29,7 @@ The purpose of this governing framework (GF) is to provide the parameters specif
 
 ### 1.7. Scope
 
-This governance framework only covers the credential for the EO100™ certification from Equitable Origin.
+This governance framework applies to the certification statement credential for the EO100™ certification from Equitable Origin.
 
 ### 1.8. Objectives
 
