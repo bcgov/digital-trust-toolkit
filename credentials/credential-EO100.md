@@ -18,14 +18,14 @@ The standard language for this governing framework (GF) is English.
  
 ### 1.4. Governing Authority
 
-Equitable Origin
+The governing authority is Equitable Origin.
 
 ### 1.5. Administering Authority
 
 The administering authority is the same as the governing authority.
 
 ### 1.6. Purpose
-The purpose of this governing framework (GF) is to provide a clear roadmap to the development and maintenance of the 
+The purpose of this governing framework (GF) is to provide the parameters specific to the creation of the EO100™ Certification Statement Credential.
 
 ### 1.7. Scope
 
@@ -39,37 +39,13 @@ TBD
 
 TBD
 
-### 1.10. General Requirements
-
-TBD
 
 ### 1.11. Revisions
 
 Current version is draft. 
 
-### 1.12. Extensions
-
-TBD
-
-### 1.13. Schedule of Controlled Documents
-
 
 ## 2. Controlled Documents
-
-### 2.1. Glossary
-TBD
-
-### 2.2. Risk Assessment
-TBD
-
-### 2.3. Trust Assurance and Certification
-TBD
-
-### 2.4. Governance Requirements
-TBD
-
-### 2.5. Business Requirements
-TBD
 
 ### 2.6. Technical Requirements
 Technical requirement consists of the following schema definition and credential implementation.
@@ -89,22 +65,12 @@ ucp_location_province | String | Not NULL | name field
 ucp_location_country | String | Not NULL | name field
 certification_date | String | Not NULL | day, month, year
 expiration_date | String | Not NULL | day, month, year
-certification_standard | String | Not NULL | name field, specify standard "EO100™ Standard for Responsible Energy Development" 
+certification_standard | String | Not NULL | name field, specify standard "EO100™ Standard for Responsible Energy Development" and/or "EO100™ Technical Supplement: Onshore Natural Gas and Light Oil Production"
 assessor_name | String | Not NULL | name field, company name of verifier
-
-
 
 ##### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
 BCovrin Test | TBD | --- | ---
-
-### 2.7 Information Trust Requirements
-TBD
-
-### 2.8. Inclusion, Equitability, and Accessibility Requirements
-TBD
-
-### 2.9. Legal Agreements
 
 ## End of Document
