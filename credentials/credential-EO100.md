@@ -3,7 +3,7 @@
 
 ## 1. Primary Document
 ### 1.1. Introduction
-This document articulates the certification statement credential for the EO100™ Standard for Responsible Energy Development and the EO100™ Technical Supplement: Onshore Natural Gas and Light Oil Production from Equitable Origin. 
+This document articulates the certification statement credential for the [EO100™ Standard for Responsible Energy Development](https://energystandards.org/responsible-energy-development/) and the [EO100™ Technical Supplement: Onshore Natural Gas and Light Oil Production](https://energystandards.org/eo100-technical-supplement-onshore-natural-gas-and-light-oil-production/) from Equitable Origin. 
 
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
@@ -25,8 +25,7 @@ Equitable Origin
 The administering authority is the same as the governing authority.
 
 ### 1.6. Purpose
-
-TBD (should be a one sentence or maximum one paragraph statement of the overall purpose ("mission" of the governing framework.)
+The purpose of this governing framework (GF) is to provide a clear roadmap to the development and maintenance of the 
 
 ### 1.7. Scope
 
