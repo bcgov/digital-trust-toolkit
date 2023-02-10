@@ -1,7 +1,10 @@
 ## TSM Protocol Credential Governance Framework (Primary Document)
 
-## Introduction:
+## 1. Primary Document
 
+## 1.1. Introduction
+
+** About TSM
 Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: 
 
 **1. Communities and People**
@@ -14,31 +17,15 @@ Each of the eight protocols consist of a set of indicators designed to help mini
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-## Governance Framework Objectives
-The objective of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
+### 1.2. Terminology and Notation
 
-## In Scope 
-
-* TSM governance
-
-* TSM reporting requirements and process 
-
-* TSM objectives
-
-## Out Of Scope
-
-* Indicators not included in the TSM protocol
-
-* Credentials issued by other authorities
-
-* Evaluation of other priorities
-
-Terminology and Notation
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
 
-1.	The standard language for this governing framework is American English.
+### 1.3. Localization
 
-## Governing Authority
+The standard language for this governing framework (GF) is English.
+
+### 1.4. Governing Authority
 
 [The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority that leads the development, maintenance, and implementation of the Governance Framework (GF) for TSM. The governance and decision-making process for the TSM program includes the following groups and committees:
 
@@ -52,7 +39,33 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
-## Purpose
+### 1.5. Administering Authority
+
+TBD
+
+### 1.6. Purpose
+
+The purpose of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
+
+### 1.7. Scope
+
+#### 1.7.1. In Scope 
+
+* TSM governance
+
+* TSM reporting requirements and process 
+
+* TSM objectives
+
+#### 1.7.2. Out Of Scope
+
+* Indicators not included in the TSM protocol
+
+* Credentials issued by other authorities
+
+* Evaluation of other priorities
+
+### 1.8. Objectives
 
 This GF describes the TSM credential consisting of the following eight protocols used as performance indicators:
 
@@ -79,11 +92,11 @@ The TSM summary credential is a combination of pass/fail scores and letter grade
 
 The TSM report acts as a reference to mining stakeholders, such as investors and purchasers. 
 
-## Principles
+### 1.9. Principles
 
 TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
-## Key Roles
+#### Key Roles
 
 *  **Governing Authority**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
 
@@ -92,7 +105,7 @@ TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which 
 *  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
 
 
-## Key Processes
+#### Key Processes
 All members of MAC must adhere to the TSM reporting requirements:
 
 * Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
@@ -110,14 +123,16 @@ The General Requirements section is reserved for policies that apply generally t
 
 * Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
 
-## Key Trust Decisions
+#### Key Trust Decisions
 
 The trust decisions made under this GF include the qualification and determination of TSM performance indicator score and the determination of credential issuance and verification.
 
-## Implementation Process
+### 1.10. General Requirements
+
+#### Implementation Process
 New members and new facilities have three years to prepare for submitting their fist TSM report. A full description of this implementation process can be found in the “TSM Implementation” section on page 17 of the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf).
 
-## Reporting Process
+#### Reporting Process
 
 A description of the scoring process for each TSM protocols is available here:
 
@@ -139,14 +154,14 @@ A description of the scoring process for each TSM protocols is available here:
 
 Scores are by an assigned “TSM Initiative Leader” and submitted using the TSM [online portal](https://mining.ca/towards-sustainable-mining/submit-tsm-data/).
 
-## Verification Process
+#### Verification Process
 
 Every three years TSM self-assessed scores are validated by an [appointed TSM Verification Service Provider (VSP)](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf). 
 More information about the verification process can be found in the [TSM Verification Guide]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Verification-Guide.pdf)
 
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
-## Revisions
+### 1.11. Revisions
 
 A key design principle of the ToIP stack model is to “design for change”. In most cases, GFs are “living documents” that need to evolve as their trust community evolves. There, the ToIP governance Architecture Specification has strict requirements for document versioning.
 
@@ -158,11 +173,17 @@ A key design principle of the ToIP stack model is to “design for change”. In
 
 * Late comments shall not be accepted but may be considered in the following year’s version
 
-## Extensions
+### 1.12. Extensions
 
 Any changes to the TSM protocols must be accepted by MAC Board of Directors. The process of developing a framework includes meetings and discussions with member companies. The TSM Governance Team reviews any recommended changes to TSM protocols before they are presented to the MAC Board of Directors. All changes are approved by the Board before implementation.
 
-## Glossary
+### 1.13. Schedule of Controlled Documents
+
+TBD
+
+## 2. Controlled Documents
+
+### 2.1. Glossary
 
 In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical, and operational – share a collective understanding of the terms used within a GF. 
 
@@ -174,11 +195,11 @@ A GF glossary includes terms within the following three general categories:
 
 3)	GF Specific Terms are terms needed in the context of this GF. 
 
-## Risk Assessment 
+### 2.2. Risk Assessment 
 
 MAC will develop strategies to mitigate risk. There are risks associated with establishing and maintaining a healthy trust community: technical risks, business risks, governance risks, regulatory risks, etc.
 
-## Trust Assurance and Certification 
+### 2.3. Trust Assurance and Certification 
 
 While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor:
 
@@ -186,7 +207,7 @@ While a detailed risk assessment is warranted for this GF, for the first draft o
 2. Policies and controls for protocol updates
 3. Review of background checks for __________
 
-## Governance Requirements
+### 2.4. Governance Requirements
 
 Trust in a GF requires a Governing Authority. This trust is rooted in the foundational governance documents for the governing authority itself. This includes
 
@@ -194,7 +215,7 @@ Trust in a GF requires a Governing Authority. This trust is rooted in the founda
 2. Policies and Regulations
 3. Issuer and Verifier Governance 
 
-## Business Requirements
+### 2.5. Business Requirements
 
 Many business requirements will flow directly from the objectives. Policies in this section will outline business rules common to any business or industry organization. Business rules will apply in the specific context of the GF in order to govern specific actions taken by specific actors performing specific roles and processes within the issuer and verifier trust community. The Business rules for TSM Protocol Credential Issuance are:
 
@@ -202,14 +223,14 @@ Many business requirements will flow directly from the objectives. Policies in t
 2)___________________________
 3)___________________________
 
-## Technical Requirements (Credential)
+### 2.6. Technical Requirements (Credential)
 
 
 The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
 
 
-## Schema Definition
+#### 2.6.1 Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -253,7 +274,7 @@ site_saftey_health_per-comments | String | Not NULL | textbox
 site_saftey_health_combinedlevel | String | Not NULL | levels C - AAA, lowest score
 site_saftey_health_cs | String | Not NULL | checkbox
 
-## Information Trust Requirements 
+#### 2.6.2. Information Trust Requirements 
 
 The members of the trust community need to mitigate against a common set of threats that could impact members. 
 MAC as the governing authority, will adopt the following information trust policies, across the five Trust Services Criteria:
@@ -264,7 +285,7 @@ MAC as the governing authority, will adopt the following information trust polic
 4) Information confidentiality shall _____________
 5) Information privacy shall _____________
 
-## Inclusion, Equity and Accessibility Requirements
+### 2.7. Inclusion, Equity and Accessibility Requirements
 
 This final category of requirements is especially important for digital trust communities – important enough that this category of controlled document is REQUIRED in a ToIP – compliant GF. TSM Protocol Credentials in this category
 
@@ -272,7 +293,11 @@ This final category of requirements is especially important for digital trust co
 2) ________________________
 3) ________________________
 
-## Legal Agreements
+### 2.8. Inclusion, Equitability, and Accessibility Requirements
+
+TBD
+
+### 2.9. Legal Agreements
 
 Legal agreements will be drafted in accordance with TSM policies and procedures. These agreements will outline contractual commitments between the governing authority and the governed parties playing various roles. TSM requires the following legal agreements
 
@@ -281,4 +306,4 @@ Legal agreements will be drafted in accordance with TSM policies and procedures.
 3)________________________
 
 
-
+## End of Document
