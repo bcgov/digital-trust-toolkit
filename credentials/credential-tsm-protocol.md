@@ -4,14 +4,7 @@
 
 ## 1.1. Introduction
 
-** About TSM
-Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: 
-
-**1. Communities and People**
-
-**2. Environmental Stewardship**
-
-**3. Energy Efficiency**
+Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: Communities and People, Environmental Stewardship and Energy Efficiency.
 
 Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
 
@@ -39,31 +32,16 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
-### 1.5. Administering Authority
-
-TBD
 
 ### 1.6. Purpose
 
-The purpose of this Governance Framework are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
+The purpose of this Governance Framework (GF) are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
 
 ### 1.7. Scope
 
 #### 1.7.1. In Scope 
 
-* TSM governance
-
-* TSM reporting requirements and process 
-
-* TSM objectives
-
-#### 1.7.2. Out Of Scope
-
-* Indicators not included in the TSM protocol
-
-* Credentials issued by other authorities
-
-* Evaluation of other priorities
+This Governance Framework applies to the certification statement credential for the TSM certification from the Mining Association of Canada (MAC).
 
 ### 1.8. Objectives
 
@@ -89,8 +67,6 @@ A detailed description of the protocols can be accessed online through MAC's Web
 
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
-
-The TSM report acts as a reference to mining stakeholders, such as investors and purchasers. 
 
 ### 1.9. Principles
 
@@ -123,36 +99,8 @@ The General Requirements section is reserved for policies that apply generally t
 
 * Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
 
-#### Key Trust Decisions
-
-The trust decisions made under this GF include the qualification and determination of TSM performance indicator score and the determination of credential issuance and verification.
 
 ### 1.10. General Requirements
-
-#### Implementation Process
-New members and new facilities have three years to prepare for submitting their fist TSM report. A full description of this implementation process can be found in the “TSM Implementation” section on page 17 of the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf).
-
-#### Reporting Process
-
-A description of the scoring process for each TSM protocols is available here:
-
-* [Biodiversity Conservation Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/Biodiversity-2020-EN.pdf)
-
-* [Climate Change Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/FINAL-Climate-Change-Protocol-ENGLISH.pdf)
-
-* [Crisis Management Protocol]( https://mining.ca/resources/guides-manuals/crisis-management-and-communications-planning-protocol/)
-
-* [Indigenous and Community Relationships Protocol]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/06/Indigenous-and-Community-2019-EN.pdf)
-
-* [Prevention of Child and Forced Labor Protocol]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/06/Preventing-Child-and-Forced-Labour-Verification-Protocol-EN-JUNE-2019.pdf)
-
-* [Safety and Health Protocol]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/Safety-and-Health-2020-EN.pdf)
-
-* [Tailings Management Protocol]( https://mining.ca/resources/guides-manuals/tsm-tailings-management-protocol-2019-version/)
-
-* [Water Stewardship Protocol](https://mining.ca/wpcontent/uploads/dlm_uploads/2021/08/Water-Stewardship-Protocol_Nov2018.pdf)
-
-Scores are by an assigned “TSM Initiative Leader” and submitted using the TSM [online portal](https://mining.ca/towards-sustainable-mining/submit-tsm-data/).
 
 #### Verification Process
 
@@ -161,74 +109,11 @@ More information about the verification process can be found in the [TSM Verific
 
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
-### 1.11. Revisions
-
-A key design principle of the ToIP stack model is to “design for change”. In most cases, GFs are “living documents” that need to evolve as their trust community evolves. There, the ToIP governance Architecture Specification has strict requirements for document versioning.
-
-* Revisions to the GF must be approved by _________________
-
-* At least one public review period should be held for all versions of the GF
-
-* Comment period during the review process must be held during ___________
-
-* Late comments shall not be accepted but may be considered in the following year’s version
-
-### 1.12. Extensions
-
-Any changes to the TSM protocols must be accepted by MAC Board of Directors. The process of developing a framework includes meetings and discussions with member companies. The TSM Governance Team reviews any recommended changes to TSM protocols before they are presented to the MAC Board of Directors. All changes are approved by the Board before implementation.
-
-### 1.13. Schedule of Controlled Documents
-
-TBD
-
 ## 2. Controlled Documents
-
-### 2.1. Glossary
-
-In the field of Digital Identity, trust and governance, a well-defined glossary is essential. Glossaries ensure that all stakeholders – businesses, legal, technical, and operational – share a collective understanding of the terms used within a GF. 
-
-A GF glossary includes terms within the following three general categories:
-
-1)	ToIP Core Terms that describe the common components of the ToIP model
-
-2)	ToIP Governance Terms are specialized terms used to describe governance concepts
-
-3)	GF Specific Terms are terms needed in the context of this GF. 
-
-### 2.2. Risk Assessment 
-
-MAC will develop strategies to mitigate risk. There are risks associated with establishing and maintaining a healthy trust community: technical risks, business risks, governance risks, regulatory risks, etc.
-
-### 2.3. Trust Assurance and Certification 
-
-While a detailed risk assessment is warranted for this GF, for the first draft of the GF, MAC has identified the following audit criteria to be assessed by an auditor:
-
-1. Availability controls for trusted verifiers
-2. Policies and controls for protocol updates
-3. Review of background checks for __________
-
-### 2.4. Governance Requirements
-
-Trust in a GF requires a Governing Authority. This trust is rooted in the foundational governance documents for the governing authority itself. This includes
-
-1. TSM Credentials 
-2. Policies and Regulations
-3. Issuer and Verifier Governance 
-
-### 2.5. Business Requirements
-
-Many business requirements will flow directly from the objectives. Policies in this section will outline business rules common to any business or industry organization. Business rules will apply in the specific context of the GF in order to govern specific actions taken by specific actors performing specific roles and processes within the issuer and verifier trust community. The Business rules for TSM Protocol Credential Issuance are:
-
-1)___________________________
-2)___________________________
-3)___________________________
 
 ### 2.6. Technical Requirements (Credential)
 
-
 The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
-
-
 
 #### 2.6.1 Schema Definition
 
@@ -251,59 +136,23 @@ verification_method_summary | String | Not NULL | textbox
 verification_activities_summary | String | Not NULL | textbox
 corp_crisis_and_communication_rvp| String | Not NULL | yes, no
 corp_crisis_and_communication_level| String | Not NULL | yes, no
-corp_crisis_and_communication_l-comments| String | Not NULL | textbox
 corp_crisis_and_communication_review| String | Not NULL | yes, no
-corp_crisis_and_communication_r-comments| String | Not NULL | textbox
 corp_crisis_and_communication_training| String | Not NULL | yes, no
-corp_crisis_and_communication_t-comments| String | Not NULL | textbox
 corp_crisis_and_communication_cs| String | Not NULL | checkbox
 corp_climate_change_level | String | Not NULL | levels C - AAA
-corp_climate_change_comments | String | Not NULL | textbox
 corp_climate_change_cs | String | Not NULL | checkbox
 site_saftey_health_rvp | String | Not NULL | yes, no
 site_saftey_health_commitments | String | Not NULL | levels C - AAA
-site_saftey_health_c-comments | String | Not NULL | textbox
 site_saftey_health_planning | String | Not NULL | levels C - AAA
-site_saftey_health_p-comments | String | Not NULL | textbox
 site_saftey_health_training | String | Not NULL | levels C - AAA
-site_saftey_health_t-comments | String | Not NULL | textbox
 site_saftey_health_monitoring | String | Not NULL | levels C - AAA
-site_saftey_health_m-comments | String | Not NULL | textbox
 site_saftey_health_performance | String | Not NULL | levels C - AAA
-site_saftey_health_per-comments | String | Not NULL | textbox
 site_saftey_health_combinedlevel | String | Not NULL | levels C - AAA, lowest score
 site_saftey_health_cs | String | Not NULL | checkbox
 
-#### 2.6.2. Information Trust Requirements 
-
-The members of the trust community need to mitigate against a common set of threats that could impact members. 
-MAC as the governing authority, will adopt the following information trust policies, across the five Trust Services Criteria:
-
-1) Information security shall________________
-2) Information availability shall ____________
-3) Information process integrity shall _____________
-4) Information confidentiality shall _____________
-5) Information privacy shall _____________
-
-### 2.7. Inclusion, Equity and Accessibility Requirements
-
-This final category of requirements is especially important for digital trust communities – important enough that this category of controlled document is REQUIRED in a ToIP – compliant GF. TSM Protocol Credentials in this category
-
-1) ________________________
-2) ________________________
-3) ________________________
-
-### 2.8. Inclusion, Equitability, and Accessibility Requirements
-
-TBD
-
-### 2.9. Legal Agreements
-
-Legal agreements will be drafted in accordance with TSM policies and procedures. These agreements will outline contractual commitments between the governing authority and the governed parties playing various roles. TSM requires the following legal agreements
-
-1)________________________
-2)________________________
-3)________________________
-
+##### 2.6.2. Credential Implementation
+Ledger | SCHEMA DEF | CRED DEF | Notes	
+--- | --- | --- | ---
+BCovrin Test | TBD | --- | ---
 
 ## End of Document
