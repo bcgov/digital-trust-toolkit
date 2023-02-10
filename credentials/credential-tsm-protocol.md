@@ -32,14 +32,11 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
-
 ### 1.6. Purpose
 
 The purpose of this Governance Framework (GF) is to define the parameters of a digital TSM credential.
 
 ### 1.7. Scope
-
-#### 1.7.1. In Scope 
 
 This Governance Framework applies to the certification statement credential for the TSM certification from the Mining Association of Canada (MAC).
 
