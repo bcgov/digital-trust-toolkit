@@ -35,7 +35,7 @@ non-governmental organizations, and organized labour, among others. Industry rep
 
 ### 1.6. Purpose
 
-The purpose of this Governance Framework (GF) are to define the rules, requirements, processes and artifacts that enable TSM credentials to be applied to a digital wallet that can be verified by the Mining Association of Canada (MAC) to assess mining companies’ performance on at a coporate level as well as a facility or site level.
+The purpose of this Governance Framework (GF) is to define the parameters of a digital TSM credential.
 
 ### 1.7. Scope
 
@@ -45,7 +45,7 @@ This Governance Framework applies to the certification statement credential for 
 
 ### 1.8. Objectives
 
-This GF describes the TSM credential consisting of the following eight protocols used as performance indicators:
+This GF describes the TSM credential consisting of the following eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
 * [Biodiversity Conservation Management Protocol](https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
 
@@ -63,7 +63,6 @@ This GF describes the TSM credential consisting of the following eight protocols
 
 * [Water Stewardship Protocol](https://mining.ca/flippingbooks/water-stewardship/)
 
-A detailed description of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
 
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
