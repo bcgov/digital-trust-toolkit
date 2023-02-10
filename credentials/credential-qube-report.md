@@ -1,21 +1,23 @@
 # Qube Monthly Report Primary Governance Document
 
-## Introduction
+## 1. Primary Document
+
+### 1.1. Introduction
 This document articulates the credential for the Qube Report Credential. This report is submitted on a monthly basis. 
 
 
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-## Terminology and Notation
+### 1.2. Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-## Localization
+### 1.3. Localization
 
-1.	The standard language for this governing framework is American English.
+The standard language for this governing framework (GF) is English.
  
-## Governing Authority
+### 1.4. Governing Authority
 
 __________________is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
 The contact for petitioners and relying parties of this GF is:
@@ -24,15 +26,67 @@ The contact for petitioners and relying parties of this GF is:
 * 	Organization ___________
 * 	Email ____________
 
-## Purpose
+### 1.5. Administering Authority
+
+TBD
+
+### 1.6. Purpose
 
 Qube Report Credential must be issued by __________________. The structure for the credential ________________________. This __________ governance will allow a more trustworthy ecosystem. This will be built under this governance framework.   
 
-## Scope
+### 1.7. Scope
 
-The GF only covers the Qube Report Credential
+The GF only covers the Qube Report Credential.
 
-## Schema Definition
+### 1.8. Objectives
+
+TBD
+
+### 1.9. Principles
+
+TBD
+
+### 1.10. General Requirements
+
+TBD
+
+### 1.11. Revisions
+
+TBD
+
+### 1.12. Extensions
+
+TBD
+
+### 1.13. Schedule of Controlled Documents
+
+TBD
+
+## 2. Controlled Documents
+
+### 2.1. Glossary
+
+TBD
+
+### 2.2. Risk Assessment
+
+TBD
+
+### 2.3. Trust Assurance and Certification
+
+TBD
+
+### 2.4. Governance Requirements
+
+TBD
+
+### 2.5. Business Requirements
+
+TBD
+
+### 2.6. Technical Requirements
+
+#### 2.6.1. Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -57,10 +111,23 @@ thresholds_min | String | not NULL | under review
 thresholds_max | String | not NULL | under review
 
 
+#### 2.6.2. Credential Implementation
 
-  
+TBD
 
-## Credential Implementation
+### 2.7. Information Trust Requirements
+
+TBD
+
+### 2.8. Inclusion, Equitability, and Accessibility Requirements
+
+TBD
+
+### 2.9. Legal Agreements
+
+TBD
+
+## End of Document
 
 
 
