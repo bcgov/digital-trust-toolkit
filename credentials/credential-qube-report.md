@@ -32,7 +32,7 @@ TBD
 
 ### 1.6. Purpose
 
-Qube Report Credential must be issued by __________________. The structure for the credential ________________________. This __________ governance will allow a more trustworthy ecosystem. This will be built under this governance framework.   
+The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
 
 ### 1.7. Scope
 
