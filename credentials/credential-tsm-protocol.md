@@ -1,6 +1,6 @@
-## TSM Protocol Credential Governance Framework (Primary Document)
+# TSM Protocol Credential Governance Framework (Primary Document)
 
-## 1. Primary Document
+# 1. Primary Document
 
 ## 1.1. Introduction
 
@@ -10,15 +10,15 @@ Each of the eight protocols consist of a set of indicators designed to help mini
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-### 1.2. Terminology and Notation
+## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
 
-### 1.3. Localization
+## 1.3. Localization
 
 The standard language for this governing framework (GF) is English.
 
-### 1.4. Governing Authority
+## 1.4. Governing Authority
 
 [The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority that leads the development, maintenance, and implementation of the Governance Framework (GF) for TSM. The governance and decision-making process for the TSM program includes the following groups and committees:
 
@@ -32,15 +32,15 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
-### 1.6. Purpose
+## 1.6. Purpose
 
 The purpose of this Governance Framework (GF) is to define the parameters of a digital TSM credential.
 
-### 1.7. Scope
+## 1.7. Scope
 
 This Governance Framework applies to the certification statement credential for the TSM certification from the Mining Association of Canada (MAC).
 
-### 1.8. Objectives
+## 1.8. Objectives
 
 This GF describes the TSM credential consisting of the following eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
@@ -64,11 +64,11 @@ This GF describes the TSM credential consisting of the following eight protocols
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
 
-### 1.9. Principles
+## 1.9. Principles
 
 TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
-#### Key Roles
+### Key Roles
 
 *  **Governing Authority**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
 
@@ -77,7 +77,7 @@ TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which 
 *  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
 
 
-#### Key Processes
+### Key Processes
 All members of MAC must adhere to the TSM reporting requirements:
 
 * Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
@@ -96,22 +96,22 @@ The General Requirements section is reserved for policies that apply generally t
 * Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
 
 
-### 1.10. General Requirements
+## 1.10. General Requirements
 
-#### Verification Process
+### Verification Process
 
 Every three years TSM self-assessed scores are validated by an [appointed TSM Verification Service Provider (VSP)](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf). 
 More information about the verification process can be found in the [TSM Verification Guide]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Verification-Guide.pdf)
 
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
-## 2. Controlled Documents
+# 2. Controlled Documents
 
-### 2.6. Technical Requirements (Credential)
+## 2.6. Technical Requirements (Credential)
 
 The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
-#### 2.6.1 Schema Definition
+### 2.6.1 Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -158,9 +158,9 @@ site_climate_q2_level | String | Not NULL | levels C - AAA, site level managemen
 site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
 
 
-##### 2.6.2. Credential Implementation
+### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
 BCovrin Test | TBD | --- | ---
 
-## End of Document
+# End of Document
