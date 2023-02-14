@@ -32,7 +32,7 @@ TBD
 
 ### 1.6. Purpose
 
-The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
+The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. A Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
 
 ### 1.7. Scope
 
@@ -40,15 +40,20 @@ The GF only covers the Qube Report Credential.
 
 ### 1.8. Objectives
 
-TBD
+This GF describes the Qube Report Credential consisting of data elements captured and included within a Qube Report and as defined by Qube API data elements and standards. A list of these can be found on the Qube Platfrom API (V2.0) https://api.qubeiot.com/index.html. The API allows the retrieval of sites, emissions, measurements and wind data. Qube Technologies seeks to apply meaningful greenhouse gas reduction delivered in three stages (detection, measurement and reduction). This trust framework outlines Qube's issuance of a credential based off of Schemas built from Qube Platform API data referenced above. 
 
 ### 1.9. Principles
 
-TBD
+Qube combines the best of hardware and physics-guided machine learning to provide an affordable, reliable alternative for emissions monitoring. Qube describes their principled technology approach as (1) detection (2) measurement and (3) reduction of methane emissions. 
+
+*Detection* refers Qube’s Axon device that is used to mionitor gas emissions. *Measurement* refers to continuous data collected by Qube devices is analyzed  to generate site level insights including leak location, quantity and classification. *Reduction* refers to Qubes ability to manage, reduce, and report on company wide emissions performance.
+
+Qube's technology and guiding principles are developed to meet ESG (Environmental Social Governance) principles. Environmental, social, and governance (ESG) data helps stakeholders key in on companies with light ecological footprints, sustainable workforce management, and transparent governance. ESG sheds light on business practices that don’t reflect directly on balance sheets but nonetheless may create material advantage, avoid risk, or signal other beneficial outcomes in the longer term. Qube states that the spirit of *data, disclosure, and collaboration* are principles that must guide the foundation of the energy industry.  
+
 
 ### 1.10. General Requirements
 
-TBD
+The API referenced in the Schema Definition section of this document allows the retrieval of sites, emissions, measurements and wind data. The API is a REST based API that returns data in JSON format.
 
 ### 1.11. Revisions
 
