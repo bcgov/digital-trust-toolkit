@@ -157,8 +157,9 @@ corp_crisis_and_communication_training| String | Not NULL | yes, no
 labour_forced_q1| String | Not NULL | yes, no - preventing forced labour
 labour_child_q2| String | Not NULL | yes, no - preventing child labour
 corp_climate_q1 | String | Not NULL | levels C - AAA, coporate level management
-site_climate_q2_level | String | Not NULL | levels C - AAA, site level management
+site_climate_q2 | String | Not NULL | levels C - AAA, site level management
 site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
+climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
 
 
 ##### 2.6.2. Credential Implementation
