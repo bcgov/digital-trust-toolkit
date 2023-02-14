@@ -137,17 +137,20 @@ verification_statement_comments | String | Not NULL | textbox
 verification_statement_lead_name| String | Not NULL | textbox
 verification_statement_date | String | Not NULL | textbox
 verification_statement_signature | String | Not NULL | textbox
+summary_tsm_min | String | Not NULL | levels C - AAA, minimum level awarded for all TSM protocols
 indigenous_q1 | String | Not NULL | levels C - AAA, Community of Interest (COI) Identification
 indigenous_q2 | String | Not NULL | levels C - AAA, Community of Interest (COI) Engagement
 indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagement and dialog
 indigenous_q4 | String | Not NULL | levels C - AAA, community impact and benefit management
 indigenous_q5 | String | Not NULL | levels C - AAA, Community of Interest (COI) response mechanism
+indigenous_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for indigenous protocols
 saftey_health_q1 | String | Not NULL | levels C - AAA, commitments and accountability
 saftey_health_q2 | String | Not NULL | levels C - AAA, planning and implementation
 saftey_health_q3 | String | Not NULL | levels C - AAA, training, behaviour and culture
 saftey_health_q4 | String | Not NULL | levels C - AAA, monitoring and reporting
 saftey_health_q4_pd | String | Not NULL | checkbox, link to public disclosure
 saftey_health_q5 | String | Not NULL | levels C - AAA, performance
+saftey_health_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for safety and health protocols
 corp_crisis_and_communication_preparedness| String | Not NULL | yes, no
 corp_crisis_and_communication_review| String | Not NULL | yes, no
 corp_crisis_and_communication_training| String | Not NULL | yes, no
