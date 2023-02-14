@@ -19,7 +19,7 @@ The standard language for this governing framework (GF) is English.
  
 ### 1.4. Governing Authority
 
-__________________is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
+Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
 The contact for petitioners and relying parties of this GF is:
 * 	Name ___________
 * 	Title ____________
@@ -38,6 +38,13 @@ The purpose of this governance framework is to outline all rules associated with
 
 The GF only covers the Qube Report Credential.
 
+1.7.1 Key Roles
+
+Issuers - Qube will issue a verifiable credential in the form of Qube Report Credential. 
+Verifier - Qube Report Credential will be verified by ______________
+______ Registry - This will hold all verifiable credentials 
+
+
 ### 1.8. Objectives
 
 This GF describes the Qube Report Credential consisting of data elements captured and included within a Qube Report and as defined by Qube API data elements and standards. A list of these can be found on the Qube Platfrom API (V2.0) https://api.qubeiot.com/index.html. The API allows the retrieval of sites, emissions, measurements and wind data. Qube Technologies seeks to apply meaningful greenhouse gas reduction delivered in three stages (detection, measurement and reduction). This trust framework outlines Qube's issuance of a credential based off of Schemas built from Qube Platform API data referenced above. 
@@ -48,7 +55,7 @@ Qube combines the best of hardware and physics-guided machine learning to provid
 
 *Detection* refers Qube’s Axon device that is used to mionitor gas emissions. *Measurement* refers to continuous data collected by Qube devices is analyzed  to generate site level insights including leak location, quantity and classification. *Reduction* refers to Qubes ability to manage, reduce, and report on company wide emissions performance.
 
-Qube's technology and guiding principles are developed to meet ESG (Environmental Social Governance) principles. Environmental, social, and governance (ESG) data helps stakeholders key in on companies with light ecological footprints, sustainable workforce management, and transparent governance. ESG sheds light on business practices that don’t reflect directly on balance sheets but nonetheless may create material advantage, avoid risk, or signal other beneficial outcomes in the longer term. Qube states that the spirit of *data, disclosure, and collaboration* are principles that must guide the foundation of the energy industry.  
+Qube's technology and guiding principles are developed to meet ESG (Environmental Social Governance) principles. ESG data helps stakeholders identitfy companies with light ecological footprints, sustainable workforce management, and transparent governance. ESG sheds light on business practices that don’t reflect directly on balance sheets but nonetheless may create material advantage, avoid risk, or signal other beneficial outcomes in the longer term. To this end, Qube specifically states that the principles and practices of *data, disclosure, and collaboration* are principles that must guide the foundation of the energy industry.  
 
 
 ### 1.10. General Requirements
