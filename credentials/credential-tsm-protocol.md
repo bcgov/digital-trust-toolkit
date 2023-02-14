@@ -130,21 +130,33 @@ verification_dates | String | Not NULL | date range of verification activities
 verification_period | String | Not NULL | textbox
 verification_method_summary | String | Not NULL | textbox 
 verification_activities_summary | String | Not NULL | textbox
-corp_crisis_and_communication_rvp| String | Not NULL | yes, no
-corp_crisis_and_communication_level| String | Not NULL | yes, no
+verification_statement_tor | String | Not NULL | checkbox
+verification_statement_accuracy | String | Not NULL | checkbox
+verification_statement_limitations | String | Not NULL | textbox
+verification_statement_comments | String | Not NULL | textbox
+verification_statement_lead_name| String | Not NULL | textbox
+verification_statement_date | String | Not NULL | textbox
+verification_statement_signature | String | Not NULL | textbox
+indigenous_q1 | String | Not NULL | levels C - AAA, Community of Interest (COI) Identification
+indigenous_q2 | String | Not NULL | levels C - AAA, Community of Interest (COI) Engagement
+indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagement and dialog
+indigenous_q4 | String | Not NULL | levels C - AAA, community impact and benefit management
+indigenous_q5 | String | Not NULL | levels C - AAA, Community of Interest (COI) response mechanism
+saftey_health_q1 | String | Not NULL | levels C - AAA, commitments and accountability
+saftey_health_q2 | String | Not NULL | levels C - AAA, planning and implementation
+saftey_health_q3 | String | Not NULL | levels C - AAA, training, behaviour and culture
+saftey_health_q4 | String | Not NULL | levels C - AAA, monitoring and reporting
+saftey_health_q4_pd | String | Not NULL | checkbox, link to public disclosure
+saftey_health_q5 | String | Not NULL | levels C - AAA, performance
+corp_crisis_and_communication_preparedness| String | Not NULL | yes, no
 corp_crisis_and_communication_review| String | Not NULL | yes, no
 corp_crisis_and_communication_training| String | Not NULL | yes, no
-corp_crisis_and_communication_cs| String | Not NULL | checkbox
-corp_climate_change_level | String | Not NULL | levels C - AAA
-corp_climate_change_cs | String | Not NULL | checkbox
-site_saftey_health_rvp | String | Not NULL | yes, no
-site_saftey_health_commitments | String | Not NULL | levels C - AAA
-site_saftey_health_planning | String | Not NULL | levels C - AAA
-site_saftey_health_training | String | Not NULL | levels C - AAA
-site_saftey_health_monitoring | String | Not NULL | levels C - AAA
-site_saftey_health_performance | String | Not NULL | levels C - AAA
-site_saftey_health_combinedlevel | String | Not NULL | levels C - AAA, lowest score
-site_saftey_health_cs | String | Not NULL | checkbox
+labour_forced_q1| String | Not NULL | yes, no - preventing forced labour
+labour_child_q2| String | Not NULL | yes, no - preventing child labour
+corp_climate_q1 | String | Not NULL | levels C - AAA, coporate level management
+site_climate_q2_level | String | Not NULL | levels C - AAA, site level management
+site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
+
 
 ##### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
