@@ -1,31 +1,64 @@
 # Qube Monthly Report Primary Governance Document
 
-## Introduction
+## 1. Primary Document
+
+### 1.1. Introduction
+
 This document articulates the digital credential for the Qube Data Report submitted on a monthly basis. 
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-## Terminology and Notation
+### 1.2. Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-## Localization
+### 1.3. Localization
 
-1.	The standard language for this governing framework is American English.
+The standard language for this governing framework (GF) is English.
  
-## Governing Authority
+### 1.4. Governing Authority
 
-Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. 
+Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
+The contact for petitioners and relying parties of this GF is:
+* 	Name ___________
+* 	Title ____________
+* 	Organization ___________
+* 	Email ____________
 
-## Purpose
+### 1.5. Administering Authority
 
-The Qube Report Credential, issued directly by Qube, transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. 
+TBD
 
-## Scope
+### 1.6. Purpose
+
+The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. A Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
+
+### 1.7. Scope
+
+The GF only covers the Qube Report Credential.
+
+### 1.8. Objectives
+
+This GF describes the Qube Report Credential consisting of data elements captured and included within a Qube Report and as defined by Qube API data elements and standards. A list of these can be found on the Qube Platfrom API (V2.0) https://api.qubeiot.com/index.html. The API allows the retrieval of sites, emissions, measurements and wind data. Qube Technologies seeks to apply meaningful greenhouse gas reduction delivered in three stages (detection, measurement and reduction). This trust framework outlines Qube's issuance of a credential based off of Schemas built from Qube Platform API data referenced above. 
+
+
+### 1.10. General Requirements
+
+The API referenced in the Schema Definition section of this document allows the retrieval of sites, emissions, measurements and wind data. The API is a REST based API that returns data in JSON format.
+
+### 1.11. Revisions
+
+Current version is draft 1.0
+
+### 1.13. Schedule of Controlled Documents
 
 This Governance Framework (GF) covers the monthly Qube Report Credential. 
 
-## Schema Definition
+## 2. Controlled Documents
+
+### 2.6. Technical Requirements
+
+#### 2.6.1. Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -50,10 +83,11 @@ thresholds_min | String | not NULL | under review, number may need to be provide
 thresholds_max | String | not NULL | under review, number may need to be provided by Xpansive
 
 
+### 2.9. Legal Agreements
 
-  
+TBD
 
-## Credential Implementation
+## End of Document
 
 
 
