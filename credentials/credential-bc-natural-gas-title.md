@@ -52,7 +52,8 @@ tract_number | String | not Null | number ID. Tracts are an administrative devic
 tract_location | String | not Null | Petroleum and Natural Gas Act Section 1 defines "location means the land described in a permit, licence or lease". The preceding statement refers to location of a title, which may consist of several tracts.  A “tract location” is the specific locations Location attributes are from one of two land survey systems in use in BC, and are defined in the PNG Grid Regulation.
 tract_rights | String | not Null | Petroleum and Natural Gas Act Section 38 describes "Rights Conferred by Permit". this includes "the holder of a permit has the exclusive right to apply under the Oil and Gas Activities Act to do exploratory drilling for petroleum or natural gas or both owned by the government and within the boundaries of the location of the permit" Tract rights are defined in terms of zones, defined in Section 1 PNG Act, and the hydrocarbon fluids (petroleum, natural gas, or both) within them.
 tract_notes | String | not Null | Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note.
-caveats | String | not Null | textbox
+caveats | String | not Null | PNG Act s.71(1) Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
+
 
 
 
