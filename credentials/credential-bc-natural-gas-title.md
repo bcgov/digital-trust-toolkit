@@ -39,19 +39,19 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-title_number | String  | not NULL | Petroleum and Natural Gas Act Section 50 Leases and Their Rights
-title_type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease
-date-issue | String | not NULL| Petroleum and Natural Gas Act Section 47 Term and Renewal
-effective_date | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
-term | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal
-date_expiry | String | not Null | Effective date plus term Petroleum and Natural Gas Act section 58 (3) outlines Expiration and Continuation of Leases.
-containing | String | not Null | Petroleum and Natural Gas Act section 65 outlines Spacing Areas "For the purposes of this act and the Oil and Gas activities Act, British Columbia, except where insufficient area exists adjacent to its boundaries, is divided into normal spacing areas for petroleum and natural gas wells."
-lessee| String | not Null | Petroleum and Natural Gas Act Section 50 (1) and (2) outlines Leasee (s) and their rights. Section 1 outlines lessee as "a person in whose name a lease is recorded in the divisions records"
+title_number | String  | not NULL | Method used to uniquely identify a title, e.g., the title number, is administrative policy, rather than legislated.
+title_type | String | not NULL | Lease, Permit, Drilling Licence, Underground Storage Lease. “Underground Storage Lease” is now “Storage Reservoir Licence”Permits: PNG Act Part 5 Leases: PNG Act Part 6 Drilling Licence: PNG Act Part 5.1 Storage Reservoir Licence: PNG Act s.130
+date-issue | String | not NULL| Petroleum and Natural Gas Act Section 47 Term and Renewal. Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
+effective_date | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal. Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
+term | String | not NULL | Petroleum and Natural Gas Act Section 47 Term and Renewal. Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
+date_expiry | String | not Null | Effective date plus term Petroleum and Natural Gas Act section 58 (3) outlines Expiration and Continuation of Leases.Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.13
+containing | String | not Null | Petroleum and Natural Gas Act section 65 outlines Spacing Areas "For the purposes of this act and the Oil and Gas activities Act, British Columbia, except where insufficient area exists adjacent to its boundaries, is divided into normal spacing areas for petroleum and natural gas wells." With the partial exception of a drilling licence, the maximum size of a title in hectares is not defined in legislation.  Drilling licences wholly or partly within the Peace River Block are limited to 144 units (petroleum grid) or 36 sections (Dominion Land Survey).
+lessee| String | not Null | Petroleum and Natural Gas Act Section 50 (1) and (2) outlines Leasee (s) and their rights. Section 1 outlines lessee as "a person in whose name a lease is recorded in the divisions records". he same section also states that “holder of a location means, in accordance with the context, a permittee, licensee, or lessee.”
 percent_interest | String | not Null | As defined in Petroleum and Natural Gas Act Section 1 outlining the definition of "interest"
-tract_id | String | not Null | number ID
-tract_location | String | not Null | Petroleum and Natural Gas Act Section 1 defines "location means the land described in a permit, licence or lease"
-tract_rights | String | not Null | Petroleum and Natural Gas Act Section 38 describes "Rights Conferred by Permit". this includes "the holder of a permit has the exclusive right to apply under the Oil and Gas Activities Act to do exploratory drilling for petroleum or natural gas or both owned by the government and within the boundaries of the location of the permit"
-tract_notes | String | not Null | textbox
+tract_number | String | not Null | number ID. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.
+tract_location | String | not Null | Petroleum and Natural Gas Act Section 1 defines "location means the land described in a permit, licence or lease". The preceding statement refers to location of a title, which may consist of several tracts.  A “tract location” is the specific locations Location attributes are from one of two land survey systems in use in BC, and are defined in the PNG Grid Regulation.
+tract_rights | String | not Null | Petroleum and Natural Gas Act Section 38 describes "Rights Conferred by Permit". this includes "the holder of a permit has the exclusive right to apply under the Oil and Gas Activities Act to do exploratory drilling for petroleum or natural gas or both owned by the government and within the boundaries of the location of the permit" Tract rights are defined in terms of zones, defined in Section 1 PNG Act, and the hydrocarbon fluids (petroleum, natural gas, or both) within them.
+tract_notes | String | not Null | Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note.
 caveats | String | not Null | textbox
 
 
