@@ -206,28 +206,29 @@ can be found at ________________
 Part 1: Assignment can be found here: ___________________
 
 ## 2.5. Business Requirements
+
 *These are the requirements governing the business model(s) and business rules to be followed by the trust
-community. Controlled documents in this category:
+community. Controlled documents in this category:*
 *1. SHOULD clearly explain any exchange(s) of value between trust community members governed by the
 GF.*
-*2. SHOULD define the policies and/or rules governing how and when these exchanges of value take place.
-*3. SHOULD define the requirements for the use of any decision support systems.
+*2. SHOULD define the policies and/or rules governing how and when these exchanges of value take place.*
+*3. SHOULD define the requirements for the use of any decision support systems.*
 *4. SHOULD define how all trust community members will be held accountable for their actions in these
-exchanges.
+exchanges.*
 *5. SHOULD define how the governing authority, administering authority, and the GF are sustainable under
-these requirements.
+these requirements.*
 
 ## 2.6. Technical Requirements
 
-*MUST have an Aries compatable business wallet.
+*MUST have an Aries compatable business wallet.*
 
-*These are the requirements governing technical interoperability. Controlled documents in this category:
+*These are the requirements governing technical interoperability. Controlled documents in this category:*
 *1. MUST specify how trust community members will interoperate technically using the ToIP technology
-stack by reference to any relevant ToIP specifications and recommendations.
+stack by reference to any relevant ToIP specifications and recommendations.*
 *2. SHOULD include any additional specifications and/or specification profiles that are specific to the
-technical interoperability within this trust community.
-*3. SHOULD include references one or more glossaries (see Glossary section) as needed.
-*4. SHOULD reference any test suites or other testing requirements.
+technical interoperability within this trust community.*
+*3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
+*4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
 ** Information privacy **
