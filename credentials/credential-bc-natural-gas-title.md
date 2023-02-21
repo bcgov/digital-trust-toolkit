@@ -34,7 +34,7 @@ This Petroleum and Natural Gas Title Credential is issued by the Tenure and Reso
 
 ## 1.7. Scope
 
-This governance framework (GF) covers the BC Petroleum and Natural Gas Title Credential.
+This governance framework (GF) covers the BC Petroleum and Natural Gas Title Credential. Each section of the PNG outlines the authority and legislative process for each. 
 
 ## 1.8. Objectives
 TBD
@@ -79,8 +79,8 @@ This schema definition follows the AnonCreds specification (https://anoncreds-wg
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
-title_number | String  | not NULL | Method used to uniquely identify a title. The title number is administrative policy, rather than legislated.
-title_type | String | not NULL | This specifies the type of title. Title types can include the following: Lease, Permit, Drilling Licence, Storage Reservoir Licence. Relevant provisions are found in various sections of the PNG (Petroleum Natural Gas Act) and are listed as the following. This include the following; Permits: PNG Act Part 5 Leases: PNG Act Part 6 Drilling Licence: PNG Act Part 5.1 Storage Reservoir Licence: PNG Act s.130. Each section of the PNG outlines the authority and legislative process for each. 
+title_number | String  | not NULL | Method used to uniquely identify a title. The title number is assigned based on administrative policy by the Tenure and Resource Stewardship Branch.
+title_type | String | not NULL | This field specifies the type of title based on the Petroleum Natural Gas Act (PNG). Title types can include the following: 1. Lease (PNG Act Part 6); 2. Permit (PNG Act Part 5); 3. Drilling Licence (PNG Act Part 5.1), and 4. Storage Reservoir Licence (PNG Act s.130). 
 date_issue | String | not NULL| This describes the date at which the title was issued. This is outlined in the Petroleum and Natural Gas Act Section 47 Term and Renewal. Relevant provisions are found in various sections of the PNG (Petroleum Natural Gas Act) and are listed as the following. Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
 effective_date | String | not NULL | This describes the data at which the title will be effective. This process is outlined in the Petroleum and Natural Gas Act Section 47 Term and Renewal. Relevant provisions are found in various sections of the PNG (Petroleum Natural Gas Act) and are listed as the following: Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
 term | String | not NULL | This describes the length of time (term) granted for each title. Relevant provisions are found in various sections of the PNG (Petroleum Natural Gas Act) and are listed as the following. Terms for each Petroleum and Natural Gas Act are included in Section 47 Term and Renewal. Permits: PNG Act s.47 Leases: PNG Drilling Licence and Lease Regulation, s.5.1 Drilling Licences: PNG Drilling Licence and Lease Regulation, s.3(3) Storage Reservoir Licence: PNG Act s.130
