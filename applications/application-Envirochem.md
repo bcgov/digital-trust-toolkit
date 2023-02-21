@@ -206,7 +206,7 @@ can be found at ________________
 Part 1: Assignment can be found here: ___________________
 
 ## 2.5. Business Requirements
-These are the requirements governing the business model(s) and business rules to be followed by the trust
+* * These are the requirements governing the business model(s) and business rules to be followed by the trust
 community. Controlled documents in this category:
 1. SHOULD clearly explain any exchange(s) of value between trust community members governed by the
 GF.
