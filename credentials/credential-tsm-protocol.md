@@ -105,7 +105,31 @@ More information about the verification process can be found in the [TSM Verific
 
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
+## 1.11. Revisions
+TBD
+
+## 1.12. Extensions
+There is no extensions to this Governance Framework.
+
+## 1.13. Schedule of Controlled Documents
+TBD
+
 # 2. Controlled Documents
+
+## 2.1. Glossary
+TBD
+
+## 2.2. Risk Assessment
+TBD
+
+## 2.3. Trust Assurance and Certification
+TBD
+
+## 2.4. Governance Requirements
+TBD
+
+## 2.5. Business Requirements
+TBD
 
 ## 2.6. Technical Requirements (Credential)
 
@@ -166,5 +190,14 @@ climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded 
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
 BCovrin Test | TBD | --- | ---
+
+## 2.7. Information Trust Requirements
+TBD
+
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
+TBD
+
+## 2.9. Legal Agreements
+TBD
 
 # End of Document
