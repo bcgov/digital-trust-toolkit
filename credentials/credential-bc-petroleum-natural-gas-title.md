@@ -30,7 +30,7 @@ Energy, Mines and Digital Trust (EMDT) is the Administering Authority on behalf 
 
 ## 1.6. Purpose
 
-This Petroleum and Natural Gas Title Credential is issued by the Tenure and Resource Stewardship Branch and includes information contained within the British Columbia Land Title Document. The purpose of this governance framework is to outline the process associated with governance, issuance, verification, and revocation of a BC Petroleum and Natural Gas Title Credential.  
+This Petroleum and Natural Gas Title Credential is issued by the Tenure and Resource Stewardship Branch and includes information contained within the British Columbia Petroleum and Natural Gas Title Document. The purpose of this governance framework is to outline the process associated with governance, issuance, verification, and revocation of a BC Petroleum and Natural Gas Title Credential.  
 
 ## 1.7. Scope
 
