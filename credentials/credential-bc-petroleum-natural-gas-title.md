@@ -1,10 +1,10 @@
-# BC Petroleum and Natural Gas Title Credential (Tenure) - Governance Framework
+# BC Petroleum and Natural Gas Title Credential (Tenure)
 
 # 1. Primary Document
 
 ## 1.1. Introduction
 
-This document articulates the title credential for natural gas tenure in British Columbia as per [the Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01).
+This document articulates Petroleum and Natural Gas Title Credential for natural gas tenure in British Columbia as per [the Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01).
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -81,17 +81,17 @@ Attribute | Format | Rules | Notes
 --- | --- | --- | --- |
 title_number | String  | not NULL | Number used to uniquely identify a title. The title number is assigned based on administrative policy by the Tenure and Resource Stewardship Branch.
 title_type | String | not NULL | This field specifies the type of title based on the [Petroleum Natural Gas Act (PNG)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). Title types can include the following: **1. Lease** ([Part 6](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part6)); **2. Permit** ([Part 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5)); **3. Drilling Licence** ([Part 5.1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5.1)), and **4. Storage Reservoir Licence** ([Part 14.130](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130)). 
-issue_date | String | not NULL| The date when a title is issued, format is YYYY/MM/DD. 
-effective_date | String | not NULL | The date when the title becomes effective, format YYYY/MM/DD. This date usually follows after an issuance date and signals the start of a title period.
-term | String | not NULL | This describes the length of time (term) granted for each title, expressed in days, months, and years following this format: D/M/Y.
-expiry_date | String | not Null | Expiry date is defined as effective date plus term, expressed as YYYY/MM/DD. This date signals the end of the title period.
-containing | String | not Null | This section refers to what is contained within a specific title. Note, there are limitations that apply in specific circumstances as outlined in the PNG. 
-lessee| String | not Null | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a Lessee is "a person in whose name a lease is recorded in the divisions records". _Format is first name, middle name, last name._ 
-percent_interest | String | not Null | This defines the percentage of interest alloted to each party named in the Lease document. 
-tract_number | String | not Null | A unique identifying number for each tract issued by ______. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.
-tract_location | String | not Null | This outlines the percise location for a tract listed on a Lease document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_
-tract_rights | String | not Null | This outlines the rights associated with each individual tract listed on a lease document. 
-tract_notes | String | not Null | Outlines specific notes or points associated with each tract. Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note. _Specify format used_
+issue_date | String | not NULL| The date when a title is issued, format is YYYY (Years). Under section 64 the portion that is being split out is surrendered based on this section. 
+effective_date | String | not NULL | The date when the title becomes effective, format YYYY (Years). This date usually follows after an issuance date and signals the start of a title period.
+term | String | not NULL | This describes the length of time (term) granted for each title, expressed in years (5).
+expiry_date | String | not Null | Expiry date is defined as effective date plus term, expressed as YYYY (Years). This date signals the end of the title period.
+area | String | not Null | Size included in planned use Measured by hectares. 
+title holder| String | not Null | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG Title Document is recorded in the divisions records". Holder is also defined as ""holder of a location" means, in accordance with the context, a permittee, licensee or lessee" _Format is first name, middle name, last name._ Title holder will hold a percentage (%) interest in the title. 
+percent_interest | String | not Null | This defines the percentage (%) of interest alloted to each party named in the PNG Title Document document. Percentage of ownership should always equal %100 total. 
+tract_number (s) | String | not Null | A unique identifying number for each tract issued by ______. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.
+tract_location (s) | String | not Null | This outlines the percise location for a tract listed on a PNG Title Document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_
+tract_rights | String | not Null | This outlines the rights associated with each individual tract listed on a PNG Title Document document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. The Stratigraphic Codes outline (1) Strate Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. Standard Zone Designations outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates. 
+tract_notes | String | not Null | Outlines specific notes or points associated with each tract. Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 caveats | String | not Null | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
 
