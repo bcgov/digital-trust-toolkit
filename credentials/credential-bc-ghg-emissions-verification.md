@@ -1,6 +1,8 @@
 # DRAFT - BC GHG Emissions Report Verification Statement Credential
 
-## Introduction
+# 1. Primary Document
+
+## 1.1. Introduction
 This document articulates the credential for the Emissions Report Verification Statement required for reporting GHG Emissions in British Columbia as per the Greenhouse Gas Industrial Reporting and Control Act, GREENHOUSE GAS EMISSION REPORTING REGULATION. When large emitters of CO2 report annual emissions to BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 
 B.C. Regulation 249/2015: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015
@@ -10,15 +12,15 @@ Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-## Terminology and Notation
+## 1.2. Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-## Localization
+## 1.3. Localization
 
-1.	The standard language for this governing framework is American English.
+The standard language for this governing framework is American English.
  
-## Governing Authority
+## 1.4. Governing Authority
 
 BC Climate Action Secreteriat is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
 The contact for petitioners and relying parties of this GF is:
@@ -27,15 +29,55 @@ The contact for petitioners and relying parties of this GF is:
 * 	Organization ___________
 * 	Email ____________
 
-## Purpose
+## 1.5. Administering Authority
+Energy, Mines and Digital Trust (EMDT) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch during the pilot phase of development.
+
+## 1.6. Purpose
 
 The Verification Statement credential must be issued by a third-party verification body. The structure for the credential contains all information needed to fulfil this Verification Statement. These systems and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. The purpose of this governance framework to outline all rules associated with governance, issuance, verification, and revocation of this Verification Statement credential.  
 
-## Scope
+## 1.7. Scope
 
 The GF only covers the Verification Statement Credential
 
-## Schema Definition
+## 1.8. Objectives
+TBD
+
+## 1.9. Principles
+TBD
+
+## 1.10. General Requirements
+TBD
+
+## 1.11. Revisions
+TBD
+
+## 1.12. Extensions
+There is no extension to this Governance Framework.
+
+## 1.13. Schedule of Controlled Documents
+TBD
+
+# 2. Controlled Documents
+
+## 2.1. Glossary
+TBD
+
+## 2.2. Risk Assessment
+TBD
+
+## 2.3. Trust Assurance and Certification
+TBD
+
+## 2.4. Governance Requirements
+TBD
+
+## 2.5. Business Requirements
+TBD
+
+## 2.6. Technical Requirements
+
+### 2.6.1 Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -71,11 +113,22 @@ Operation Representative | String | Not NULL | Regulation s.33(2)(d)	[Name, Titl
 Person Primarily Responsible for Preparing and Submitting the Emission Report | String | Not NULL | Regulation s.33(2)(d)	[Name, Title, Business email, telephone and mailing address of the person primarily responsible for preparing and submitting the Emission Report.]
 --->
 
-## Credential Implementation
+### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
 BCovrin Test | ADCssx1nPW6FQwNHTFTRNW:2:BC_GHG_Emissions_Report_Verification_Statement:1.0 | --- | ---
 
 Bree edits
+
+## 2.7. Information Trust Requirements
+TBD
+
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
+TBD
+
+## 2.9. Legal Agreements
+TBD
+
+# End of Document
 
 
