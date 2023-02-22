@@ -1,4 +1,4 @@
-# Governance Framework - BC Petroleum and Natural Gas Title Credential (Tenure)
+# BC Petroleum and Natural Gas Title Credential (Tenure) - Governance Framework
 
 # 1. Primary Document
 
