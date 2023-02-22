@@ -1,22 +1,22 @@
 # Qube Monthly Report Primary Governance Document
 
-## 1. Primary Document
+# 1. Primary Document
 
-### 1.1. Introduction
+## 1.1. Introduction
 
 This document articulates the digital credential for the Qube Data Report submitted on a monthly basis. 
 
 This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
 
-### 1.2. Terminology and Notation
+## 1.2. Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-### 1.3. Localization
+## 1.3. Localization
 
 The standard language for this governing framework (GF) is English.
  
-### 1.4. Governing Authority
+## 1.4. Governing Authority
 
 Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
 The contact for petitioners and relying parties of this GF is:
@@ -25,40 +25,60 @@ The contact for petitioners and relying parties of this GF is:
 * 	Organization ___________
 * 	Email ____________
 
-### 1.5. Administering Authority
+## 1.5. Administering Authority
 
 TBD
 
-### 1.6. Purpose
+## 1.6. Purpose
 
 The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. A Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
 
-### 1.7. Scope
+## 1.7. Scope
 
 The GF only covers the Qube Report Credential.
 
-### 1.8. Objectives
+## 1.8. Objectives
 
 This GF describes the Qube Report Credential consisting of data elements captured and included within a Qube Report and as defined by Qube API data elements and standards. A list of these can be found on the Qube Platfrom API (V2.0) https://api.qubeiot.com/index.html. The API allows the retrieval of sites, emissions, measurements and wind data. Qube Technologies seeks to apply meaningful greenhouse gas reduction delivered in three stages (detection, measurement and reduction). This trust framework outlines Qube's issuance of a credential based off of Schemas built from Qube Platform API data referenced above. 
 
+## 1.9. Principles
+TBD
 
-### 1.10. General Requirements
+## 1.10. General Requirements
 
 The API referenced in the Schema Definition section of this document allows the retrieval of sites, emissions, measurements and wind data. The API is a REST based API that returns data in JSON format.
 
-### 1.11. Revisions
+## 1.11. Revisions
 
 Current version is draft 1.0
 
-### 1.13. Schedule of Controlled Documents
+## 1.12. Extensions
+There is no extension to this Governance Framework.
+
+## 1.13. Schedule of Controlled Documents
 
 This Governance Framework (GF) covers the monthly Qube Report Credential. 
 
-## 2. Controlled Documents
+# 2. Controlled Documents
 
-### 2.6. Technical Requirements
+## 2.1. Glossary
+TBD
 
-#### 2.6.1. Schema Definition
+## 2.2. Risk Assessment
+TBD
+
+## 2.3. Trust Assurance and Certification
+TBD
+
+## 2.4. Governance Requirements
+TBD
+
+## 2.5. Business Requirements
+TBD
+
+## 2.6. Technical Requirements
+
+### 2.6.1. Schema Definition
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
@@ -82,11 +102,13 @@ production_data | String | not NULL | under review, number may need to be provid
 thresholds_min | String | not NULL | under review, number may need to be provided by Xpansive
 thresholds_max | String | not NULL | under review, number may need to be provided by Xpansive
 
-
-### 2.9. Legal Agreements
-
+## 2.7. Information Trust Requirements
 TBD
 
-## End of Document
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
+TBD
 
-Add test comment -
+## 2.9. Legal Agreements
+TBD
+
+# End of Document
