@@ -1,12 +1,14 @@
 
-## Envirochem Digital Credential Ecosystem Framework
+## Envirochem Governance Framework
 
 # 1. Primary Document
 
 ## 1.1. Introduction 
 
-TBD - Verifiable Credentials Ecosystem Governance Framework is a Layer Four Ecosystem Governance Framework of the Trust Over IP Foundation (ToIP). 
-*** Terms of Use 
+This document articulates the governance framework for Envirochem as an issuer of a verifiable credential [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
+
+The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
+
 
 These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
 
@@ -14,20 +16,18 @@ THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, establis
 
 IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-*** Acknowledgements
+***Acknowledgements***
 
-Draft - ecosystem contains structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
+This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 
 ## 1.2. Terminology and Notation 
 
-ToIP Governance Requirements Glossary
+[Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-**Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in RFC 2119.
+**Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
 • Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
-
 • Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
-
 • Options are Requirements that use a MAY or OPTIONAL keyword.
 
 **Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
@@ -47,38 +47,19 @@ The standard language for this governing framework (GF) is American English.
 
 1)	Envirochem is the Governing Authority responsible for this Governance Framework (GF).
 3)	Company Registration Information - [Envirochem](https://www.orgbook.gov.bc.ca/entity/FM0055862)
-4)	The contact information for [Envirochem](https://www.envirochem.com/) is
-__________________________
-__________________________
-Recommendations for the governing parties in the governance model are contained in the Governance Requirements. This is a controlled document. 
+4)	The contact information for [Envirochem](https://www.envirochem.com/) is:
+* 	**Name:** Neil Allen
+* 	**Title:** Senior Auditor - HSE Assurance & Management Systems
+* 	**Organization:** Envirochem Services Inc.
+* 	**Email:** [neil.allen@envirochem.com](mailto:neil.allen@envirochem.com)
 
 ## 1.5. Administering Authority
-** Trinh note: I moved this section in. Not sure if it should be in Administering authority or governing au
-** Establish Business Connection **
 
-1. Envirochem will send an invitation to the other business entity via email. 
-2. The receiving party must accept invitation in order to establish a secure connection.
-
-** Issuance of TSM Credential **
-
-1. Using the established connection, Envirochem MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
--company_name
--facility_name
--facility_address
--country_operation
--products_name
--operation_type
--infrastructure_type
-3. Envirochem will receive and review the request
-4. Any clarification questions can be asked via the secure messaging function 
-5. Once all data is entered and correct, Envirochem will offer the credential to the business entity
-6. Business entity can choose to accept or negotiate the credential to request changes
-
+Energy, Mines and Digital Trust (EMDT) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch during the pilot phase of development.
 
 ## 1.6. Purpose
 
-The purpose of ****** Rules is to describe the rules/policies/procedures for verifiable credential exchanges involving EnviroChem (legal name?) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified by our natural resources business, #so that any downstream purchaser, certifier, or financer can be assured of the attested good practices of the BC Industry to prove sustainable resourcing. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving EnviroChem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified by our natural resources business, #so that any downstream purchaser, certifier, or financer can be assured of the attested good practices of the BC Industry to prove sustainable resourcing. 
 
 ## 1.7. Scope 
 
@@ -217,6 +198,25 @@ GF.*
 exchanges.*
 *5. SHOULD define how the governing authority, administering authority, and the GF are sustainable under
 these requirements.*
+
+1. Envirochem will send an invitation to the other business entity via email. 
+2. The receiving party must accept invitation in order to establish a secure connection.
+
+** Issuance of TSM Credential **
+
+1. Using the established connection, Envirochem MUST receive a credential request from the business entity. 
+2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
+-company_name
+-facility_name
+-facility_address
+-country_operation
+-products_name
+-operation_type
+-infrastructure_type
+3. Envirochem will receive and review the request
+4. Any clarification questions can be asked via the secure messaging function 
+5. Once all data is entered and correct, Envirochem will offer the credential to the business entity
+6. Business entity can choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
