@@ -5,7 +5,7 @@
 ## 1.1. Introduction
 This document articulates the governance framework for the BC Greenhouse Gas (GHG) Emissions Report Verification Statement credential. GHG Emissions reporting is required in British Columbia (BC) as per the Greenhouse Gas Industrial Reporting and Control Act, [GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015). When large emitters of CO2 report annual emissions to the BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 
-BC Regulation [249/2015: GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015) sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the International Accreditation Forum (IAF). Other sections within the regulation also refer to provisions being drafted in accordance with the International Organization for Standardization (ISO), the Western Climate Institute (WCI), the Canadian Standards Association (CSA) and the National Bureau of Standards (NBS). 
+BC Regulation [249/2015: GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015) sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the [INTERNATIONAL ACCREDITATION FORUM ((IAF)](https://iaf.nu/en/home/). Other sections within the regulation also refer to provisions being drafted in accordance with the [INTERNATIONAL ORGANIZATION FOR STANDARDIZATION](https://www.iso.org/home.html), [WESTERN CLIMATE INITIATIVE (WCI)](http://westernclimateinitiative.org/) the [CANDIAN STANDARDS ASSOCIATION (CSA)](https://www.csagroup.org/) and the [NATIONAL BUREAU OF STANDARDS AND TECHNOLOGY (NBST)](https://www.nist.gov/). 
 
 Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
 
@@ -43,13 +43,23 @@ The Verification Statement credential must be issued by a third-party verificati
 The governance framework only covers the BC GHG Emissions Verification Statement Credential.
 
 ## 1.8. Objectives
-TBD
+Objectives relating to the credntial
 
 ## 1.9. Principles
-TBD
+
+BC Climate Action Secretariat has identified the following guiding principles in their [Climate Preparedness and Adaptation Strategy 2022-2025](https://www2.gov.bc.ca/assets/gov/environment/climate-change/adaptation/cpas.pdf):
+
+1) Build a Shared Path to Climate Resilience with Indigenous Peoples
+2) Take an Equity Informed Approach
+3) Enhance Health and Well Being for All 
+4) Promote Nature Based Solutions to Enhance Community Resilience
+5) Align Emissions Reduction with Climate Adaption 
+6) Take a Proactive Approach with a Business Case for Adaptation
 
 ## 1.10. General Requirements
-TBD
+what technology
+what connections
+what is required for the credential (utilizing the credential)
 
 ## 1.11. Revisions
 Version 1.0
@@ -58,7 +68,7 @@ Version 1.0
 There is no extension to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
-TBD
+N/A
 
 # 2. Controlled Documents
 
@@ -75,7 +85,7 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-TBD
+Point form step by step what the process is. 
 
 ## 2.6. Technical Requirements
 
