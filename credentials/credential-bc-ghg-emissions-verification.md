@@ -3,10 +3,9 @@
 # 1. Primary Document
 
 ## 1.1. Introduction
-This document articulates the credential for the Emissions Report Verification Statement required for reporting GHG Emissions in British Columbia as per the Greenhouse Gas Industrial Reporting and Control Act, GREENHOUSE GAS EMISSION REPORTING REGULATION. When large emitters of CO2 report annual emissions to BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
+This document articulates the governance framework for the BC Green House Gas (GHG) Emissions Report Verification Statement credential. GHG Emissions reporting is required in British Columbia (BC) as per the Greenhouse Gas Industrial Reporting and Control Act, [GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015). When large emitters of CO2 report annual emissions to the BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 
-B.C. Regulation 249/2015: https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015
-This regulation sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the International Accreditation Forum (IAF). Other sections within the regulation also refer to provisions being drafted in accordance with the International Organization for Standardization (ISO), the Western Climate Institute (WCI), the Canadian Standards Association (CSA) and the National Bureau of Standards (NBS). 
+BC Regulation [249/2015: GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015) sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the International Accreditation Forum (IAF). Other sections within the regulation also refer to provisions being drafted in accordance with the International Organization for Standardization (ISO), the Western Climate Institute (WCI), the Canadian Standards Association (CSA) and the National Bureau of Standards (NBS). 
 
 Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
 
@@ -26,7 +25,7 @@ The standard language for this governing framework is American English.
 ## 1.4. Governing Authority
 
 BC Climate Action Secreteriat is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
-The contact for petitioners and relying parties of this GF is:
+The contact for petitioners and relying parties of this governance framework during the pilot phase of the project is:
 * 	Name ___________
 * 	Title ____________
 * 	Organization ___________
@@ -41,7 +40,7 @@ The Verification Statement credential must be issued by a third-party verificati
 
 ## 1.7. Scope
 
-The GF only covers the Verification Statement Credential
+The governance framework only covers the BC GHG Emissions Verification Statement Credential.
 
 ## 1.8. Objectives
 TBD
@@ -53,7 +52,7 @@ TBD
 TBD
 
 ## 1.11. Revisions
-TBD
+Version 1.0
 
 ## 1.12. Extensions
 There is no extension to this Governance Framework.
