@@ -104,7 +104,7 @@ TBD
 
 ### Key Roles
 
-*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority. Additionally, BC EMLI will train and set up new members. 
+*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority.
 *  **Credential Holders**: BC Petroleum and Natural Gas Operators are the holders. 
 *  **Verification Service Provider (VSP)**: ___________________________
 
