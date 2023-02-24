@@ -92,23 +92,7 @@ TBD
 
 ## 1.11. Revisions
 
-How and when Envirochem would change governance framework
-
-1.	Any ecosystem member MUST be able to propose a change to, or translation of the governance framework by contacting the **administrative authority**  e.g. by emailing _____________
-2.	Any participant in the CAS Ecosystem SHOULD be able to propose a change to the **CAS Rules** by contacting the **administering authority**  e.g. by emailing _____________
-3.	The administering authority MUST implement a change process as specified in the Governance Requirements controlled document.
-4.	The **CAS Ecosystem Rules** MUST be revised if_______________
-5.	The **CAS Ecosystem Rules** will be reviewed ____________________
-6.	Anything in the **CAS Rules** is found to be in breach of the law within the legal jurisdiction of ____________________.
-7.	There are changes to the legal jurisdiction in which the **administering authority** or the **CAS platform operator** are registered.
-8.	There are changes in applicable law, for example data protection law, within the legal jurisdiction of the **CAS Rules** which is________________.
-9.	There are substantive changes to the functionality of the **CAS platform** for example if the **CAS community** employs new **artificial intelligence (AI) techniques.**
-10.	____________ are able to become CAS on their own account.
-11.	**Actions** or **transactions**, especially those associated with risk decisions or the control of **digital data**, which are currently carried out by human actors are replaced with automation and decision-making by **non-human actors**.  For example, machine-readable **governance**.
-12.	The **CAS objectives** change (adding, changing and/or removing them).
-13.	As a result of a risk assessment process, a new threat or high risk or significant harm is identified which arises from the implementation of the **CAS Rules** or which can be treated through a revision of the **CAS Rules**.
-14.	A change proposed by a **CAS Ecosystem Member **successfully completes the change process as defined by the **administering authority**.
-15.	Revisions of the **CAS Rules** SHOULD be compliant with the ToIP Metamodel and MAY be reviewed by **members** of the Trust over IP Foundation.
+_TBD - How and when Envirochem would change governance framework_
 
 ## 1.12. Extensions
 
@@ -124,10 +108,9 @@ TBD
 
 **Identity (Authentication)**
 
--	Will be made up of a Verified Credential (VC) for . 
 -	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
--	Verifiable Credential Proof will be requested by the Line of Business system and the proof will be provided by the Personal Digital wallet. 
--	The Verifiable credential will be issued from the Company Digital Wallet
+-	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
+-	The Verifiable credential will be issued from the _Company_ Digital Wallet
 
 **Delegation**
 -	Refers to a Verifiable Credential for permission to delegate a specific role. 
@@ -154,17 +137,6 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-
-*These are the requirements governing the business model(s) and business rules to be followed by the trust
-community. Controlled documents in this category:*
-*1. SHOULD clearly explain any exchange(s) of value between trust community members governed by the
-GF.*
-*2. SHOULD define the policies and/or rules governing how and when these exchanges of value take place.*
-*3. SHOULD define the requirements for the use of any decision support systems.*
-*4. SHOULD define how all trust community members will be held accountable for their actions in these
-exchanges.*
-*5. SHOULD define how the governing authority, administering authority, and the GF are sustainable under
-these requirements.*
 
 1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
