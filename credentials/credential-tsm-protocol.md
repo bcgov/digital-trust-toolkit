@@ -6,7 +6,7 @@
 
 Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: Communities and People, Environmental Stewardship and Energy Efficiency.
 
-Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credential and its requirements.
+Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM `Protocol/Summary` credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -111,7 +111,8 @@ TBD
 
 ## 2.1. Glossary
 
-*  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
+*  [**Verification Service Provider (VSP)**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf): Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported.
+*  [**Community of Interest (COI) Advisory Panel**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/06/FINAL-2020-COI-Panel-Terms-of-Reference.pdf): Independent multi-interest advisory body comprised of individuals from Indigenous groups, mining communities, non-governmental organizations, and organized labour, among others. The MAC Board also selects a few representatives from the TSM Governance Team to participate in the panel on an ex-officio basis. 
 
 ## 2.2. Risk Assessment
 TBD
@@ -120,9 +121,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-Point to MAC TSM Program Governance
-
-TSM is governed by Program
+The TSM Credential is governed by the same 
 
 ## 2.5. Business Requirements
 
@@ -130,7 +129,7 @@ All members of MAC must adhere to the TSM reporting requirements:
 
 * Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
 
-* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP is provided [here]( https://github.com/bcgov/bc-vcpedia/wiki/www.mining.ca/towardssustainable-mining)
+* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSPs is provided [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/2022-August-TSM-Verifier-List.pdf).
 
 * In the year of external verification, a company’s CEO, or equivalent, is required to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
 
