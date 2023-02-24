@@ -150,7 +150,9 @@ BCovrin Test | TBD | --- | ---
 TBD
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
-TBD
+TBa
+- Reference BC Inclusion legislation 
+- Reference Accessible BC
 
 ## 2.9. Legal Agreements
 TBD
