@@ -90,11 +90,6 @@ TBD
 
 ## 2.1. Glossary
 
-### Key Roles
-
-*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority. Additionally, BC EMLI will train and set up new members. 
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators are the holders. 
-*  **Verification Service Provider (VSP)**: ___________________________
 
 ## 2.2. Risk Assessment
 TBD
@@ -106,6 +101,12 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
+
+### Key Roles
+
+*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority. Additionally, BC EMLI will train and set up new members. 
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators are the holders. 
+*  **Verification Service Provider (VSP)**: ___________________________
 
 ### Key Processes
 
