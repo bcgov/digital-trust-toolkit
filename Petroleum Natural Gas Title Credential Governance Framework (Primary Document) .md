@@ -67,7 +67,7 @@ This Governance Framework (GF) is to define the parameters of a digital BC Petro
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natral Gas Title Credential consisting of all data elements included in a BC Lease Title Document. 
+This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Lease Title Document. 
 
 ## 1.9 Principles 
 
@@ -94,7 +94,7 @@ TBD
 
 *  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority. Additionally, BC EMLI will train and set up new members. 
 *  **Credential Holders**: BC Petroleum and Natural Gas Operators are the holders. 
-*  **Verificaton Service Provider (VSP)**: ___________________________
+*  **Verification Service Provider (VSP)**: ___________________________
 
 ## 2.2. Risk Assessment
 TBD
@@ -109,7 +109,7 @@ TBD
 
 ### Key Processes
 
-All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and reuirements
+All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements
 
 ## 2.6. Technical Requirements (Credential)
 
