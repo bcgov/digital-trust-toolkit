@@ -9,7 +9,6 @@ This document articulates the governance framework for Envirochem as an issuer o
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
-
 These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
 
 THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
@@ -47,7 +46,7 @@ The standard language for this Governance Framework (GF) is American English.
 
 1)	Envirochem is the Governing Authority responsible for this Governance Framework (GF).
 3)	Company Registration Information - [Envirochem](https://www.orgbook.gov.bc.ca/entity/FM0055862)
-4)	The contact information for [Envirochem](https://www.envirochem.com/) is:
+4)	The contact information for [Envirochem](https://www.envirochem.com/) during the pilot phase of development is:
 * 	**Name:** Neil Allen
 * 	**Title:** Senior Auditor - HSE Assurance & Management Systems
 * 	**Organization:** Envirochem Services Inc.
@@ -55,11 +54,11 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-Energy, Mines and Digital Trust (EMDT) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch during the pilot phase of development.
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Envirochem during the pilot phase of development.
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving EnviroChem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified by our natural resources business, #so that any downstream purchaser, certifier, or financer can be assured of the attested good practices of the BC Industry to prove sustainable resourcing. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving EnviroChem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 
@@ -67,7 +66,8 @@ Envirochem is a participant in an open ecosystem and the focus of this framework
 
 ## 1.8. Objectives
 
-This section states the high-level outcomes desired by the trust community through its adoption of the GF. It:
+_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
+
 1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
 2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
 scope.
@@ -76,7 +76,7 @@ scope.
 
 ## 1.9. Principles 
 
-***these are standard principals from ToIP, example to be edited by Envirochem
+_these are standard principals from ToIP, example to be edited by Envirochem_
 1)	Sustainability
 2)	Stewardship 
 3)	Public good
@@ -112,14 +112,11 @@ How and when Envirochem would change governance framework
 
 ## 1.12. Extensions
 
-Envirochem welcomes other Governance Frameworks to leverage the Governance Framework but does not anticipate the need at this time to specify formal extensions.
-
+There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
 
-DID URLS for all documents will be published with the Draft of the Ecosystem Governance Framework
-
-This Draft can be viewed at ________________________
+TBD
 
 # 2. Controlled Documents
 
@@ -146,41 +143,15 @@ MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are C
 
 ## 2.2. Risk Assessment
 
-Verifiable GHG Emissions Credentials Risk Assessment is a ______________ that assesses certain risk categories regarding the operation of the CAS Ecosystem and Infrastructure.
-Verifiable Carbon Intensity Credentials Risk Assessment is a ______________ that assesses certain risk categories regarding the operation of the CAS Ecosystem and Infrastructure.
+TBD
 
 ## 2.3. Trust Assurance and Certification
 
-Verifiable GHG Emissions Credentials Governance Framework Trust Assurance is a spreadsheet that focuses on MUST statements within other GHG Emissions Governance documents and specifies the services/processes that will be used to evaluate compliance with these statements
-Verifiable Carbon Intensity Credentials Governance Framework Trust Assurance is a spreadsheet that focuses on MUST statements within other GHG Emissions Governance documents and specifies the services/processes that will be used to evaluate compliance with these statements
+TBD
 
 ## 2.4. Governance Requirements
 
-**GHG Ecosystem**
-
-1. The governance of the CAS GHG Ecosystem can be found 
-at __________________________
-2. The Memorandum of Understanding between the CAS and______________
-can be found at ________________
-3. The Charter of the _______________can be downloaded as a ____________
-4. The Statutes of CAS can be downloaded as a pdf, ______________
-5. The By-laws of ____________ can be downloaded as a pdf,____________
-6. CAS has a Board of independent directors, 
-7. The CAS standard, ISO 17442-1:2020 Financial services – Legal entity identifier (LEI) –
-Part 1: Assignment can be found here: ___________________
-
-**Carbon Intensity Ecosystem**
-
-1. The governance of the CAS Carbon Intensity can be found 
-at __________________________
-2. The Memorandum of Understanding between the CAS and______________
-can be found at ________________
-3. The Charter of the _______________can be downloaded as a ____________
-4. The Statutes of CAS can be downloaded as a pdf, ______________
-5. The By-laws of ____________ can be downloaded as a pdf,____________
-6. CAS has a Board of independent directors, 
-7. The CAS standard, ISO 17442-1:2020 Financial services – Legal entity identifier (LEI) –
-Part 1: Assignment can be found here: ___________________
+TBD
 
 ## 2.5. Business Requirements
 
