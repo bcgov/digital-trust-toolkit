@@ -105,24 +105,7 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-
-**Identity (Authentication)**
-
--	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
--	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
--	The Verifiable credential will be issued from the _Company_ Digital Wallet
-
-**Delegation**
--	Refers to a Verifiable Credential for permission to delegate a specific role. 
--	The VC Storage Location will be held on the digital wallet, with the VC proof being requested by the Company’s Digital wallet. 
--	VC Proof is provided by the personal digital wallet and the VC will be issued by the Company Digital wallet. 
-
-**Authorization**
--	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
--	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
--	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
-
-MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
+N/A
 
 ## 2.2. Risk Assessment
 
@@ -156,6 +139,24 @@ TBD
 4. Any clarification questions can be asked via the secure messaging function 
 5. Once all data is entered and correct, Envirochem will offer the credential to the business entity
 6. Business entity can choose to accept or negotiate the credential to request changes
+
+
+**Identity (Authentication)**
+-	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
+-	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
+-	The Verifiable credential will be issued from the _Company_ Digital Wallet
+
+**Delegation**
+-	Refers to a Verifiable Credential for permission to delegate a specific role. 
+-	The VC Storage Location will be held on the digital wallet, with the VC proof being requested by the Company’s Digital wallet. 
+-	VC Proof is provided by the personal digital wallet and the VC will be issued by the Company Digital wallet. 
+
+**Authorization**
+-	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
+-	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
+-	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
+
+MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
 
 ## 2.6. Technical Requirements
 
