@@ -8,11 +8,36 @@ Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recog
 
 Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
 
-This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
+The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
+
+These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
+
+THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
+
+IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+***Acknowledgements***
+
+This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 
 ## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
+**Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
+
+- Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
+- Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
+- Options are Requirements that use a MAY or OPTIONAL keyword.
+
+**Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
+
+**Rules** are Machine-Testable Requirements that are written in a Machine-Readable language and can be processed by a Rules Engine. They are expressed in a structured rules language as specified by the Governance Framework.
+
+**Human-Auditable Requirements** are those with which compliance can only be verified by an audit of people, processes, and procedures.
+
+**Policies** are Human-Auditable Requirements written using standard conformance terminology. The Policies used in the Governance Framework will use the standard terminology detailed in RFC 2119 keywords. Note that all RFC 2119 keywords have weight from an auditing perspective. An implementer MUST explain why a SHOULD or RECOMMENDED requirement was not implemented and SHOULD explain why a MAY requirement was implemented.
+
+**Specifications** are documents containing any combination of Machine-Testable Requirements and Human-Auditable Requirements needed to produce technical interoperability.
 
 ## 1.3. Localization
 
@@ -32,6 +57,16 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
+4)	The contact information for [The Mining Association of Canada (MAC)](https://mining.ca/) during the pilot phase of development is:
+* 	**Name:** Ben Chalmers
+* 	**Title:** Senior Vice President
+* 	**Organization:** The Mining Association of Canada
+* 	**Email:** [bchalmers@mining.ca](mailto:bchalmers@mining.ca)
+
+## 1.5. Administering Authority
+
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mining Association of Canada (MAC) during the pilot phase of development.
+
 ## 1.6. Purpose
 
 The purpose of this Governance Framework (GF) is to define the parameters of a digital TSM credential.
@@ -43,23 +78,6 @@ This Governance Framework applies to the certification statement credential for 
 ## 1.8. Objectives
 
 This GF describes the TSM credential consisting of the following eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
-
-* [Biodiversity Conservation Management Protocol](https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
-
-* [Climate Change Protocol](https://mining.ca/flippingbooks/climate-change/)
-
-* [Crisis Management Protocol](https://mining.ca/flippingbooks/crisis-management/)
-
-* [Indigenous and Community Relationships Protocol](https://mining.ca/flippingbooks/indigenous-and-community-relationships/)
-
-* [Prevention of Child and Forced Labor Protocol](https://mining.ca/flippingbooks/prevention-of-child-and-forced-labour/)
-
-* [Safety and Health Protocol](https://mining.ca/flippingbooks/safety-and-health/)
-
-* [Tailings Management Protocol](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)
-
-* [Water Stewardship Protocol](https://mining.ca/flippingbooks/water-stewardship/)
-
 
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
@@ -106,10 +124,10 @@ More information about the verification process can be found in the [TSM Verific
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
 ## 1.11. Revisions
-TBD
+Version 1.0
 
 ## 1.12. Extensions
-There is no extensions to this Governance Framework.
+There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
 TBD
