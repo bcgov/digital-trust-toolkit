@@ -47,8 +47,8 @@ The standard language for this governing framework is American English.
  
 ## 1.4. Governing Authority
 
-BC Climate Action Secreteriat is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework.
-The contact for petitioners and relying parties of this governance framework during the pilot phase of the project is:
+[BC Climate Action Secretariat (CAS)](https://retooling.ca/resources/climate-action-secretariat-adaptation-ministry-of-environment/#:~:text=The%20secretariat%20works%20directly%20with,environmental%2C%20social%20and%20economic%20sustainability.) is the Governing Authority and party legally responsible for developing, maintaining and implementing the Governance Framework (GF).
+The contact for petitioners and relying parties of this GF during the pilot phase of the project is:
 * 	**Name:** Kyle Robinson
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
 * 	**Organization:** Briartech Consulting Inc.
@@ -59,7 +59,7 @@ The contact for petitioners and relying parties of this governance framework dur
 
 ## 1.6. Purpose
 
-This BC Greenhouse Gas (GHG) Emissions Report Verification Statement credential is issued by the Tenure and Resource Stewardship Branch and includes information contained within the British Columbia Petroleum and Natural Gas Title Document. The purpose of this governance framework is to outline the process associated with governance, issuance, verification, and revocation of a BC Petroleum and Natural Gas Title Credential. 
+This BC Greenhouse Gas (GHG) Emissions Report Verification Statement credential under the governing authority of CAS reports emissions information as required by the Greenhouse Gas Industrial Reporting and Control Act, [GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015). The purpose of this governance framework is to outline the process associated with governance, issuance, verification, and revocation of a GHG Emissions Report Verification Statement credential. 
 
 ## 1.7. Scope
 
@@ -67,6 +67,13 @@ The governance framework only covers the BC GHG Emissions Verification Statement
 
 ## 1.8. Objectives
 TBD
+
+_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
+
+1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
+2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
+scope.
+3. MUST be consistent with the principles of the GF (below).
 
 ## 1.9. Principles
 
