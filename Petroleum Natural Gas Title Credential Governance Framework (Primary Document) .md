@@ -91,6 +91,8 @@ TBD
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
+[BC Oil and Gas Regulator Oil and Gas Glossary and Definitions](https://bc-er.ca/files/operations-documentation/Oil-and-Gas-Glossary-and-Definitions.pdf)
+
 ## 2.2. Risk Assessment
 TBD
 
