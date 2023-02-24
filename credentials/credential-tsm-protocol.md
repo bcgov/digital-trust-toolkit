@@ -23,6 +23,7 @@ This governance framework includes structural elements from the Trust over IP Me
 ## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
+
 **Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
 - Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
@@ -57,7 +58,8 @@ non-governmental organizations, and organized labour, among others. Industry rep
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
 
-4)	The contact information for [The Mining Association of Canada (MAC)](https://mining.ca/) during the pilot phase of development is:
+
+The contact information for [The Mining Association of Canada (MAC)](https://mining.ca/) during the pilot phase of development is:
 * 	**Name:** Ben Chalmers
 * 	**Title:** Senior Vice President
 * 	**Organization:** The Mining Association of Canada
@@ -86,33 +88,6 @@ The TSM summary credential is a combination of pass/fail scores and letter grade
 
 TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
-### Key Roles
-
-*  **Governing Authority**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
-
-*  **Credential Holders**: MAC members are the credential holders. New MAC members have three years to start publicly reporting, allowing time to train employees for full implementation. Once trained, MAC members must annually self-assess their performance against all indicators under the TSM protocols using the rating system (see Section: “Key Processes”).
-
-*  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
-
-
-### Key Processes
-All members of MAC must adhere to the TSM reporting requirements:
-
-* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
-
-* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP is provided [here]( https://github.com/bcgov/bc-vcpedia/wiki/www.mining.ca/towardssustainable-mining)
-
-* In the year of external verification, a company’s CEO, or equivalent, is required to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
-
-* Each year, MAC’s independent COI Panel selects a sample of companies to present and discuss their TSM results
-
-* Each member assigns a senior employee as an Initiative Leader. This person is responsible for coordinating and leading the implementation of TSM within the company and typically has a direct reporting relationship with the company’s Board representative.
-The General Requirements section is reserved for policies that apply generally to the Governance Framework as a whole and not just in the context of a particular controlled document.
-
-* All articles concerning ESG data must not sold to third parties. All governing parties shall implement responsible use policies that apply to ESG recording.
-
-* Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
-
 
 ## 1.10. General Requirements
 
@@ -135,7 +110,14 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-TBD
+
+### Key Roles
+
+*  **Governing Authority**: MAC is the TSM governing authority. Additionally, MAC will train and setup new members to report their TSM scores using an [online portal]( https://mining.ca/towards-sustainable-mining/submit-tsm-data/). If a member struggles to achieve acceptable TSM scores, MAC will assist them in adopting the necessary operational change to improve the TSM scores of these members.
+
+*  **Credential Holders**: MAC members are the credential holders. New MAC members have three years to start publicly reporting, allowing time to train employees for full implementation. Once trained, MAC members must annually self-assess their performance against all indicators under the TSM protocols using the rating system (see Section: “Key Processes”).
+
+*  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
 
 ## 2.2. Risk Assessment
 TBD
@@ -147,7 +129,24 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-TBD
+
+### Key Processes
+All members of MAC must adhere to the TSM reporting requirements:
+
+* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
+
+* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSP is provided [here]( https://github.com/bcgov/bc-vcpedia/wiki/www.mining.ca/towardssustainable-mining)
+
+* In the year of external verification, a company’s CEO, or equivalent, is required to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
+
+* Each year, MAC’s independent COI Panel selects a sample of companies to present and discuss their TSM results
+
+* Each member assigns a senior employee as an Initiative Leader. This person is responsible for coordinating and leading the implementation of TSM within the company and typically has a direct reporting relationship with the company’s Board representative.
+The General Requirements section is reserved for policies that apply generally to the Governance Framework as a whole and not just in the context of a particular controlled document.
+
+* All articles concerning ESG data must not sold to third parties. All governing parties shall implement responsible use policies that apply to ESG recording.
+
+* Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
 
 ## 2.6. Technical Requirements (Credential)
 
