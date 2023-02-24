@@ -26,9 +26,9 @@ This governance framework includes structural elements from the Trust over IP Me
 
 **Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
-• Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
-• Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
-• Options are Requirements that use a MAY or OPTIONAL keyword.
+- Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
+- Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
+- Options are Requirements that use a MAY or OPTIONAL keyword.
 
 **Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
 
@@ -41,7 +41,7 @@ This governance framework includes structural elements from the Trust over IP Me
 **Specifications** are documents containing any combination of Machine-Testable Requirements and Human-Auditable Requirements needed to produce technical interoperability.
 
 ## 1.3. Localization
-The standard language for this governing framework (GF) is American English.
+The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
@@ -63,7 +63,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 ## 1.7. Scope 
 
-Envirochem is a participant in an open ecosystem and the focus of this framework is to describe the process Envirochem uses for exchanges on Indy networks.
+Envirochem is a participant in an open ecosystem and the focus of this framework is to describe the process Envirochem uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
@@ -112,9 +112,8 @@ How and when Envirochem would change governance framework
 
 ## 1.12. Extensions
 
-1)	CAS welcomes other Governance Frameworks to leverage the CAS Ecosystem Framework but does not anticipate the need at this time to specify formal extensions from other external Governance Frameworks that will leverage the CAS Ecosystem Governance Framework.
-2)	The CAS Ecosystem Framework is extended by the following internal governance framework: CAS Identifier Governance Frameworks and GHG Emissions Credential Governance Frameworks. 
-3)	Requirements for extension, activation and deactivation are ____________________ notification should be made to the trust community through _____________ methods.
+Envirochem welcomes other Governance Frameworks to leverage the Governance Framework but does not anticipate the need at this time to specify formal extensions.
+
 
 ## 1.13. Schedule of Controlled Documents
 
@@ -125,9 +124,6 @@ This Draft can be viewed at ________________________
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-
-Verifiable Scope 2 and 3 GHG CAS Ecosystem Governance Framework Glossary is a document that lists all defined terms have been referenced in the CAS Documents.
-Verifiable Scope 2 and 3 Carbon Intensity Ecosystem Governance Framework Glossary is a document that lists all defined terms that have been reference in the CAS Documents.
 
 **Identity (Authentication)**
 
@@ -199,8 +195,8 @@ exchanges.*
 *5. SHOULD define how the governing authority, administering authority, and the GF are sustainable under
 these requirements.*
 
-1. Envirochem will send an invitation to the other business entity via email. 
-2. The receiving party must accept invitation in order to establish a secure connection.
+1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
+2. The receiving party MUST accept invitation in order to establish a secure connection.
 
 ** Issuance of TSM Credential **
 
@@ -237,8 +233,7 @@ technical interoperability within this trust community.*
 •	Mention company privacy policy - or copy and paste right here.
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
-
-CAS must design the CAS Ecosystem to be able to make credentials available to any legal entity issued a GHG Credential in the CAS Ecosystem.
+TBD
 
 ## 2.9. Legal Agreements
 TBD
