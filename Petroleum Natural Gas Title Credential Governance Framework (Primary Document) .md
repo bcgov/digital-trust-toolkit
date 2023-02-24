@@ -89,7 +89,7 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-
+[ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 ## 2.2. Risk Assessment
 TBD
