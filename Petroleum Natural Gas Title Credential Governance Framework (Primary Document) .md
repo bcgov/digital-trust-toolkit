@@ -1,4 +1,4 @@
-# BC Petroleum Natural Gas Title Governance Framework (Primary Document)
+# BC Petroleum Natural Gas Title (Tenure) Governance Framework (Primary Document)
 
 # 1. Primary Document
 
