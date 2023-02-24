@@ -6,7 +6,7 @@
 
 Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: Communities and People, Environmental Stewardship and Energy Efficiency.
 
-Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credentials and its requirements.
+Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -111,8 +111,6 @@ TBD
 
 ## 2.1. Glossary
 
-_ADD LINK TO MAC GLOSSARY_
-
 *  **Verification Service Provider (VSP)**: Independent third-party verifiers act as auditors that validate self-assessed TSM scores. Every three years, a trusted VSP critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of trusted VSP can be found [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/03/2022-March-Verifier-List.pdf).  
 
 ## 2.2. Risk Assessment
@@ -122,7 +120,9 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-TBD
+Point to MAC TSM Program Governance
+
+TSM is governed by Program
 
 ## 2.5. Business Requirements
 
