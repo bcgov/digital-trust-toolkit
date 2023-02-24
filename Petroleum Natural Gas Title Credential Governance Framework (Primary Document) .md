@@ -47,7 +47,7 @@ The standard language for this governing framework (GF) is English.
 
 The Tenure and Resource Stewardship Branch is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF)
 
-The contact information for
+The contact information for The Tenure and Resource Stewardship Branch: 
 * 	**Name:** 
 * 	**Title:** 
 * 	**Organization:**
@@ -105,7 +105,7 @@ TBD
 ### Key Roles
 
 *  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority.
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators are the holders. 
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators. 
 *  **Verification Service Provider (VSP)**: ___________________________
 
 ### Key Processes
