@@ -121,7 +121,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The TSM Credential is governed by the same 
+The TSM `Protocol/Summary` Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
 
 ## 2.5. Business Requirements
 
@@ -161,17 +161,17 @@ operation_type | String | Not NULL | mining, concentrate blending, smelting, ref
 infrastructure_type | String | Not NULL | roads, rails, ports, other
 verification_company_name | String | Not NULL | name of verification company
 accredited_tsm_verifier | String | Not NULL | yes, no
-verification_dates | String | Not NULL | date range of verification activities
-verification_period | String | Not NULL | textbox
-verification_method_summary | String | Not NULL | textbox 
-verification_activities_summary | String | Not NULL | textbox
-verification_statement_tor | String | Not NULL | checkbox
-verification_statement_accuracy | String | Not NULL | checkbox
-verification_statement_limitations | String | Not NULL | textbox
-verification_statement_comments | String | Not NULL | textbox
-verification_statement_lead_name| String | Not NULL | textbox
-verification_statement_date | String | Not NULL | textbox
-verification_statement_signature | String | Not NULL | textbox
+verification_dates | String | Not NULL | date range of verification activities, YYYY/MM/DD
+verification_period | String | Not NULL | date, YYYY/MM/DD
+verification_method_summary | String | Not NULL | textbox, description of method
+verification_activities_summary | String | Not NULL | textbox, description of activities
+verification_statement_tor | String | Not NULL | checkbox, checkbox indicates yes
+verification_statement_accuracy | String | Not NULL | checkbox, checkbox indicates yes
+verification_statement_limitations | String | Not NULL | textbox, verifier identified limitations
+verification_statement_comments | String | Not NULL | textbox, verifier comments
+verification_statement_lead_name| String | Not NULL | textbox, full legal name of the lead verifier
+verification_statement_date | String | Not NULL | date, YYYY/MM/DD
+verification_statement_signature | String | Not NULL | textbox, printed signature of lead verifier
 summary_tsm_min | String | Not NULL | levels C - AAA, minimum level awarded for all TSM protocols
 indigenous_q1 | String | Not NULL | levels C - AAA, Community of Interest (COI) Identification
 indigenous_q2 | String | Not NULL | levels C - AAA, Community of Interest (COI) Engagement
@@ -179,13 +179,13 @@ indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagem
 indigenous_q4 | String | Not NULL | levels C - AAA, community impact and benefit management
 indigenous_q5 | String | Not NULL | levels C - AAA, Community of Interest (COI) response mechanism
 indigenous_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for indigenous protocols
-saftey_health_q1 | String | Not NULL | levels C - AAA, commitments and accountability
-saftey_health_q2 | String | Not NULL | levels C - AAA, planning and implementation
-saftey_health_q3 | String | Not NULL | levels C - AAA, training, behaviour and culture
-saftey_health_q4 | String | Not NULL | levels C - AAA, monitoring and reporting
-saftey_health_q4_pd | String | Not NULL | checkbox, link to public disclosure
-saftey_health_q5 | String | Not NULL | levels C - AAA, performance
-saftey_health_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for safety and health protocols
+safety_health_q1 | String | Not NULL | levels C - AAA, commitments and accountability
+safety_health_q2 | String | Not NULL | levels C - AAA, planning and implementation
+safety_health_q3 | String | Not NULL | levels C - AAA, training, behaviour and culture
+safety_health_q4 | String | Not NULL | levels C - AAA, monitoring and reporting
+safety_health_q4_pd | String | Not NULL | checkbox, link to public disclosure
+safety_health_q5 | String | Not NULL | levels C - AAA, performance
+safety_health_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for safety and health protocols
 corp_crisis_and_communication_preparedness| String | Not NULL | yes, no
 corp_crisis_and_communication_review| String | Not NULL | yes, no
 corp_crisis_and_communication_training| String | Not NULL | yes, no
@@ -195,7 +195,9 @@ corp_climate_q1 | String | Not NULL | levels C - AAA, coporate level management
 site_climate_q2 | String | Not NULL | levels C - AAA, site level management
 site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
 climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-
+climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
+climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
+climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
