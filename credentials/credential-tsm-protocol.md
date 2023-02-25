@@ -195,10 +195,10 @@ corp_climate_q1 | String | Not NULL | levels C - AAA, coporate level management
 site_climate_q2 | String | Not NULL | levels C - AAA, site level management
 site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
 climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-tailings_management_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-biodiversity_conservation_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-energy_ghg_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-water_stewardship_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
+tailings_management_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for tailings management protocols
+biodiversity_conservation_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for biodiversity protocols
+energy_ghg_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for energy and ghg protocols
+water_stewardship_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for water stewardship protocols
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
