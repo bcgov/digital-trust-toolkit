@@ -1,4 +1,4 @@
-# BC Petroleum and Natural Gas Title Credential (Tenure)
+# BC Petroleum and Natural Gas Title Credential
 
 # 1. Primary Document
 
