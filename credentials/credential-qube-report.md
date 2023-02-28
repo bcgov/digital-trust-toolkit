@@ -45,11 +45,11 @@ The standard language for this governing framework (GF) is English.
 ## 1.4. Governing Authority
 
 Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
-The contact for petitioners and relying parties of this GF is:
-* 	Name ___________
-* 	Title ____________
-* 	Organization ___________
-* 	Email ____________
+The contact for petitioners and relying parties of this GF is: 
+* 	**Name:** 
+* 	**Title:** 
+* 	**Organization:**
+* 	**Email:**
 
 ## 1.5. Administering Authority
 
