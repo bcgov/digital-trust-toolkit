@@ -53,7 +53,7 @@ The contact for petitioners and relying parties of this GF is:
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mining Association of Canada (MAC) during the pilot phase of development.
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Qube during the pilot phase of development.
 
 ## 1.6. Purpose
 
@@ -129,7 +129,8 @@ thresholds_min | String | not NULL | under review, number may need to be provide
 thresholds_max | String | not NULL | under review, number may need to be provided by Xpansive
 
 ## 2.7. Information Trust Requirements
-TBD
+
+See [**Qube's Privacy Policy**](https://www.qubeiot.com/privacy-policy)
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 TBD
