@@ -1,5 +1,5 @@
 
-## Mining Association of Canada (MAC) Governance Framework
+## Mining Association of Canada (MAC) Verifier Governance Framework
 
 # 1. Primary Document
 
