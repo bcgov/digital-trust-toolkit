@@ -111,6 +111,18 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
+Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
+
+* Self-assessed TSM performance indicators MUST be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
+
+* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSPs is provided [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/2022-August-TSM-Verifier-List.pdf).
+
+* In the year of external verification, a company’s CEO, or equivalent, MUST to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
+
+* All articles concerning ESG data MUST not sold to third parties. All governing parties SHALL implement responsible use policies that apply to ESG recording.
+
+* Mines MUST identify themselves using high assurance verifiable credentials when submitting information related to ESG
+
 
 1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
