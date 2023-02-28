@@ -125,22 +125,7 @@ The TSM `Protocol/Summary` Credential is governed by the [**TSM Program Governan
 
 ## 2.5. Business Requirements
 
-All members of MAC must adhere to the TSM reporting requirements:
-
-* Self-assessed TSM performance indicators must be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled “Optional Reporting and Verification Process”
-
-* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSPs is provided [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/2022-August-TSM-Verifier-List.pdf).
-
-* In the year of external verification, a company’s CEO, or equivalent, is required to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
-
-* Each year, MAC’s independent COI Panel selects a sample of companies to present and discuss their TSM results
-
-* Each member assigns a senior employee as an Initiative Leader. This person is responsible for coordinating and leading the implementation of TSM within the company and typically has a direct reporting relationship with the company’s Board representative.
-The General Requirements section is reserved for policies that apply generally to the Governance Framework as a whole and not just in the context of a particular controlled document.
-
-* All articles concerning ESG data must not sold to third parties. All governing parties shall implement responsible use policies that apply to ESG recording.
-
-* Mines must identify themselves using high assurance verifiable credentials when submitting information related to ESG
+The primary use of the TSM Protocol Credential is to verify MAC membership, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/TSM/applications/application-tsm-mac-verification.md)
 
 ## 2.6. Technical Requirements (Credential)
 
