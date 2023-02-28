@@ -189,10 +189,12 @@ Ledger | SCHEMA DEF | CRED DEF | Notes
 BCovrin Test | TBD | --- | ---
 
 ## 2.7. Information Trust Requirements
-TBD
+
+[MAC Privacy of Information](https://mining.ca/privacy-information/)
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
-TBD
+
+[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
 TBD
