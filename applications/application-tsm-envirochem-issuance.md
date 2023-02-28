@@ -160,7 +160,7 @@ MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are C
 
 ## 2.6. Technical Requirements
 
-*MUST have an Aries compatable business wallet.*
+*MUST have an Aries compatible business wallet.*
 
 *These are the requirements governing technical interoperability. Controlled documents in this category:*
 *1. MUST specify how trust community members will interoperate technically using the ToIP technology
