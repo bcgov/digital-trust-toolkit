@@ -6,11 +6,37 @@
 
 This document articulates the digital credential for the Qube Data Report submitted on a monthly basis. 
 
-This governance document has been developed in accordance with the ToIP’s Governance Metamodel Specification created by the Governance Stack Working Group (GSWG) as the template for this framework.
+The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
+
+These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
+
+THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
+
+IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+***Acknowledgements***
+
+This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 
 ## 1.2. Terminology and Notation
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
+
+**Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
+
+- Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
+- Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
+- Options are Requirements that use a MAY or OPTIONAL keyword.
+
+**Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
+
+**Rules** are Machine-Testable Requirements that are written in a Machine-Readable language and can be processed by a Rules Engine. They are expressed in a structured rules language as specified by the Governance Framework.
+
+**Human-Auditable Requirements** are those with which compliance can only be verified by an audit of people, processes, and procedures.
+
+**Policies** are Human-Auditable Requirements written using standard conformance terminology. The Policies used in the Governance Framework will use the standard terminology detailed in RFC 2119 keywords. Note that all RFC 2119 keywords have weight from an auditing perspective. An implementer MUST explain why a SHOULD or RECOMMENDED requirement was not implemented and SHOULD explain why a MAY requirement was implemented.
+
+**Specifications** are documents containing any combination of Machine-Testable Requirements and Human-Auditable Requirements needed to produce technical interoperability.
 
 ## 1.3. Localization
 
@@ -27,11 +53,11 @@ The contact for petitioners and relying parties of this GF is:
 
 ## 1.5. Administering Authority
 
-TBD
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mining Association of Canada (MAC) during the pilot phase of development.
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential. A Qube Report Credential must be issued by Qube. The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
+The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential.  The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
 
 ## 1.7. Scope
 
@@ -46,7 +72,7 @@ TBD
 
 ## 1.10. General Requirements
 
-The API referenced in the Schema Definition section of this document allows the retrieval of sites, emissions, measurements and wind data. The API is a REST based API that returns data in JSON format.
+A Qube Report Credential MUST be issued by Qube. The API referenced in the Schema Definition section of this document allows the retrieval of sites, emissions, measurements and wind data. The API is a REST based API that returns data in JSON format.
 
 ## 1.11. Revisions
 
