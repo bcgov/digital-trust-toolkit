@@ -1,10 +1,10 @@
-# BC Petroleum Natural Gas Title (Tenure) Governance Framework (Primary Document)
+# BC Petroleum Natural Gas Title Governance Framework (Primary Document)
 
 # 1. Primary Document
 
 ## 1.1 Introduction
 
-The majority of subsurface petroleum and natural gas resources in British Columbia are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure)
+The majority of subsurface petroleum and natural gas resources in British Columbia are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure)
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01) 
 
@@ -59,11 +59,11 @@ The contact information for The Tenure and Resource Stewardship Branch:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is toe define the parameters of the BC Petroleum and Natural Gas Tenure Credential. 
+The purpose of this Governance Framework (GF) is toe define the parameters of the BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.7 Scope
 
-This Governance Framework (GF) is to define the parameters of a digital BC Petroleum and Natural Gas Tenure Credential. 
+This Governance Framework (GF) is to define the parameters of a digital BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.8 Objectives 
 
