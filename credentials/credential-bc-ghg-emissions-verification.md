@@ -1,11 +1,11 @@
-# DRAFT - BC GHG Emissions Report Verification Statement Credential
+# BC GHG Emissions Report Verification Statement Credential
 
 # 1. Primary Document
 
 ## 1.1. Introduction
-This document articulates the governance framework for the BC Greenhouse Gas (GHG) Emissions Report Verification Statement credential. GHG Emissions reporting is required in British Columbia (BC) as per the Greenhouse Gas Industrial Reporting and Control Act, [GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015). When large emitters of CO2 report annual emissions to the BC Climate Action Secreteriate, an Emissions Report Verification Statement must be provided as part of the reporting requirements.
+This document articulates the governance framework for the BC Greenhouse Gas (GHG) Emissions Report Verification Statement credential. GHG Emissions reporting is required in British Columbia (BC) as per the Greenhouse Gas Industrial Reporting and Control Act, **[GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015)**. 
 
-BC Regulation [249/2015: GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015) sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the [INTERNATIONAL ACCREDITATION FORUM ((IAF)](https://iaf.nu/en/home/). Other sections within the regulation also refer to provisions being drafted in accordance with the [INTERNATIONAL ORGANIZATION FOR STANDARDIZATION](https://www.iso.org/home.html), [WESTERN CLIMATE INITIATIVE (WCI)](http://westernclimateinitiative.org/) the [CANDIAN STANDARDS ASSOCIATION (CSA)](https://www.csagroup.org/) and the [NATIONAL BUREAU OF STANDARDS AND TECHNOLOGY (NBST)](https://www.nist.gov/). 
+BC Regulation [249/2015: GREENHOUSE GAS EMISSION REPORTING REGULATION](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/249_2015) sets out reporting requirements that are developed in accordance with various standard setting bodies. Section 33 specifically references the [International Accreditation Forum ((IAF)](https://iaf.nu/en/home/). Other sections within the regulation also refer to provisions being drafted in accordance with the [International Organization for Standardization (ISO)](https://www.iso.org/home.html), [Western Climate Initiative (WCI)](http://westernclimateinitiative.org/) the [Canadian Standards Association (CSA)](https://www.csagroup.org/) and the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/). 
 
 Current guidelines for reporting are described here: https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting/verify
 
@@ -87,9 +87,8 @@ BC Climate Action Secretariat has identified the following guiding principles in
 6) Take a Proactive Approach with a Business Case for Adaptation
 
 ## 1.10. General Requirements
-what technology
-what connections
-what is required for the credential (utilizing the credential)
+
+When large emitters of CO2 report annual emissions to the [BC Climate Action Secretariat (CAS)](https://retooling.ca/resources/climate-action-secretariat-adaptation-ministry-of-environment/), an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 
 ## 1.11. Revisions
 Version 1.0
@@ -115,7 +114,7 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-Point form step by step what the process is. 
+The primary use of the BC GHG Emissions Verification Statement Credential is to verify GHG emissions reporting to CAS. 
 
 ## 2.6. Technical Requirements
 
@@ -159,8 +158,6 @@ Person Primarily Responsible for Preparing and Submitting the Emission Report | 
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
 BCovrin Test | ADCssx1nPW6FQwNHTFTRNW:2:BC_GHG_Emissions_Report_Verification_Statement:1.0 | --- | ---
-
-Bree edits
 
 ## 2.7. Information Trust Requirements
 TBD
