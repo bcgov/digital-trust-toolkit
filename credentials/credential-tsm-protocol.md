@@ -4,9 +4,7 @@
 
 ## 1.1. Introduction
 
-Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that focus on three core pillars: Communities and People, Environmental Stewardship and Energy Efficiency.
-
-Each of the eight protocols consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM `Protocol/Summary` credential and its requirements.
+Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM Protocol credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -71,15 +69,15 @@ The contact information for [The Mining Association of Canada (MAC)](https://min
 
 ## 1.6. Purpose
 
-The purpose of this Governance Framework (GF) is to define the parameters of a digital TSM credential.
+The purpose of this Governance Framework (GF) is to define the parameters of a TSM Protocol credential.
 
 ## 1.7. Scope
 
-This Governance Framework applies to the certification statement credential for the TSM certification from the Mining Association of Canada (MAC).
+This Governance Framework applies to the TSM Protocol credential from the Mining Association of Canada (MAC).
 
 ## 1.8. Objectives
 
-This GF describes the TSM credential consisting of the following eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
+This GF describes the TSM Protocol credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
 The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
@@ -121,11 +119,11 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The TSM `Protocol/Summary` Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
+The TSM Protocol Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
 
 ## 2.5. Business Requirements
 
-The primary use of the TSM Protocol Credential is to verify MAC membership, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/TSM/applications/application-tsm-mac-verification.md)
+The primary use of the TSM Protocol Credential is to verify third-party verification of TSM scores in order to satisfy MAC membership requirements, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/TSM/applications/application-tsm-mac-verification.md)
 
 ## 2.6. Technical Requirements (Credential)
 
