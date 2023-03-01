@@ -59,7 +59,7 @@ The contact information for The Tenure and Resource Stewardship Branch:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is toe define the parameters of the BC Petroleum and Natural Gas Title Credential. 
+The purpose of this Governance Framework (GF) is to define the parameters of the BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.7 Scope
 
