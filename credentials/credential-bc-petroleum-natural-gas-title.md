@@ -75,7 +75,7 @@ This GF describes the BC Petroleum and Natural Gas Title Credential consisting o
 
 ### Verification Process
 
-the verification process will be ___________________________
+The verification process will be ___________________________
 
 ## 1.11. Revisions
 Version 1.0
@@ -149,9 +149,8 @@ BCovrin Test | TBD | --- | ---
 TBD
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
-TBa
-- Reference BC Inclusion legislation 
-- Reference Accessible BC
+
+British Columbia is bound by legislation such as the [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) 
 
 ## 2.9. Legal Agreements
 TBD
