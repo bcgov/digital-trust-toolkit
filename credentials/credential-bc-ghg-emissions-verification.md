@@ -88,7 +88,7 @@ BC Climate Action Secretariat has identified the following guiding principles in
 
 ## 1.10. General Requirements
 
-When large emitters of CO2 report annual emissions to the [BC Climate Action Secretariat (CAS)](https://retooling.ca/resources/climate-action-secretariat-adaptation-ministry-of-environment/), an Emissions Report Verification Statement must be provided as part of the reporting requirements.
+When large emitters of CO2 report annual emissions to the [BC Climate Action Secretariat (CAS)](https://www2.gov.bc.ca/gov/content/environment/climate-change), an Emissions Report Verification Statement must be provided as part of the reporting requirements.
 
 ## 1.11. Revisions
 Version 1.0
