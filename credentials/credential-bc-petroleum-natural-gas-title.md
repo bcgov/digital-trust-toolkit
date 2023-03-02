@@ -153,7 +153,7 @@ BC is bound by the [Freedom of Information and Protection of Privacy Act](https:
 
 BC is bound by legislation such as the [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) 
 
-BC has develped a [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) which outlines a government wide strategy in supporting inclusion, equitability and access throughout the province. 
+BC has developed a [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) which outlines a government wide strategy in supporting inclusion, equitability and access throughout the province. 
 
 
 ## 2.9. Legal Agreements
