@@ -47,7 +47,7 @@ The standard language for this governing framework is American English.
  
 ## 1.4. Governing Authority
 
-[BC Climate Action Secretariat (CAS)](https://retooling.ca/resources/climate-action-secretariat-adaptation-ministry-of-environment/#:~:text=The%20secretariat%20works%20directly%20with,environmental%2C%20social%20and%20economic%20sustainability.) is the Governing Authority and party legally responsible for developing, maintaining and implementing the Governance Framework (GF).
+[BC Climate Action Secretariat (CAS)](https://www2.gov.bc.ca/gov/content/environment/climate-change) is the Governing Authority and party legally responsible for developing, maintaining and implementing the Governance Framework (GF).
 The contact for petitioners and relying parties of this GF during the pilot phase of the project is:
 * 	**Name:** Kyle Robinson
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
