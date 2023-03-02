@@ -147,7 +147,7 @@ Ledger | SCHEMA DEF | CRED DEF | Notes
 BCovrin Test | TBD | --- | ---
 
 ## 2.7. Information Trust Requirements
-BC is bound by the [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00). BC’s Freedom of Information and Protection of Privacy Act which sets out the access and privacy rights of individuals as they relate to the public sector.
+BC is bound by the [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00). BC’s Freedom of Information and Protection of Privacy Act sets out the access and privacy rights of individuals as they relate to the public sector.
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
