@@ -160,10 +160,13 @@ Ledger | SCHEMA DEF | CRED DEF | Notes
 BCovrin Test | ADCssx1nPW6FQwNHTFTRNW:2:BC_GHG_Emissions_Report_Verification_Statement:1.0 | --- | ---
 
 ## 2.7. Information Trust Requirements
-TBD
+The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
-TBD
+
+[Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) 
+
+The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments the BC govenment has in supporting inclusion, equitability and access throughout the province. 
 
 ## 2.9. Legal Agreements
 TBD
