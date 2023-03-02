@@ -45,7 +45,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-The Tenure and Resource Stewardship Branch is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF)
+[The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF)
 
 The contact information for The Tenure and Resource Stewardship Branch: 
 * 	**Name:** 
@@ -117,12 +117,12 @@ All users of the BC Petroleum and Natural Gas Title Credential must adhere to pr
 
 ## 2.6. Technical Requirements (Credential)
 
-The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
+The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
 
 
-This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
+This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Attribute | Format | Rules | Notes	
 --- | --- | --- | --- |
