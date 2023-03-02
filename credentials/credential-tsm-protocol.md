@@ -123,7 +123,7 @@ The TSM Protocol Credential is governed by the [**TSM Program Governance**](http
 
 ## 2.5. Business Requirements
 
-The primary use of the TSM Protocol Credential is to verify third-party verification of TSM scores in order to satisfy MAC membership requirements, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/TSM/applications/application-tsm-mac-verification.md)
+The primary use of the TSM Protocol Credential is verification of TSM scores, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/TSM/applications/application-tsm-mac-verification.md)
 
 ## 2.6. Technical Requirements (Credential)
 
