@@ -113,35 +113,31 @@ TBD
 ## 2.5. Business Requirements
 Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
 
-* Self-assessed TSM performance indicators MUST be reported to MAC annually. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
+* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
-* Every three years, a Verification Service Provider (VSP) critically reviews a company’s self-assessments to determine if there is adequate evidence to support the performance ratings reported. A list of VSPs is provided [here](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/2022-August-TSM-Verifier-List.pdf).
-
-* In the year of external verification, a company’s CEO, or equivalent, MUST to submit a letter to MAC that confirms the external verification has been conducted in accordance with the Terms of Reference for VSPs.
-
-* All articles concerning ESG data MUST not sold to third parties. All governing parties SHALL implement responsible use policies that apply to ESG recording.
-
-* Mines MUST identify themselves using high assurance verifiable credentials when submitting information related to ESG
-
-
-1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
+1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-** Verification of TSM Credential **
+**Verification of TSM Credential**
 
 1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity will provide the following attributes in the verification request:
--company_name
--facility_name
--facility_address
--country_operation
--products_name
--operation_type
--infrastructure_type
-3. Mining Association of Canada (MAC) will receive and review the request
-4. Any clarification questions can be asked via the secure messaging function 
-5. Once all data is entered and correct, Mining Association of Canada (MAC) will offer the credential to the business entity
-6. Business entity can choose to accept or negotiate the credential to request changes
+
+Attribute | Format | Rules | Notes
+--- | --- | --- | ---
+company_name | String | Not NULL | name of business entity
+facility_name | String | Not NULL | name of facility or site
+facility_address | String | Not NULL | address of facility or site
+country_operation | String | Not NULL | country of facility or site
+products_name | String | Not NULL | name of products or metals produced on site
+operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
+infrastructure_type | String | Not NULL | roads, rails, ports, other
+
+4. Mining Association of Canada (MAC) will receive and review the request
+5. Any clarification questions can be asked via the secure messaging function 
+6. Annual self-assessments MUST be submitted through presentation requests
+7. Once all data is submitted and correct, MAC will offer the credential to the business entity
+8. Business entity can choose to accept or negotiate the credential to request changes
 
 **Identity (Authentication)**
 -	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
@@ -157,6 +153,8 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 -	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
 -	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
 -	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
+
+* All articles concerning ESG data MUST not sold to third parties. All governing parties SHALL implement responsible use policies that apply to ESG recording.
 
 MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
 
