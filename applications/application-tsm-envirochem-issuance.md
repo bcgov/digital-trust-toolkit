@@ -128,17 +128,21 @@ TBD
 
 1. Using the established connection, Envirochem MUST receive a credential request from the business entity. 
 2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
--company_name
--facility_name
--facility_address
--country_operation
--products_name
--operation_type
--infrastructure_type
-3. Envirochem will receive and review the request
-4. Any clarification questions can be asked via the secure messaging function 
-5. Once all data is entered and correct, Envirochem will offer the credential to the business entity
-6. Business entity can choose to accept or negotiate the credential to request changes
+
+Attribute | Format | Rules | Notes
+--- | --- | --- | ---
+company_name | String | Not NULL | name of business entity
+facility_name | String | Not NULL | name of facility or site
+facility_address | String | Not NULL | address of facility or site
+country_operation | String | Not NULL | country of facility or site
+products_name | String | Not NULL | name of products or metals produced on site
+operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
+infrastructure_type | String | Not NULL | roads, rails, ports, other
+
+4. Envirochem will receive and review the request
+5. Any clarification questions can be asked via the secure messaging function 
+6. Once all data is entered and correct, Envirochem will offer the credential to the business entity
+7. Business entity can choose to accept or negotiate the credential to request changes
 
 
 **Identity (Authentication)**
