@@ -176,6 +176,7 @@ technical interoperability within this trust community.*
 ** Information privacy **
 
 •	Privacy and Minimal Disclosure: Ben to describe verbage around the work they do and how they manage privacy
+
 •	[MAC Privacy of Information](https://mining.ca/privacy-information/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
