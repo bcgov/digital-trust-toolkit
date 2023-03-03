@@ -72,10 +72,7 @@ This GF describes the BC Petroleum and Natural Gas Title Credential consisting o
 ## 1.9 Principles 
 
 ## 1.10 General Requirements
-
-### Verification Process
-
-The verification process will be ___________________________
+TBD
 
 ## 1.11. Revisions
 Version 1.0
@@ -91,7 +88,7 @@ TBD
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
-[BC Oil and Gas Regulator Oil and Gas Glossary and Definitions](https://bc-er.ca/files/operations-documentation/Oil-and-Gas-Glossary-and-Definitions.pdf)
+[BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
 
 ## 2.2. Risk Assessment
 TBD
@@ -100,28 +97,22 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
+The BC Government Tenure and Geoscience Branch updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01) 
 
 ## 2.5. Business Requirements
 
 ### Key Roles
-
-*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority.
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators. 
-*  **Verification Service Provider (VSP)**: ___________________________
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators
 
 ### Key Processes
-
 All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements
 
 ## 2.6. Technical Requirements (Credential)
-
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
-
-
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Attribute | Format | Rules | Notes	
@@ -134,11 +125,7 @@ term | String | not NULL | This describes the length of time (term) granted for 
 expiry_date | String | not Null | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
 area | String | not Null | Size included in planned use measured by hectares (surface area in plan view measures in full hectares). This includes 3 dimensional layers. 
 title_holder| String | not Null | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as ""holder of a location" means, in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership should always equal 100% total. Lessee as defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) lessee means a person in whose name a lease is recorded in the division records. 
-tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
-| | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
-| | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
-| | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as "included" or "excluded". This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. Standard Zone Designations outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates. 
-| | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
+tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings. **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as "included" or "excluded". This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. Standard Zone Designations outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates. **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 caveats | String | not Null | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
 ### 2.6.2. Credential Implementation
