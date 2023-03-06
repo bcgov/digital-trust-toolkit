@@ -55,7 +55,7 @@ The contact information for The Tenure and Resource Stewardship Branch:
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the Petroleum and Natural Gaas Tenure Branch during the pilot phase of development.
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the Petroleum and Natural Gas Tenure Branch during the pilot phase of development.
 
 ## 1.6 Purpose 
 
