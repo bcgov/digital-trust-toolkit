@@ -71,6 +71,8 @@ This GF describes the BC Petroleum and Natural Gas Title Credential consisting o
 
 ## 1.9 Principles 
 
+TBD
+
 ## 1.10 General Requirements
 
 ### Verification Process
