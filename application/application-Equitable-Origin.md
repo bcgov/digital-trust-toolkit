@@ -126,8 +126,6 @@ TBD
 
 **Processing a Request for an [EO100 Credential](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-EO100.md)**
 
-Processing a request 
-
 1. Using the established connection, Equitable Origin MUST receive a credential request from the business entity. 
 2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
 3. Equitable Origin will receive and review the request
