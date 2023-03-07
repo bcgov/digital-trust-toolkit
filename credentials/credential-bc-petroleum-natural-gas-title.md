@@ -4,9 +4,9 @@
 
 ## 1.1 Introduction
 
-The majority of subsurface petroleum and natural gas resources in British Columbia are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure)
+The majority of subsurface petroleum and natural gas resources in British Columbia are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
 
-Legislation and regulations govern the disposition, administration and management of petroleum and natural gas [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01) 
+Legislation and regulations govern the disposition, administration and management of petroleum and natural gas [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -45,21 +45,20 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF)
+[The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF). The contact for petitioners and relying parties of this GF during the pilot phase of the project is
 
-The contact information for The Tenure and Resource Stewardship Branch: 
-* 	**Name:** 
-* 	**Title:** 
-* 	**Organization:**
-* 	**Email:**
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Brairtech Consulting Inc.
+* 	**Email:** kyle.robinson@brairtech.ca
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the Petroleum and Natural Gaas Tenure Branch during the pilot phase of development.
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the The Tenure and Resource Stewardship Branch during the pilot phase of development.
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of the BC Petroleum and Natural Gas Title Credential. 
+The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation) Tenure and Resource Stewardship Branch. The structure of the credential contains all information needed to fullfill a BC Petroleum and Natural Gas Title. These systems and governance will allow for a more trustworthy ecosystem. The purpose of this governance framework is to outline all rules associated with governance, issuance, vreification and revocation of the BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.7 Scope
 
@@ -67,21 +66,23 @@ This Governance Framework (GF) is to define the parameters of a digital BC Petro
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Lease Title Document. 
+This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
 
 ## 1.9 Principles 
 
+Currently, the oil and gas industry works within a [framework of principles](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/responsible-oil-gas-development) and [regulations](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) that govern and guide operations – especially as they relate to safety, land and water use, surface and mineral rights and environmental impacts. 
+
 ## 1.10 General Requirements
 
-### Verification Process
+*This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy appies generally to the entire trust community*
 
-The verification process will be ___________________________
+When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natrual Gas Act. 
 
 ## 1.11. Revisions
-Version 1.0
+Version 1.0. This governance document has the potential to be revised and improved in the future. The governance framework is designed for change as mandated in the ToIP Metamodel. Specific revisions will be decided at a later date pending review. 
 
 ## 1.12. Extensions
-There are no extensions to this Governance Framework.
+There are no extensions to this Governance Framework. Currently during this Pilot Phase, there is not a well defined definition of how this governance is extended. In the future extension of the governance framework with other governance frameworks at the same layer or other layers will be defined. 
 
 ## 1.13. Schedule of Controlled Documents
 TBD
@@ -101,7 +102,7 @@ TBD
 
 ## 2.4. Governance Requirements
 
-Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01) 
+Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
 
@@ -113,7 +114,7 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ### Key Processes
 
-All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements
+The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 
@@ -124,22 +125,35 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
-Attribute | Format | Rules | Notes	
---- | --- | --- | --- |
-title_number | String  | not NULL | Number used to uniquely identify a title. The title number is assigned based on administrative policy by the Tenure and Resource Stewardship Branch.
-title_type | String | not NULL | This field specifies the type of title based on the [Petroleum Natural Gas Act (PNG)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). Title types can include the following: **1. Lease** ([Part 6](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part6)); **2. Permit** ([Part 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5)); **3. Drilling Licence** ([Part 5.1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5.1)), and **4. Storage Reservoir Licence** ([Part 14.130](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130)). Each title will have one title type only.
-issue_date | String | not NULL| The date when a title is issued, format is YYYY-MM-DD. Under section 64 [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section64)  the portion that is being split out is surrendered based on this section. 
-effective_date | String | not NULL | The date when the title becomes effective, format YYYY-MM-DD. This date usually follows after an issuance date and signals the start of a title period.
-term | String | not NULL | This describes the length of time (term) granted for each title, expressed in YYYY.
-expiry_date | String | not Null | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
-area | String | not Null | Size included in planned use measured by hectares (surface area in plan view measures in full hectares). This includes 3 dimensional layers. 
-title_holder| String | not Null | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as ""holder of a location" means, in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership should always equal 100% total. Lessee as defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) lessee means a person in whose name a lease is recorded in the division records. 
-tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
-| | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
-| | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
-| | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as "included" or "excluded". This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. Standard Zone Designations outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates. 
-| | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights by reference to specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
-caveats | String | not Null | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
+Name | Attribute | Format | Rules | Notes	
+--- | --- | --- | --- | --- |
+Title Number | title_number | String  | not NULL | Number used to uniquely identify a title. The title number is assigned based on administrative policy by the Tenure and Resource Stewardship Branch. The title number is associated with Exploration Licence outlined in [Section 126 part 14.126 of the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section126)
+Title Type | title_type | String | not NULL | This field specifies the type of title based on the [Petroleum Natural Gas Act (PNG)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). Title types can include the following: **1. Lease** ([Part 6](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part6)); **2. Permit** ([Part 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5)); **3. Drilling Licence** ([Part 5.1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5.1)), and **4. Storage Reservoir Licence** ([Part 14.130](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130)). Each title will have one title type only.
+Issue Date | issue_date | String | not NULL| The date when a title is issued, format is YYYY-MM-DD. Under section 64 [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section64)  the portion that is being split out is surrendered based on this section. 
+Effective Date | effective_date | String | not NULL | The date when the title becomes effective, format YYYY-MM-DD. This date usually follows after an issuance date and signals the start of a title period. This date does not change.
+Term | term | String | not NULL | This describes the length of time (term) granted for each title, expressed in YYYY. This date does not change.
+Expiry Date | expiry_date | String | not NULL | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
+Area | area | String | not NULL | Size included in planned use measured by hectares (surface area in plan view measures in full hectares). This includes 3 dimensional layers. 
+Title Holders | title_holders| String | not NULL | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as "holder of a location" meaning "in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holders can be (1) Registered Companies (2) Persons (3) does not neccessarily have to be a business located in BC. Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
+Tracts | tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
+| | | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
+| | | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
+| | | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as either "Included (I)" or "Excluded (E)". Zone names are coded  "Petroleum (P)" "Petroleum Natural Gas (PNG)" or "". Each right will be denoted by its corresponding letter. This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. 
+| | | | |**Stratigraphic Codes** are used to define tract rights.  The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. 
+| | | | | **Strata Zone Code TT** To Top Of 
+| | | | | **Strata Zone Code TB** To Base Of
+| | | | | **Strata Zone Code SE** Special Excusion 
+| | | | | **Strata Zone Code IN** In
+| | | | | **Strata Zone Code FT** From Top Of 
+| | | | | **Strata Zone Code FB** From Base Of 
+| | | | | **Strata Zone Code DT** Down to Top Of 
+| | | | | **Strata Zone Code DB** Down to Base of 
+| | | | | **Strata Zone Code BT** Below Top Of 
+| | | | | **Strata Zone Code BB** Below Base Of 
+| | | | | **Strata Zone Code AZ** All Zones
+| | | | | **Standard Zone Designations** Intervals are defined as either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) a standard 5 diget code (3) descriptions of this code including descriptions of geographical areas and details (4) shortened descriptions of these details (5) effective dates (6) expiry dates.
+| | | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
+Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
