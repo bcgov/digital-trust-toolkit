@@ -139,7 +139,20 @@ Title Holders | title_holders| String | not NULL | As defined by [the PNG](https
 Tracts | tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
 | | | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
 | | | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
-| | | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as "included" or "excluded". This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. Standard Zone Designations outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates. 
+| | | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as "included" or "excluded". This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. 
+| | | | | **Stratigraphic Codes** are used to define tract rights.  The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. 
+| | | | | **Strata Zone Code TT** To Top Of 
+| | | | | **Strata Zone Code TB** To Base Of
+| | | | | **Strata Zone Code SE** Special Excusion 
+| | | | | **Strata Zone Code IN** In
+| | | | | **Strata Zone Code FT** From Top Of 
+| | | | | **Strata Zone Code FB** From Base Of 
+| | | | | **Strata Zone Code DT** Down to Top Of 
+| | | | | **Strata Zone Code DB** Down to Base of 
+| | | | | **Strata Zone Code BT** Below Top Of 
+| | | | | **Strata Zone Code BB** Below Base Of 
+| | | | | **Strata Zone Code AZ** All Zones
+| | | | | **Standard Zone Designations** As defined in the interval is identified in either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) standards (2) codes (3) descriptions (4) short descriptions (5) effective dates (6) expiry dates.
 | | | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
