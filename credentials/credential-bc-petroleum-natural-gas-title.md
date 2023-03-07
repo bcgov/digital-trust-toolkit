@@ -67,7 +67,7 @@ This Governance Framework (GF) is to define the parameters of a digital BC Petro
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Lease Title Document. 
+This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
 
 ## 1.9 Principles 
 
