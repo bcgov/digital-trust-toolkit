@@ -115,7 +115,7 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ### Key Processes
 
-All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
+The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 
