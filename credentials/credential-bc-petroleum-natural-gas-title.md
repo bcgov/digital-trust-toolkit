@@ -59,7 +59,7 @@ The contact information for The Tenure and Resource Stewardship Branch:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of the BC Petroleum and Natural Gas Title Credential. 
+The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation). The structure of the creential contains all information eneded to fullfill a BC Petroleum and Natural Gas Title. These systems and governance will allow for a more trustworthy ecosystem. The purpose of this governance framework is to outline all rules associated with governance, issuance, vreification and recovation of the BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.7 Scope
 
