@@ -76,16 +76,7 @@ scope.
 
 ## 1.9. Principles 
 
-_these are standard principals from ToIP, example to be edited by Envirochem_
-1)	Sustainability
-2)	Stewardship 
-3)	Public good
-4)	Transparency
-5)	Citizen Engagement
-6)	Digital Sovereignty
-7)	Security
-8)	Confidence
-9)	Synchronization
+See the Envirochem Guiding Values listed on [website](https://www.envirochem.com/about/).
 
 ## 1.10. General Requirements
 TBD
@@ -116,36 +107,40 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-
-TBD
+Envirochem is a private, 100% employee-owned Canadian company. Envirochem governance is an internal process. _Neil to review_
 
 ## 2.5. Business Requirements
 
+## 2.5.1. Establishment of Connection
+
 1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
-2. The receiving party MUST accept invitation in order to establish a secure connection.
+2. The receiving party MUST use the invitation in order to establish a secure connection.
 
-** Issuance of TSM Credential **
+## 2.5.2. Issuance of TSM Credential
 
-1. Using the established connection, Envirochem MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
+1. Using the established connection, Envirochem MUST receive a credential request from the business entity 
+2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) except any verifier attributes:
 
-Attribute | Format | Rules | Notes
---- | --- | --- | ---
-company_name | String | Not NULL | name of business entity
-facility_name | String | Not NULL | name of facility or site
-facility_address | String | Not NULL | address of facility or site
-country_operation | String | Not NULL | country of facility or site
-products_name | String | Not NULL | name of products or metals produced on site
-operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
-infrastructure_type | String | Not NULL | roads, rails, ports, other
+company_name, facility_name, facility_address, country_operation, products_name, operation_type, infrastructure_type 
 
-4. Envirochem will receive and review the request
-5. Any clarification questions can be asked via the secure messaging function 
-6. Once all data is entered and correct, Envirochem will offer the credential to the business entity
-7. Business entity can choose to accept or negotiate the credential to request changes
+4. Envirochem MUST receive and review the request
+5. Any clarification questions MAY be asked via the secure messaging function 
+6. After completion of verification activity, Envirochem MUST update any attribute values as necessary
+7. Envirochem SHALL offer the credential to the business entity 
+8. Business entity MAY choose to accept or negotiate the credential to request changes
 
+## 2.5.3. Issuance of Green Marine Certification
+
+_to be completed by Envirochem_
+_[Green Marine Certification](https://green-marine.org/)_
+
+## 2.5.4. Issuance of WorkSafeBC Certification of Recognition (COR)
+_to be completed by Envirochem_
+_[WorkSafeBC Certification of Recognition (COR)](https://www.worksafebc.com/en/health-safety/create-manage/certificate-recognition)_
 
 ## 2.6. Technical Requirements
+
+## 2.6.1. Public DID of Envirochem
 
 *MUST have an Aries compatible business wallet.*
 
@@ -163,9 +158,8 @@ technical interoperability within this trust community.*
 *4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
-**Information & Privacy** _Privacy and Minimal Disclosure: Neil to describe verbage around the work they do and how they manage privacy_
 
-•	Mention company privacy policy - or copy and paste right here.
+[Envirochem Privacy Policy](https://www.envirochem.com/privacy-policy/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
