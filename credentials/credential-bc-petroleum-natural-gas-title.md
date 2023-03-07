@@ -75,15 +75,15 @@ What are the principles of stewardship?
 
 ## 1.10 General Requirements
 
-### Verification Process
+*This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy appies generally to the entire trust community*
 
-The verification process will be ___________________________
+When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natrual Gas Act. 
 
 ## 1.11. Revisions
-Version 1.0
+Version 1.0. This governance document has the potential to be revised and improved in the future. The governance framework is designed for change as mandated in the ToIP Metamodel. Specific revisions will be decided at a later date pending review. 
 
 ## 1.12. Extensions
-There are no extensions to this Governance Framework.
+There are no extensions to this Governance Framework. Currently during this Pilot Phase, there is not a well defined definition of how this governance is extended. In the future extension of the governance framework with other governance frameworks at the same layer or other layers will be defined. 
 
 ## 1.13. Schedule of Controlled Documents
 TBD
