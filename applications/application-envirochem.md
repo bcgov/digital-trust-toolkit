@@ -76,16 +76,7 @@ scope.
 
 ## 1.9. Principles 
 
-_these are standard principals from ToIP, example to be edited by Envirochem_
-1)	Sustainability
-2)	Stewardship 
-3)	Public good
-4)	Transparency
-5)	Citizen Engagement
-6)	Digital Sovereignty
-7)	Security
-8)	Confidence
-9)	Synchronization
+See the Envirochem Guiding Values listed on [website](https://www.envirochem.com/about/).
 
 ## 1.10. General Requirements
 TBD
@@ -124,7 +115,7 @@ TBD
 ## 2.5.1. Establishment of Connection
 
 1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
-2. The receiving party MUST accept invitation in order to establish a secure connection.
+2. The receiving party MUST use the invitation in order to establish a secure connection.
 
 ## 2.5.2. Issuance of TSM Credential
 
@@ -139,8 +130,18 @@ company_name, facility_name, facility_address, country_operation, products_name,
 7. Envirochem SHALL offer the credential to the business entity 
 8. Business entity MAY choose to accept or negotiate the credential to request changes
 
+## 2.5.3. Issuance of Green Marine Certification
+
+_to be completed by Envirochem_
+_[Green Marine Certification](https://green-marine.org/)_
+
+## 2.5.4. Issuance of WorkSafeBC Certification of Recognition (COR)
+_to be completed by Envirochem_
+_[WorkSafeBC Certification of Recognition (COR)](https://www.worksafebc.com/en/health-safety/create-manage/certificate-recognition)_
 
 ## 2.6. Technical Requirements
+
+## 2.6.1. Public DID of Envirochem
 
 *MUST have an Aries compatible business wallet.*
 
