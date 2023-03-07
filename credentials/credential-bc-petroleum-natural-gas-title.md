@@ -71,7 +71,7 @@ This GF describes the BC Petroleum and Natural Gas Title Credential consisting o
 
 ## 1.9 Principles 
 
-What are the principles of stewardship? 
+Currently, the oil and gas industry works within a [framework of principles](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/responsible-oil-gas-development) and [regulations](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) that govern and guide operations – especially as they relate to safety, land and water use, surface and mineral rights and environmental impacts. 
 
 ## 1.10 General Requirements
 
