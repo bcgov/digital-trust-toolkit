@@ -107,8 +107,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-
-TBD
+Envirochem is a private, 100% employee-owned Canadian company. Envirochem governance is an internal process. _Neil to review_
 
 ## 2.5. Business Requirements
 
@@ -159,9 +158,8 @@ technical interoperability within this trust community.*
 *4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
-**Information & Privacy** _Privacy and Minimal Disclosure: Neil to describe verbage around the work they do and how they manage privacy_
 
-•	Mention company privacy policy - or copy and paste right here.
+[Envirochem Privacy Policy](https://www.envirochem.com/privacy-policy/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
