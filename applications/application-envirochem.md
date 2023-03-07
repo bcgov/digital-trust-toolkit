@@ -121,28 +121,23 @@ TBD
 
 ## 2.5. Business Requirements
 
+## 2.5.1. Establishment of Connection
+
 1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-** Issuance of TSM Credential **
+## 2.5.2. Issuance of TSM Credential
 
-1. Using the established connection, Envirochem MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
+1. Using the established connection, Envirochem MUST receive a credential request from the business entity 
+2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) except any verifier attributes:
 
-Attribute | Format | Rules | Notes
---- | --- | --- | ---
-company_name | String | Not NULL | name of business entity
-facility_name | String | Not NULL | name of facility or site
-facility_address | String | Not NULL | address of facility or site
-country_operation | String | Not NULL | country of facility or site
-products_name | String | Not NULL | name of products or metals produced on site
-operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
-infrastructure_type | String | Not NULL | roads, rails, ports, other
+company_name, facility_name, facility_address, country_operation, products_name, operation_type, infrastructure_type 
 
-4. Envirochem will receive and review the request
-5. Any clarification questions can be asked via the secure messaging function 
-6. Once all data is entered and correct, Envirochem will offer the credential to the business entity
-7. Business entity can choose to accept or negotiate the credential to request changes
+4. Envirochem MUST receive and review the request
+5. Any clarification questions MAY be asked via the secure messaging function 
+6. After completion of verification activity, Envirochem MUST update any attribute values as necessary
+7. Envirochem SHALL offer the credential to the business entity 
+8. Business entity MAY choose to accept or negotiate the credential to request changes
 
 
 ## 2.6. Technical Requirements
