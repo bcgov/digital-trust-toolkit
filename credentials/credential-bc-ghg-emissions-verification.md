@@ -131,6 +131,7 @@ accreditation_status | String | Not NULL | Regulation s.33(2)(h) 	[Affirm accred
 lead_verifier_name | String | Not NULL | Regulation s.33(2)(b) 	[Lead Verifier’s name ISO14064-1:2018 ISO14064-3:2019]
 lead_verifier_email | String | Not NULL | Regulation s.33(2)(b) 	[Lead Verifier’s business email ISO14064-1:2018 ISO14064-3:2019]
 lead_verifier_phone | String | Not NULL | Regulation s.33(2)(b) 	[Lead Verifier’s telephone ISO14065:2013 ISO14064-3:2019]
+audit_standard | String | Not NULL | Regulation s.33(2)(h) 	[Affirm audit standard used by verifier. ISEA 3410 ISO14064-3:2019]
 independent_peer_reviewer_name | String | Not NULL | Regulation s.33(2)(l) 	[Peer Reviewer’s name ISO14064-3:2019]
 independent_peer_reviewer_email | String | Not NULL | Regulation s.33(2)(l) 	[Peer Reviewer’s business email ISO14064-3:2019]
 independent_peer_reviewer_phone | String | Not NULL | Regulation s.33(2)(l) 	[Peer Reviewer’s telephone ISO14064-3:2019]
