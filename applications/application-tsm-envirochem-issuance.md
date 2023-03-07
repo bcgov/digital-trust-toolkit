@@ -145,39 +145,26 @@ infrastructure_type | String | Not NULL | roads, rails, ports, other
 7. Business entity can choose to accept or negotiate the credential to request changes
 
 
-**Identity (Authentication)**
--	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
--	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
--	The Verifiable credential will be issued from the _Company_ Digital Wallet
-
-**Delegation**
--	Refers to a Verifiable Credential for permission to delegate a specific role. 
--	The VC Storage Location will be held on the digital wallet, with the VC proof being requested by the Company’s Digital wallet. 
--	VC Proof is provided by the personal digital wallet and the VC will be issued by the Company Digital wallet. 
-
-**Authorization**
--	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
--	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
--	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
-
-MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
-
 ## 2.6. Technical Requirements
 
 *MUST have an Aries compatible business wallet.*
 
-*These are the requirements governing technical interoperability. Controlled documents in this category:*
+*These are the requirements governing technical interoperability. 
+Controlled documents in this category:*
+
 *1. MUST specify how trust community members will interoperate technically using the ToIP technology
 stack by reference to any relevant ToIP specifications and recommendations.*
+
 *2. SHOULD include any additional specifications and/or specification profiles that are specific to the
 technical interoperability within this trust community.*
+
 *3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
+
 *4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
-** Information privacy **
+**Information & Privacy** _Privacy and Minimal Disclosure: Neil to describe verbage around the work they do and how they manage privacy_
 
-•	Privacy and Minimal Disclosure: Neil to describe verbage around the work they do and how they manage privacy
 •	Mention company privacy policy - or copy and paste right here.
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
