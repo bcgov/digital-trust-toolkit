@@ -76,7 +76,7 @@ Currently, the oil and gas industry works within a [framework of principles](htt
 
 *This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy appies generally to the entire trust community*
 
-When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natrual Gas Act. 
+When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
 
 ## 1.11. Revisions
 Version 1.0. This governance document has the potential to be revised and improved in the future. The governance framework is designed for change as mandated in the ToIP Metamodel. Specific revisions will be decided at a later date pending review. 
@@ -134,7 +134,7 @@ Effective Date | effective_date | String | not NULL | The date when the title be
 Term | term | String | not NULL | This describes the length of time (term) granted for each title, expressed in YYYY. This date does not change.
 Expiry Date | expiry_date | String | not NULL | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
 Area | area | String | not NULL | Size included in planned use measured by hectares (surface area in plan view measures in full hectares). This includes 3 dimensional layers. 
-Title Holders | title_holders| String | not NULL | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as "holder of a location" meaning "in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holders can be (1) Registered Companies (2) Persons (3) does not neccessarily have to be a business located in BC. Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
+Title Holders | title_holders| String | not NULL | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as "holder of a location" meaning "in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holders can be (1) Registered Companies (2) Persons (3) does not necessarily have to be a business located in BC. Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
 Tracts | tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
 | | | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
 | | | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
@@ -142,7 +142,7 @@ Tracts | tracts | String | not NULL | **Tract** is a large area of land or a mea
 | | | | |**Stratigraphic Codes** are used to define tract rights.  The Stratigraphic Codes outline (1) Strata Zone Codes (2) Descriptions (3) Effective Dates and (4) Expiry Dates. 
 | | | | | **Strata Zone Code TT** To Top Of 
 | | | | | **Strata Zone Code TB** To Base Of
-| | | | | **Strata Zone Code SE** Special Excusion 
+| | | | | **Strata Zone Code SE** Special Exclusion 
 | | | | | **Strata Zone Code IN** In
 | | | | | **Strata Zone Code FT** From Top Of 
 | | | | | **Strata Zone Code FB** From Base Of 
@@ -151,7 +151,7 @@ Tracts | tracts | String | not NULL | **Tract** is a large area of land or a mea
 | | | | | **Strata Zone Code BT** Below Top Of 
 | | | | | **Strata Zone Code BB** Below Base Of 
 | | | | | **Strata Zone Code AZ** All Zones
-| | | | | **Standard Zone Designations** Intervals are defined as either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) a standard 5 diget code (3) descriptions of this code including descriptions of geographical areas and details (4) shortened descriptions of these details (5) effective dates (6) expiry dates.
+| | | | | **Standard Zone Designations** Intervals are defined as either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) a standard 5 digit code (3) descriptions of this code including descriptions of geographical areas and details (4) shortened descriptions of these details (5) effective dates (6) expiry dates.
 | | | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
