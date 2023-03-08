@@ -58,7 +58,7 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving EnviroChem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Envirochem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 
