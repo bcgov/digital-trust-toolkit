@@ -92,7 +92,7 @@ TBD
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
-[BC Oil and Gas Regulator Oil and Gas Glossary and Definitions](https://bc-er.ca/files/operations-documentation/Oil-and-Gas-Glossary-and-Definitions.pdf)
+[BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
 
 ## 2.2. Risk Assessment
 TBD
@@ -101,28 +101,25 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
+The BC Government Tenure and Geoscience Branch updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
 
 ### Key Roles
-
-*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority.
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators. 
-*  **Verification Service Provider (VSP)**: ___________________________
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators
 
 ### Key Processes
+
+All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
-
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
-
-
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Name | Attribute | Format | Rules | Notes	
