@@ -4,7 +4,8 @@
 
 ## 1.1 Introduction
 
-The majority of subsurface petroleum and natural gas resources in British Columbia are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
+The majority of subsurface petroleum and natural gas resources in British Columbia (BC) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements with the Province give private developers rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. Information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
+
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
@@ -92,7 +93,7 @@ TBD
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
-[BC Oil and Gas Regulator Oil and Gas Glossary and Definitions](https://bc-er.ca/files/operations-documentation/Oil-and-Gas-Glossary-and-Definitions.pdf)
+[BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
 
 ## 2.2. Risk Assessment
 TBD
@@ -101,28 +102,25 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
+The BC Government Tenure and Geoscience Branch updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
 
 ### Key Roles
-
-*  **Governing Authority**: BC EMLI is the BC Petroleum and Natural Gas Title governing authority.
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators. 
-*  **Verification Service Provider (VSP)**: ___________________________
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators
 
 ### Key Processes
 
 The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
-## 2.6. Technical Requirements (Credential)
+The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
+## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
-
-
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Name | Attribute | Format | Rules | Notes	
@@ -151,7 +149,9 @@ Tracts | tracts | String | not NULL | **Tract** is a large area of land or a mea
 | | | | | **Strata Zone Code BT** Below Top Of 
 | | | | | **Strata Zone Code BB** Below Base Of 
 | | | | | **Strata Zone Code AZ** All Zones
+
 | | | | | **Standard Zone Designations** Intervals are defined as either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) a standard 5 digit code (3) descriptions of this code including descriptions of geographical areas and details (4) shortened descriptions of these details (5) effective dates (6) expiry dates.
+
 | | | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
