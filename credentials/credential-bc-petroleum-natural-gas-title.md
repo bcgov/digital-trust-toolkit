@@ -115,8 +115,6 @@ Legislation and regulations govern the disposition, administration and managemen
 
 The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
-The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
-
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
@@ -149,9 +147,7 @@ Tracts | tracts | String | not NULL | **Tract** is a large area of land or a mea
 | | | | | **Strata Zone Code BT** Below Top Of 
 | | | | | **Strata Zone Code BB** Below Base Of 
 | | | | | **Strata Zone Code AZ** All Zones
-
 | | | | | **Standard Zone Designations** Intervals are defined as either feet or meters. Then it identifies the log type. Then it identifies the well by the well permit number. These codes outline (1) a standard 5 digit code (3) descriptions of this code including descriptions of geographical areas and details (4) shortened descriptions of these details (5) effective dates (6) expiry dates.
-
 | | | | | **Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. _Specify format used_. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
