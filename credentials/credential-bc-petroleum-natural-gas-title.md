@@ -48,18 +48,18 @@ The standard language for this governing framework (GF) is English.
 
 [The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF). The contact for petitioners and relying parties of this GF during the pilot phase of the project is
 
+## 1.5. Administering Authority
+
+[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the The Tenure and Resource Stewardship Branch during the pilot phase of development.
+
 * 	**Name:** Kyle Robinson 
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
 * 	**Organization:** Brairtech Consulting Inc.
 * 	**Email:** kyle.robinson@brairtech.ca
 
-## 1.5. Administering Authority
-
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the The Tenure and Resource Stewardship Branch during the pilot phase of development.
-
 ## 1.6 Purpose 
 
-The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation) Tenure and Resource Stewardship Branch. The structure of the credential contains all information needed to fullfill a BC Petroleum and Natural Gas Title. These systems and governance will allow for a more trustworthy ecosystem. The purpose of this governance framework is to outline all rules associated with governance, issuance, vreification and revocation of the BC Petroleum and Natural Gas Title Credential. 
+The structure of the credential contains all information needed to fullfill a BC Petroleum and Natural Gas Title. These systems and governance will allow for a more trustworthy ecosystem. The purpose of this governance framework is to outline all rules associated with the BC Petroleum and Natural Gas Title Credential. 
 
 ## 1.7 Scope
 
@@ -77,7 +77,7 @@ Currently, the oil and gas industry works within a [framework of principles](htt
 
 *This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy appies generally to the entire trust community*
 
-When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
+The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation) Tenure and Resource Stewardship Branch.When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
 
 ## 1.11. Revisions
 Version 1.0. This governance document has the potential to be revised and improved in the future. The governance framework is designed for change as mandated in the ToIP Metamodel. Specific revisions will be decided at a later date pending review. 
