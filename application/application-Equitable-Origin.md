@@ -117,7 +117,7 @@ TBD
 
 ## 2.4. Governance Requirements
 
-TBD
+[Equitable Origin Governance](https://www.equitableorigin.org/about-us/overview/governance/)
 
 ## 2.5. Business Requirements
 
@@ -138,6 +138,7 @@ certificate_issuer,  certificate_number, operator, ucp_name, ucp_location_city, 
 6. Business entity MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
+## 2.6.1. Public DID of Equity Origin
 
 *MUST have an Aries compatible business wallet.*
 
@@ -150,17 +151,13 @@ technical interoperability within this trust community.*
 *4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
-** Information privacy **
 
-•	Privacy and Minimal Disclosure: 
-•	Mention company privacy policy - or copy and paste right here.
+[Privacy Policy](https://www.equitableorigin.org/privacy-policy/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
-
 ## 2.9. Legal Agreements
 TBD
-
 # End of Document
 
 
