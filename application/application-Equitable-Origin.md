@@ -121,18 +121,21 @@ TBD
 
 ## 2.5. Business Requirements
 
+## 2.5.1. Establishment of Connection
+
 1. Equitable Origin MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-**Processing a Request for an [EO100 Credential](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-EO100.md)**
+## 2.5.2. Issuance of EO100 Credential
 
 1. Using the established connection, Equitable Origin MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
-3. Equitable Origin will receive and review the request
-4. Any clarification questions can be asked via the secure messaging function 
-5. Once all data is entered and correct, Equitable Origin will offer the credential to the business entity
-6. Business entity can choose to accept or negotiate the credential to request changes
+2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [EO100 Credential](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-EO100.md):
+certificate_issuer,  certificate_number, operator, ucp_name, ucp_location_city, ucp_location_province, ucp_location_country, certification_date, expiration_date, certification_standard, assessor_name 
 
+3. Equitable Origin MUST receive and review the request
+4. Any clarification questions MAY be asked via the secure messaging function 
+5. Once all data is entered and correct, Equitable Origin SHALL offer the credential to the business entity
+6. Business entity MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
