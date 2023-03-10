@@ -68,11 +68,7 @@ Envirochem is a participant in an open ecosystem and the focus of this framework
 
 _This section states the high-level outcomes desired by the trust community through its adoption of the GF._
 
-1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
-2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
-scope.
-3. MUST be consistent with the principles of the GF (below).
-
+TBD
 
 ## 1.9. Principles 
 
@@ -82,21 +78,37 @@ See the Envirochem Guiding Values listed on [website](https://www.envirochem.com
 TBD
 
 ## 1.11. Revisions
-
-_TBD - How and when Envirochem would change governance framework_
+TBD
 
 ## 1.12. Extensions
 
 There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
-
 TBD
 
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-N/A
+
+__Client__: The MAC Member that engages a Verifier to perform a TSM external verification.
+
+__Communities of Interest (COI)__: Individuals and groups that have an interest in, or believe they 
+may be affected by, decisions regarding the management of a MAC Member’s mining or 
+metallurgical operations.
+
+__Community of Interest Advisory Panel (COI Panel)__: A formal, multi-interest group comprised of 
+representatives of civil society, Indigenous communities, mining communities, organized labour, 
+and the financial sector, among others. The COI Panel plays an advisory and oversight role with 
+respect to TSM.
+
+__Facility__: A distinct operating unit of a company at which the TSM performance indicators can be 
+applied. Companies may categorize their facilities differently.
+
+__Mining Association of Canada (MAC) Member__: A company that is a member of MAC.
+
+__Verifier__: An individual that, meeting all the requirements of these Terms of Reference for Verifiers, 
+is engaged by a Client to perform an external verification of TSM performance.
 
 ## 2.2. Risk Assessment
 
@@ -107,7 +119,8 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-Envirochem is a private, 100% employee-owned Canadian company. Envirochem governance is an internal process. _Neil to review_
+Envirochem is a private, 100% employee-owned Canadian company. 
+Envirochem governance is an internal process. 
 
 ## 2.5. Business Requirements
 
@@ -118,16 +131,18 @@ Envirochem is a private, 100% employee-owned Canadian company. Envirochem govern
 
 ## 2.5.2. Issuance of TSM Credential
 
-1. Using the established connection, Envirochem MUST receive a credential request from the business entity 
-2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) except any verifier attributes:
+1. Using the established connection, Envirochem MUST receive a credential request from the client.
+2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
 
-company_name, facility_name, facility_address, country_operation, products_name, operation_type, infrastructure_type 
+__Facility Information__: company_name, facility_name, facility_address, country_operation, products_name, operation_type, infrastructure_type
+
+__Summary of Findings__: indigenous_q1, indigenous_q2, indigenous_q3, indigenous_q4, indigenous_q5, safety_health_q1, safety_health_q2, safety_health_q3, safety_health_q4, safety_health_q4_pd, safety_health_q5, corp_crisis_and_communication_preparedness, corp_crisis_and_communication_review, corp_crisis_and_communication_training, labour_forced_q1, labour_child_q2, corp_climate_q1, site_climate_q2, site_climate_q3, biodiversity_conservation_q1, biodiversity_conservation_q2, biodiversity_conservation_q3, tailings_management_q1, tailings_management_q2, tailings_management_q3, tailings_management_q4, tailings_management_q5, water_stewardship_q1, water_stewardship_q2, water_stewardship_q3, water_stewardship_q4
 
 4. Envirochem MUST receive and review the request
 5. Any clarification questions MAY be asked via the secure messaging function 
 6. After completion of verification activity, Envirochem MUST update any attribute values as necessary
-7. Envirochem SHALL offer the credential to the business entity 
-8. Business entity MAY choose to accept or negotiate the credential to request changes
+7. Envirochem SHALL offer the credential to the client 
+8. Client MAY choose to accept or negotiate the credential to request changes
 
 ## 2.5.3. Issuance of Green Marine Certification
 
@@ -142,20 +157,7 @@ _[WorkSafeBC Certification of Recognition (COR)](https://www.worksafebc.com/en/h
 
 ## 2.6.1. Public DID of Envirochem
 
-*MUST have an Aries compatible business wallet.*
-
-*These are the requirements governing technical interoperability. 
-Controlled documents in this category:*
-
-*1. MUST specify how trust community members will interoperate technically using the ToIP technology
-stack by reference to any relevant ToIP specifications and recommendations.*
-
-*2. SHOULD include any additional specifications and/or specification profiles that are specific to the
-technical interoperability within this trust community.*
-
-*3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
-
-*4. SHOULD reference any test suites or other testing requirements.*
+__MUST have an Aries compatible business wallet.__
 
 ## 2.7. Information Trust Requirements
 
