@@ -5,7 +5,7 @@
 
 ## 1.1. Introduction 
 
-This document articulates the governance framework for Envirochem as an issuer of a verifiable credential [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
+This document articulates the governance framework for Envirochem as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -90,25 +90,7 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-
-__Client__: The MAC Member that engages a Verifier to perform a TSM external verification.
-
-__Communities of Interest (COI)__: Individuals and groups that have an interest in, or believe they 
-may be affected by, decisions regarding the management of a MAC Member’s mining or 
-metallurgical operations.
-
-__Community of Interest Advisory Panel (COI Panel)__: A formal, multi-interest group comprised of 
-representatives of civil society, Indigenous communities, mining communities, organized labour, 
-and the financial sector, among others. The COI Panel plays an advisory and oversight role with 
-respect to TSM.
-
-__Facility__: A distinct operating unit of a company at which the TSM performance indicators can be 
-applied. Companies may categorize their facilities differently.
-
-__Mining Association of Canada (MAC) Member__: A company that is a member of MAC.
-
-__Verifier__: An individual that, meeting all the requirements of these Terms of Reference for Verifiers, 
-is engaged by a Client to perform an external verification of TSM performance.
+TBD
 
 ## 2.2. Risk Assessment
 
@@ -130,6 +112,8 @@ Envirochem governance is an internal process.
 2. The receiving party MUST use the invitation in order to establish a secure connection.
 
 ## 2.5.2. Third Party Verification of TSM Protocols
+
+Please [reference the __TSM Terms of Reference__ governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols. 
 
 1. Using the established connection, Envirochem MUST receive a credential request from the client.
 2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
