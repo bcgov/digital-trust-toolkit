@@ -131,9 +131,9 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ### 2.6.1 Schema Definition
 
-__Schema Name:__ TSM-Protocol
+__Schema Name:__ tsm.protocol
 
-__Schema Version:__ Version 1.0
+__Schema Version:__ 1.0
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
