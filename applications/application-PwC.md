@@ -4,7 +4,7 @@
 
 ## 1.1. Introduction 
 
-This document articulates the governance framework for PricewaterhouseCoopers (PwC) as an issuer of a verifiable credential [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
+This document articulates the governance framework for PricewaterhouseCoopers (PwC) as an actor involved in the verifiable credential exchanges [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -44,8 +44,8 @@ The standard language for this Governance Framework (GF) is American English.
 ## 1.4. Governing Authority 
 
 1)	PricewaterhouseCoopers (PwC) is the Governing Authority responsible for this Governance Framework (GF).
-3)	Company Registration Information - [PricewaterhouseCoopers (PwC)](https://www.orgbook.gov.bc.ca/entity/FM0055862)
-4)	The contact information for [PricewaterhouseCoopers (PwC)](https://www.PricewaterhouseCoopers (PwC).com/) during the pilot phase of development is:
+3)	Company Registration Information - [PricewaterhouseCoopers (PwC)](https://www.orgbook.gov.bc.ca/entity/FM0242484)
+4)	The contact information for [PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) during the pilot phase of development is:
 * 	**Name:** 
 * 	**Title:** 
 * 	**Organization:** PricewaterhouseCoopers LLP
@@ -75,16 +75,7 @@ scope.
 
 ## 1.9. Principles 
 
-_these are standard principals from ToIP, example to be edited by PricewaterhouseCoopers (PwC)_
-1)	Sustainability
-2)	Stewardship 
-3)	Public good
-4)	Transparency
-5)	Citizen Engagement
-6)	Digital Sovereignty
-7)	Security
-8)	Confidence
-9)	Synchronization
+See the PricewaterhouseCoopers (PwC) Values listed on [PwC's website](https://www.pwc.com/gx/en/about/purpose-and-values.html)
 
 ## 1.10. General Requirements
 TBD
@@ -104,7 +95,7 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-N/A
+
 
 ## 2.2. Risk Assessment
 
@@ -120,30 +111,27 @@ TBD
 
 ## 2.5. Business Requirements
 
+### 2.5.1. Establishing connections
+
 1. PricewaterhouseCoopers (PwC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-** Issuance of GHG Credential **
+### 2.5.2. Issuance of GHG Credential / Third-party Verification of Annual GHG Report
 
 1. Using the established connection, PwC MUST receive a credential request from the business entity. 
 2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
 3. PwC will receive and review the request
 4. Any clarification questions can be asked via the secure messaging function 
 5. Once all data is entered and correct, PwC will offer the credential to the business entity
-6. Business entity can choose to accept or negotiate the credential to request changes
 
 
-**Identity (Authentication)**
+### 2.5.3. Identity (Authentication)
 -	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
--	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
--	The Verifiable credential will be issued from the _Company_ Digital Wallet
 
-**Delegation**
+### 2.5.4. Delegation
 -	Refers to a Verifiable Credential for permission to delegate a specific role. 
--	The VC Storage Location will be held on the digital wallet, with the VC proof being requested by the Company’s Digital wallet. 
--	VC Proof is provided by the personal digital wallet and the VC will be issued by the Company Digital wallet. 
 
-**Authorization**
+### 2.5.5. Authorization
 -	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
 -	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
 -	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
@@ -163,10 +151,8 @@ technical interoperability within this trust community.*
 *4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
-** Information privacy **
 
-•	Privacy and Minimal Disclosure: 
-•	Mention company privacy policy - or copy and paste right here.
+Refers to [PwC's code of conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
