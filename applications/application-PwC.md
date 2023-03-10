@@ -152,7 +152,7 @@ technical interoperability within this trust community.*
 
 ## 2.7. Information Trust Requirements
 
-Refers to [PwC's code of conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.)
+Refers to [PwC's code of conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.) and [PwC's privacy commitment](https://www.pwc.com/ca/en/privacy-policy.html#:~:text=We%20will%20always%20collect%20your,otherwise%20permitted%20by%20applicable%20law.)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
