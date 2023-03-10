@@ -129,7 +129,7 @@ Envirochem governance is an internal process.
 1. Envirochem MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST use the invitation in order to establish a secure connection.
 
-## 2.5.2. Issuance of TSM Credential
+## 2.5.2. Third Party Verification of TSM Protocols
 
 1. Using the established connection, Envirochem MUST receive a credential request from the client.
 2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
@@ -144,12 +144,12 @@ __Summary of Findings__: indigenous_q1, indigenous_q2, indigenous_q3, indigenous
 7. Envirochem SHALL offer the credential to the client 
 8. Client MAY choose to accept or negotiate the credential to request changes
 
-## 2.5.3. Issuance of Green Marine Certification
+## 2.5.3. Green Marine Certification
 
 _to be completed by Envirochem_
 _[Green Marine Certification](https://green-marine.org/)_
 
-## 2.5.4. Issuance of WorkSafeBC Certification of Recognition (COR)
+## 2.5.4. WorkSafeBC Certification of Recognition (COR)
 _to be completed by Envirochem_
 _[WorkSafeBC Certification of Recognition (COR)](https://www.worksafebc.com/en/health-safety/create-manage/certificate-recognition)_
 
