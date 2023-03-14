@@ -131,6 +131,10 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ### 2.6.1 Schema Definition
 
+__Schema Name:__ tsm.protocol
+
+__Schema Version:__ 1.0
+
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
 Attribute | Format | Rules | Notes
@@ -178,9 +182,20 @@ corp_climate_q1 | String | Not NULL | levels C - AAA, coporate level management
 site_climate_q2 | String | Not NULL | levels C - AAA, site level management
 site_climate_q3 | String | Not NULL | levels C - AAA, site performance targets and reporting
 climate_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for climate protocols
-tailings_management_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for tailings management protocols
+biodiversity_conservation_q1 | String | Not NULL | levels C - AAA, corporate conservation commitment, accountability, and communications
+biodiversity_conservation_q2 | String | Not NULL | levels C - AAA, conservation planning and implementation
+biodiversity_conservation_q3 | String | Not NULL | levels C - AAA, conservation reporting
 biodiversity_conservation_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for biodiversity protocols
-energy_ghg_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for energy and ghg protocols
+tailings_management_q1 | String | Not NULL | levels C - AAA, management policy and commitment
+tailings_management_q2 | String | Not NULL | levels C - AAA, management system and emergency preparedness
+tailings_management_q3 | String | Not NULL | levels C - AAA, assigned accountability and responsibility
+tailings_management_q4 | String | Not NULL | levels C - AAA, annual review
+tailings_management_q5 | String | Not NULL | levels C - AAA, operation, maintenance, and surveillance
+tailings_management_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for tailings management protocols
+water_stewardship_q1 | String | Not NULL | levels C - AAA, water governance
+water_stewardship_q2 | String | Not NULL | levels C - AAA, operational management
+water_stewardship_q3 | String | Not NULL | levels C - AAA, watershed-scale planning
+water_stewardship_q4 | String | Not NULL | levels C - AAA, reporting and performance
 water_stewardship_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for water stewardship protocols
 
 ### 2.6.2. Credential Implementation
