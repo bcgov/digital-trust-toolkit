@@ -74,7 +74,7 @@ Currently, the oil and gas industry works within a [framework of principles](htt
 
 ## 1.10 General Requirements
 
-*This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy alppies generally to the entire trust community*
+*This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy applies generally to the entire trust community*
 
 The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
 
