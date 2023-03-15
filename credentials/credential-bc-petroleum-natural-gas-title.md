@@ -102,7 +102,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The BC Government Tenure and Geoscience Branch updates and manages this credential governance framework.
+The BC Government Tenure and Resource Stewardship Branch updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
@@ -133,7 +133,7 @@ Term | term | String | not NULL | This describes the length of time (term) grant
 Expiry Date | expiry_date | String | not NULL | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
 Area | area | String | not NULL | Size included in planned use measured by hectares (surface area in plan view measures in hectares). This includes 3 dimensional layers. 
 Title Holders | title_holders| String | not NULL | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as "holder of a location" meaning "in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holders can be (1) Registered Companies (2) Persons (3) does not necessarily have to be a business located in BC. Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
-Tracts | tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
+Tracts | tracts | String | not NULL | A **Tract** is an area of land within a title defined by locations sharing identical rights. This attribute has all of the tract(s) information contained within a title.
 | | | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
 | | | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
 | | | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as either "Included (I)" or "Excluded (E)". Zone names are coded  "Petroleum (P)" "Petroleum Natural Gas (PNG)" (or other relevant codes). Each right will be denoted by its corresponding letter. This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. 
