@@ -1,5 +1,4 @@
-# BC Petroleum Natural Gas Title Governance Framework (Primary Document)
-
+# BC Petroleum & Natural Gas Title Credential - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
@@ -74,15 +73,17 @@ Currently, the oil and gas industry works within a [framework of principles](htt
 
 ## 1.10 General Requirements
 
-*This section is reserved for policies that apply generally to the GF as a whole, and not just in the context of a particular controlled document. This policy applies generally to the entire trust community*
-
-The Petroleum and Natural Gas Title Credential must be issued by EMLI (Ministry of Energy, Mines and Low Carbon Innovation) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
+The Petroleum and Natural Gas Title Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
 
 ## 1.11. Revisions
-Version 1.0. This governance document has the potential to be revised and improved in the future. The governance framework is designed for change as mandated in the ToIP Metamodel. Specific revisions will be decided at a later date pending review. 
+
+Version 1.0. 
 
 ## 1.12. Extensions
-There are no extensions to this Governance Framework. Currently during this Pilot Phase, there is not a well defined definition of how this governance is extended. In the future extension of the governance framework with other governance frameworks at the same layer or other layers will be defined. 
+
+There are no extensions to this Governance Framework. 
+
+During the pilot phase of development, no definition parameters exist of how governance may be extended. 
 
 ## 1.13. Schedule of Controlled Documents
 TBD
@@ -158,14 +159,14 @@ Ledger | SCHEMA DEF | CRED DEF | Notes
 BCovrin Test | TBD | --- | ---
 
 ## 2.7. Information Trust Requirements
-BC is bound by the [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00). BC’s Freedom of Information and Protection of Privacy Act sets out the access and privacy rights of individuals as they relate to the public sector.
+
+The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
-BC is bound by legislation such as the [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) 
+The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
-BC has developed a [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) which outlines a government wide strategy in supporting inclusion, equitability and access throughout the province. 
-
+The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
 
 ## 2.9. Legal Agreements
 TBD
