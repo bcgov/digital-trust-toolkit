@@ -45,7 +45,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF). The contact for petitioners and relying parties of this GF during the pilot phase of the project is
+[The Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF). 
 
 ## 1.5. Administering Authority
 
