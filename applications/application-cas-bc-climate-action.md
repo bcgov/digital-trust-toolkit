@@ -1,4 +1,4 @@
-## BC Climate Action Secretariat (CAS) Governance Framework (Primary Document)
+## BC Climate Action Secretariat (CAS) Governance Framework - Draft
 
 # Primary Document
 
