@@ -53,7 +53,7 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
 
 ## 1.6. Purpose
 
