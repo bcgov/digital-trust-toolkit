@@ -121,6 +121,11 @@ The primary use of the Petroleum and Natural Gas Title Credential is to allow ho
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
+
+Schema Name: png.title
+
+Schema Version: 1.0
+
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Name | Attribute | Format | Rules | Notes	
