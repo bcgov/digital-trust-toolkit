@@ -156,7 +156,7 @@ Caveats | caveats | String | not NULL | Caveats provide information and guidance
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF | CRED DEF | Notes	
 --- | --- | --- | ---
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 | --- | ---
+BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 | [Tenure and Resource Stewardship Branch Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/bblazicevic-TRSB-Governance/applications/Tenure_and_Resource_Stewardship_Branch.md) | Version 1.0
 
 ## 2.7. Information Trust Requirements
 
