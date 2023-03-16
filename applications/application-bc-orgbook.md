@@ -17,3 +17,4 @@ Issuing Credentials to Business Wallet
       }
 ]
 ```
+https://github.com/bcgov/orgbook-bc-client#readme
