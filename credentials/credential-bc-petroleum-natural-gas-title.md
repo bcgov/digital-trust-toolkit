@@ -154,9 +154,9 @@ Tracts | tracts | String | not NULL | A **Tract** is an area of land within a ti
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
 ### 2.6.2. Credential Implementation
-Ledger | SCHEMA DEF | CRED DEF | Notes	
---- | --- | --- | ---
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 | [Tenure and Resource Stewardship Branch Governance Framework](https://github.com/bcgov/bc-vcpedia/blob/bblazicevic-TRSB-Governance/applications/Tenure_and_Resource_Stewardship_Branch.md) | Version 1.0
+Ledger | SCHEMA DEF |
+--- | --- |
+BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 |
 
 ## 2.7. Information Trust Requirements
 
