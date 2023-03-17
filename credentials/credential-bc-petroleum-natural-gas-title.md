@@ -48,7 +48,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the The Tenure and Resource Stewardship Branch during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf the The Tenure and Resource Stewardship Branch during the pilot phase of development.
 
 * 	**Name:** Kyle Robinson 
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
@@ -102,7 +102,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The BC Government Tenure and Geoscience Branch updates and manages this credential governance framework.
+The BC Government Tenure and Resource Stewardship Branch updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
@@ -121,6 +121,11 @@ The primary use of the Petroleum and Natural Gas Title Credential is to allow ho
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
+
+Schema Name: png.title
+
+Schema Version: 1.0
+
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 Name | Attribute | Format | Rules | Notes	
@@ -132,8 +137,8 @@ Effective Date | effective_date | String | not NULL | The date when the title be
 Term | term | String | not NULL | This describes the length of time (term) granted for each title, expressed in YYYY. This date does not change.
 Expiry Date | expiry_date | String | not NULL | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
 Area | area | String | not NULL | Size included in planned use measured by hectares (surface area in plan view measures in hectares). This includes 3 dimensional layers. 
-Title Holders | title_holders| String | not NULL | As defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130), a title holder is "a person in whose name a PNG title document is recorded in the divisions records". Holder is also defined as "holder of a location" meaning "in accordance with the context, a permittee, licensee" _Format is first name, middle name, last name._ Title holders can be (1) Registered Companies (2) Persons (3) does not necessarily have to be a business located in BC. Title holder will hold a percentage (%) interest in the title. Percent Interest defines the percentage (%) of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
-Tracts | tracts | String | not NULL | **Tract** is a large area of land or a measured area of land. 
+Title Holders | title_holders| String | not NULL | The [PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130) describes a "holder of a location" as meaning "in accordance with the context, a permittee, licensee" . In this credential, the term title holder is used to reference a person in whose name a PNG title document is recorded in the division records. Title holders can be registered companies, and/or persons. A Title Holder will hold a percentage (%) interest in the title. Percent interest defines the percentage of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). According to the act, lessee is defined as "a person in whose name a lease is recorded in the division records". 
+Tracts | tracts | String | not NULL | A **Tract** is an area of land within a title defined by locations sharing identical rights. This attribute has all of the tract(s) information contained within a title.
 | | | | | **Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.  
 | | | | | **Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC. _Specify the format_. 
 | | | | | **Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as either "Included (I)" or "Excluded (E)". Zone names are coded  "Petroleum (P)" "Petroleum Natural Gas (PNG)" (or other relevant codes). Each right will be denoted by its corresponding letter. This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations. 
@@ -154,9 +159,9 @@ Tracts | tracts | String | not NULL | **Tract** is a large area of land or a mea
 Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
 
 ### 2.6.2. Credential Implementation
-Ledger | SCHEMA DEF | CRED DEF | Notes	
---- | --- | --- | ---
-BCovrin Test | TBD | --- | ---
+Ledger | SCHEMA DEF |
+--- | --- |
+BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 |
 
 ## 2.7. Information Trust Requirements
 
