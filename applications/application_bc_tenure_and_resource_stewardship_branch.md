@@ -60,7 +60,7 @@ The standard language for this Governance Framework (GF) is American English.
 The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving the Tenure and Resource Stewardship Branch (TRSB) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with TRSB in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
-The Tenure and Resource Stewardship Branch (TRSB) is a participant in an open ecosystem and the focus of this framework is to describe the process Tenure uses for digital exchanges on Indy networks.
+The Tenure and Resource Stewardship Branch (TRSB) is a participant in an open ecosystem and the focus of this framework is to describe the process TRSB uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
@@ -68,7 +68,7 @@ TBD
 
 ## 1.9. Principles 
 
-TBD
+[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10. General Requirements
 TBD
@@ -132,6 +132,8 @@ The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.go
 The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
 The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
+
+The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
 TBD
