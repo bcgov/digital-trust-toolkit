@@ -57,19 +57,23 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.6 Purpose 
 
-The structure of the credential contains all information needed to fulfill a BC Petroleum and Natural Gas Title. These systems and governance will allow for a more trustworthy ecosystem. The purpose of this governance framework is to outline the BC Petroleum and Natural Gas Title Credential. 
+The purpose of this Governance Framework (GF) is to define the parameters of a BC Petroleum and Natural Gas Title credential. 
 
 ## 1.7 Scope
 
-This Governance Framework (GF) is to define the parameters of a digital BC Petroleum and Natural Gas Title Credential. 
+This Governance Framework (GF) applies to the BC Petroleum and Natural Gas Title credential from [the Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natural Gas Title Credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
+This GF describes the BC Petroleum and Natural Gas Title credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
 
 ## 1.9 Principles 
 
 Currently, the oil and gas industry works within a [framework of principles](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/responsible-oil-gas-development) and [regulations](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) that govern and guide operations – especially as they relate to safety, land and water use, surface and mineral rights and environmental impacts. 
+
+* the Petroleum and Natural Gas Act
+Petroleum and Natural Gas Act Regulations
+See petroleum and natural gas tenure policy guides
 
 ## 1.10 General Requirements
 
@@ -102,7 +106,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The BC Government Tenure and Resource Stewardship Branch updates and manages this credential governance framework.
+The BC Tenure and Resource Stewardship Branch (TRSB) updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
