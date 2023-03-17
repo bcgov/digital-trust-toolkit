@@ -87,7 +87,8 @@ TBD
 
 ## 2.1. Glossary
 
-Title Holder - In the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md), the term title holder is used to reference a person and/or a company in whose name a PNG title document is recorded in the division records.
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators
+*  **Title Holder**: In the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md), the term title holder is used to reference a person and/or a company in whose name a PNG title document is recorded in the division records.
 
 ## 2.2. Risk Assessment
 
