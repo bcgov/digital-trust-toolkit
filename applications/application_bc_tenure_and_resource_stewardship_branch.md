@@ -86,7 +86,8 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-TBD
+
+Title Holder - In the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md), the term title holder is used to reference a person and/or a company in whose name a PNG title document is recorded in the divisions records.
 
 ## 2.2. Risk Assessment
 
@@ -107,12 +108,12 @@ TBD
 
 ## 2.5.2. Issuance of BC Petroleum & Natural Gas Title Credential 
 
-1. Using the established connection, TRSB MUST issue a credential to the business entity.
-2. TRSB MUST complete the attributes as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md)
-3. Any clarification questions MAY be asked via the secure messaging function 
-4. After completion of verification activity, Tenure MUST update any attribute values as necessary
-5. TRSB SHALL offer the credential to the client 
-6. Client MAY choose to accept or negotiate the credential to request changes
+Using the established connection, TRSB MUST issue a credential to the business entity.
+
+1. TRSB MUST enter in the data for each of the credential attributes as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md)
+3. TRSB SHALL offer the credential to the title holder
+4. Any clarification questions MAY be asked via the secure messaging function
+5. The title holder MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
