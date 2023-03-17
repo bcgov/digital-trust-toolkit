@@ -107,20 +107,20 @@ TBD
 
 ## 2.5.2. Issuance of BC Petroleum & Natural Gas Title Credential 
 
-1. Using the established connection, TRSB MUST receive a credential request from the client.
-2. Continuing from step 1, the client MUST provide attributes in the credential request as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md)
-4. TRSB MUST receive and review the request
-5. Any clarification questions MAY be asked via the secure messaging function 
-6. After completion of verification activity, Tenure MUST update any attribute values as necessary
-7. TRSB SHALL offer the credential to the client 
-8. Client MAY choose to accept or negotiate the credential to request changes
-
+1. Using the established connection, TRSB MUST issue a credential to the business entity.
+2. TRSB MUST complete the attributes as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md)
+3. Any clarification questions MAY be asked via the secure messaging function 
+4. After completion of verification activity, Tenure MUST update any attribute values as necessary
+5. TRSB SHALL offer the credential to the client 
+6. Client MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
-## 2.6.1. Public DID of Tenure
+## 2.6.1. Public DID of Tenure and Resource Stewardship Branch (TRSB)
 
-__MUST have an Aries compatible business wallet.__
+Ledger | DID |
+--- | --- |
+BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa |
 
 ## 2.7. Information Trust Requirements
 
