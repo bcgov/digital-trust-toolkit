@@ -96,6 +96,8 @@ TBD
 [BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
 
 *  **Credential Holders**: BC Petroleum and Natural Gas Operators
+*   **Title Holder**: A person and/or a company in whose name a PNG title document is recorded in the division records
+
 
 ## 2.2. Risk Assessment
 TBD
