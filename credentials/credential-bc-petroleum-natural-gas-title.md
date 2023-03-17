@@ -9,7 +9,7 @@ Further information can be found on the [BC Government Petroleum and Natural Gas
 
 The following legislation and regulations govern the disposition, administration and management of petroleum and natural gas in BC:
 
-* 	The [Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01)
+* 	[The Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01)
 * 	[The Petroleum and Natural Gas Act Regulations](https://www.bclaws.gov.bc.ca/civix/content/complete/statreg/1922970521/96361/reg96361/?xsl=/templates/browse.xsl)
 * 	[Petroleum and Natural Gas Tenure Policy Guides](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure/publications)
 
