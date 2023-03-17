@@ -69,11 +69,7 @@ This GF describes the BC Petroleum and Natural Gas Title credential consisting o
 
 ## 1.9 Principles 
 
-Currently, the oil and gas industry works within a [framework of principles](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/responsible-oil-gas-development) and [regulations](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) that govern and guide operations – especially as they relate to safety, land and water use, surface and mineral rights and environmental impacts. 
-
-* the Petroleum and Natural Gas Act
-Petroleum and Natural Gas Act Regulations
-See petroleum and natural gas tenure policy guides
+[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
 
