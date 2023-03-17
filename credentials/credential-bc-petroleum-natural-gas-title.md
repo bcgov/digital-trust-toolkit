@@ -99,6 +99,8 @@ TBD
 
 [BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
 
+*  **Credential Holders**: BC Petroleum and Natural Gas Operators
+
 ## 2.2. Risk Assessment
 TBD
 
@@ -111,11 +113,6 @@ The BC Tenure and Resource Stewardship Branch (TRSB) updates and manages this cr
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
-
-### Key Roles
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators
-
-### Key Processes
 
 The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. The Petroleum and Natural Gas Title Credential will be issued by the Ministry of Energy and Mines, Tenure and Resource Stewardship Branch. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
@@ -176,6 +173,8 @@ The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.go
 The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
 The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
+
+The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
 TBD
