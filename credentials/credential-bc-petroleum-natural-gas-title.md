@@ -3,11 +3,15 @@
 
 ## 1.1 Introduction
 
-The majority of subsurface petroleum and natural gas (PNG) resources in British Columbia (BC) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements are the mechanism used by the Province to give rights to petroleum and natural gas resources through Petroleum and Natural Gas Titles. 
+The majority of subsurface petroleum and natural gas (PNG) resources in British Columbia (BC) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements are the mechanism used by the Province to give rights to petroleum and natural gas resources through issuance of Petroleum and Natural Gas Titles. 
 
 Further information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
 
-Legislation and regulations govern the disposition, administration and management of petroleum and natural gas [BC Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
+The following legislation and regulations govern the disposition, administration and management of petroleum and natural gas in BC:
+
+* 	The [Petroleum and Natural Gas Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01)
+* 	[The Petroleum and Natural Gas Act Regulations](https://www.bclaws.gov.bc.ca/civix/content/complete/statreg/1922970521/96361/reg96361/?xsl=/templates/browse.xsl)
+* 	[Petroleum and Natural Gas Tenure Policy Guides](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure/publications)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
