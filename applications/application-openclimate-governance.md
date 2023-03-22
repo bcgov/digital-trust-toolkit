@@ -1,5 +1,3 @@
-## Title: ecosystem-openclimate-governance.md
-
 # OpenClimate Ecosystem Governance Framework
 
 # Primary Document
