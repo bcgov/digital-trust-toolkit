@@ -72,7 +72,6 @@ _This section states the high-level outcomes desired by the trust community thro
 scope.
 3. MUST be consistent with the principles of the GF (below).
 
-
 ## 1.9. Principles 
 
 See the PricewaterhouseCoopers (PwC) Values listed on [PwC's website](https://www.pwc.com/gx/en/about/purpose-and-values.html)
@@ -81,7 +80,9 @@ See the PricewaterhouseCoopers (PwC) Values listed on [PwC's website](https://ww
 TBD
 
 ## 1.11. Revisions
+
 Version 1.0
+
 _TBD - How and when PricewaterhouseCoopers (PwC) would change governance framework_
 
 ## 1.12. Extensions
@@ -124,31 +125,9 @@ TBD
 4. Any clarification questions can be asked via the secure messaging function 
 5. Once all data is entered and correct, PwC will offer the credential to the business entity
 
-
-### 2.5.3. Identity (Authentication)
--	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
-
-### 2.5.4. Delegation
--	Refers to a Verifiable Credential for permission to delegate a specific role. 
-
-### 2.5.5. Authorization
--	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
--	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
--	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
-
-MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
-
 ## 2.6. Technical Requirements
 
-*MUST have an Aries compatible business wallet.*
-
-*These are the requirements governing technical interoperability. Controlled documents in this category:*
-*1. MUST specify how trust community members will interoperate technically using the ToIP technology
-stack by reference to any relevant ToIP specifications and recommendations.*
-*2. SHOULD include any additional specifications and/or specification profiles that are specific to the
-technical interoperability within this trust community.*
-*3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
-*4. SHOULD reference any test suites or other testing requirements.*
+*MUST have an Hyperledger Aries compatible business wallet.*
 
 ## 2.7. Information Trust Requirements
 
