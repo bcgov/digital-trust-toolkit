@@ -43,10 +43,9 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-1)	PricewaterhouseCoopers (PwC) is the Governing Authority responsible for this Governance Framework (GF).
-3)	Company Registration Information - [PricewaterhouseCoopers (PwC)](https://www.orgbook.gov.bc.ca/entity/FM0242484)
-4)	The contact information for [PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) during the pilot phase of development is:
-* 	**Name:** 
+PricewaterhouseCoopers (PwC) is the Governing Authority responsible for this Governance Framework (GF).
+The contact information for [PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) during the pilot phase of development is:
+* 	**Name:** Naomi
 * 	**Title:** 
 * 	**Organization:** PricewaterhouseCoopers LLP
 * 	**Email:** 
@@ -54,6 +53,12 @@ The standard language for this Governance Framework (GF) is American English.
 ## 1.5. Administering Authority
 
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+
+The contact information for EMDT during the pilot phase of development is:
+* 	**Name:** Kyle
+* 	**Title:** 
+* 	**Organization:** 
+* 	**Email:** 
 
 ## 1.6. Purpose
 
