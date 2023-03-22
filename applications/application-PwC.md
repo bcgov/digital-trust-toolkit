@@ -116,7 +116,7 @@ TBD
 1. PricewaterhouseCoopers (PwC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-### 2.5.2. Issuance of GHG Credential / Third-party Verification of Annual GHG Report
+### 2.5.2. Third-party GHG Verification Statement
 
 1. Using the established connection, PwC MUST receive a credential request from the business entity. 
 2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
