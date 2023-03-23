@@ -59,7 +59,7 @@ The standard language for this governing framework (GF) is English.
 * 	**Name:** Kyle Robinson 
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
 * 	**Organization:** Brairtech Consulting Inc.
-* 	**Email:** kyle.robinson@brairtech.ca
+* 	**Email:** kyle.robinson@briartech.ca 
 
 ## 1.6 Purpose 
 
