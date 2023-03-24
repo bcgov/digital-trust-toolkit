@@ -125,9 +125,9 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ## 2.6.1 Schema Definition
 
-Schema Name: png.title
+__Schema Name:__ png.title
 
-Schema Version: 1.0
+__Schema Version:__ 1.0
 
 This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
