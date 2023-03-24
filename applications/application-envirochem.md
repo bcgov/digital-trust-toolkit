@@ -81,7 +81,7 @@ TBD
 
 ## 1.9. Principles 
 
-See [Envirochem's Guiding Values](https://www.envirochem.com/about/).
+See [Envirochem's Guiding Values](https://www.envirochem.com/about/)
 
 ## 1.10. General Requirements
 TBD
