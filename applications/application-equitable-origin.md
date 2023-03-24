@@ -137,7 +137,8 @@ TBD
 ## 2.5.2. Issuance of EO100 Credential
 
 1. Using the established connection, Equitable Origin MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [EO100 Credential](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-EO100.md):
+2. Continuing from step 1, the business entity MUST provide all of the following attributes in the credential request as outlined in the [EO100 Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-EO100.md#261-schema-definition):
+
 certificate_issuer,  certificate_number, operator, ucp_name, ucp_location_city, ucp_location_province, ucp_location_country, certification_date, expiration_date, certification_standard, assessor_name 
 
 3. Equitable Origin MUST receive and review the request
