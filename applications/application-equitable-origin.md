@@ -151,7 +151,7 @@ certificate_issuer,  certificate_number, operator, ucp_name, ucp_location_city, 
 
 ## 2.7. Information Trust Requirements
 
-[Privacy Policy](https://www.equitableorigin.org/privacy-policy/)
+Equitable Origin's [Privacy Policy](https://www.equitableorigin.org/privacy-policy/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 
