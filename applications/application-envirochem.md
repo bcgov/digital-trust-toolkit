@@ -122,7 +122,7 @@ Envirochem governance is an internal process.
 
 ## 2.5.2. Third Party Verification of TSM Protocols
 
-Please reference the [**TSM Terms of Reference** governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols. 
+*Please reference the [**TSM Terms of Reference** governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols.*
 
 1. Using the established connection, Envirochem MUST receive a credential request from the client.
 2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
