@@ -122,10 +122,13 @@ TBD
 1. PricewaterhouseCoopers (PwC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-### 2.5.2. Third-party GHG Verification Statement
+### 2.5.2. Issuance of Third-party GHG Verification Statement
 
 1. Using the established connection, PwC MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the credential request:
+2. Continuing from step 1, the business entity will provide the following attributes from the [BC GHG Emissions Report Verification Statement Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-ghg-emissions-verification.md) in the credential request: 
+
+reporting_operation, name_of_facility, facility_type, facility_address, facility_longitude, facility_latitude, total_emissions, total_emissions_not_reporting_only, total_emissions_reporting_only, total_co2_from_nonbiomass, total_co2_from_nonbiomass_not_schedule_c, total_co2_from_nonbiomass_in_schedule_c
+
 3. PwC will receive and review the request
 4. Any clarification questions can be asked via the secure messaging function 
 5. Once all data is entered and correct, PwC will offer the credential to the business entity
