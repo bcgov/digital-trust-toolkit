@@ -48,12 +48,13 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of TRSB during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
 
+The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
 * 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Brairtech Consulting Inc.
-* 	**Email:** kyle.robinson@brairtech.ca
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
@@ -64,7 +65,12 @@ The Tenure and Resource Stewardship Branch (TRSB) is a participant in an open ec
 
 ## 1.8. Objectives
 
-TBD
+_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
+
+1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
+2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
+scope.
+3. MUST be consistent with the principles of the GF (below).
 
 ## 1.9. Principles 
 
@@ -111,12 +117,14 @@ TBD
 
 Using the established connection, TRSB MUST issue a credential to the business entity.
 
-1. TRSB MUST enter in the data for each of the credential attributes as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md)
+1. TRSB MUST enter in the data for each of the credential attributes as outlined in the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md#261-schema-definition)
 3. TRSB SHALL offer the credential to the title holder
 4. Any clarification questions MAY be asked via the secure messaging function
 5. The title holder MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
+
+*MUST have an Hyperledger Aries compatible business wallet.*
 
 ## 2.6.1. Public DID of Tenure and Resource Stewardship Branch (TRSB)
 
