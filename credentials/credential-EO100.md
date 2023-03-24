@@ -99,6 +99,10 @@ Technical requirement consists of the following schema definition and credential
 
 ##### 2.6.1. Schema Definition
 
+__Schema Name:__ eo100.statement
+
+__Schema Version:__ 1.0
+
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
 Attribute | Format | Rules | Notes
