@@ -125,7 +125,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-### 2.5.2. Verification of TSM Credential
+### 2.5.2. Annual MAC Membership Confirmation
 
 1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the credential request as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
