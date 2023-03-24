@@ -150,18 +150,18 @@ __**Tracts Appendix**__
 * 	**Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
 * 	**Stratigraphic Codes** are used to define tract rights and outline the following types of information: 1. Strata Zone Codes; 2. Descriptions; 3. Effective Dates; and 4. Expiry Dates. 
 * 	**Standard Zone Designations** Following the Stratigraphic Codes, Standard Zone Designations describe the different ways by which a zone can be designated for use, defining intervals as either feet or meters. Next, the log type is identified followed by the well permit number. These codes outline 1. a standard 5-digit code; 2. descriptions of this code including geographical areas and details; 3. shortened descriptions of these details; 4. effective dates; and 6. expiry dates.
-* 	List of Stratigraphic Zone Codes used:
-* 	    Strata Zone Code TT = To Top Of
-* 	    Strata Zone Code TB = To Base Of
-* 	    Strata Zone Code SE = Special Exclusion 
-* 	    Strata Zone Code IN = In
-* 	    Strata Zone Code FT = From Top Of 
-* 	    Strata Zone Code FB = From Base Of 
-* 	    Strata Zone Code DT = Down to Top Of 
-* 	    Strata Zone Code DB = Down to Base of 
-* 	    Strata Zone Code BT = Below Top Of 
-* 	    Strata Zone Code BB = Below Base Of 
-* 	    Strata Zone Code AZ = All Zones
+* 	**List of Stratigraphic Zone Codes used:**
+    * 	 TT = To Top Of
+    * 	 TB = To Base Of
+    * 	 SE = Special Exclusion 
+    * 	 IN = In
+    * 	 FT = From Top Of 
+    * 	 FB = From Base Of 
+    * 	 DT = Down to Top Of 
+    * 	 DB = Down to Base of
+    * 	 BT = Below Top Of 
+    * 	 BB = Below Base Of 
+    * 	 AZ = All Zones
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF |
