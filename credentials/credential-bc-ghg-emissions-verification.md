@@ -120,6 +120,10 @@ The primary use of the BC GHG Emissions Verification Statement Credential is to 
 
 ### 2.6.1 Schema Definition
 
+Schema Name: png.title
+
+Schema Version: 1.0
+
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
 Attribute | Format | Rules | Notes
