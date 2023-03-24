@@ -141,9 +141,11 @@ TBD
 [PwC's Privacy Commitment](https://www.pwc.com/ca/en/privacy-policy.html#:~:text=We%20will%20always%20collect%20your,otherwise%20permitted%20by%20applicable%20law.)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
+
 TBD
 
 ## 2.9. Legal Agreements
+
 TBD
 
 # End of Document
