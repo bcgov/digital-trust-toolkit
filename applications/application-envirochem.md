@@ -44,9 +44,8 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-1)	Envirochem is the Governing Authority responsible for this Governance Framework (GF).
-3)	Company Registration Information - [Envirochem](https://www.orgbook.gov.bc.ca/entity/FM0055862)
-4)	The contact information for [Envirochem](https://www.envirochem.com/) during the pilot phase of development is:
+[Envirochem](https://www.envirochem.com/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for Envirochem during the pilot phase of development is:
+
 * 	**Name:** Neil Allen
 * 	**Title:** Senior Auditor - HSE Assurance & Management Systems
 * 	**Organization:** Envirochem Services Inc.
@@ -54,8 +53,14 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Envirochem during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
 
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+* 	
 ## 1.6. Purpose
 
 The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Envirochem Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with EnviroChem in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
@@ -67,12 +72,16 @@ Envirochem is a participant in an open ecosystem and the focus of this framework
 ## 1.8. Objectives
 
 _This section states the high-level outcomes desired by the trust community through its adoption of the GF._
+1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
+2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
+scope.
+3. MUST be consistent with the principles of the GF (below).
 
 TBD
 
 ## 1.9. Principles 
 
-See the Envirochem Guiding Values listed on [website](https://www.envirochem.com/about/).
+See [Envirochem's Guiding Values](https://www.envirochem.com/about/).
 
 ## 1.10. General Requirements
 TBD
@@ -113,7 +122,7 @@ Envirochem governance is an internal process.
 
 ## 2.5.2. Third Party Verification of TSM Protocols
 
-Please [reference the __TSM Terms of Reference__ governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols. 
+Please reference the [**TSM Terms of Reference** governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols. 
 
 1. Using the established connection, Envirochem MUST receive a credential request from the client.
 2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
@@ -139,9 +148,7 @@ _[WorkSafeBC Certification of Recognition (COR)](https://www.worksafebc.com/en/h
 
 ## 2.6. Technical Requirements
 
-## 2.6.1. Public DID of Envirochem
-
-__MUST have an Aries compatible business wallet.__
+*MUST have an Hyperledger Aries compatible business wallet.*
 
 ## 2.7. Information Trust Requirements
 
