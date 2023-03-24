@@ -126,14 +126,9 @@ TBD
 1. The BC Climate Action Secretariat (CAS) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST use the invitation in order to establish a secure connection.
 
-### 2.5.2. Issuance of BC Greenhouse Gas (GHG) Emissions Report Verification Statement Credential
+### 2.5.2. Reporting GHG Emissions to BC Government (CAS)
 
-Using the established connection, CAS MUST issue a credential to the business entity.
-
-1. CAS MUST enter in the data for each of the credential attributes as outlined in the [BC Greenhouse Gas (GHG) Emissions Report Verification Statement Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-ghg-emissions-verification.md)
-2. CAS SHALL offer the credential to the statement holder
-3. Any clarification questions MAY be asked via the secure messaging function
-4. The statement holder MAY choose to accept or negotiate the credential to request changes
+TBD
 
 ## 2.6. Technical Requirements
 
