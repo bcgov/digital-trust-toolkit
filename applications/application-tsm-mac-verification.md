@@ -128,7 +128,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 ### 2.5.2. Verification of TSM Credential
 
 1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
-2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the credential request as outlined in the [TSM Protocol Credential GF](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
+2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the credential request as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
 3. Mining Association of Canada (MAC) will receive and review the request
 4. Any clarification questions can be asked via the secure messaging function 
 5. Annual self-assessments MUST be submitted through presentation requests
