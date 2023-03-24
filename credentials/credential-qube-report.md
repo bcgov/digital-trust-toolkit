@@ -44,20 +44,21 @@ The standard language for this governing framework (GF) is English.
  
 ## 1.4. Governing Authority
 
-Qube is the governing authority and party legally responsible for developing, maintaining and implementing the Governance Framework. This is the only issuing party. 
-The contact for petitioners and relying parties of this GF is: 
-* 	**Name:** 
-* 	**Title:** 
-* 	**Organization:**
-* 	**Email:**
+[Qube Technologies (Qube)](https://www.qubeiot.com/) is the governing authority and responsible for developing, maintaining and implementing the Governance Framework. 
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Qube during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Qube during the pilot phase of development.
+
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to outline all rules associated with governance and issuance of a Qube Report Credential.  The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. This system and governance will allow a more trustworthy ecosystem. This will be built under this governance framework. 
+The purpose of this Governance Framework (GF) is to define the parameters of a Qube Report Credential.  The structure for the credential contains all information needed to fulfill a Qube Report. This credential is issued directly by Qube, which transfers aggregated methane emission volume data based on the time period selected at the site level to the site owner. 
 
 ## 1.7. Scope
 
@@ -76,14 +77,15 @@ A Qube Report Credential MUST be issued by Qube. The API referenced in the Schem
 
 ## 1.11. Revisions
 
-Current version is draft 1.0
+Version 1.0. 
 
 ## 1.12. Extensions
-There is no extension to this Governance Framework.
+
+There are no extensions to this Governance Framework.  
 
 ## 1.13. Schedule of Controlled Documents
 
-This Governance Framework (GF) covers the monthly Qube Report Credential. 
+TBD
 
 # 2. Controlled Documents
 
@@ -105,6 +107,10 @@ TBD
 ## 2.6. Technical Requirements
 
 ### 2.6.1. Schema Definition
+
+Schema Name: qube.report
+
+Schema Version: 1.0
 
 This schema definition follows the AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
 
