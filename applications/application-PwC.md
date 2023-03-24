@@ -79,7 +79,7 @@ scope.
 
 ## 1.9. Principles 
 
-See the PricewaterhouseCoopers (PwC) Values listed on [PwC's website](https://www.pwc.com/gx/en/about/purpose-and-values.html)
+See [PricewaterhouseCoopers (PwC) Values](https://www.pwc.com/gx/en/about/purpose-and-values.html)
 
 ## 1.10. General Requirements
 TBD
