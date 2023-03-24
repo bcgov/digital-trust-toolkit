@@ -44,17 +44,22 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-1)	Equitable Origin is the Governing Authority responsible for this Governance Framework (GF).
-3)	Company Registration Information - [Equitable Origin]
-4)	The contact information for [Equitable Origin](https://www.equitableorigin.org/) during the pilot phase of development is:
-* 	**Name:** 
-* 	**Title:** 
+[Equitable Origin](https://www.equitableorigin.org/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for Equitable Origin during the pilot phase of development is:
+
+* 	**Name:** Soledad Mills
+* 	**Title:** Chief Executive Officer
 * 	**Organization:** Equitable Origin
-* 	**Email:** 
+* 	**Email:** [smills@equitableorigin.org](mailto:smills@equitableorigin.org)
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Equitable Origin during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
@@ -76,7 +81,8 @@ scope.
 
 ## 1.9. Principles 
 
-_these are standard principals from ToIP, example to be edited by Equitable Origin_
+_TBD - These are standard principals from ToIP, to be edited by Equitable Origin_
+
 1)	Sustainability
 2)	Stewardship 
 3)	Public good
@@ -91,7 +97,9 @@ _these are standard principals from ToIP, example to be edited by Equitable Orig
 TBD
 
 ## 1.11. Revisions
+
 Version 1.0
+
 _TBD - How and when Equitable Origin would change governance framework_
 
 ## 1.12. Extensions
@@ -105,7 +113,7 @@ TBD
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-N/A
+
 
 ## 2.2. Risk Assessment
 
@@ -138,26 +146,21 @@ certificate_issuer,  certificate_number, operator, ucp_name, ucp_location_city, 
 6. Business entity MAY choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
-## 2.6.1. Public DID of Equity Origin
 
 *MUST have an Aries compatible business wallet.*
-
-*These are the requirements governing technical interoperability. Controlled documents in this category:*
-*1. MUST specify how trust community members will interoperate technically using the ToIP technology
-stack by reference to any relevant ToIP specifications and recommendations.*
-*2. SHOULD include any additional specifications and/or specification profiles that are specific to the
-technical interoperability within this trust community.*
-*3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
-*4. SHOULD reference any test suites or other testing requirements.*
 
 ## 2.7. Information Trust Requirements
 
 [Privacy Policy](https://www.equitableorigin.org/privacy-policy/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
+
 TBD
+
 ## 2.9. Legal Agreements
+
 TBD
+
 # End of Document
 
 
