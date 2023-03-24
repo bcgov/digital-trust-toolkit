@@ -120,7 +120,7 @@ The primary use of the BC GHG Emissions Verification Statement Credential is to 
 
 ### 2.6.1 Schema Definition
 
-Schema Name: png.title
+Schema Name: ghg.verification.statement
 
 Schema Version: 1.0
 
