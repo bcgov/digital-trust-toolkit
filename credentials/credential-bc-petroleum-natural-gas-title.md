@@ -87,9 +87,7 @@ Version 1.0.
 
 ## 1.12. Extensions
 
-There are no extensions to this Governance Framework. 
-
-During the pilot phase of development, no definition parameters exist of how governance may be extended. 
+There are no extensions to this Governance Framework.  
 
 ## 1.13. Schedule of Controlled Documents
 TBD
@@ -119,8 +117,6 @@ Legislation and regulations govern the disposition, administration and managemen
 ## 2.5. Business Requirements
 
 The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. The Petroleum and Natural Gas Title Credential will be issued by the Ministry of Energy and Mines, Tenure and Resource Stewardship Branch. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
-
-The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
