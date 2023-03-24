@@ -43,22 +43,22 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-PricewaterhouseCoopers (PwC) is the Governing Authority responsible for this Governance Framework (GF).
-The contact information for [PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) during the pilot phase of development is:
-* 	**Name:** Naomi
-* 	**Title:** 
+[PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) is the Governing Authority responsible for this Governance Framework (GF).
+The contact information for PwC during the pilot phase of development is:
+* 	**Name:** Naomi Thomas
+* 	**Title:** Senior Manager, Sustainability and Climate Change
 * 	**Organization:** PricewaterhouseCoopers LLP
-* 	**Email:** 
+* 	**Email:**  [naomi.thomas@pwc.com](mailto:naomi.thomas@pwc.com)
 
 ## 1.5. Administering Authority
 
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
 
-The contact information for EMDT during the pilot phase of development is:
-* 	**Name:** Kyle
-* 	**Title:** 
-* 	**Organization:** 
-* 	**Email:** 
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
@@ -136,7 +136,9 @@ TBD
 
 ## 2.7. Information Trust Requirements
 
-Refers to [PwC's code of conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.) and [PwC's privacy commitment](https://www.pwc.com/ca/en/privacy-policy.html#:~:text=We%20will%20always%20collect%20your,otherwise%20permitted%20by%20applicable%20law.)
+[PwC's Code of Conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.)
+
+[PwC's Privacy Commitment](https://www.pwc.com/ca/en/privacy-policy.html#:~:text=We%20will%20always%20collect%20your,otherwise%20permitted%20by%20applicable%20law.)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
 TBD
