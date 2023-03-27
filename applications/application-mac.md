@@ -1,11 +1,11 @@
 
-## Mining Association of Canada (MAC) Verifier Governance Framework
+## Mining Association of Canada (MAC) Governance Framework - Draft
 
 # 1. Primary Document
 
 ## 1.1. Introduction 
 
-This document articulates the governance framework for the Mining Association of Canada (MAC) as a verifier of a digital credential [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
+This document articulates the governance framework for the Mining Association of Canada (MAC) as an actor involved in the verifiable credential exchanges [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -44,9 +44,8 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-1)	Mining Association of Canada (MAC) is the Governing Authority responsible for this Governance Framework (GF).
-3)	Company Registration Information - [Mining Association of Canada (MAC)](https://www.orgbook.gov.bc.ca/entity/FM0055862)
-4)	The contact information for [Mining Association of Canada (MAC)](https://mining.ca/) during the pilot phase of development is:
+The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for MAC during the pilot phase of development is:
+
 * 	**Name:** Ben Chalmers
 * 	**Title:** Senior Vice President
 * 	**Organization:** The Mining Association of Canada
@@ -54,7 +53,13 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of Mining Association of Canada (MAC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Mining Association of Canada (MAC) during the pilot phase of development.
+
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
@@ -111,74 +116,35 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
 
-* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
+### 2.5.1. Establishing connections
 
 1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
-**Verification of TSM Credential**
+### 2.5.2. Annual MAC Membership Confirmation
+Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
+
+* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
 1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes in the verification request:
-
-Attribute | Format | Rules | Notes
---- | --- | --- | ---
-company_name | String | Not NULL | name of business entity
-facility_name | String | Not NULL | name of facility or site
-facility_address | String | Not NULL | address of facility or site
-country_operation | String | Not NULL | country of facility or site
-products_name | String | Not NULL | name of products or metals produced on site
-operation_type | String | Not NULL | mining, concentrate blending, smelting, refining, other
-infrastructure_type | String | Not NULL | roads, rails, ports, other
-
-4. Mining Association of Canada (MAC) will receive and review the request
-5. Any clarification questions can be asked via the secure messaging function 
-6. Annual self-assessments MUST be submitted through presentation requests
-7. Once all data is submitted and correct, MAC will offer the credential to the business entity
-8. Business entity can choose to accept or negotiate the credential to request changes
-
-**Identity (Authentication)**
--	VC Storage Location will take place on a digital Business Wallet with a secure connection. 
--	Verifiable Credential Proof will be requested by ____________ and the proof will be provided by _____________. 
--	The Verifiable credential will be issued from the _Company_ Digital Wallet
-
-**Delegation**
--	Refers to a Verifiable Credential for permission to delegate a specific role. 
--	The VC Storage Location will be held on the digital wallet, with the VC proof being requested by the Company’s Digital wallet. 
--	VC Proof is provided by the personal digital wallet and the VC will be issued by the Company Digital wallet. 
-
-**Authorization**
--	Allows a verifiable credential to a person giving them a role (such as the issuer of a permit credential). 
--	VC will be stored on the Personal Digital Wallet, with VC Proof Requested by Line of Business Systems. 
--	VC Proof will be provided by the digital wallet with the VC issued from a company digital wallet. 
-
-* All articles concerning ESG data MUST not sold to third parties. All governing parties SHALL implement responsible use policies that apply to ESG recording.
-
-MUST specify that all [RFC 2119 keywords used with their RFC 2119 meanings are CAPITALIZED](https://www.rfc-editor.org/rfc/rfc2119).
+2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
+3. Mining Association of Canada (MAC) will receive and review the proposal
+4. Any clarification questions can be asked via the secure messaging function 
+5. Annual self-assessments MUST be submitted through presentation requests
+6. Once all data is submitted and correct, MAC will offer the credential to the business entity
+7. Business entity can choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
 *MUST have an Aries compatible business wallet.*
 
-*These are the requirements governing technical interoperability. Controlled documents in this category:*
-*1. MUST specify how trust community members will interoperate technically using the ToIP technology
-stack by reference to any relevant ToIP specifications and recommendations.*
-*2. SHOULD include any additional specifications and/or specification profiles that are specific to the
-technical interoperability within this trust community.*
-*3. SHOULD include references one or more glossaries (see Glossary section) as needed.*
-*4. SHOULD reference any test suites or other testing requirements.*
-
 ## 2.7. Information Trust Requirements
-** Information privacy **
-
-•	Privacy and Minimal Disclosure: Ben to describe verbage around the work they do and how they manage privacy
 
 •	[MAC Privacy of Information](https://mining.ca/privacy-information/)
 
 ## 2.8. Inclusion, Equitability and Accessibility Requirement
-[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
+•	[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
 TBD

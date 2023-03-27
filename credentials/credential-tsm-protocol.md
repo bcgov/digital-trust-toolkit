@@ -65,7 +65,13 @@ The contact information for [The Mining Association of Canada (MAC)](https://min
 
 ## 1.5. Administering Authority
 
-[Energy, Mines and Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mining Association of Canada (MAC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of MAC during the pilot phase of development.
+
+The contact information for EMDT is:
+* 	**Name:** Kyle Robinson 
+* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
+* 	**Organization:** Briartech Consulting Inc.
+* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
 
 ## 1.6. Purpose
 
