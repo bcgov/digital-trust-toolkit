@@ -44,7 +44,7 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-[Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for MAC during the pilot phase of development is:
+The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for MAC during the pilot phase of development is:
 
 * 	**Name:** Ben Chalmers
 * 	**Title:** Senior Vice President
@@ -53,7 +53,7 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Mining Association of Canada (MAC) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -116,9 +116,6 @@ TBD
 TBD
 
 ## 2.5. Business Requirements
-Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
-
-* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
 ### 2.5.1. Establishing connections
 
@@ -126,6 +123,9 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
 ### 2.5.2. Annual MAC Membership Confirmation
+Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
+
+* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
 1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
