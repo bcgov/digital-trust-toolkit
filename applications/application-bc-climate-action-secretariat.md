@@ -47,7 +47,7 @@ The [BC Climate Action Secretariat (CAS)](https://www2.gov.bc.ca/gov/content/env
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the BC Climate Action Secretariat (CAS) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
