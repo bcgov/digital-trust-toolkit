@@ -5,6 +5,5 @@ plugins:
   - jekyll-seo-tag
   
 header_pages:
-  - bc-vcpedia/applications/application-PwC.md
   - application-PwC.md
   - application-MAC.md
