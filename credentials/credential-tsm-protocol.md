@@ -1,3 +1,9 @@
+---
+layout: default
+title: TSM Protocol
+parent: Credentials
+---
+
 # TSM Protocol Credential Governance Framework (Primary Document)
 
 # 1. Primary Document

@@ -1,3 +1,8 @@
+---
+layout: default
+title: EO100™ Certification
+parent: Credentials
+---
 
 # EO100™ Certification Statement Credential - Draft
 
