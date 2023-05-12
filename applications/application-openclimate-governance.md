@@ -1,3 +1,9 @@
+---
+layout: default
+title: OpenClimate Ecosystem Governance Framework
+parent: Applications
+---
+
 # OpenClimate Ecosystem Governance Framework
 
 # Primary Document

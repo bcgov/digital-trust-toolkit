@@ -1,3 +1,8 @@
+---
+layout: default
+title: Tenure and Resource Stewardship Branch Governance Framework
+parent: Applications
+---
 
 ## Tenure and Resource Stewardship Branch Governance Framework
 

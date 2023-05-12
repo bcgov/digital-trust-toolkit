@@ -1,3 +1,8 @@
+---
+layout: default
+title: Envirochem Governance Framework
+parent: Applications
+---
 
 ## Envirochem Governance Framework
 

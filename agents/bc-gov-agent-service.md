@@ -2,7 +2,6 @@
 layout: default
 title: BC Government Agency Service Provisional Governance Framework
 parent: Agents
-nav_order: 1
 ---
 
 # BC Government Agency Service Provisional Governance Framework

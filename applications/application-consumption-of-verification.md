@@ -1,3 +1,9 @@
+---
+layout: default
+title: Consumption of Verification Statement Governance Document
+parent: Applications
+---
+
 # Consumption of Verification Statement Governance Document
 # Introduction
 

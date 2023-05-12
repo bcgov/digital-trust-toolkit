@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC CAS Governance Framework - Draft
+parent: Applications
+---
+
 ## BC Climate Action Secretariat (CAS) Governance Framework - Draft
 
 # Primary Document

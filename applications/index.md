@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Agents
+title: Applications
 has_children: true
 ---
 
-## Agents
+## Applications
 Description here
