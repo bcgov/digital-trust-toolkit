@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC GHG Emissions Report Verification
+parent: Credentials
+---
+
 # BC GHG Emissions Report Verification Statement Credential - DRAFT
 
 # 1. Primary Document

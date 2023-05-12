@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC Court Services
+parent: Applications
+---
+
 ```
 {
   "name": "Accredited Lawyer with BC Person Credential",

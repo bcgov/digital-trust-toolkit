@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC GHG Emissions Reporting Governance
+parent: Applications
+---
+
 # BC GHG Emissions Reporting Governance
 
 https://www2.gov.bc.ca/gov/content/environment/climate-change/industry/reporting

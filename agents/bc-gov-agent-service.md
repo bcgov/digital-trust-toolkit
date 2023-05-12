@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC Government Agency Service Provisional Governance Framework
+parent: Agents
+---
+
 # BC Government Agency Service Provisional Governance Framework
 
 ## Authors

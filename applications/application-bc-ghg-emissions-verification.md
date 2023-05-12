@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC Climate Action Secretariat Ecosystem Governance Framework
+parent: Applications
+---
+
 ## Title: application-bc-ghg-emissions-verification.md
 
 # BC Climate Action Secretariat Ecosystem Governance Framework

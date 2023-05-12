@@ -1,3 +1,9 @@
+---
+layout: default
+title: PricewaterhouseCoopers (PwC) Governance Framework
+parent: Applications
+---
+
 ## PricewaterhouseCoopers (PwC) Governance Framework
 
 # 1. Primary Document

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Mining Association of Canada (MAC) Governance Framework - Draft
+parent: Applications
+---
 
 ## Mining Association of Canada (MAC) Governance Framework - Draft
 

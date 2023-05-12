@@ -1,3 +1,9 @@
+---
+layout: default
+title: BC Law Society
+parent: Applications
+---
+
 Coming soon...
 
 IDIM issues digital identity to lawyers
