@@ -156,9 +156,9 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit id | Permit_id | String  | not NULL | 
-Registration Id | Registration_id | String | not NULL | 
-Permit no | Permit_no | String | not NULL| 
+Permit id | permit_id | String  | not NULL | 
+Registration Id | registration_id | String | not NULL | 
+Permit no | permit_no | String | not NULL| 
 Mine no | mine_no | String | not NULL | 
 Inspector name | inspector_name | String | not NULL | 
 Issued date | issued_date | String | not NULL | 
