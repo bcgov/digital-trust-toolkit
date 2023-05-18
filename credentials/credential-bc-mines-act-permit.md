@@ -164,7 +164,7 @@ Inspector Name | inspector_name | String | not NULL | Mines Act Section 3 The mi
 Issued date | issued_date | String | not NULL | Mines Act Section 10 
 Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines"
 Latitude | latitude| String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
-Effective date | effective_date | String | not NULL | Mines Act Permit Regulation Section 5 (1)A permit for exploration activities is deemed to authorize the permittee to extend the term of the permit by up to 2 years.
+Effective date | effective_date | String | not NULL | Mines Act Permit Regulation Section 5 (1)A permit for exploration activities is deemed to authorize the permittee to extend the term of the permit by up to 2 years. *This is exploration and extenstion there is probobly a more specific provision*
 Authorization end date | authorization_end_date | String | not NULL | Mines Act Permit Regulation Section 2 A deemed authorization under this Part is subject to limits and requirements. 
 Longitude | longitude | String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 
