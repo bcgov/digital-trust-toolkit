@@ -162,7 +162,8 @@ Permit no | permit_no | String | not NULL|
 Mine no | mine_no | String | not NULL | 
 Inspector name | inspector_name | String | not NULL | 
 Issued date | issued_date | String | not NULL | 
-Mine class | mine_class | String | not NULL |  
+Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may
+(a)make different provisions for different mines or for different **classes** or types of mines"
 Latitude | latitude| String | not NULL | 
 Effective date | effective_date | String | not NULL | 
 Authorization end date | authorization_end_date | String | not NULL | 
