@@ -120,6 +120,29 @@ Legislation and regulations govern the disposition, administration and managemen
 
 The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines, MCAD? All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
 
+## 2.5.1. Establishment of Connection
+
+1. ??? MUST send an invitation to the other business entity via email to initiate the exchange of information. 
+2. The receiving party MUST use the invitation in order to establish a secure connection.
+
+## 2.5.2. Third Party Verification of TSM Protocols
+
+Below example of TSM...
+*Please reference the [**TSM Terms of Reference** governed by the Mining Association of Canada (MAC)](https://mining.ca/wp-content/uploads/dlm_uploads/2021/11/2021-TSM-Verifier-Terms-of-Reference.pdf) for definitions as they pertain to TSM Protocols.*
+
+1. Using the established connection, Envirochem MUST receive a credential request from the client.
+2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the [TSM Protocol Credential GF]( https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md) __except any verifier attributes__:
+
+__Facility Information__: company_name, facility_name, facility_address, country_operation, products_name, operation_type, infrastructure_type
+
+__Summary of Findings__: summary_tsm_min, indigenous_q1, indigenous_q2, indigenous_q3, indigenous_q4, indigenous_q5, indigenous_summary_min, safety_health_q1, safety_health_q2, safety_health_q3, safety_health_q4, safety_health_q4_pd, safety_health_q5, safety_health_summary_min, corp_crisis_and_communication_preparedness, corp_crisis_and_communication_review, corp_crisis_and_communication_training, labour_forced_q1, labour_child_q2, corp_climate_q1, site_climate_q2, site_climate_q3, climate_summary_min, biodiversity_conservation_q1, biodiversity_conservation_q2, biodiversity_conservation_q3, biodiversity_conservation_summary_min, tailings_management_q1, tailings_management_q2, tailings_management_q3, tailings_management_q4, tailings_management_q5, tailings_management_summary_min, water_stewardship_q1, water_stewardship_q2, water_stewardship_q3, water_stewardship_q4, water_stewardship_summary_min
+
+4. Envirochem MUST receive and review the request
+5. Any clarification questions MAY be asked via the secure messaging function 
+6. After completion of verification activity, Envirochem MUST update any attribute values as necessary
+7. Envirochem SHALL offer the credential to the client 
+8. Client MAY choose to accept or negotiate the credential to request changes
+
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
