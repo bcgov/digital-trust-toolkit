@@ -166,7 +166,7 @@ Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A re
 Latitude | latitude| String | not NULL | (1) Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 Effective date | effective_date | String | not NULL | 
 Authorization end date | authorization_end_date | String | not NULL | 
-Longitude | longitude | String | not NULL | (1) Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
+Longitude | longitude | String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 
 __**Notes Appendix**__
 * 	**Major** 
