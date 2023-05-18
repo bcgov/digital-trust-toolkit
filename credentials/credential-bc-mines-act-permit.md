@@ -156,16 +156,17 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Title Number | title_number | String  | not NULL | 
-Title Type | title_type | String | not NULL | 
-Issue Date | issue_date | String | not NULL| 
-Effective Date | effective_date | String | not NULL | 
-Term | term | String | not NULL | 
-Expiry Date | expiry_date | String | not NULL | 
-Area | area | String | not NULL |  
-Title Holders | title_holders| String | not NULL | 
-Tracts | tracts | String | not NULL | 
-Caveats | caveats | String | not NULL | 
+Permit id | Permit_id | String  | not NULL | 
+Registration Id | Registration_id | String | not NULL | 
+Permit no | Permit_no | String | not NULL| 
+Mine no | mine_no | String | not NULL | 
+Inspector name | inspector_name | String | not NULL | 
+Issued date | issued_date | String | not NULL | 
+Mine class | mine_class | String | not NULL |  
+Latitude | latitude| String | not NULL | 
+Effective date | effective_date | String | not NULL | 
+Authorization end date | authorization_end_date | String | not NULL | 
+Longitude | longitude | String | not NULL | 
 
 __**Notes Appendix**__
 * 	**Major** 
