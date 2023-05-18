@@ -50,11 +50,11 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority responsible for this Governance Framework (GF). 
+[The Mines Competitiveness & Authorizations Division (MCAD)](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting) is the governing authority responsible for this Governance Framework (GF). 
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Competitiveness & Authorizations Division (MCAD) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -64,15 +64,15 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of a BC Petroleum and Natural Gas Title credential. 
+The purpose of this Governance Framework (GF) is to define the parameters of a BC Mines Act Permit credential. 
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Petroleum and Natural Gas Title credential from [the Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Competitiveness & Authorizations Division](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting).
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natural Gas Title credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
+This GF describes the BC Mines Act Permit credential consisting of all data elements included in a BC Mines Act Permit Document. 
 
 ## 1.9 Principles 
 
@@ -80,7 +80,7 @@ This GF describes the BC Petroleum and Natural Gas Title credential consisting o
 
 ## 1.10 General Requirements
 
-The Petroleum and Natural Gas Title Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in BC, a Petroleum and Natural Gas Title Document must be provided in accordance with the BC Petroleum and Natural Gas Act. 
+The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) on behalf of ... **Callum note if need to mention delegation of authority***. When mining operators wish to obtain a BC Mines Act Permit in BC, Callum to review this section.
 
 ## 1.11. Revisions
 
@@ -112,20 +112,20 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The BC Tenure and Resource Stewardship Branch (TRSB) updates and manages this credential governance framework.
+The BC Tenure and Resource Stewardship Branch (MCAD) updates and manages this credential governance framework.
 
-Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
+Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 ## 2.5. Business Requirements
 
-The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. The Petroleum and Natural Gas Title Credential will be issued by the Ministry of Energy and Mines, Tenure and Resource Stewardship Branch. All users of the BC Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
+The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines, MCAD? All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ png.title
+__Schema Name:__ map.title
 
 __Schema Version:__ 1.0
 
@@ -133,41 +133,35 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Title Number | title_number | String  | not NULL | A number is used to uniquely identify a title, assigned based on administrative policy by the TRSB. The title number is associated with the Exploration Licence outlined in [Section 126, part 14.126 of the PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section126)
-Title Type | title_type | String | not NULL | This field specifies the type of title based on the [PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01). Title types can include the following: **1. Lease** ([Part 6](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part6)); **2. Permit** ([Part 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5)); **3. Drilling Licence** ([Part 5.1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#part5.1)), and **4. Storage Reservoir Licence** ([Part 14.130](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130)). Each title has only one title type.
-Issue Date | issue_date | String | not NULL| The date when a title is issued, format is YYYY-MM-DD. Section 64 of the [PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section64)
-Effective Date | effective_date | String | not NULL | The date when the title becomes effective, format YYYY-MM-DD. This date usually follows after an issuance date and signals the start of a title period. This date does not change.
-Term | term | String | not NULL | This describes the length of time (term) granted for each title, expressed in YYYY. This date does not change.
-Expiry Date | expiry_date | String | not NULL | Expiry date is defined as effective date plus term, expressed as YYYY-MM-DD. This date signals the end of the title period.
-Area | area | String | not NULL | This attribute is the surface area in planned use, measured in hectares. This includes 3 dimensional layers. 
-Title Holders | title_holders| String | not NULL | The [PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01#section130) describes a "holder of a location" as meaning "in accordance with the context, a permittee, licensee" . In this credential, the term title holder is used to reference a person in whose name a PNG title document is recorded in the division records. Title holders can be registered companies, and/or persons. A Title Holder will hold a percentage (%) interest in the title. Percent interest defines the percentage of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by [the PNG Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96361_01) as "a person in whose name a lease is recorded in the division records". 
-Tracts | tracts | String | not NULL | A **Tract** is an area of land within a title defined by locations sharing identical rights. This attribute has all of the tract(s) information contained within a title. See *Tracts Appendix* below for a detailed description of the information included.
-Caveats | caveats | String | not NULL | Caveats provide information and guidance to the tenure holder that will assist in activity planning by identifying potential access restrictions. Caveats will also flag concerns identified through pre-tenure consultation and may recommend engagement with First Nations, stakeholders, and other agencies as appropriate. Caveats often point to relevant statute and policy and are not binding or enforced by the Ministry.
+Title Number | title_number | String  | not NULL | 
+Title Type | title_type | String | not NULL | 
+Issue Date | issue_date | String | not NULL| 
+Effective Date | effective_date | String | not NULL | 
+Term | term | String | not NULL | 
+Expiry Date | expiry_date | String | not NULL | 
+Area | area | String | not NULL |  
+Title Holders | title_holders| String | not NULL | 
+Tracts | tracts | String | not NULL | 
+Caveats | caveats | String | not NULL | 
 
-__**Tracts Appendix**__
-* 	**Tract Numbers** On all title documents is a heading which is the Tract Number. Tract Numbers are unique identifying numbers for each tract. Tracts are an administrative device to organize all title locations sharing identical rights into separate groupings.
-* 	**Tract Locations** Following the Tract Number is a description of Tract Location. Tract Location outlines the precise location for a tract listed on a PNG title document using specific attributes from one of two land survey systems currently in use within BC.
-* 	**Tract Rights** Following Tract Location is a description called Tract Rights. This section defines rights as either "Included (I)" or "Excluded (E)". Zone names are coded  "Petroleum (P)" "Petroleum Natural Gas (PNG)" (or other relevant codes). Each right will be denoted by its corresponding letter. This section outlines the rights associated with each individual tract listed on a PNG title document. This would be linked with a BC business number (i.e. BC123456). Tract rights are identified using specific Code Lists. There are Stratigraphic Codes (used to define tract rights) and Standard Zone Designations.
-* 	**Tract Notes** Following the description of Tract Rights is a section called Tract Notes. Tract Notes outlines specific notes or points associated with each tract. Definitions of zones used in tract rights reference specific depth intervals in the type well named in the same note. These are used to describe the type wells and the intervals in the type wells that are used to create the type. 
-* 	**Stratigraphic Codes** are used to define tract rights and outline the following types of information: 1. Strata Zone Codes; 2. Descriptions; 3. Effective Dates; and 4. Expiry Dates. 
-* 	**Standard Zone Designations** Following the Stratigraphic Codes, Standard Zone Designations describe the different ways by which a zone can be designated for use, defining intervals as either feet or meters. Next, the log type is identified followed by the well permit number. These codes outline 1. a standard 5-digit code; 2. descriptions of this code including geographical areas and details; 3. shortened descriptions of these details; 4. effective dates; and 6. expiry dates.
-* 	**List of Stratigraphic Zone Codes used:**
-    * 	 TT = To Top Of
-    * 	 TB = To Base Of
-    * 	 SE = Special Exclusion 
-    * 	 IN = In
-    * 	 FT = From Top Of 
-    * 	 FB = From Base Of 
-    * 	 DT = Down to Top Of 
-    * 	 DB = Down to Base of
-    * 	 BT = Below Top Of 
-    * 	 BB = Below Base Of 
-    * 	 AZ = All Zones
+__**Notes Appendix**__
+* 	**Major** 
+* 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated 
+authorizations process:
+      1. Any new mineral or coal mine project, whether or not reviewable under the Environmental 
+Assessment Act (EAA);
+      2. A mine project that is an extension, expansion, or re-start requiring multiple 
+authorizations;
+      3. Any project that the CPO determines would benefit from the coordinated authorizations 
+process due to its complexity.
+
+* 	**EMLI Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the EMLI Major Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF |
 --- | --- |
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Petroleum and Natural Gas Title:1.0 |
+BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Mines Act Permit:1.0 |
 
 ## 2.7. Information Trust Requirements
 
@@ -185,4 +179,5 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 TBD
 
 # End of Document
+
 
