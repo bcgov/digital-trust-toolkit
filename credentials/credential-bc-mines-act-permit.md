@@ -163,7 +163,7 @@ Mine no | mine_no | String | not NULL | Refer to Mines Act Section 10 any of the
 Inspector Name | inspector_name | String | not NULL | Mines Act Section 3 The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. Mines Act Section 5 The Chief inspector may appoint persons as inspectors for the purposes of this act. 
 Issued date | issued_date | String | not NULL | Mines Act Section 10 
 Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines"
-Latitude | latitude| String | not NULL | (1) Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
+Latitude | latitude| String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 Effective date | effective_date | String | not NULL | 
 Authorization end date | authorization_end_date | String | not NULL | 
 Longitude | longitude | String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
