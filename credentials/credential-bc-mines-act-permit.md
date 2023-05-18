@@ -80,7 +80,7 @@ This GF describes the BC Mines Act Permit credential consisting of all data elem
 
 ## 1.10 General Requirements
 
-The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) on behalf of ... **Callum note if need to mention delegation of authority***. When mining operators wish to obtain a BC Mines Act Permit in BC, ** Callum to review this section.**
+The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) on behalf of the Chief Permitting Officer under section 10 of the Mines Act, which is administered by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI).... **Callum note if need to mention delegation of authority***. When mining operators wish to obtain a BC Mines Act Permit in BC, ** Callum to review this section.**
 
 ## 1.11. Revisions
 
