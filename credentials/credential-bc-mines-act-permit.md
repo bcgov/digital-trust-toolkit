@@ -112,7 +112,7 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The BC Tenure and Resource Stewardship Branch (MCAD) updates and manages this credential governance framework.
+The Mines Competitiveness and Authorizations Division (MCAD) updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
