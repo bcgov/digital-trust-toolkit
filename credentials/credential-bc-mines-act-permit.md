@@ -156,17 +156,17 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit id | permit_id | String  | not NULL | Section 11 of the Mines Act specifies that the Chief Inspector of Mines may require a permit holder to register their permit and obtain a permit registration identification. This identification is a unique identifier associated with the permit and helps to ensure that the mining activities are being conducted in compliance with the permit conditions and requirements.
-Registration Id | registration_id | String | not NULL | Refer to Mines Act Section 11
-Permit no | permit_no | String | not NULL| Refer to Mines Act Section 11
-Mine no | mine_no | String | not NULL | Refer to Mines Act Section 11
+Permit id | permit_id | String  | not NULL | Section 10 (1) before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit. 
+Registration Id | registration_id | String | not NULL | Refer to Mines Act Section 10
+Permit no | permit_no | String | not NULL| Refer to Mines Act Section 10
+Mine no | mine_no | String | not NULL | Refer to Mines Act Section 10
 Inspector name | inspector_name | String | not NULL | Chief permitting officer. Section 8.2  The minister must designate in writing a person appointed under the Public Service Act, as the chief permitting officer. Chief permitting officer retains the authority to delegate This is outlined in section 8.3  The chief permitting officer may delegate in writing to an inspector any of the powers conferred on the chief permitting officer under this Act.
-Issued date | issued_date | String | not NULL | 
+Issued date | issued_date | String | not NULL | Mines Act Section 10 
 Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines"
 Latitude | latitude| String | not NULL | (1) Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 Effective date | effective_date | String | not NULL | 
 Authorization end date | authorization_end_date | String | not NULL | 
-Longitude | longitude | String | not NULL | 
+Longitude | longitude | String | not NULL | (1) Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 
 __**Notes Appendix**__
 * 	**Major** 
