@@ -101,10 +101,10 @@ TBD
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
-[BC Petroleum and Natural Gas Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#section1)
+[BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: BC Petroleum and Natural Gas Operators
-*   **Title Holder**: A person and/or a company in whose name a PNG title document is recorded in the division records
+*  **Credential Holders**: BC Mines
+*   **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
 
 
 ## 2.2. Risk Assessment
