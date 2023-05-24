@@ -82,7 +82,7 @@ This GF describes the BC Mines Act Permit credential consisting of all data elem
 
 The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) through the authority of the Chief Permitting Officer under section 10 of the Mines Act. The Chief Permitting Officer (CPO) means the individual, or a delegate, appointed under the Mines Act and is primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the Chief Permitting Officer may delegate in writing to an inspector any of the powers conferred on the Chief Permitting Officer under the Mines Act. 
 
-When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage (ML/ARD) at the mine, as well as geotechnical design and reclamation and closure planning. Depending on the complexity of the proposal, an application is reviewed by either the relevant regional Mine Development Review Committee or a project-specific Mine Review Committee before the SDM makes a decision.
+When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage (ML/ARD) at the mine, as well as geotechnical design and reclamation and closure planning. 
 
 ## 1.11. Revisions
 
