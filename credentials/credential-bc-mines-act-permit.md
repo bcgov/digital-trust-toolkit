@@ -158,10 +158,10 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit id | permit_id | String  | not NULL | Section 10 (1) before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit. 
+Permit id | permit_id | String  | not NULL | Mines Act Section 10 (1) before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit. 
 Registration Id | registration_id | String | not NULL | Mines Act Section 10
 Permit no | permit_no | String | not NULL| Mines Act Section 10
-Mine no | mine_no | String | not NULL | Refer to Mines Act Section 10 any of the powers conferred on the chief permitting officer under this Act.
+Mine no | mine_no | String | not NULL | Mines Act Section 10 any of the powers conferred on the chief permitting officer under this Act.
 Inspector Name | inspector_name | String | not NULL | Mines Act Section 3 The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. Mines Act Section 5 The Chief inspector may appoint persons as inspectors for the purposes of this act. 
 Issued date | issued_date | String | not NULL | Mines Act Section 10 
 Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines"
