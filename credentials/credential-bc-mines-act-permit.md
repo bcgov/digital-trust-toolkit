@@ -158,12 +158,12 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit id | permit_id | String  | not NULL | Mines Act Section 10 (1) before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit. 
-Registration Id | registration_id | String | not NULL | Mines Act Section 10
-Permit no | permit_no | String | not NULL| Mines Act Section 10
-Mine no | mine_no | String | not NULL | Mines Act Section 10 any of the powers conferred on the chief permitting officer under this Act.
-Inspector Name | inspector_name | String | not NULL | Mines Act Section 3 The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. Mines Act Section 5 The Chief inspector may appoint persons as inspectors for the purposes of this act. 
-Issued date | issued_date | String | not NULL | Mines Act Section 10 
+Permit id | permit_id | String  | not NULL | Mines Act Section 10 (1) "before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit." 
+Registration Id | registration_id | String | not NULL | Mines Act Section 10 (1) "Before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer...including the information, particulars and maps established by the regulations or the code."
+Permit no | permit_no | String | not NULL| Mines Act Section 10 (1)"Before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer...including the information, particulars and maps established by the regulations or the code."
+Mine no | mine_no | String | not NULL | Mines Act Section 10 (1) "Before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer...including the information, particulars and maps established by the regulations or the code."
+Inspector Name | inspector_name | String | not NULL | Mines Act Section 3 "The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. Mines Act Section 5 The Chief Inspector may appoint persons as inspectors for the purposes of this act." 
+Issued date | issued_date | String | not NULL | Mines Act Section 10 (1) "Before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer...including the information, particulars and maps established by the regulations or the code."
 Mine class | mine_class | String | not NULL |  Mines Act Section 38 (3)(a) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines"
 Latitude | latitude| String | not NULL | Mines Act Section 1 Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel. 
 Effective date | effective_date | String | not NULL | Mines Act Permit Regulation Section 5 (1)A permit for exploration activities is deemed to authorize the permittee to extend the term of the permit by up to 2 years. *This is exploration and extenstion there is probobly a more specific provision*
