@@ -119,7 +119,7 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ## 2.5. Business Requirements
 
-The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MCAD) All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MCAD). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
 
 ## 2.5.1. Establishment of Connection
 
