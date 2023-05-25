@@ -80,7 +80,7 @@ This GF describes the BC Mines Act Permit credential consisting of all data elem
 
 ## 1.10 General Requirements
 
-The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) through the authority of the Chief Permitting Officer under section 10 of the Mines Act. The Chief Permitting Officer (CPO) means the individual, or a delegate, appointed under the Mines Act and is primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the Chief Permitting Officer may delegate in writing to an inspector any of the powers conferred on the Chief Permitting Officer under the Mines Act. 
+The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act and is primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage (ML/ARD) at the mine, as well as geotechnical design and reclamation and closure planning. 
 
@@ -106,7 +106,6 @@ TBD
 *  **Credential Holders**: BC Mines
 *   **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
 
-
 ## 2.2. Risk Assessment
 TBD
 
@@ -120,7 +119,7 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ## 2.5. Business Requirements
 
-The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines, (MCAD) All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+The primary use of the BC Mines Act Permit Credential is to allow holders in BC to comply with required processes and procedures associated with maintaining a BC Mines Act Permit within the province. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MCAD) All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
 
 ## 2.5.1. Establishment of Connection
 
