@@ -150,6 +150,8 @@ __**Notes Appendix**__
 
 **Mines Classes**
 
+Summary of Mines Classes as outlined in the [BC Ministry of Energy and Mines Health, Safety and Reclamation Code for Mines in British Columbia](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/health_safety_and_reclamation_code_2017_rev.pdf)
+
 Class 1 Mine: The smallest and least complex mines with limited scale and low potential for significant environmental impacts. Typically involve small-scale activities like placer mining or small quarry operations.
 
 Class 2 Mine: Medium-sized operations with a moderate potential for environmental impacts. Includes underground mines or small open-pit operations, subject to more regulatory requirements than Class 1 mines.
