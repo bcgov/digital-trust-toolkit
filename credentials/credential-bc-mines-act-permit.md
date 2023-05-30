@@ -50,11 +50,11 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Competitiveness & Authorizations Division (MCAD)](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting) is the governing authority responsible for this Governance Framework (GF). 
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). 
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Competitiveness & Authorizations Division (MCAD) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -113,13 +113,13 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The Mines Competitiveness and Authorizations Division (MCAD) updates and manages this credential governance framework.
+The Mines Digital Services (MDS) updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 ## 2.5. Business Requirements
 
-The primary use of the BC Mines Act Permit Credential is the verification of permit compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MCAD). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+The primary use of the BC Mines Act Permit Credential is the verification of permit compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MDS). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
