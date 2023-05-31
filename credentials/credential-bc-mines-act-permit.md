@@ -163,7 +163,7 @@ Class 4 Mine: The largest and most complex operations with significant environme
 **Definitions**
 
 * 	**Major** Proposed major mines (e.g., metal and coal mines as well as some large aggregate and industrial minerals operations), major expansions/upgrades to existing mines, and some large-scale exploration/development projects require approval under the Mines Act as per part 10 of the Health, Safety and Reclamation Code for Mines in British Columbia (the Code).
-* 	
+
 * 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated 
 authorizations process:
       1. Any new mineral or coal mine project, whether or not reviewable under the Environmental 
