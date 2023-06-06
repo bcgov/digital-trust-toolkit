@@ -68,7 +68,7 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/).
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for an operating permit under the Major Mines Office. 
 
 ## 1.8 Objectives 
 
@@ -103,8 +103,9 @@ TBD
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: BC Mines
-*   **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
+*  **Credential Holders**: These are the mining operators within BC
+*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
+*  **Major Mines**: Moderate- to large- scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
 
 ## 2.2. Risk Assessment
 TBD
@@ -116,6 +117,9 @@ TBD
 The Mines Digital Services (MDS) updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+
+**[BC Mine Information]**(https://mines.nrs.gov.bc.ca/)
+**[BC Mine Authourizations]**(https://mines.nrs.gov.bc.ca/authorizations)
 
 ## 2.5. Business Requirements
 
