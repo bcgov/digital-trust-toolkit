@@ -130,7 +130,7 @@ authorizations;
       3. Any project that the CPO determines would benefit from the coordinated authorizations 
 process due to its complexity.
 
-* 	**EMLI Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the EMLI Major Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+* 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
 ## 2.2. Risk Assessment
 TBD
