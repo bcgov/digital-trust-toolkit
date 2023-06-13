@@ -106,7 +106,6 @@ TBD
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
 *  **Credential Holders**: These are the mining operators within BC
-*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
 *  **Major Mines**: Moderate- to large- scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
 * 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated 
 authorizations process:
@@ -142,8 +141,10 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ## 2.5.2. Mines Act Operating Permit
 
-1. Using the established connection, Envirochem MUST receive a credential request from the client.
-2. Continuing from step 1, the client MUST provide all of the following attributes in the credential request as outlined in the 
+1. Using the established connection, MDS MUST receive a credential request from the mining company.
+2. Continuing from step 1, the mining company MUST provide all of the following attributes in the credential request as outlined in the [BC Mines Act Permit](https://github.com/bcgov/bc-vcpedia/blob/Mines-Act-Permit/credentials/credential-bc-mines-act-permit.md):
+
+ - *list attributes here*
 
 
 ## 2.6. Technical Requirements (Credential)
