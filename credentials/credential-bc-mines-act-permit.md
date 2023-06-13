@@ -68,11 +68,11 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for an operating permit under the Major Mines Office. 
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a permit under the entity responsible for permitting. The scope of the information included in this will be summary level.
 
 ## 1.8 Objectives 
 
-This GF describes the BC Mines Act Permit credential consisting of all data elements included in a BC Mines Act Permit Document. 
+This GF describes the BC Mines Act Permit credential consisting of all data elements included in a BC Mines Act Permit. 
 
 ## 1.9 Principles 
 
@@ -80,9 +80,7 @@ This GF describes the BC Mines Act Permit credential consisting of all data elem
 
 ## 1.10 General Requirements
 
-The BC Mines Act Permit Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act and is primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
-
-When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
+The BC Mines Act Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act and is primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 ## 1.11. Revisions
 
@@ -106,51 +104,6 @@ TBD
 *  **Credential Holders**: These are the mining operators within BC
 *  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
 *  **Major Mines**: Moderate- to large- scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-
-## 2.2. Risk Assessment
-TBD
-
-## 2.3. Trust Assurance and Certification
-TBD
-
-## 2.4. Governance Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
-
-Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
-
-- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
-
-## 2.5. Business Requirements
-
-The primary use of the BC Mines Act Permit Credential is the verification of permit compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MDS). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
-
-## 2.6. Technical Requirements (Credential)
-The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
-
-## 2.6.1 Schema Definition
-
-__Schema Name:__ map.title
-
-__Schema Version:__ 1.0
-
-This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
-
-Name | Attribute | Format | Rules | Notes	
---- | --- | --- | --- | --- |
-Permit Identification | permit_id | String  | not NULL | Unique (30-digit format) identification number assigned to facilitate tracking and monitoring of mining operations. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) "before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit." 
-Registration Identification | registration_id | String | not NULL |  A unique identifier assigned to a mining operation or mine site under the Mines Act. When a mining operation is established or a new mine site is developed in BC, the operator is required to register the site and obtain a Mines Act registration number. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Permit Number | permit_no | String | not NULL| A a unique identifier assigned to a permit issued under the Mines Act.  Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Mine Number | mine_no | String | not NULL | A unique (8-digit) identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Inspector Name | inspector_name | String | not NULL | An individual designated by the regulatory authority to carry out inspections and enforce compliance with mining regulations. [Mines Act Section 3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section3) "The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. [Mines Act Section 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section5) "The Chief Inspector may appoint persons as inspectors for the purposes of this act." 
-Issued Date | issued_date | String | not NULL | The date (YYYY-MM-DD) on which a mining permit is officially issued by the regulatory authority.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
-Mine Class | mine_class | String | not NULL |   A classification or categorization assigned to a specific mine or mining operation determined based on various factors, such as the scale of the mining operation, the type of minerals being extracted, and the associated risks and hazards. [Mines Act Section 38 (3)(a)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section38) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines" and [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Further information on 4 types of mine classes are included in the appendix. 
-Latitude | latitude| String | not NULL | The geographic coordinate representing the north-south position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) "Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
-Effective Date | effective_date | String | not NULL | (YYYY-MM-DD) Refers to the date on which the permit becomes valid and enforceable, from which the rights, obligations, and conditions specified in the permit come into effect. [Mines Act Permit Regulation Section 5 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/99_2013#section5) "A permit for exploration activities is deemed to authorize the permittee to extend the term of the permit by up to 2 years." *This is exploration and extenstion there is probobly a more specific provision*
-Authorization End Date | authorization_end_date | String | not NULL | (YYYY-MM-DD) Refers to the date on which the permit's validity and authorization to conduct mining activities come to an end. It marks the expiration or termination of the permit. [Mines Act Permit Regulation Section 2](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/99_2013#section2) "A deemed authorization under this Part is subject to limits and requirements." 
-Longitude | longitude | String | not NULL | The geographic coordinate that represents the east-west position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) Mines includes "(a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
-
-__**Notes Appendix**__
 
 **Mines Classes**
 
@@ -178,6 +131,49 @@ authorizations;
 process due to its complexity.
 
 * 	**EMLI Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the EMLI Major Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+
+## 2.2. Risk Assessment
+TBD
+
+## 2.3. Trust Assurance and Certification
+TBD
+
+## 2.4. Governance Requirements
+The Mines Digital Services (MDS) updates and manages this credential governance framework.
+
+Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+
+- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
+- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
+
+## 2.5. Business Requirements
+
+The primary use of the BC Mines Act Permit Credential is to prove they are in compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MDS). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+
+## 2.6. Technical Requirements (Credential)
+The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+
+## 2.6.1 Schema Definition
+
+__Schema Name:__ BC.mine.permit
+
+__Schema Version:__ 1.0
+
+This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+
+Name | Attribute | Format | Rules | Notes	
+--- | --- | --- | --- | --- |
+Permit Identification | permit_id | String  | not NULL | Unique (30-digit format) identification number assigned to facilitate tracking and monitoring of mining operations. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) "before starting any work in, on or about a mine, the owner, agent, manager or any other person must hold a permit issued by the chief permitting officer and, as part of the application for the permit." 
+Registration Identification | registration_id | String | not NULL |  A unique identifier assigned to a mining operation or mine site under the Mines Act. When a mining operation is established or a new mine site is developed in BC, the operator is required to register the site and obtain a Mines Act registration number. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Permit Number | permit_no | String | not NULL| A a unique identifier assigned to a permit issued under the Mines Act.  Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Mine Number | mine_no | String | not NULL | A unique (8-digit) identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Inspector Name | inspector_name | String | not NULL | An individual designated by the regulatory authority to carry out inspections and enforce compliance with mining regulations. [Mines Act Section 3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section3) "The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. [Mines Act Section 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section5) "The Chief Inspector may appoint persons as inspectors for the purposes of this act." 
+Issued Date | issued_date | String | not NULL | The date (YYYY-MM-DD) is the original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
+Mine Class | mine_class | String | not NULL |   A classification or categorization assigned to a specific mine or mining operation determined based on various factors, such as the scale of the mining operation, the type of minerals being extracted, and the associated risks and hazards. Class 1 mines refer to small-scale operations with minimal environmental and social impacts. Class 2 mines are moderate-sized operations with a higher potential for environmental and social impacts compared to Class 1 mines. Class 3 mines are larger-scale operations with significant environmental and social impacts. Class 4 mines represent major mining operations with the highest potential for environmental and social impacts.  [Mines Act Section 38 (3)(a)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section38) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines" and [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Further information on 4 types of mine classes are included in the appendix. 
+Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) "Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
+Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) Mines includes "(a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
+Effective Date | effective_date | String | not NULL | (YYYY-MM-DD) Refers to the date on which the permit becomes valid and enforceable, from which the rights, obligations, and conditions specified in the permit come into effect. [Mines Act Permit Regulation Section 5 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/99_2013#section5) "A permit for exploration activities is deemed to authorize the permittee to extend the term of the permit by up to 2 years." *This is exploration and extenstion there is probobly a more specific provision*
+Authorization End Date | authorization_end_date | String | not NULL | (YYYY-MM-DD) Refers to the date on which the permit's validity and authorization to conduct mining activities come to an end. It marks the expiration or termination of the permit. [Mines Act Permit Regulation Section 2](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/99_2013#section2) "A deemed authorization under this Part is subject to limits and requirements." 
 
 
 ### 2.6.2. Credential Implementation
