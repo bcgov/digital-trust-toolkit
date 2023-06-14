@@ -48,7 +48,12 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). 
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
+
+* 	**Name:** 
+* 	**Title:**
+* 	**Organization:** Mines Digital Services
+* 	**Email:**
 
 ## 1.5. Administering Authority
 
