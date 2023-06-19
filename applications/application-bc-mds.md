@@ -132,17 +132,12 @@ TBD
 TBD
 
 ## 2.4. Governance Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
-Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
-
-- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
 ## 2.5. Business Requirements
 
 ## 2.5.1. Establishment of Connection
 
-1. The interested mining company MUST send an email to MDS to request an invitation link to connect. 
+1. The interested mining company MUST send an email to [MDS](mailto:MDS@gov.bc.ca) to request an invitation link to connect. 
 2. Once the sender is confirmed as a known entity, MDS WILL create a single use invitation for the interested mining company in Traction and copy the link into an email response to initiate the exchange of information. 
 3. The receiving mining company MUST use the invitation provided by MDS in order to establish a secure connection.
 
