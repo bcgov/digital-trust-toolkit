@@ -67,7 +67,7 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Mines Digital Services (MDS) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified.
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Mines Digital Services (MDS) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
 
 ## 1.7 Scope
 
@@ -88,8 +88,11 @@ TBD
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
+The Mines Digital Services (MDS) updates and manages this credential governance framework.
+Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
-When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
+- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
+- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
 ## 1.11. Revisions
 
@@ -130,7 +133,6 @@ TBD
 
 ## 2.4. Governance Requirements
 The Mines Digital Services (MDS) updates and manages this credential governance framework.
-
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 - **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
@@ -140,17 +142,21 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ## 2.5.1. Establishment of Connection
 
-1. The interested mining company MUST send a request to MDS to receive a digital credential. 
-2. Once the mining company has been verified, MDS MUST issue an invitation to connect via email to initiate the exchange of information. 
+1. The interested mining company MUST send an email to MDS to request an invitation link to connect. 
+2. Once the sender is confirmed as a known entity, MDS WILL create a single use invitation for the interested mining company in Traction and copy the link into an email response to initiate the exchange of information. 
 3. The receiving mining company MUST use the invitation provided by MDS in order to establish a secure connection.
 
-## 2.5.2. Mines Act Operating Permit
+## 2.5.2. Major Mines Operating Permit - Digital Credential Request (Existing)
+When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
 
-1. Using the established connection, MDS MUST receive a credential request from the mining company.
+1. Using the established connection, the mining company MUST send a credential request to MDS.
 2. Continuing from step 1, the mining company MUST provide all of the following attributes in the credential request as outlined in the [BC Mines Act Permit](https://github.com/bcgov/bc-vcpedia/blob/Mines-Act-Permit/credentials/credential-bc-mines-act-permit.md):
 
  - *list attributes here*
-
+   
+## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
+## 2.5.4. Exploratory Mines Permit - Digital Credential Request (Existing)
+## 2.5.5. Mine Manager - Digital Credential Request 
 
 ## 2.6. Technical Requirements (Credential)
 *MUST have an Hyperledger Aries compatible business wallet.*
