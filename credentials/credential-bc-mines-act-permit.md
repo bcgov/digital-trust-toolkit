@@ -110,9 +110,9 @@ TBD
 Summary of Mines Classes as outlined in the [2022 Health, Safety and Reclamation Code for Mines in
 British Columbia](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/health_safety_and_reclamation_code_nov2022.pdf)
 
-Simple/Regional Mines have applications for mining activities (Notice of Work) submitted under 10.1.1. Generally this includes mine in production by mine type placer, sand & gravel/aggregate pits, quarries for construction aggregate, and industrial mineral quarries. Also within regional mines are application for exploration projects which occurring prior to production, which includes mining activities for exploration for mineral and coal, under 9.2.1/9.1.1.
+**Simple/Regional Mines** have applications for mining activities (Notice of Work) submitted under 10.1.1. Generally this includes mine in production by mine type placer, sand & gravel/aggregate pits, quarries for construction aggregate, and industrial mineral quarries. Also within regional mines are application for exploration projects which occurring prior to production, which includes mining activities for exploration for mineral and coal, under 9.2.1/9.1.1.
 
-Complex/Major Mines have application for mining activities under 10.1.2 for surface or underground development or production for coal and mineral mines, or major modifications /expansions of existing producing coal and mineral mines, or underground exploration requiring excavation, large pilot projects, bulk samples, trial cargos and test shipments. 
+**Complex/Major Mines** have application for mining activities under 10.1.2 for surface or underground development or production for coal and mineral mines, or major modifications /expansions of existing producing coal and mineral mines, or underground exploration requiring excavation, large pilot projects, bulk samples, trial cargos and test shipments. 
 
 
 **Definitions**
