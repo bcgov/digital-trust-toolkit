@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BC Mines Act Permit
+title: BC Major Mines Act Permit - Operating
 parent: Credentials
 ---
 
@@ -153,7 +153,7 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ BC.mine.permit
+__Schema Name:__ BC.major.mine.operating.permit
 
 __Schema Version:__ 1.0
 
