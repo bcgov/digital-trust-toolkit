@@ -4,7 +4,7 @@ title: BC Major Mines Act Permit - Operating
 parent: Credentials
 ---
 
-# BC Mines Act Permit - DRAFT
+# BC Major Mines Act Permit - Operating DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
@@ -68,11 +68,11 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Major Mines Operating Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
 
 ## 1.8 Objectives 
 
-This GF describes the BC Mines Act Permit credential consisting of all data elements included in a BC Mines Act Permit. 
+This GF describes the BC Mines Act - Major Mines Operating Permit credential consisting of those data elements included from a BC Mines Act Permit. 
 
 ## 1.9 Principles 
 
@@ -80,7 +80,7 @@ This GF describes the BC Mines Act Permit credential consisting of all data elem
 
 ## 1.10 General Requirements
 
-The BC Mines Act Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+The BC Mines Act - Major Mines Operating Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 ## 1.11. Revisions
 
@@ -161,11 +161,10 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit Identification | permit_id | String  | not NULL | Unique not needed 
-Registration Identification | registration_id | String | not NULL |   not sure this is needed. Maybe a notice of work # - regional mines, Application assigned a notice of work = A unique identifier assigned to a mining operation or mine site under the Mines Act. When a mining operation is established or a new mine site is developed in BC, the operator is required to register the site and obtain a Mines Act registration number. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Permit Number | permit_no | String | not NULL| (up to 3-digit) identifier assigned to a permit issued under the Mines Act.  M-##- or C-##- Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Notice of Work | notice_of_work | String | not NULL |  Applications assigned a notice of work = A unique identifier assigned to a mining operation or mine site, used in Regional Mines and may not be applicable for this credential.
+Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit issued under the Mines Act: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Chief Permitting Officer| inspector_name | String | not NULL | Isser name? Deputy Chief Permitting Officer is what is currently on paper cred. An individual designated by the regulatory authority to carry out inspections and enforce compliance with mining regulations. [Mines Act Section 3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section3) "The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. [Mines Act Section 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section5) "The Chief Inspector may appoint persons as inspectors for the purposes of this act." 
+Deputy Chief Permitting Officer| DCPO_name | String | not NULL | Deputy Chief Permitting Officer as delegated authority by CPO. An individual designated by the regulatory authority to authorize permit status. [Mines Act Section 3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section3)
 Issued Date | issued_date | String | not NULL | (YYYY-MM-DD) is the original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
 Mine Class | mine_class | String | not NULL |   A classification or categorization assigned to a specific mine or mining operations. Mines are classified as Complex/Major Mines or Simple/Regional Mines  [Mines Act Section 38 (3)(a)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section38) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines" and [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Further information on mine classes are included in the definitions section above. 
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) "Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
