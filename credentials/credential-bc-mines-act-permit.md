@@ -166,7 +166,7 @@ Registration Identification | registration_id | String | not NULL |   not sure t
 Permit Number | permit_no | String | not NULL| (up to 3-digit) identifier assigned to a permit issued under the Mines Act.  M-##- or C-##- Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Chief Permitting Officer| inspector_name | String | not NULL | Isser name? Deputy Chief Permitting Officer is what is currently on paper cred. An individual designated by the regulatory authority to carry out inspections and enforce compliance with mining regulations. [Mines Act Section 3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section3) "The minister must designate in writing a person appointed under the Public Service Act, as the Chief Inspector of Mines. [Mines Act Section 5](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section5) "The Chief Inspector may appoint persons as inspectors for the purposes of this act." 
-Issued Date | issued_date | String | not NULL | (YYYY-MM-DD) is the original issue date of the permit, update this to read amendment date.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
+Issued Date | issued_date | String | not NULL | (YYYY-MM-DD) is the original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
 Mine Class | mine_class | String | not NULL |   A classification or categorization assigned to a specific mine or mining operations. Mines are classified as Complex/Major Mines or Simple/Regional Mines  [Mines Act Section 38 (3)(a)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section38) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines" and [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Further information on mine classes are included in the definitions section above. 
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) "Mines includes (a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) Mines includes "(a) a place where mechanical disturbance of the ground or any excavation is made to explore for or to produce coal, mineral bearing substances, placer minerals, rock, limestone, earth, clay, sand or gravel." 
@@ -175,6 +175,11 @@ Authorization End Date | authorization_end_date | String | not NULL | (YYYY-MM-D
 
 
 Company name - add
+Subsurface
+Material
+hectares approved for disturbance
+Reclamation liability, total amount held - %?
+
 
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF |
