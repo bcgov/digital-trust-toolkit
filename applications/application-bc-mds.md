@@ -137,9 +137,11 @@ TBD
 
 ## 2.5.1. Establishment of Connection
 
-1. The interested mining company MUST send an email to [MDS](mailto:MDS@gov.bc.ca) to request an invitation link to connect. 
-2. Once the sender is confirmed as a known entity, MDS WILL create a single use invitation for the interested mining company in Traction and copy the link into an email response to initiate the exchange of information. 
-3. The receiving mining company MUST use the invitation provided by MDS in order to establish a secure connection.
+1. The Mine Manager of the interested mining company MUST access the MineSpace portal in order to request a single-use invitation link to connect (*note, trust assurance is based on the process the Mine Manager must follow in order to access MineSpace portal - includes BCeID, etc*.)
+2. The Mine Manager MUST select the option to request an invitation link from the MineSpace portal homepage. 
+3. MineSpace MUST send the invitation request to Traction in order to generate a single-use invitation link. Traction MUST return the invitiation link to MineSpace, the invitation link WILL display within the MineSpace homescreen.
+4. The Mine Manager MUST use the invitation link provided by Traction within their organizational wallet in order to establish a secure connection.
+5. Traction MUST send/request? approval notification to CORE (*further discussion required*)
 
 ## 2.5.2. Major Mines Operating Permit - Digital Credential Request (Existing)
 When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
