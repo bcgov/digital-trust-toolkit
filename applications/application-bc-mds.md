@@ -124,6 +124,10 @@ authorizations;
       3. Any project that the CPO determines would benefit from the coordinated authorizations 
 process due to its complexity.
 * 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Ministry's Major Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+* 	**Mine Manager** the person authorized to act on behalf of the mine operations. This person is responsible for secure access to MineSpace portal.
+* 	**Mines Digital Services (MDS)** System designed for easier access for the public, industry and government to see what's happening in the mining industry across British Columbia. 
+* 	**MineSpace** A part of the MDS system, developed specifically for industry. It is intended to make it easier for businesses to manage applications, see their inspection history and submit reports.
+* 	**CORE** A central digital repository for all major mine record information. 
 
 ## 2.2. Risk Assessment
 TBD
