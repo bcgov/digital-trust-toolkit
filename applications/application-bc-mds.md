@@ -142,9 +142,9 @@ TBD
 ## 2.5.1. Establishment of Connection
 
 1. The Mine Manager of the interested mining company MUST access the MineSpace portal in order to request a single-use invitation link to connect (*note, trust assurance is based on the process the Mine Manager must follow in order to access MineSpace portal - includes BCeID, etc*.)
-2. The Mine Manager MUST select the option to request an invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). 
-3. MineSpace MUST send the invitation request to Traction in order to generate a single-use invitation link. Traction MUST return the invitiation link to MineSpace, the invitation link WILL display within the MineSpace homescreen.
-4. The Mine Manager MUST use the invitation link provided by Traction within their organizational wallet in order to establish a secure connection.
+2. The Mine Manager MUST select the option to request an invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). Backend note - MineSpace MUST send the invitation request to Traction in order to generate a single-use invitation link. Traction MUST return the invitiation link to MineSpace, the invitation link WILL display within the MineSpace homescreen.
+3. MineSpace MUST return the invitation link to the mining company's homepage.
+4. The Mine Manager MUST use the invitation link provided within their organizational wallet in order to establish a secure connection.
 5. Traction MUST send/request? approval notification to CORE (*further discussion required*)
 
 ## 2.5.2. Major Mines Operating Permit - Digital Credential Request (Existing)
