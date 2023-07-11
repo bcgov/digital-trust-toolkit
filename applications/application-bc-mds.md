@@ -161,6 +161,8 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 7. Mining Company MAY choose to accept the Mines Act Permit credential. 
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
+(Outline the Coordinated Authorizations Process as per Kyle's comment on 2023-06-19 meeting)
+
 ## 2.5.4. Exploratory Mines Permit - Digital Credential Request (Existing)
 ## 2.5.5. Mine Manager - Digital Credential Request 
 
