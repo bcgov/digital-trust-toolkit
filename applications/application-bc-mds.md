@@ -164,11 +164,12 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 *(Outline the Coordinated Authorizations Process as per Kyle's comment on 2023-06-19 meeting)*
 [The Coordinated Authorizations Process](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mines-process#:~:text=The%20coordinated%20authorizations%20process%20is,detailed%20information%20on%20the%20process.) is defined by four overarching stages: pre-application, screening, review, drafting and decision.
 
-Coordinated Authorizations are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated authorizations process:
+Coordinated Authorizations are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. 
 
-Any new mineral or coal mine project, whether or not reviewable under the Environmental Assessment Act (EAA);
-A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
-Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
+There are three different routes for a project to come into the coordinated authorizations process:
+- Any new mineral or coal mine project, whether or not reviewable under the Environmental Assessment Act (EAA);
+- A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
+- Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
 
 ## 2.5.4. Exploratory Mines Permit - Digital Credential Request (Existing)
 ## 2.5.5. Mine Manager - Digital Credential Request 
