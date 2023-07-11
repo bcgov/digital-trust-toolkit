@@ -155,9 +155,9 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 
 **BC.Major.Mines.Permit**: notice_of_work, permit_no, company_name, mine_material, mine_type, mine_class, mine_no, DCPO_name, issued_date, amendement_date, latitude, longitude, hectares, reclamation_liability
 
-4. MDS MUST recieve and review the request
-5. Any clarification question MAY be asked via secure email
-6. MDS SHALL offer a Mines Act Permit Credential to the Mining Company
+4. MDS MUST recieve and review the request.
+5. Any clarification questions MAY be asked via secure email.
+6. MDS SHALL offer a Mines Act Permit Credential to the Mining Company.
 7. Mining Company MAY choose to accept the Mines Act Permit credential. 
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
