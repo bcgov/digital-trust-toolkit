@@ -163,7 +163,10 @@ Name | Attribute | Format | Rules | Notes
 --- | --- | --- | --- | --- |
 Notice of Work | notice_of_work_type | String | not NULL | Applications assigned a notice of work = A unique identifier assigned to a mining operation or mine site, used in Regional Mines and may not be applicable for this credential.
 Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Mine Region | mine_region_code | String | not NULL | Location of Mine Regions; i.e. South West, North West.
+Operating Status | tsf_operating_status | String | not NULL | Denotes whether a mine is operational or non-operational
 Mine Status | mine_status| String | not NULL | Determines whether a mine is operational or not operational. The mine status describes the specific mine's operational status over time.
+Permit Status | permit_status_code | String | not NULL | defined as "open" or "closed"
 Company Name | company_name | String | not NULL | Name of the mining company who holds the permit.
 Mine Commodity | mine_commodity | String | not NULL | Name of commodity being mined.
 Disturbance | disturbance | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
@@ -171,11 +174,17 @@ Mine Class | mine_class | String | not NULL | Mines are classified as Complex/Mi
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Issuer| Permit_Issuer | String | not NULL | Permit Issuer can be the Deputy Chief Permitting Officer (DPO) as delegated authority by the Chief Permitting Officer (CPO). Issuing Inspector can also be a Permit Issuer. This is defined as an individual designated by the regulatory authority to authorize permit status. [Mines Act Section 8.3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2)
 Issued Date | issued_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
+Permit Amendment | permit_amendment | String | not NULL | Contains the details of the initial permit record as well as a history of each amendment made to a permit over time. Amendments may include extension of a permit, a change in permit status, or an amalgamation of permits.
+Permit Amendment Type Code | permit_amendment_type_code | String | not NULL | possible types of permit amendments; i.e. Original Permit, Permit Amendment, Amalgamated Permit.
+Permit Amendment Status Code | permit_amendment_status_code | String | not NULL | statuses used to reflect the state of a permit amendment; i.e. Active, Remitted.
 Amendment Date | amendment_date | String | not NULL | (YYYY-MM-DD) Refers to the most recent date of approved permit amendments.
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
+Permit Amendment Document | permit_amendment_document | String | not NULL | Reference to any documents recorded as part of a permit.
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
 Reclamation Liability | reclamation_liability | String | not NULL | Amount *or percentage* of fiscal monies held in trust against the established reclamation value of the mining permit.
 Mine Tailings Storage Facility | mine_tailings_storage_facility | String | not NULL | Stores the information relavent to a mine tailings storage facility.
+Permit Conditions | permit_conditions | String | not NULL | Contains the set of conditions for a draft permit.
+Permit Conditions Type | permit_conditions_type | String | not NULL | The type of conditions for a draft permit. 
 
 
 ### 2.6.2. Credential Implementation
