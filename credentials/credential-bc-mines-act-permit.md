@@ -163,10 +163,9 @@ Name | Attribute | Format | Rules | Notes
 --- | --- | --- | --- | --- |
 Notice of Work | notice_of_work_type | String | not NULL | Applications assigned a notice of work = A unique identifier assigned to a mining operation or mine site, used in Regional Mines and may not be applicable for this credential.
 Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Operating Status | tsf_operating_status| String | not NULL | Determines whether a mine is operational or not operational. 
+Operating Status | tsf_operating_status| String | not NULL | Determines whether a mine is operational or not operational. The mine status describes the specific mine's operational status over time.
 Company Name | company_name | String | not NULL | Name of the mining company who holds the permit.
 Mine Commodity | mine_commodity | String | not NULL | Name of commodity being mined.
-Mine Status | mine_status | String | not NULL | The mine status describes the specific mine's operational status over time.
 Disturbance | disturbance | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
 Mine Class | mine_class | String | not NULL | Mines are classified as Complex/Mines or Simple/Regional Mines  [Mines Act Section 38 (3)(a)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section38) "A regulation under subsections (1) or (2) may (a)make different provisions for different mines or for different **classes** or types of mines" and [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). 
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
