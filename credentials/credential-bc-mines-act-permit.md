@@ -174,7 +174,6 @@ Issued Date | issued_date | String | not NULL | (YYYY-MM-DD) The original issue 
 Amendment Date | amendment_date | String | not NULL | (YYYY-MM-DD) Refers to the most recent date of approved permit amendments.
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
-Hectares | hectares | String | not NULL | numerical value that indicates the number of hectares approved for disturbance
 Reclamation Liability | reclamation_liability | String | not NULL | Amount *or percentage* of fiscal monies held in trust against the established reclamation value of the mining permit.
 
 
