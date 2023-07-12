@@ -153,7 +153,7 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ BC.major.mine.operating.permit
+__Schema Name:__ BC.mines.act.permit
 
 __Schema Version:__ 1.0
 
