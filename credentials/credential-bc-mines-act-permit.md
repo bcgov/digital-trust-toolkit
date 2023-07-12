@@ -175,6 +175,7 @@ Amendment Date | amendment_date | String | not NULL | (YYYY-MM-DD) Refers to the
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
 Reclamation Liability | reclamation_liability | String | not NULL | Amount *or percentage* of fiscal monies held in trust against the established reclamation value of the mining permit.
+Mine Tailings Storage Facility | mine_tailings_storage_facility | String | not NULL | Stores the information relavent to a mine tailings storage facility.
 
 
 ### 2.6.2. Credential Implementation
