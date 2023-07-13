@@ -164,7 +164,7 @@ Name | Attribute | Format | Rules | Notes
 Notice of Work | notice_of_work_type | String | not NULL | Applications assigned a notice of work = A unique identifier assigned to a mining operation or mine site, used in Regional Mines and may not be applicable for this credential.
 Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Mine Region | mine_region_code | String | not NULL | Location of Mine Regions; i.e. South West, North West.
-Mine Status | mine_status | String | not NULL | Denotes the status of a mine active/inactive. Mine Operation Status Code (ask them about this as this is also included in the permits but is it necesssary?)
+Mine Status | mine_status | String | not NULL | Denotes the status of a mine. Mines can be denoted as operating (seasonal or year round), closed ((1) reclamation: Long-Term Maintenance, Long-Term Maintenance & Water Treatment, Permit Release Pending (2) care and maintenance (3)unknown), abandoned, not started.  
 Permit Status | permit_status_code | String | not NULL | defined as "open" or "closed"
 Company Name | company_name | String | not NULL | Name of the mining company who holds the permit.
 Mine Commodity | mine_commodity | String | not NULL | Name of commodity being mined.
