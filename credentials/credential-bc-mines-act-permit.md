@@ -1,10 +1,10 @@
 ---
 layout: default
-title: BC Mines Act Permit - Operating
+title: BC Mines Act Permit - DRAFT
 parent: Credentials
 ---
 
-# BC Mines Act Permit - Operating DRAFT
+# BC Mines Act Permit - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
