@@ -1,15 +1,15 @@
 ---
 layout: default
-title: BC Mines Act Permit
+title: BC Major Mines Office
 parent: Applications
 ---
 
-# BC Mines Digital Services Governance Framework - DRAFT
+# BC Major Mines Office Governance Framework - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for BC Mines Digital Services as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
+This document articulates the governance framework for BC Major Mines Office as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
