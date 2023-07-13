@@ -179,8 +179,8 @@ Permit Amendment Type Code | permit_amendment_type_code | String | not NULL | po
 Permit Amendment Status Code | permit_amendment_status_code | String | not NULL | statuses used to reflect the state of a permit amendment; i.e. Active, Remitted.
 Amendment Date | amendment_date | String | not NULL | (YYYY-MM-DD) Refers to the most recent date of approved permit amendments.
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
-Permit Amendment Document | permit_amendment_document | String | not NULL | Reference to any documents recorded as part of a permit.
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) 
+Permit Amendment Document | permit_amendment_document | String | not NULL | Reference to any documents recorded as part of a permit.
 Reclamation Liability | reclamation_liability | String | not NULL | Amount *or percentage* of fiscal monies held in trust against the established reclamation value of the mining permit.
 Mine Tailings Storage Facility | mine_tailings_storage_facility | String | not NULL | Stores the information relavent to a mine tailings storage facility.
 Permit Conditions | permit_conditions | String | not NULL | Contains the set of conditions for a draft permit.
