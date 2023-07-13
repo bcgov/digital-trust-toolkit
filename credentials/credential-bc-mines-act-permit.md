@@ -68,11 +68,11 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Operating Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
 
 ## 1.8 Objectives 
 
-This GF describes the BC Mines Act - Mines Operating Permit credential consisting of those data elements included from a BC Mines Act Permit. 
+This GF describes the BC Mines Act - Mines Act Permit credential consisting of those data elements included from a BC Mines Act Permit. 
 
 ## 1.9 Principles 
 
@@ -80,7 +80,7 @@ This GF describes the BC Mines Act - Mines Operating Permit credential consistin
 
 ## 1.10 General Requirements
 
-The BC Mines Act - Mines Operating Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+The BC Mines Act - Mines Act Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 ## 1.11. Revisions
 
