@@ -166,7 +166,7 @@ Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric ide
 Mine Region | mine_region_code | String | not NULL | Location of Mine Regions; i.e. North East, North West, South Central, South East, South West.
 Mine Status | mine_status | String | not NULL | Describes a specific mine's operational status over time. 
 Mine Operation Status | mine_operation_status_code | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
-Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for idenitfying mine status. Reasons for Closed Mines: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. Reasoms for Operating:(1) Operatiing Seasonal, or (2) Operating Year Round
+Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for idenitfying mine status. Reasons for Closed Mines: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. Reasons for Operating:(1) Operatiing Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation Reasons for "Closed for Reclamation" include: (1) Long Term Maintanance (2) Long-Term Maintenance and Water Treatmant or (3) Permit Release Pending.
 Permit Status | permit_status_code | String | not NULL | Defined as either "open" or "closed".
 Company Name | company_name | String | not NULL | Name of the mining company who holds the permit. (no attribute found on MDS)
