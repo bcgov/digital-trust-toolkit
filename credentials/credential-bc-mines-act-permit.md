@@ -168,7 +168,7 @@ Mine Status | mine_status | String | not NULL | This mine_status table contains 
 Mine Operation Status | mine_operation_status_code | String | not NULL | This mine_operation_status_code table is the top level in the hierarchy of classifying a mine. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
 Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | This mine_operation_status_reason_code table is the second level in the hierarchy of classifying a mine and is one level below mine_operation_status_code. Reasons for Closed are (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. Operating Reasons also include (1) Operatiing Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | mine_operation_status_sub_reason_code table is the third level in the hierarchy of classifying a mine and is one level below mine_operation_status_reason_code. Sub reasons included in the Mine Operation Status Reason "Closed for Reclamation" include: (1) Long Term Maintanance (2) Long Term Maintenance and Water Treatmant or (3) Permit Release Pending.
-Permit Status | permit_status_code | String | not NULL | defined as "open" or "closed"
+Permit Status | permit_status_code | String | not NULL | Defined as either "open" or "closed".
 Company Name | company_name | String | not NULL | Name of the mining company who holds the permit.
 Mine Commodity | mine_commodity_code | String | not NULL | Name of commodity being mined.
 Disturbance | mine_disturbance_code | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
