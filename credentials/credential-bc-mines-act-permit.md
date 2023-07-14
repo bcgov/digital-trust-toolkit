@@ -186,8 +186,8 @@ Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordi
 Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
 Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, Section 12 Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
 Mine Tailings Storage Facility | mine_tailings_storage_facility | String | not NULL | Stores the information relavent to a mine tailings storage facility.
-Permit Conditions | permit_conditions | String | not NULL | Contains the set of conditions for a draft permit.
-Permit Conditions Type | permit_conditions_type | String | not NULL | The type of conditions for a draft permit. 
+Permit Conditions | permit_conditions | String | not NULL | Contains the set of conditions for a draft permit. 
+Permit Conditions Type | permit_conditions_type | String | not NULL | The type of conditions for a draft permit. Condition types include (1) general decription of approved and non-approved activities, definitions, documenting requirements and signing requirements (2) health and safety conditions (3) geotechnical conditions (4) environemnt, land and watercourses conditions. 
 
 
 ### 2.6.2. Credential Implementation
