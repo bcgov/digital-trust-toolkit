@@ -187,7 +187,7 @@ Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a perm
 Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, [Mines Act Section 12](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section12) Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
 Mine Tailings Storage Facility | mine_tailings_storage_facility | String | not NULL | Stores the information relavent to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground up rock, sand and silt) and water from the milling process. 
 Permit Conditions | permit_conditions | String | not NULL | Contains the set of conditions for a draft permit. 
-Permit Conditions Type | permit_conditions_type | String | not NULL | The type of conditions for a draft permit. Condition types include (1) general decription of approved and non-approved activities, definitions, documenting requirements and signing requirements (2) health and safety conditions (3) geotechnical conditions (4) environemnt, land and watercourses conditions. 
+Permit Conditions Type | permit_conditions_type | String | not NULL | The type of conditions for a draft permit. Condition types include (1) general decription of approved and non-approved activities, definitions, documenting requirements and signing requirements (2) health and safety conditions (3) geotechnical conditions (4) environment, land and watercourses conditions. 
 
 
 ### 2.6.2. Credential Implementation
