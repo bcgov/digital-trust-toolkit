@@ -48,7 +48,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
+[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
 
 * 	**Name:** 
 * 	**Title:**
@@ -88,7 +88,7 @@ TBD
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
+The Major Mines Office (MMO) updates and manages this credential governance framework.
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 - **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
@@ -170,9 +170,6 @@ There are three different routes for a project to come into the coordinated auth
 - Any new mineral or coal mine project, whether or not reviewable under the Environmental Assessment Act (EAA);
 - A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
 - Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
-
-## 2.5.4. Exploratory Mines Permit - Digital Credential Request (Existing)
-## 2.5.5. Mine Manager - Digital Credential Request 
 
 ## 2.6. Technical Requirements (Credential)
 *MUST have an Hyperledger Aries compatible business wallet.*
