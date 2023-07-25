@@ -57,7 +57,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Major Mines Office (MMO) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -67,11 +67,11 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MMO in a trusted manner. 
 
 ## 1.7 Scope
 
-[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is a participant in an open ecosystem and the focus of this framework is to describe the process MDS uses for digital exchanges on Indy networks.
+[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is a participant in an open ecosystem and the focus of this framework is to describe the process MMO uses for digital exchanges on Indy networks.
 
 ## 1.8 Objectives 
 
@@ -153,7 +153,7 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 1. Using the established connection, the mining company MUST send a credential request to MDS.
 2. Continuing from step 1, the mining company MUST provide all of the following attributes in the credential request as outlined in the [BC Mines Act Permit](https://github.com/bcgov/bc-vcpedia/blob/Mines-Act-Permit/credentials/credential-bc-mines-act-permit.md):
 
-**BC.Major.Mines.Permit**: notice_of_work, permit_no, company_name, mine_material, mine_type, mine_class, mine_no, DCPO_name, issued_date, amendement_date, latitude, longitude, hectares, reclamation_liability
+**BC.Major.Mines.Permit**: permit_id
 
 4. MDS MUST recieve and review the request.
 5. Any clarification questions MAY be asked via secure email.
