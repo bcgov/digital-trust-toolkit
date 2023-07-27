@@ -161,15 +161,19 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 7. Mining Company MAY choose to accept the Mines Act Permit credential. 
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
-*(Outline the Coordinated Authorizations Process as per Kyle's comment on 2023-06-19 meeting)*
-[The Coordinated Authorizations Process](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mines-process#:~:text=The%20coordinated%20authorizations%20process%20is,detailed%20information%20on%20the%20process.) is defined by four overarching stages: pre-application, screening, review, drafting and decision.
 
-Coordinated Authorizations MUST be referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. 
+*(Outline the Coordinated Authorizations Process as per Kyle's comment on 2023-06-19 meeting)*
+[The Coordinated Authorizations Process](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mines-process#:~:text=The%20coordinated%20authorizations%20process%20is,detailed%20information%20on%20the%20process.) is defined by four overarching stages: pre-application, screening, review, drafting and decision. 
 
 There are three different routes for a project to come into the coordinated authorizations process:
 - Any new mineral or coal mine project, whether or not reviewable under the Environmental Assessment Act (EAA);
 - A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
 - Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
+
+1. The Mines Act Permit Applications that are particularly complex MAY be referred to an advisory committee through the coordinated authorizations process.
+2. These projects MUST be coordinated by an EMLI project lead and follow a structured permitting process. 
+3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office (MMO). 
+4. A project MAY be referred to the coordinated authorizations process by the Chief Permitting Officer (CPO). 
 
 ## 2.6. Technical Requirements (Credential)
 *MUST have an Hyperledger Aries compatible business wallet.*
