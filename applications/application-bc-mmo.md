@@ -171,7 +171,7 @@ There are three different routes for a project to come into the Coordinated Auth
 
 1. The Mines Act Permit Applications that are particularly complex MAY be referred to an advisory committee through the Coordinated Authorizations Process.
 2. These projects MUST be coordinated by an EMLI project lead and follow a structured permitting process. 
-3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office (MMO). 
+3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office [(MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
 4. A project MAY be referred to the coordinated authorizations process by the Chief Permitting Officer (CPO). 
 
 ## 2.6. Technical Requirements (Credential)
