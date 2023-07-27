@@ -162,7 +162,6 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
 
-*(Outline the Coordinated Authorizations Process as per Kyle's comment on 2023-06-19 meeting)*
 [The Coordinated Authorizations Process](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mines-process#:~:text=The%20coordinated%20authorizations%20process%20is,detailed%20information%20on%20the%20process.) is defined by four overarching stages: pre-application, screening, review, drafting and decision. 
 
 There are three different routes for a project to come into the coordinated authorizations process:
