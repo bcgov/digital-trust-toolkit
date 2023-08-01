@@ -115,10 +115,10 @@ TBD
 
 *  **Credential Holders**: These are the mining operators within BC
 *  **Major Mines**: Moderate- to large- scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-* 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA (Environmental Management Act) permit to discharge from it. There are three different routes for a project to come into the coordinated 
+* 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an [EMA (Environmental Management Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_01) permit to discharge from it. There are three different routes for a project to come into the coordinated 
 authorizations process:
-      1. Any new mineral or coal mine project, whether or not reviewable under the Environmental 
-Assessment Act (EAA);
+      1. Any new mineral or coal mine project, whether or not reviewable under the [Environmental 
+Assessment Act (EAA)](https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/laws-rules/environmental-assessment-act);
       2. A mine project that is an extension, expansion, or re-start requiring multiple 
 authorizations;
       3. Any project that the CPO determines would benefit from the coordinated authorizations 
