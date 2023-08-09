@@ -51,10 +51,10 @@ The standard language for this Governance Framework (GF) is American English.
 
 The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for MAC during the pilot phase of development is:
 
-* 	**Name:** Ben Chalmers
-* 	**Title:** Senior Vice President
+*   **Name:**  Katherine Gosselin
+* 	**Title:** Director of Towards Sustainable Mining
 * 	**Organization:** The Mining Association of Canada
-* 	**Email:** [bchalmers@mining.ca](mailto:bchalmers@mining.ca)
+* 	**Email:** [kgosselin@mining.ca](mailto:kgosselin@mining.ca)
 
 ## 1.5. Administering Authority
 
