@@ -88,6 +88,8 @@ scope.
 
 The Towards Sustainable Mining (TSM) program created by the MAC has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
+MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
+
 ## 1.10. General Requirements
 TBD
 
@@ -114,7 +116,7 @@ TBD
 
 ## 2.3. Trust Assurance and Certification
 
-TBD
+Trust Assurance and Certification is derived from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/)  The great majority of ICL’s production facilities are certified with ISO standards or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
 
 ## 2.4. Governance Requirements
 
@@ -152,7 +154,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 •	[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
-TBD
+MAC as the owner of intellectual property that TSM consists of.
 
 # End of Document
 
