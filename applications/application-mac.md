@@ -76,8 +76,6 @@ Mining Association of Canada (MAC) is a participant in an open ecosystem and the
 
 ## 1.8. Objectives
 
-_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
-
 1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
 2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
 3. Enable industry-level monitoring, trend identification, and intervention by using comprehensive TSM reporting data from national mining associations and stakeholders.
