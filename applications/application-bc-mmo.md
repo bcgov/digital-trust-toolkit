@@ -167,11 +167,11 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
 There are three different routes for a project to come into the Coordinated Authorizations Process:
 - Any new mineral or coal mine project, whether or not reviewable under the [Environmental Assessment Act (EAA)](https://www2.gov.bc.ca/gov/content/environment/air-land-water/water/laws-rules/environmental-assessment-act);
 - A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
-- Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
+- Any project that the CPO determines would benefit from the Coordinated Authorizations Process due to its complexity.
 
 1. A project MUST conduct introductions and engagements among the proponent, Provincial Staff, Indigenous Nations and other potentially impacted groups.
 2. A project MAY be referred to the Coordinated Authorizations Process by the Chief Permitting Officer (CPO) after step 1 is complete if deemed necessary after introductions and engagements.
-3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office [(MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
+3. All Coordinated Authorizations MUST be managed by the EMLI Major Mines Office [(MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
 4. Mines Act Permit Applications that are particularly complex MUST be referred to an advisory committee made up of Provincial staff, Indigenous nations, and other potentially impacted groups through a [Mine Review Committee](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mine-mrc) (MRC) by the CPO as part of the Coordinated Authorizations Process.
 5. Application MUST be formally submitted to indigenous nations for review.
 6. The MRC MAY subject the application to public engagement activities if required.
