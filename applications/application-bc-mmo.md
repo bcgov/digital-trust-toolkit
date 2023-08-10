@@ -172,10 +172,12 @@ There are three different routes for a project to come into the Coordinated Auth
 1. A project MUST conduct introductions and engagements among the proponent, Provincial Staff, Indigenous Nations and other potentially impacted groups.
 2. A project MAY be referred to the Coordinated Authorizations Process by the Chief Permitting Officer (CPO) after step 1 is complete if deemed necessary after introductions and engagements.
 3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office [(MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
-4. Mines Act Permit Applications that are particularly complex MAY be referred to an advisory committee made up of Provincial staff, Indigenous nations, and other potentially impacted groups through a [Mine Review Committee](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mine-mrc) (MRC) as part of the Coordinated Authorizations Process.
-5. The MRC MUST provide recommendations to SDMs (Statutory Decision Makers) to support the decision-making process. The intended outcome of the coordinated authorizations process is durable decisions that reflect the interests of all parties involved.
-6. Complex projects MUST be coordinated by an EMLI project lead and follow a structured permitting process. 
-7. Reports and draft permits MUST be prepared and reviewed by the proponent and MRC.
+4. Mines Act Permit Applications that are particularly complex MUST be referred to an advisory committee made up of Provincial staff, Indigenous nations, and other potentially impacted groups through a [Mine Review Committee](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mine-mrc) (MRC) by the CPO as part of the Coordinated Authorizations Process.
+5. Application MUST be formally submitted to indigenous nations for review
+6. The MRC MAY subject the application to public engagement activities if required.
+7. The MRC MUST provide recommendations to SDMs (Statutory Decision Makers) to support the decision-making process. The intended outcome of the coordinated authorizations process is durable decisions that reflect the interests of all parties involved.
+8. Complex projects MUST be coordinated by an EMLI project lead and follow a structured permitting process. 
+9. Reports and draft permits MUST be prepared and reviewed by the proponent and MRC.
 
 
 ## 2.6. Technical Requirements (Credential)
