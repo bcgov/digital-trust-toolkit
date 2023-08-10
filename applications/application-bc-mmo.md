@@ -169,8 +169,8 @@ There are three different routes for a project to come into the Coordinated Auth
 - A mine project that is an extension, expansion, or re-start requiring multiple authorizations;
 - Any project that the CPO determines would benefit from the coordinated authorizations process due to its complexity.
 
-1. A project MUST conduct introductions and engagements among the proponent, Provincaial Staff, Indigenous Nations and other potentially impacted groups.
-2. A project MAY be referred to the Coordinated Authorizations Process by the Chief Permitting Officer (CPO) after step 1 is complete if deemed neccessary after introductions and engagements.
+1. A project MUST conduct introductions and engagements among the proponent, Provincial Staff, Indigenous Nations and other potentially impacted groups.
+2. A project MAY be referred to the Coordinated Authorizations Process by the Chief Permitting Officer (CPO) after step 1 is complete if deemed necessary after introductions and engagements.
 3. All coordinated authorizations MUST be managed by the EMLI Major Mines Office [(MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
 4. Mines Act Permit Applications that are particularly complex MAY be referred to an advisory committee made up of Provincial staff, Indigenous nations, and other potentially impacted groups [Mine Review Committee](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mine-mrc) (MRC) through the Coordinated Authorizations Process.
 5. The MRC MUST provide recommendations to SDMs (Statutory Decision Makers) to support the decision-making process. The intended outcome of the coordinated authorizations process is durable decisions that reflect the interests of all parties involved.
