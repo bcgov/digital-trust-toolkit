@@ -51,10 +51,10 @@ The standard language for this Governance Framework (GF) is American English.
 
 The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Authority responsible for this Governance Framework (GF). The contact information for MAC during the pilot phase of development is:
 
-* 	**Name:** Ben Chalmers
-* 	**Title:** Senior Vice President
+*   **Name:**  Katherine Gosselin
+* 	**Title:** Director of Towards Sustainable Mining
 * 	**Organization:** The Mining Association of Canada
-* 	**Email:** [bchalmers@mining.ca](mailto:bchalmers@mining.ca)
+* 	**Email:** [kgosselin@mining.ca](mailto:kgosselin@mining.ca)
 
 ## 1.5. Administering Authority
 
@@ -76,17 +76,15 @@ Mining Association of Canada (MAC) is a participant in an open ecosystem and the
 
 ## 1.8. Objectives
 
-_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
-
-1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
-2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
-scope.
-3. MUST be consistent with the principles of the GF (below).
-
+1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
+2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
+3. Enable industry-level monitoring, trend identification, and intervention by using comprehensive TSM reporting data from national mining associations and stakeholders.
 
 ## 1.9. Principles 
 
 The Towards Sustainable Mining (TSM) program created by the MAC has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
+
+MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
 
 ## 1.10. General Requirements
 TBD
@@ -114,7 +112,7 @@ TBD
 
 ## 2.3. Trust Assurance and Certification
 
-TBD
+Trust Assurance and Certification is derived from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  The great majority of ICL’s production facilities are certified with ISO standards or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
 
 ## 2.4. Governance Requirements
 
@@ -152,7 +150,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 •	[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
-TBD
+MAC as the owner of intellectual property that TSM consists of.
 
 # End of Document
 
