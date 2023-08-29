@@ -154,7 +154,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 •	[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
-MAC as the owner of intellectual property that TSM consists of.
+MAC is the owner of intellectual property that TSM consists of.
 
 # End of Document
 
