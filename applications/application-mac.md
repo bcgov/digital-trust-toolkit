@@ -124,7 +124,9 @@ TBD
 
 ## 2.3. Trust Assurance and Certification
 
-Trust Assurance and Certification is derived from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  The great majority of ICL’s production facilities are certified with ISO standards or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
+Trust Assurance and Certification is derived in part from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  The great majority of ICL’s production facilities are certified with ISO standards or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
+
+(Also use the Standards Agreement Template MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM to build this out) 
 
 ## 2.4. Governance Requirements
 
