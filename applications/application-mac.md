@@ -96,18 +96,18 @@ MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The
 
 Members of MAC are bound to adhere to the principles and goals set out in the MAC Membership Overview. 
 
-**Branding Mining (the narrative)**
+**Branding Mining (the narrative)**:
 The Canadian mining industry’s global presence and importance is known to Canadians and supported by 
 government.
-**CSR/Social License (reputation)**
+**CSR/Social License (reputation)**:
 The mining industry is seen as a responsible actor committed to sustainable development in Canada and 
 globally.
-**Regulatory Efficiency (ability to build and operate mines)**
+**Regulatory Efficiency (ability to build and operate mines)**:
 A responsible and cost-effective regulatory framework.
-**Economic Competitiveness**
+**Economic Competitiveness**:
 A competitive fiscal environment; a competitive, available and effective system of infrastructure; a skilled and 
 ample workforce; and an open international trade and investment environment.
-**Organizational and Operational Excellence**
+**Organizational and Operational Excellence**:
 MAC is the respected, authoritative voice of the Canadian mining and mineral processing industry and an 
 employer of choice
 
