@@ -82,7 +82,7 @@ Mining Association of Canada (MAC) is a participant in an open ecosystem and the
 
 ## 1.9. Principles 
 
-The Towards Sustainable Mining (TSM) program created by the MAC has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
+[The Towards Sustainable Mining (TSM)](https://mining.ca/towards-sustainable-mining/) program created by the MAC has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
 MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
 
