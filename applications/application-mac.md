@@ -94,7 +94,7 @@ Specific priorities associated with the above objectives include the following:
 
 MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
 
-Members of MAC are bound to adhere to the principles and goals set out in the MAC Membership Overview. 
+Members of MAC are bound to adhere to the principles and goals set out in the [MAC Membership Overview](https://mining.ca/members-partners/become-a-member/#:~:text=Membership%20enables%20companies%20to%3A,Towards%20Sustainable%20Mining%20(TSM)%20program). 
 
 **Branding Mining (the narrative)**:
 The Canadian mining industry’s global presence and importance is known to Canadians and supported by 
