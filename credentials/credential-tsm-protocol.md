@@ -64,10 +64,10 @@ non-governmental organizations, and organized labour, among others. Industry rep
 
 
 The contact information for [The Mining Association of Canada (MAC)](https://mining.ca/) is:
-* 	**Name:** Ben Chalmers
-* 	**Title:** Senior Vice President
-* 	**Organization:** The Mining Association of Canada
-* 	**Email:** [bchalmers@mining.ca](mailto:bchalmers@mining.ca)
+*  **Name:** Katherine Gosselin
+*  **Title:** Director of Towards Sustainable Mining
+*  **Organization:** The Mining Association of Canada
+*  **Email:** kgosselin@mining.ca
 
 ## 1.5. Administering Authority
 
