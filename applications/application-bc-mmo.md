@@ -77,10 +77,9 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 _This section states the high-level outcomes desired by the trust community through its adoption of the GF._
 
-The obejctive of this Governance Framework is the following 
-1) To develop a governance framework outlining legislation, process, and criteria for the estbalishment of a Mines Act Permit issued by the MMO within British Columbia.
+1) To develop a governance framework outlining legislation, administrative processes, and criteria for credentials issued by the MMO within British Columbia.
 2) Develop, modernize and improve the current Mines Act Permitting Process. 
-3) Supports digital business interaction/automation within the BC Mine Permitting Process ecosystem. 
+3) Support digital business interaction/automation within the BC Mine Permitting Process ecosystem. 
 
 1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
 2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
