@@ -150,15 +150,20 @@ TBD
 ## 2.5.2. Major Mines Operating Permit - Digital Credential Request (Existing)
 When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
 
-1. Using the established connection, the mining company MUST send a credential request to MDS.
-2. Continuing from step 1, the mining company MUST provide all of the following attributes in the credential request as outlined in the [BC Mines Act Permit](https://github.com/bcgov/bc-vcpedia/blob/Mines-Act-Permit/credentials/credential-bc-mines-act-permit.md):
+1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
+2.	For all connections, MDS CORE MUST offer permit credentials that have not been offered before. 
+3.	MDS MUST provide an Activity Feed Notification for each credential offer to the Mine Manager 
+4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
+5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
+6.	The Company’s Organizational Wallet SHALL send an email notification of offer to the Mine Manager through secure email. 
+7.	The Mine Manager MUST read and respond to the email notification. 
+8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
+9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
+10.	The Mine Manager MUST either Accept/Decline the offer. 
+11.	Organizational Wallets MAY display a problem report if the credential is declined.
+12.	MDS Traction MUST notify MDS CORE-BC Gov if the offer is declined.
+13.	MDS CORE-BC Gov MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
 
-**BC.Major.Mines.Permit**: permit_id
-
-4. MDS MUST recieve and review the request.
-5. Any clarification questions MAY be asked via secure email.
-6. MDS SHALL offer a Mines Act Permit Credential to the Mining Company.
-7. Mining Company MAY choose to accept the Mines Act Permit credential. 
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
 
