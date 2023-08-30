@@ -151,7 +151,7 @@ TBD
 When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
 
 1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
-2.	For all connections, MDS CORE MUST offer permit credentials that have not been offered before. 
+2.	For all connections, MDS CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
 3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offer to the Mine Manager. 
 4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
 5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
