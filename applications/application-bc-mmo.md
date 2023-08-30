@@ -76,7 +76,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 ## 1.8 Objectives 
 
 1) To develop a governance framework outlining legislation, administrative processes, and criteria for credentials issued by the MMO within British Columbia.
-2) Develop, modernize and improve the current Mines Act Permitting Process. 
+2) Develop, modernize and improve aspects of the current Mines Act Permitting Process. 
 3) Support digital business interaction/automation within the BC Mine Permitting Process ecosystem. 
 
 ## 1.9 Principles 
