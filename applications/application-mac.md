@@ -143,7 +143,7 @@ N/A
 
 ## 2.2. Risk Assessment
 
-Risk Assessment is managed by the TSM and COI panel process. Issues Identification Processes collects feedback and concerns from members to manage risk, which are then reduced into key issues. Thes issues are presented to industry members and non-industry members who prioritize these issues for solution and risk mnagement. 
+Risk Assessment is managed by the TSM and COI panel process. Issues Identification Processes collects feedback and concerns from members to manage risk, which are then reduced into key issues. Thes issues are presented to industry members and non-industry members who prioritize these issues for solution and risk management. 
 
 ## 2.3. Trust Assurance and Certification
 
