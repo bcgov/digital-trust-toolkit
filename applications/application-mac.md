@@ -155,7 +155,7 @@ Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND L
 
 ## 2.4. Governance Requirements
 
-TBD
+Governance requirements are set out by the MAC [COI Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). 
 
 ## 2.5. Business Requirements
 
