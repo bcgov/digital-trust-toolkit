@@ -151,7 +151,7 @@ Trust Assurance and Certification is derived in part from [ICL](https://icl-grou
 
 Trust Assurance and Certification is also derived from [MAC COI Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The Community of Interest (COI) Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labour and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions.
 
-(Also use the Standards Agreement Template MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM to build this out) 
+Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. The responsibilities outlined in Section 4 of the contract contribute to trust assurance by establishing clear roles, promoting consistent communication, allocating resources, and ensuring ongoing support and adherence to established standards. The division of responsibilities, commitment to transparency, and collaborative efforts collectively work to build trust in the implementation and operation of the TSM framework.
 
 ## 2.4. Governance Requirements
 
