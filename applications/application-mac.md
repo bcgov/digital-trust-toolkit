@@ -153,7 +153,7 @@ Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND L
 
 ## 2.4. Governance Requirements
 
-Governance requirements are set out by the TSM [COI Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The Community of Interest (COI) Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labour and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions.
+MAC Board of Directors
 
 ## 2.5. Business Requirements
 
