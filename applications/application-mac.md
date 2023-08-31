@@ -178,6 +178,11 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 7. Once all data is submitted and correct, MAC will offer the credential to the business entity
 8. Business entity can choose to accept or negotiate the credential to request changes
 
+### 2.5.3 Verification 
+Issuing TSM. Verifying TSM issuers 
+
+[MAC TSM External Verification](https://mining.ca/towards-sustainable-mining/external-verification/)
+
 ## 2.6. Technical Requirements
 
 *MUST have an Aries compatible business wallet.*
