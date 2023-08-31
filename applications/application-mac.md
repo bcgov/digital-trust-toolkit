@@ -78,7 +78,7 @@ Mining Association of Canada (MAC) is a participant in an open ecosystem and the
 
 MAC as an organization has the [objective](https://mining.ca/about-us/#:~:text=To%20contribute%20to%20building%20a,sound%20corporate%20and%20public%20policy.) to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.
 
-MAC TSM describes the following overarching objectives in its [Theory of Change](https://mining.ca/resources/guides-manuals/tsm-101-a-primer/): 
+MAC TSM describes the following overarching objectives in its [Theory of Change] (Insert static link if Ben is okay with this) 
 1) Multi Stakeholder Engagement
 2) Continual Improvement
 3) Driving Change Across the Mining Industry
