@@ -143,11 +143,13 @@ N/A
 
 ## 2.2. Risk Assessment
 
-Risk Assessment is managed by the TSM and COI panel process. Issues Identification Processes collects feedback and concerns from members to manage risk, which are then reduced into key issues. Thes issues are presented to industry members and non-industry members who prioritize these issues for solution and risk management. 
+Risk Assessment is managed by the TSM and [COI Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. Issues Identification Processes collects feedback and concerns from members to manage risk, which are then reduced into key issues. Thes issues are presented to industry members and non-industry members who prioritize these issues for solution and risk management. 
 
 ## 2.3. Trust Assurance and Certification
 
 Trust Assurance and Certification is derived in part from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  The great majority of ICL’s production facilities are certified with ISO standards or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
+
+Trust Assurance and Certification is also derived from [MAC COI Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The Community of Interest (COI) Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labour and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions.
 
 (Also use the Standards Agreement Template MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM to build this out) 
 
