@@ -91,26 +91,29 @@ Specific priorities associated with the above objectives include the following:
 ## 1.9. Principles 
 
 **Towards Sustainable Mining Guiding Principles**
+
 [The Towards Sustainable Mining (TSM)](https://mining.ca/towards-sustainable-mining/) program created by the MAC has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
 
 **MAC Mission and Vision Statement**
+
 MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
 
 **MAC Membership Principles and Goals**
+
 Members of MAC are bound to adhere to the principles and goals set out in the [MAC Membership Overview](https://mining.ca/members-partners/become-a-member/#:~:text=Membership%20enables%20companies%20to%3A,Towards%20Sustainable%20Mining%20(TSM)%20program). 
 
-**Branding Mining (the narrative)**:
+*Branding Mining (the narrative)*:
 The Canadian mining industry’s global presence and importance is known to Canadians and supported by 
 government.
-**CSR/Social License (reputation)**:
+*CSR/Social License (reputation)*:
 The mining industry is seen as a responsible actor committed to sustainable development in Canada and 
 globally.
-**Regulatory Efficiency (ability to build and operate mines)**:
+*Regulatory Efficiency (ability to build and operate mines)*:
 A responsible and cost-effective regulatory framework.
-**Economic Competitiveness**:
+*Economic Competitiveness*:
 A competitive fiscal environment; a competitive, available and effective system of infrastructure; a skilled and 
 ample workforce; and an open international trade and investment environment.
-**Organizational and Operational Excellence**:
+*Organizational and Operational Excellence*:
 MAC is the respected, authoritative voice of the Canadian mining and mineral processing industry and an 
 employer of choice
 
