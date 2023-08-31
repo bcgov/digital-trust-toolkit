@@ -143,21 +143,19 @@ N/A
 
 ## 2.2. Risk Assessment
 
-Is there a specific MAC Panel that would manage risk? Board of Directors? _____________
-
-Risk Assessment is managed by MACTSM [COI Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. The Issues Identification Process collects feedback and concerns from members to manage risk, which are then reduced into key issues. These issues are presented to industry members and non-industry members who prioritize these issues for solution and risk management. 
+MAC Board of Directors is the the primary authority for determining risk assessment. MAC Board of Directors relies heavily on advice and input from the TSM [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. The Issues Identification Process collects feedback and concerns from members to manage risk, which are then reduced into key issues. These issues are presented to industry members and non-industry members who prioritize these issues for solution and risk management. 
 
 ## 2.3. Trust Assurance and Certification
 
 Trust Assurance and Certification is derived in part from [ICL](https://icl-group-sustainability.com/reports/voluntary-external-standards/) (ICL Group Ltd).  The great majority of ICL’s production facilities are certified with [ISO standards](https://www.iso.org/iso-50001-energy-management.html#:~:text=ISO%2050001%20provides%20a%20framework,make%20decisions%20about%20energy%20use) or with equivalent standards for environmental management, safety and quality. All major energy consuming sites are certified with the energy ISO standard. ICL has developed [Reporting Standards](https://icl-group-sustainability.com/reports/gri-content-index/) and [Voluntary External Standards](https://icl-group-sustainability.com/reports/voluntary-external-standards/).  MAC is currently in the process of applying for community membership with ICL, which will then progress to full membership which involves peer review and external assurance of compliance. When complete, MAC will be able to claim ICL compliance through third party processes. 
 
-Trust Assurance and Certification is also derived from [MAC COI Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The Community of Interest (COI) Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labour and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions.
+Trust Assurance and Certificaiton is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Trust Assurance and Certification is also derived from [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The TSM COI Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labour and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions. Functionally, the COI Panel's role is to reach consensus on decisions that are then brought to the MAC Board Of Directors. 
 
 Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. The responsibilities outlined in Section 4 of the contract contribute to trust assurance by establishing clear roles, promoting consistent communication, allocating resources, and ensuring ongoing support and adherence to established standards. The division of responsibilities, commitment to transparency, and collaborative efforts collectively work to build trust in the implementation and operation of the TSM framework.
 
 ## 2.4. Governance Requirements
 
-MAC Board of Directors
+Governance Requirements stem from te [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/)
 
 ## 2.5. Business Requirements
 
