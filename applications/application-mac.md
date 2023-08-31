@@ -132,7 +132,7 @@ There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
 
-TBD
+N/A
 
 # 2. Controlled Documents
 
