@@ -143,7 +143,7 @@ N/A
 
 ## 2.2. Risk Assessment
 
-MAC Board of Directors is the the primary authority for determining management of risk assessment. MAC Board of Directors relies heavily on advice and input from the TSM [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. The Issues Identification Process collects feedback and concerns from members to manage risk, which are then reduced into key issues. These issues are presented to industry members and non-industry members of the COI Panel who prioritize these issues for solution and risk management. 
+[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk assessment. MAC Board of Directors relies heavily on advice and input from the TSM [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. The Issues Identification Process collects feedback and concerns from members to manage risk, which are then reduced into key issues. These issues are presented to industry members and non-industry members of the COI Panel who prioritize these issues for solution and risk management. 
 
 ## 2.3. Trust Assurance and Certification
 
