@@ -72,7 +72,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 ## 1.7. Scope 
 
-Mining Association of Canada (MAC) is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
+MAC is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
