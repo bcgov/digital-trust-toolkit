@@ -28,13 +28,13 @@ This governance framework includes structural elements from the Trust over IP Me
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-**Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
+**Requirements** include any combination of hine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
 - Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
 - Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
 - Options are Requirements that use a MAY or OPTIONAL keyword.
 
-**Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
+**hine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
 
 **Rules** are Machine-Testable Requirements that are written in a Machine-Readable language and can be processed by a Rules Engine. They are expressed in a structured rules language as specified by the Governance Framework.
 
@@ -68,11 +68,11 @@ The contact information for EMDT is:
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Mining Association of Canada (MAC) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MAC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MAC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 
-Mining Association of Canada (MAC) is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
+MAC is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
@@ -161,7 +161,7 @@ Governance Requirements stem from te [MAC Board of Directors](https://mining.ca/
 
 ### 2.5.1. Establishing connections
 
-1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
+1. MAC MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
 ### 2.5.2. Annual MAC Membership Confirmation
@@ -169,10 +169,10 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 
 * Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
-1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
+1. Using the established connection, MAC MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
-3. Mining Association of Canada (MAC) will receive and review the proposal consisting of self-assessed TSM performance scores or verified TSM performance scores.
-4. Mining Association of Canada (MAC) will receive and review the proposal consisting of self-assessed TSM score information to determine that the condition of membership has been discharged.
+3. MAC will receive and review the proposal consisting of self-assessed TSM performance scores or verified TSM performance scores.
+4. MAC will receive and review the proposal consisting of self-assessed TSM score information to determine that the condition of membership has been discharged.
 5. Any clarification questions can be asked via the secure messaging function 
 6. Annual self-assessments MUST be submitted through presentation requests
 7. Once all data is submitted and correct, MAC will offer the credential to the business entity
