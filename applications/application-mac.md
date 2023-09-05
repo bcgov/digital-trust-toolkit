@@ -126,7 +126,7 @@ TBD
 
 ## 1.11. Revisions
 
-MAC is governed by a set of Bylaws under the Canadian Corporations Act. Revisions to this governance framework is managed by excecutives.
+MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/). Revisions to this governance framework is managed by excecutives.
 
 ## 1.12. Extensions
 
