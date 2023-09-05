@@ -34,7 +34,7 @@ This governance framework includes structural elements from the Trust over IP Me
 - Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
 - Options are Requirements that use a MAY or OPTIONAL keyword.
 
-**hine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
+**Machine-Testable Requirements** are those with which compliance can be verified using an automated test suite and appropriate scripting or testing software.
 
 **Rules** are Machine-Testable Requirements that are written in a Machine-Readable language and can be processed by a Rules Engine. They are expressed in a structured rules language as specified by the Governance Framework.
 
