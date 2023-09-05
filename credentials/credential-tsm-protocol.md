@@ -125,10 +125,14 @@ TBD
 *  [**Community of Interest (COI) Advisory Panel**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/06/FINAL-2020-COI-Panel-Terms-of-Reference.pdf): Independent multi-interest advisory body comprised of individuals from Indigenous groups, mining communities, non-governmental organizations, and organized labour, among others. The MAC Board also selects a few representatives from the TSM Governance Team to participate in the panel on an ex-officio basis. 
 
 ## 2.2. Risk Assessment
-TBD
+[The Mining Association of Canada (MAC) Board of Directors (Board)](https://mining.ca/about-us/board-of-directors/) is the the primary authority for the risk assessment process of the TSM Programme. The Board relies heavily on the collective expertise and advise from the [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). MAC utilizes internal processes to ensure the opportunity for membership to give feedback and raise concerns regarding risk. Key issues are identified and presented to the COI Panel to prioritize and faciliate managment in cooperation with the Board.
 
 ## 2.3. Trust Assurance and Certification
-TBD
+Trust Assurance and Certification is determined through the Initiative Leaders (IL) of MAC. The IL is a working committee made up of sustainability managers at MAC tasked with articulating changes and updates. This group is a defined committee of MAC. Once work has been completed by this group, changes and suggestions are submitted to the Governance Team. This team reviews and provides recommendations to the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Governance consists of 12-15 people at each time making recommendations to their peers that make up internal MAC bodies.
+  
+Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Trust Assurance and Certification is also derived from [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The TSM COI Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions. Functionally, the COI Panel's role is to reach consensus on decisions that are then brought to the MAC Board Of Directors.
+
+Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. The responsibilities outlined in Section 4 of the contract contribute to trust assurance by establishing clear roles, promoting consistent communication, allocating resources, and ensuring ongoing support and adherence to established standards. The division of responsibilities, commitment to transparency, and collaborative efforts collectively work to build trust in the implementation and operation of the TSM framework.
 
 ## 2.4. Governance Requirements
 The TSM Protocol Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
@@ -227,6 +231,6 @@ BCovrin Test | TBD | --- | ---
 
 MAC is the owner of all intellectual property relating to Towards Sustainable Mining (TSM) Protocols. MAC grants license agreements to other industry associations wanting to adopt TSM Protocols using the following agreement template: [MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM](insert hardlink here).
 
-Industry adopters of TSM are required to agree and abide by the TSM Claims and Labels Policy. Claims and labels are the messages, logos and imagery used to communicate that an entity meets a certain level of Towards Sustainable Mining (TSM) performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM.
+Industry adopters of TSM are required to agree and abide by the TSM Claims and Labels Policy. Claims and labels are the messages, logos and imagery used to communicate that an entity meets a certain level of sustainability performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM.
 
 # End of Document
