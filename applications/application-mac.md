@@ -126,7 +126,7 @@ TBD
 
 ## 1.11. Revisions
 
-In the MAC Business Advocacy and Government Relations Section, industry committees (i.e. Environment Committee) are made up of member representatives managed by MAC staff. Revisions occur through the committee process to develop positions that are reviewed and approved by the  [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/).
+Pending changes to MAC governance that affect this process, MAC staff are authorized to update and issue new versions of this governing document.
 
 ## 1.12. Extensions
 
