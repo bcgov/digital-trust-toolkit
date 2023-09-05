@@ -1,10 +1,10 @@
 ---
 layout: default
-title: TSM Protocol
+title: TSM Summary Report
 parent: Credentials
 ---
 
-# TSM Protocol Credential Governance Framework (Primary Document)
+# TSM Summary Report Governance Framework (Primary Document)
 
 # 1. Primary Document
 
@@ -143,7 +143,7 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ### 2.6.1 Schema Definition
 
-__Schema Name:__ tsm.protocol
+__Schema Name:__ tsm.canadian.summary.report
 
 __Schema Version:__ 1.0
 
@@ -224,6 +224,9 @@ BCovrin Test | TBD | --- | ---
 [MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
-TBD
+
+MAC is the owner of all intellectual property relating to Towards Sustainable Mining (TSM) Protocols. MAC grants license agreements to other industry associations wanting to adopt TSM Protocols using the following agreement template: [MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM](insert hardlink here).
+
+Industry adopters of TSM are required to agree and abide by the TSM Claims and Labels Policy. Claims and labels are the messages, logos and imagery used to communicate that an entity meets a certain level of Towards Sustainable Mining (TSM) performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM.
 
 # End of Document
