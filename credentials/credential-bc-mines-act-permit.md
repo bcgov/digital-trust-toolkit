@@ -162,7 +162,6 @@ This schema definition follows the AnonCreds specification (https://wiki.hyperle
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
 Notice of Work | notice_of_work_type | String | not NULL | A Notice of Work (NoW) is a unique identifier assigned to a regional mining operation or mine site application. 
-
 Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). 
 Permit Status | permit_status_code | String | not NULL | Defined as either "open" or "closed".
 Permittee | mine_party_appt | String | not NULL | Name of the mining company who holds the permit.
