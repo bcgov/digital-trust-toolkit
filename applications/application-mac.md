@@ -126,7 +126,7 @@ TBD
 
 ## 1.11. Revisions
 
-MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/). Revisions to this governance framework is managed by excecutives.
+Revisions to this governance framework is managed by excecutive leadership.
 
 ## 1.12. Extensions
 
@@ -143,15 +143,11 @@ N/A
 
 ## 2.2. Risk Assessment
 
-[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk assessment. MAC Board of Directors relies heavily on advice and input from the TSM [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) process. The Issues Identification Process collects feedback and concerns from members to manage risk, which are then reduced into key issues. These issues are presented to industry members and non-industry members of the COI Panel who prioritize these issues for solution and risk management. 
+[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk assessment. 
 
 ## 2.3. Trust Assurance and Certification
 
-Trust Assurance and Certification is determined through the Initiative Leaders (IL) of MAC. The IL is a working committee made up of sustainability managers at MAC tasked with articulating changes and updates. This group is a defined committee of MAC. Once work has been completed by this group, changes and suggestions are submitted to the Governance Team. This team reviews and provides recommendations to the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Governance consists of 12-15 people at each time making recommendations to their peers that make up internal MAC bodies.
-  
-Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Trust Assurance and Certification is also derived from [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The TSM COI Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions. Functionally, the COI Panel's role is to reach consensus on decisions that are then brought to the MAC Board Of Directors.
-
-Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. The responsibilities outlined in Section 4 of the contract contribute to trust assurance by establishing clear roles, promoting consistent communication, allocating resources, and ensuring ongoing support and adherence to established standards. The division of responsibilities, commitment to transparency, and collaborative efforts collectively work to build trust in the implementation and operation of the TSM framework.
+MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
 
 ## 2.4. Governance Requirements
 
