@@ -126,7 +126,7 @@ TBD
 
 ## 1.11. Revisions
 
-Pending changes to MAC governance that affect this process, MAC staff are authorized to update and issue new versions of this governing document.
+MAC is governed by a set of Bylaws under the Canadian Corporations Act. Revisions to this governance framework is managed by excecutives.
 
 ## 1.12. Extensions
 
