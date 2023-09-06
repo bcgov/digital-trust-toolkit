@@ -183,7 +183,7 @@ Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordi
 Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
 Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, [Mines Act Section 12](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section12) Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
 Mine Tailings Storage Facility | tsf_operating_status_code | String | not NULL | Stores the information relavent to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground up rock, sand and silt) and water from the milling process. Operating Status Code defines the specific operating status of a tailings storage facilitaty for a mining operation. MDS Codes for TSF are (1) Operating or (2) Care and Maintenance.(unable to find specific schema within MDS that would denote either operating or care and maintenance).
-Mine Tailing Storage Facility Operating | TSF_operating_count | String | not NULL | Describes a TSF as operational. 
+Mine Tailing Storage Facility Operating | TSF_operating | String | not NULL | Describes a TSF as operational. 
 Mine Tailing Storage Facility Care and Maintenance | TSF_care_and_maintenance | String | not NULL | Describes a TSF as under Care and Maintenance. 
 
 
