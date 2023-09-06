@@ -151,7 +151,7 @@ MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations
 
 ## 2.4. Governance Requirements
 
-Governance Requirements stem from te [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/)
+Governance Requirements stem from the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/)
 
 ## 2.5. Business Requirements
 
