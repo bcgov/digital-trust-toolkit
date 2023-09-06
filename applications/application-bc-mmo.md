@@ -52,7 +52,7 @@ The standard language for this governing framework (GF) is English.
 
 * 	**Name:** 
 * 	**Title:**
-* 	**Organization:** Mines Digital Services
+* 	**Organization:** Major Mines Office
 * 	**Email:**
 
 ## 1.5. Administering Authority
