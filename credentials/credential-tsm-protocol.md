@@ -10,7 +10,7 @@ parent: Credentials
 
 ## 1.1. Introduction
 
-Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) protocols that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the Mining Association of Canada (MAC). This Governance Framework (GF) documents the TSM Protocol credential and its requirements.
+Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the [Mining Association of Canada (MAC)](https://mining.ca/). This Governance Framework (GF) documents the TSM Protocol credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -178,7 +178,7 @@ verification_statement_signature | String | Not NULL | textbox, printed signatur
 summary_tsm_min | String | Not NULL | levels C - AAA, minimum level awarded for all TSM protocols
 indigenous_q1 | String | Not NULL | levels C - AAA, Community of Interest (COI) Identification
 indigenous_q2 | String | Not NULL | levels C - AAA, Community of Interest (COI) Engagement
-indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagement and dialog
+indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagement and dialogue
 indigenous_q4 | String | Not NULL | levels C - AAA, community impact and benefit management
 indigenous_q5 | String | Not NULL | levels C - AAA, Community of Interest (COI) response mechanism
 indigenous_summary_min | String | Not NULL | levels C - AAA, minimum level awarded for indigenous protocols
