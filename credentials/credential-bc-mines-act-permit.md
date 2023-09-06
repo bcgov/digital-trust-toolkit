@@ -131,10 +131,10 @@ process due to its complexity.
 * 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
 ## 2.2. Risk Assessment
-TBD
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)is the the primary authority for determining management of Risk Assessment.
 
 ## 2.3. Trust Assurance and Certification
-TBD
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) primary authority for determining Trust Assurance and Certification.
 
 ## 2.4. Governance Requirements
 The Mines Digital Services (MDS) updates and manages this credential governance framework.
