@@ -122,7 +122,7 @@ MAC is the respected, authoritative voice of the Canadian mining and mineral pro
 employer of choice
 
 ## 1.10. General Requirements
-TBD
+[The Mining Association of Canada](https://mining.ca/) updates and manages this credential governance framework.
 
 ## 1.11. Revisions
 
