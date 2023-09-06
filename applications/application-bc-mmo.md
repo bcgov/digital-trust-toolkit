@@ -129,7 +129,7 @@ process due to its complexity.
 [The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the the primary authority for determining management of risk assessment.
 
 ## 2.3. Trust Assurance and Certification
-The MMO is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
+The [The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations)  is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
 
 ## 2.4. Governance Requirements
 Governance Requirements stem from the [The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations)
