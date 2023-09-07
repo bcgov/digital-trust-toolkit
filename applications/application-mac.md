@@ -129,11 +129,11 @@ N/A
 
 ## 2.2. Risk Assessment
 
-[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk assessment. 
+[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk. 
 
 ## 2.3. Trust Assurance and Certification
 
-MAC is a not for profit Canadian Corporation. MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
+MAC is a not for profit Canadian Corporation. MAC is governed by a set of Bylaws in accordance with the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
 
 ## 2.4. Governance Requirements
 
