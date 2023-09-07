@@ -91,7 +91,8 @@ This Governance Framework applies to the TSM Protocol credential from the Mining
 
 This GF describes the TSM Protocol credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
-The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA. 
+The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA.
+
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
 
 ## 1.9. Principles
