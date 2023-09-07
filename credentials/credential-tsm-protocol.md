@@ -128,7 +128,7 @@ Version 1.0. MAC as the secretariat of TSM approves all revisions and changes.
 There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
-TBD
+(input all the guides and links to TSM protocols)
 
 # 2. Controlled Documents
 
