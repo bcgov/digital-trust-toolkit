@@ -133,7 +133,7 @@ N/A
 
 ## 2.3. Trust Assurance and Certification
 
-MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
+MAC is a not for profit Canadian Corporation. MAC is governed by a set of Bylaws under the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
 
 ## 2.4. Governance Requirements
 
