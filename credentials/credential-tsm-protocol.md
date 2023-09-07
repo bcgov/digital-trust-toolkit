@@ -122,7 +122,7 @@ More information about the verification process can be found in the [TSM Verific
 ![TSMVerificationLayers](https://user-images.githubusercontent.com/122049466/215434707-681ab0e5-de20-4ab2-8908-04373669a3bd.PNG)
 
 ## 1.11. Revisions
-Version 1.0
+Version 1.0. MAC as the secretariat of TSM approves all revisions and changes. 
 
 ## 1.12. Extensions
 There are no extensions to this Governance Framework.
