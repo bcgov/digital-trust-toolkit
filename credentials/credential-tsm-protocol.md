@@ -128,7 +128,34 @@ Version 1.0. MAC as the secretariat of TSM approves all revisions and changes.
 There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
-(input all the guides and links to TSM protocols)
+The TSM Guiding Principles are backed by a suite of [protocols](https://mining.ca/towards-sustainable-mining/protocols-guides/) against which mining companies measure and publicly report their performance in the annual TSM Progress Reports.
+
+[Biodiversity Conservation Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/Biodiversity-Protocol-1.pdf)
+[Biodiversity Conservation Management Protocol Guide](https://mining.ca/flippingbooks/towards-sustainable-mining-biodiversity-conservation-management/)
+
+[Climate Change Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2021/08/FINAL-Climate-Change-Protocol-ENGLISH.pdf)
+[Climate Change Protocol Guide](https://mining.ca/flippingbooks/climate-change/)
+
+[Crisis Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/07/Crisis-Management-2022-ENGLISH.pdf)
+[Crisis Management Protocol Guide](https://mining.ca/flippingbooks/crisis-management/)
+
+[Equitable, Diverse, and Inclusive Workplace Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/06/EDI-Workplaces-Protocol-2023-ENGLISH.pdf)
+[Equitable, Diverse, and Inclusive Workplace Protocol Guide](https://mining.ca/wp-content/uploads/dlm_uploads/2023/06/EDI-Workplaces-Framework-2023-ENGLISH.pdf)
+
+[Indigenous and Community Relationships Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/ICR-Protocol-English-2023.pdf)
+[Indigenous and Community Relationships Protocol Guide](https://mining.ca/flippingbooks/indigenous-and-community-relationships/)
+
+[Prevention of Child and Forced Labour Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/Preventing-Child-and-Forced-Labour-Protocol-English.pdf)
+[Prevention of Child and Forced Labour Protocol Guide](https://mining.ca/flippingbooks/prevention-of-child-and-forced-labour/)
+
+[Safe, Healthy and Respectful Workplaces Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/06/SHR-Workplaces-Protocol-2023-ENGLISH.pdf)
+[Safe, Healthyn ad Respectful Workplaces Protocol Guide](https://mining.ca/flippingbooks/safety-and-health/)
+
+[Tailings Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/TSM-Tailings-Management-Protocol-June-2022.pdf)
+[Tailings Management Protocol Guide](https://mining.ca/flippingbooks/tailings-management/)
+
+[Water Stewardship Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/Water-Stewardship-Protocol-apr-2023.pdf)
+[Water Stewardship Protocol Guide](https://mining.ca/flippingbooks/water-stewardship/)
 
 # 2. Controlled Documents
 
