@@ -143,9 +143,16 @@ There are no extensions to this Governance Framework.
 
 ## 2.3. Trust Assurance and Certification
   
-Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). Trust Assurance and Certification is also derived from [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The TSM COI Advisory Panel is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations. Select members of the MAC Board also sit on the Panel to provide a mining industry perspective to discussions. Functionally, the COI Panel's role is to reach consensus on decisions that are then brought to the MAC Board Of Directors.
+Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). The [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations that advises the MAC Board of Directors.
 
-Trust Assurance and Certification is derived from the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. The responsibilities outlined in Section 4 of the contract contribute to trust assurance by establishing clear roles, promoting consistent communication, allocating resources, and ensuring ongoing support and adherence to established standards. The division of responsibilities, commitment to transparency, and collaborative efforts collectively work to build trust in the implementation and operation of the TSM framework.
+MAC utilizes the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM** as a trust assurance framework for international adoption. MAC has identified the following minimum categories of requirements for Licensees: 
+1.	Guiding Principles
+2.	Performance Indicators
+3.	Facility-level Reporting
+4.	Independent Verification
+5.	Public Reporting of Facility Level Reporting 
+6.	Community of Interest Advisory Body
+7.	Condition of Membership
 
 ## 2.4. Governance Requirements
 The TSM Protocol Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
