@@ -104,8 +104,6 @@ MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The
 
 Members of MAC are bound to adhere to the principles and goals set out in the [MAC Membership Overview](https://mining.ca/members-partners/become-a-member/#:~:text=Membership%20enables%20companies%20to%3A,Towards%20Sustainable%20Mining%20(TSM)%20program). 
 
-**(The below information is taken from the MAC Membership Powerpoint as discussed with Ben last meeting)**
-
 *Branding Mining (the narrative)*:
 The Canadian mining industry’s global presence and importance is known to Canadians and supported by 
 government.
