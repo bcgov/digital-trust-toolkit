@@ -91,7 +91,7 @@ This Governance Framework applies to the TSM Protocol credential from the Mining
 
 This GF describes the TSM Protocol credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
-MAC TSM describes the following overarching objectives in its [Theory of Change] (Insert static link if Ben is okay with this) 
+TSM describes the following overarching objectives in its [Theory of Change] (Insert static link if Ben is okay with this) 
 1) Multi Stakeholder Engagement
 2) Continual Improvement
 3) Driving Change Across the Mining Industry
