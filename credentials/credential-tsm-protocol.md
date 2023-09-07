@@ -163,7 +163,7 @@ The primary use of the TSM Protocol Credential is verification of TSM scores, se
 
 ## 2.6. Technical Requirements (Credential)
 
-The Verifiable Credential format for this credential is AnonCreds specification (https://anoncreds-wg.github.io/anoncreds-spec/)
+The Verifiable Credential format for this credential is AnonCreds specification (https://hyperledger.github.io/anoncreds-spec/)
 
 ### 2.6.1 Schema Definition
 
