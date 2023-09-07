@@ -58,7 +58,7 @@ The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Au
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Mining Association of Canada (MAC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of MAC during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -68,13 +68,15 @@ The contact information for EMDT is:
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving Mining Association of Canada (MAC) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MAC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MAC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 
-Mining Association of Canada (MAC) is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
+MAC is a participant in an open ecosystem and the focus of this framework is to describe the process MAC uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
+
+MAC TSM operates based on a Theory Of Change philosophy that outlines the following objectives:
 
 1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
 2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
@@ -122,7 +124,7 @@ TBD
 
 ### 2.5.1. Establishing connections
 
-1. Mining Association of Canada (MAC) MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
+1. MAC MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
 2. The receiving party MUST accept invitation in order to establish a secure connection.
 
 ### 2.5.2. Annual MAC Membership Confirmation
@@ -130,9 +132,9 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 
 * Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
 
-1. Using the established connection, Mining Association of Canada (MAC) MUST receive a verification request from the business entity. 
+1. Using the established connection, MAC MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
-3. Mining Association of Canada (MAC) will receive and review the proposal
+3. MAC will receive and review the proposal
 4. Any clarification questions can be asked via the secure messaging function 
 5. Annual self-assessments MUST be submitted through presentation requests
 6. Once all data is submitted and correct, MAC will offer the credential to the business entity
