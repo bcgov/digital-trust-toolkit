@@ -28,7 +28,7 @@ This governance framework includes structural elements from the Trust over IP Me
 
 [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary)
 
-**Requirements** include any combination of hine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
+**Requirements** include any combination of machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
 - Mandates are Requirements that use a MUST, MUST NOT, SHALL, SHALL NOT or REQUIRED keyword.
 - Recommendations are Requirements that use a SHOULD, SHOULD NOT, or RECOMMENDED keyword.
