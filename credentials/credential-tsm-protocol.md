@@ -156,7 +156,7 @@ The TSM Guiding Principles are backed by a suite of [protocols](https://mining.c
 * [**MAC Board of Directors**](https://mining.ca/about-us/board-of-directors/): The Mining Association of Canada (MAC) is governed by a team of industry leaders from our membership who were selected for their breadth and depth of mining experience. Through their strategic guidance and oversight, these professionals collectively play a vital role in advancing the work of MAC and the industry at large.
 
 ## 2.2. Risk Assessment
-[The Mining Association of Canada (MAC) Board of Directors (Board)](https://mining.ca/about-us/board-of-directors/) is the the primary authority for the risk assessment process of the TSM Programme. The Board relies heavily on the collective expertise and advice from the [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). Key issues are identified and presented to the TSM COI Panel. 
+[The Mining Association of Canada (MAC) Board of Directors (Board)](https://mining.ca/about-us/board-of-directors/) is the the primary authority for the risk assessment process of the TSM Programme. The Board relies heavily on the collective expertise and advice from the [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The panel provides advice to the board through a formal process for issues identification.
 
 ## 2.3. Trust Assurance and Certification
   
