@@ -186,7 +186,7 @@ The Verifiable Credential format for this credential is AnonCreds specification 
 
 ### 2.6.1 Schema Definition
 
-__Schema Name:__ tsm.canadian.summary.report
+__Schema Name:__ tsm.summary.report
 
 __Schema Version:__ 1.0
 
