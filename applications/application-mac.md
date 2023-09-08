@@ -160,9 +160,8 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
 3. MAC will receive and review the proposal
 4. Any clarification questions can be asked via the secure messaging function 
-5. Annual self-assessments MUST be submitted through presentation requests
-6. Once all data is submitted and correct, MAC will offer the credential to the business entity
-7. Business entity can choose to accept or negotiate the credential to request changes
+5. Annual self-assessments MUST be submitted through presentation requests to MAC
+6. Upon reciept MAC will publish data publicaly via website
 
 ## 2.6. Technical Requirements
 
