@@ -10,7 +10,7 @@ parent: Credentials
 
 ## 1.1. Introduction
 
-Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the [Mining Association of Canada (MAC)](https://mining.ca/). This Governance Framework (GF) documents the TSM Protocol credential and its requirements.
+Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the [Mining Association of Canada (MAC)](https://mining.ca/). This Governance Framework (GF) documents the TSM Summary Report credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -81,15 +81,15 @@ The contact information for EMDT is:
 
 ## 1.6. Purpose
 
-The purpose of this Governance Framework (GF) is to define the parameters of a TSM Protocol credential.
+The purpose of this Governance Framework (GF) is to define the parameters of a TSM Summary Report credential.
 
 ## 1.7. Scope
 
-This Governance Framework applies to the TSM Protocol credential from the Mining Association of Canada (MAC).
+This Governance Framework applies to the TSM Summary Report credential from the Mining Association of Canada (MAC).
 
 ## 1.8. Objectives
 
-This GF describes the TSM Protocol credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
+This GF describes the TSM Summary Report credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
 TSM describes the following overarching objectives in its [Theory of Change] (Insert static link if Ben is okay with this) 
 1) Multi Stakeholder Engagement
@@ -174,11 +174,11 @@ MAC utilizes the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE
 7.	Condition of Membership
 
 ## 2.4. Governance Requirements
-The TSM Protocol Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
+The TSM Summary Report Credential is governed by the [**TSM Program Governance**](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf) 
 
 ## 2.5. Business Requirements
 
-The primary use of the TSM Protocol Credential is verification of TSM scores, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://mining.ca/towards-sustainable-mining/external-verification/#:~:text=Individuals%20interested%20in%20becoming%20TSM%20verifiers%20should%20confirm,Mining%20Association%20of%20Canada%E2%80%99s%20annual%20verifier%20training%20workshop.)
+The primary use of the TSM Summary Report Credential is verification of TSM scores, see [Mining Association of Canada (MAC) Verifier Governance Framework](https://mining.ca/towards-sustainable-mining/external-verification/#:~:text=Individuals%20interested%20in%20becoming%20TSM%20verifiers%20should%20confirm,Mining%20Association%20of%20Canada%E2%80%99s%20annual%20verifier%20training%20workshop.)
 
 ## 2.6. Technical Requirements (Credential)
 
@@ -214,7 +214,7 @@ verification_statement_comments | String | Not NULL | textbox, verifier comments
 verification_statement_lead_name| String | Not NULL | textbox, full legal name of the lead verifier
 verification_statement_date | String | Not NULL | date, YYYY/MM/DD
 verification_statement_signature | String | Not NULL | textbox, printed signature of lead verifier
-summary_tsm_min | String | Not NULL | levels C - AAA, minimum level awarded for all TSM protocols
+summary_tsm_min | String | Not NULL | levels C - AAA, minimum level awarded for all TSM protocol
 indigenous_q1 | String | Not NULL | levels C - AAA, Community of Interest (COI) Identification
 indigenous_q2 | String | Not NULL | levels C - AAA, Community of Interest (COI) Engagement
 indigenous_q3 | String | Not NULL | levels C - AAA, effective Indigenous engagement and dialogue
