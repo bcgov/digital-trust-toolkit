@@ -75,13 +75,9 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 ## 1.8 Objectives 
 
-_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
-1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
-2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
-scope.
-3. MUST be consistent with the principles of the GF (below).
-
-TBD
+1) To develop a governance framework outlining legislation, administrative processes, and criteria for credentials issued by the MMO within British Columbia.
+2) Develop, modernize and improve aspects of the current Mines Act Permitting Process. 
+3) Support digital business interaction/automation within the BC Mine Permitting Process ecosystem. 
 
 ## 1.9 Principles 
 
@@ -130,12 +126,13 @@ process due to its complexity.
 * 	**CORE** A central digital repository for all major mine record information. 
 
 ## 2.2. Risk Assessment
-TBD
+[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the the primary authority for determining management of risk assessment.
 
 ## 2.3. Trust Assurance and Certification
-TBD
+[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations)  is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
 
 ## 2.4. Governance Requirements
+Governance Requirements stem from the [The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations)
 
 ## 2.5. Business Requirements
 
@@ -150,15 +147,20 @@ TBD
 ## 2.5.2. Major Mines Operating Permit - Digital Credential Request (Existing)
 When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
 
-1. Using the established connection, the mining company MUST send a credential request to MDS.
-2. Continuing from step 1, the mining company MUST provide all of the following attributes in the credential request as outlined in the [BC Mines Act Permit](https://github.com/bcgov/bc-vcpedia/blob/Mines-Act-Permit/credentials/credential-bc-mines-act-permit.md):
+1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
+2.	For all connections, MDS CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
+3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offer to the Mine Manager. 
+4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
+5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
+6.	The Company’s Organizational Wallet SHALL send an email notification of offer to the Mine Manager through secure email. 
+7.	The Mine Manager MUST read and respond to the email notification. 
+8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
+9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
+10.	The Mine Manager MUST either Accept/Decline the offer. 
+11.	Organizational Wallets MAY display a problem report if the credential is declined.
+12.	MDS Traction MUST notify MDS CORE-BC Gov if the offer is declined.
+13.	MDS CORE-BC Gov MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
 
-**BC.Major.Mines.Permit**: permit_id
-
-4. MDS MUST recieve and review the request.
-5. Any clarification questions MAY be asked via secure email.
-6. MDS SHALL offer a Mines Act Permit Credential to the Mining Company.
-7. Mining Company MAY choose to accept the Mines Act Permit credential. 
    
 ## 2.5.3. Major Mines Operating Permit Application - Digital Credential Request (New)
 

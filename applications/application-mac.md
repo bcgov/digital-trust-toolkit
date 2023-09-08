@@ -58,7 +58,7 @@ The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Au
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Mining Association of Canada (MAC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of MAC during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -76,7 +76,12 @@ MAC is a participant in an open ecosystem and the focus of this framework is to 
 
 ## 1.8. Objectives
 
-MAC as an organization has the [objective](https://mining.ca/about-us/#:~:text=To%20contribute%20to%20building%20a,sound%20corporate%20and%20public%20policy.) to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.
+MAC TSM operates based on a Theory Of Change philosophy that outlines the following objectives:
+
+1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
+2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
+3. Enable industry-level monitoring, trend identification, and intervention by using comprehensive TSM reporting data from national mining associations and stakeholders.
+
 
 ## 1.9. Principles 
 
@@ -153,13 +158,11 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 
 1. Using the established connection, MAC MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
-3. MAC will receive and review the proposal consisting of self-assessed TSM performance scores or verified TSM performance scores.
-4. MAC will receive and review the proposal consisting of self-assessed TSM score information to determine that the condition of membership has been discharged.
-5. Any clarification questions can be asked via the secure messaging function 
-6. Annual self-assessments MUST be submitted through presentation requests
-7. Once all data is submitted and correct, MAC will offer the credential to the business entity
-8. Business entity can choose to accept or negotiate the credential to request changes
-
+3. MAC will receive and review the proposal
+4. Any clarification questions can be asked via the secure messaging function 
+5. Annual self-assessments MUST be submitted through presentation requests
+6. Once all data is submitted and correct, MAC will offer the credential to the business entity
+7. Business entity can choose to accept or negotiate the credential to request changes
 
 ## 2.6. Technical Requirements
 
