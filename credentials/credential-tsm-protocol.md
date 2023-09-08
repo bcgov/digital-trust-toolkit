@@ -71,13 +71,11 @@ The contact information for [The Mining Association of Canada (MAC)](https://min
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of MAC during the pilot phase of development.
-
-The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+The contact information for [The Mining Association of Canada (MAC)](https://mining.ca/) is:
+*  **Name:** Katherine Gosselin
+*  **Title:** Director of Towards Sustainable Mining
+*  **Organization:** The Mining Association of Canada
+*  **Email:** kgosselin@mining.ca
 
 ## 1.6. Purpose
 
@@ -143,7 +141,7 @@ The TSM Guiding Principles are backed by a suite of [protocols](https://mining.c
 11. [Prevention of Child and Forced Labour Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/Preventing-Child-and-Forced-Labour-Protocol-English.pdf)
 12. [Prevention of Child and Forced Labour Protocol Guide](https://mining.ca/flippingbooks/prevention-of-child-and-forced-labour/)
 13. [Safe, Healthy and Respectful Workplaces Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/06/SHR-Workplaces-Protocol-2023-ENGLISH.pdf)
-14. [Safe, Healthyn ad Respectful Workplaces Protocol Guide](https://mining.ca/flippingbooks/safety-and-health/)
+14. [Safe, Healthy and Respectful Workplaces Protocol Guide](https://mining.ca/flippingbooks/safety-and-health/)
 15. [Tailings Management Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2022/08/TSM-Tailings-Management-Protocol-June-2022.pdf)
 16. [Tailings Management Protocol Guide](https://mining.ca/flippingbooks/tailings-management/)
 17. [Water Stewardship Protocol](https://mining.ca/wp-content/uploads/dlm_uploads/2023/04/Water-Stewardship-Protocol-apr-2023.pdf)
