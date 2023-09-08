@@ -89,7 +89,8 @@ This Governance Framework applies to the TSM Summary Report credential from the 
 
 This GF describes the TSM Summary Report credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
-TSM describes the following overarching objectives in its [Theory of Change] (Insert static link if Ben is okay with this) 
+TSM describes the following overarching objectives in its [Theory of Change](https://github.com/bcgov/bc-vcpedia/files/12563322/Theory.of.Change.-.TSM.pdf)
+
 1) Multi Stakeholder Engagement
 2) Continual Improvement
 3) Driving Change Across the Mining Industry
