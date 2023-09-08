@@ -162,7 +162,7 @@ The TSM Guiding Principles are backed by a suite of [protocols](https://mining.c
   
 Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). The [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations that advises the MAC Board of Directors.
 
-MAC utilizes the **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM** as a trust assurance framework for international adoption. MAC has identified the following minimum categories of requirements for Licensees: 
+MAC utilizes the [TSM Mutual Cooperation Agreement Template 2022.pdf](https://github.com/bcgov/bc-vcpedia/files/12563019/TSM.Mutual.Cooperation.Agreement.Template.2022.pdf) as a trust assurance framework for international adoption. MAC has identified the following minimum categories of requirements for Licensees: 
 1.	Guiding Principles
 2.	Performance Indicators
 3.	Facility-level Reporting
@@ -266,8 +266,9 @@ BCovrin Test | TBD | --- | ---
 
 ## 2.9. Legal Agreements
 
-MAC is the owner of intellectual property that TSM consists of. MAC licenses TSM to industry associations that choose to adopt TSM based on the following agreement template: **MUTUAL COOPERATION AND LICENSING AGREEMENT RESPECTING THE USE AND APPLICATION OF TSM**. 
+MAC is the owner of intellectual property that TSM consists of. MAC licenses TSM to industry associations that choose to adopt TSM based on the following agreement template:[TSM Mutual Cooperation Agreement Template 2022.pdf](https://github.com/bcgov/bc-vcpedia/files/12563019/TSM.Mutual.Cooperation.Agreement.Template.2022.pdf)
 
 Industry adopters of TSM are also bound to agree and abide by the [TSM Claims and Labels Policy](https://mining.ca/resources/guides-manuals/tsm-claims-and-labels-policy-2023/). Claims and labels are the messages, logos and imagery used to communicate that an entity  meets a certain level of Towards Sustainable Mining (TSM) performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM. .
+
 
 # End of Document
