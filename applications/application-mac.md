@@ -161,7 +161,7 @@ Participation in the TSM initiative is mandatory for all MAC members for their C
 3. MAC will receive and review the proposal
 4. Any clarification questions can be asked via the secure messaging function 
 5. Annual self-assessments MUST be submitted through presentation requests to MAC
-6. Upon reciept MAC will publish data publicaly via website
+6. Upon receipt MAC will publish data publicly via website
 
 ## 2.6. Technical Requirements
 
