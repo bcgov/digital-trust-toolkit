@@ -57,7 +57,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Major Mines Office (MMO) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -67,15 +67,15 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MMO in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
 
 ## 1.7 Scope
 
-[The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is a participant in an open ecosystem and the focus of this framework is to describe the process MMO uses for digital exchanges on Indy networks.
+[The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is a participant in an open ecosystem and the focus of this framework is to describe the process MDS uses for digital exchanges on Indy networks.
 
 ## 1.8 Objectives 
 
-1) To develop a governance framework outlining legislation, administrative processes, and criteria for credentials issued by the MMO within British Columbia.
+1) To develop a governance framework outlining legislation, administrative processes, and criteria for credentials issued by the MDS within British Columbia.
 2) Develop, modernize and improve aspects of the current Mines Act Permitting Process. 
 3) Support digital business interaction/automation within the BC Mine Permitting Process ecosystem. 
 
@@ -126,10 +126,10 @@ process due to its complexity.
 * 	**CORE** A central digital repository for all major mine record information. 
 
 ## 2.2. Risk Assessment
-[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the the primary authority for determining management of risk assessment.
+[MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the the primary authority for determining management of risk assessment.
 
 ## 2.3. Trust Assurance and Certification
-[The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
+[MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
 
 ## 2.4. Governance Requirements
 Governance Requirements stem from [The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)
@@ -173,7 +173,7 @@ There are three different routes for a project to come into the Coordinated Auth
 
 1. A project that meets the above criteria MUST conduct introductions and engagements among the proponent, Provincial Staff, Indigenous Nations and other potentially impacted groups.
 2. A project MAY be referred to the Coordinated Authorizations Process by the Chief Permitting Officer (CPO) after step 1 is complete if deemed necessary after introductions and engagements.
-3. All Coordinated Authorizations MUST be managed by the [EMLI Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations). 
+3. All Coordinated Authorizations MUST be managed by the [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/).
 4. Mines Act Permit Applications that are particularly complex MUST be referred to an advisory committee made up of Provincial staff, Indigenous nations, and other potentially impacted groups through a [Mine Review Committee](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting/coordinated-authorizations/mine-mrc) (MRC) by the CPO as part of the Coordinated Authorizations Process.
 5. Application MUST be formally submitted to indigenous nations for review.
 6. The MRC MAY subject the application to public engagement activities if required.
