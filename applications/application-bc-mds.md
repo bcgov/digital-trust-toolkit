@@ -9,7 +9,7 @@ parent: Applications
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for [BC Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
+This document articulates the governance framework for [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -48,7 +48,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
+[MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
 
 * 	**Name:** Rebecca Stevenson
 * 	**Title:** Project Owner
@@ -67,11 +67,11 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
 
 ## 1.7 Scope
 
-[The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is a participant in an open ecosystem and the focus of this framework is to describe the process MDS uses for digital exchanges on Indy networks.
+[MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is a participant in an open ecosystem and the focus of this framework is to describe the process MDS uses for digital exchanges on Indy networks.
 
 ## 1.8 Objectives 
 
@@ -84,7 +84,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
+MDS updates and manages this credential governance framework.
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 - **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
@@ -132,7 +132,7 @@ process due to its complexity.
 [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
 
 ## 2.4. Governance Requirements
-Governance Requirements stem from [The Mines Digital Services(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)
+Governance Requirements stem from [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/)
 
 ## 2.5. Business Requirements
 
