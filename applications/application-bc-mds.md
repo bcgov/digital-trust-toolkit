@@ -67,7 +67,7 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MDS in a trusted manner. MMO is an actor within the ecosystem  utilizing integration with MDS CORE and MineSpace to enable the organizational Traction Organizational Wallet. 
 
 ## 1.7 Scope
 
