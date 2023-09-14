@@ -188,6 +188,7 @@ There are three different routes for a project to come into the Coordinated Auth
 ## 2.7. Information Trust Requirements
 
 The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
+MDS and EMDT have also completed a [Privacy Impact Assessment](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments), a step-by-step review process that ensures protection of personal information collected or used.
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
