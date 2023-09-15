@@ -53,7 +53,7 @@ The standard language for this governing framework (GF) is English.
 * 	**Name:** Jolene Jackson
 * 	**Title:** Senior Project Lead - Mines Competitiveness & Authorizations Division
 * 	**Organization:** Major Mines Office
-* 	**Email:**jolene.jackson@gov.bc.ca
+* 	**Email:** jolene.jackson@gov.bc.ca
 
 ## 1.5. Administering Authority
 
