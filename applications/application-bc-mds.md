@@ -9,7 +9,7 @@ parent: Applications
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for the Mines Digital Services ([MDS])(https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
+This document articulates the governance framework for the Mines Digital Services [(MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
