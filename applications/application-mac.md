@@ -117,7 +117,7 @@ employer of choice
 
 ## 1.11. Revisions
 
-Version 1.0. Revisions to this governance framework is managed by MAC excecutive leadership.
+Version 1.0. Revisions to this governance framework is managed by MAC excecutive leadership. The most recent version of this governance document is published at the following address ___________________________
 
 ## 1.12. Extensions
 
