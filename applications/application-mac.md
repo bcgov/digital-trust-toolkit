@@ -130,7 +130,7 @@ N/A
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-N/A
+* [**MAC Board of Directors**](https://mining.ca/about-us/board-of-directors/): The Mining Association of Canada (MAC) is governed by a team of industry leaders from our membership who were selected for their breadth and depth of mining experience. Through their strategic guidance and oversight, these professionals collectively play a vital role in advancing the work of MAC and the industry at large.
 
 ## 2.2. Risk Assessment
 
