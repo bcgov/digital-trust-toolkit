@@ -48,12 +48,12 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the governing authority responsible for this Governance Framework (GF). The contact information for Mines Digital Services during the pilot phase of development is 
+[The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the governing authority responsible for this Governance Framework (GF). The contact information for during the pilot phase of development is 
 
-* 	**Name:** 
-* 	**Title:**
+* 	**Name:** Jolene Jackson
+* 	**Title:** Senior Project Lead - Mines Competitiveness & Authorizations Division
 * 	**Organization:** Major Mines Office
-* 	**Email:**
+* 	**Email:**jolene.jackson@gov.bc.ca
 
 ## 1.5. Administering Authority
 
