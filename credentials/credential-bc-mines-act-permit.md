@@ -68,7 +68,7 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
+This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level. Currently, only Major Mines Permits are able to be issued as Verifiable Credentials. Additional mine permit types (i.e. B.C. Regional Mines Permits) may become available in the future. 
 
 ## 1.8 Objectives 
 
