@@ -9,7 +9,7 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur.
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.
 
 Further information can be found online: [BC Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
@@ -205,7 +205,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a Mines Act Permit Verifiable Credential issued according to this GF framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper mines act permit under the BC Mines Act. 
+On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.
 
 # End of Document
 
