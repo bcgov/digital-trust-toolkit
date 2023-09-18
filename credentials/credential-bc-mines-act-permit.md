@@ -92,7 +92,7 @@ There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
 
-TBD
+N/A
 
 # 2. Controlled Documents
 
@@ -131,10 +131,10 @@ process due to its complexity.
 * 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
 ## 2.2. Risk Assessment
-TBD
+The authority that governs this GF is derived from [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.3. Trust Assurance and Certification
-TBD
+The authority that governs this GF is derived from [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). (shape this to articualte how this satisfies) On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.
 
 ## 2.4. Governance Requirements
 The Mines Digital Services (MDS) updates and manages this credential governance framework.
