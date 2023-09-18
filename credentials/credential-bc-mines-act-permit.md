@@ -56,6 +56,12 @@ The Chief Permitting Officer (CPO) is the governing responsible for this Governa
 
 [The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). 
 
+The contact information for MDS is: 
+* 	**Name:** Rebecca Stevenson
+* 	**Title:** Project Owner
+* 	**Organization:** Mines Digital Services
+* 	**Email:** rebecca.stevenson@gov.bc.ca
+
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
 
 The contact information for EMDT is:
