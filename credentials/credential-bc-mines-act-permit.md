@@ -50,9 +50,11 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). 
+The Chief Permitting Officer (CPO) is the governing responsible for this Governance Framework (GF). The Cheif Permitting Officer is defined in section 8.2 of the [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2). The chief permitting officer may delegate in writing to an inspector any of the powers conferred on the chief permitting officer under this Act.
 
 ## 1.5. Administering Authority
+
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). 
 
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
 
