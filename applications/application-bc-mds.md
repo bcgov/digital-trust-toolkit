@@ -126,7 +126,8 @@ process due to its complexity.
 * 	**CORE** A central digital repository for all major mine record information. 
 
 ## 2.2. Risk Assessment
-This governance framework describes a system managed by the B.C. Government. In accordance with B.C. Government procedures and policies, this governance framework has completed the standard [PIA (Privacy Impact Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [STRAW (Security Threat and Risk Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) process. 
+
+In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for this use case.
 
 Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
