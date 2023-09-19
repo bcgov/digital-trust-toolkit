@@ -137,10 +137,10 @@ process due to its complexity.
 * 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
 ## 2.2. Risk Assessment
-The authority that governs this GF is derived from [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
+In accordance with B.C. Government procedures and policies, the standard Privacy Impact Assessment (PIA) and Security Threat and Risk Assessment (STRA) processes have been completed for this use case.
 
 ## 2.3. Trust Assurance and Certification
-The authority that governs this GF is derived from [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). (shape this to articualte how this satisfies) On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
 The Mines Digital Services (MDS) updates and manages this credential governance framework.
