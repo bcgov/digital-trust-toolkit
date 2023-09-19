@@ -87,7 +87,7 @@ MAC TSM operates based on a [Theory of Change](https://github.com/bcgov/bc-vcped
 
 **MAC Mission and Vision Statement**
 
-MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy.The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
+MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy. The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
 
 **MAC Membership Principles and Goals**
 
@@ -117,7 +117,7 @@ employer of choice
 
 ## 1.11. Revisions
 
-Version 1.0. Revisions to this governance framework is managed by MAC excecutive leadership. The most recent version of this governance document is published at the following address ___________________________
+Version 1.0. Revisions to this governance framework is managed by MAC executive leadership. The most recent version of this governance document is published at the following address ___________________________
 
 ## 1.12. Extensions
 
@@ -134,7 +134,7 @@ N/A
 
 ## 2.2. Risk Assessment
 
-[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the the primary authority for determining management of risk. 
+[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the primary authority for determining management of risk. 
 
 ## 2.3. Trust Assurance and Certification
 
