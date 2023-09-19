@@ -60,10 +60,10 @@ The standard language for this governing framework (GF) is English.
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) during the pilot phase of development.
 
 The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+* 	**Name:** Nancy Norris
+* 	**Title:** Senior Director ESG and Digital Trust
+* 	**Organization:** Energy and Mines Digital Trust
+* 	**Email:** [nancy.norris@gov.bc.ca](nancy.norris@gov.bc.ca)
 
 ## 1.6 Purpose 
 
