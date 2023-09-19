@@ -128,7 +128,7 @@ process due to its complexity.
 ## 2.2. Risk Assessment
 This governance framework describes a system managed by the B.C. Government. In accordance with B.C. Government procedures and policies, this governance framework has completed the standard [PIA (Privacy Impact Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [STRAW (Security Threat and Risk Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) process. 
 
-Development of this technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.3. Trust Assurance and Certification
 [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
