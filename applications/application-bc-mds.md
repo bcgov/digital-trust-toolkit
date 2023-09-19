@@ -126,7 +126,9 @@ process due to its complexity.
 * 	**CORE** A central digital repository for all major mine record information. 
 
 ## 2.2. Risk Assessment
-[MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the the primary authority for determining management of risk assessment.
+This governance framework describes a system managed by the B.C. Government. In accordance with B.C. Government procedures and policies, this governance framework has completed the standard [PIA (Privacy Impact Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [STRAW (Security Threat and Risk Assessment)]( https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) process. 
+
+B.C. also develops systems and operations in accordance with the [Digital Code of Practice]( https://digital.gov.bc.ca/policies-standards/dcop/). 
 
 ## 2.3. Trust Assurance and Certification
 [MDS](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is governed by standards and assurances outlined under [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
