@@ -137,7 +137,7 @@ process due to its complexity.
 * 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
 ## 2.2. Risk Assessment
-In accordance with B.C. Government procedures and policies, the standard Privacy Impact Assessment (PIA) and Security Threat and Risk Assessment (STRA) processes have been completed for this use case.
+In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for this use case.
 
 ## 2.3. Trust Assurance and Certification
 Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
