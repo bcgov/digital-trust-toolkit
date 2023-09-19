@@ -68,14 +68,6 @@ The contact information for MDS is:
 * 	**Organization:** Mines Digital Services
 * 	**Email:** rebecca.stevenson@gov.bc.ca
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
-
-The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
-
 ## 1.6 Purpose 
 
 The purpose of this Governance Framework (GF) is to define the parameters of a BC Mines Act Permit credential. 
