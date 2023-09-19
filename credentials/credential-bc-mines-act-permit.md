@@ -176,7 +176,6 @@ Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | Strin
 Mine Commodity | mine_commodity_code | String | not NULL | Name of commodity being mined.
 Disturbance | mine_disturbance_code | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Permit Issuer| permit_issuer | String | not NULL | The person who has delegated authority from regulation - see [Mines Act Section 8.3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2) Field is captured within Regional Mines Permit. This field is not captured for Major Mines Permits. If no name is specified, title will default to Chief Permitting Officer or relevant delegated authority or will be left blank.
 Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (latitude is an attribute under etl_location)
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (longitutde is an attribute under etl_location)
@@ -190,7 +189,7 @@ Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_mainten
 ### 2.6.2. Credential Implementation
 Ledger | SCHEMA DEF |
 --- | --- |
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Mines Act Permit:1.0 |
+CANdy | To be updated |
 
 ## 2.7. Information Trust Requirements
 
