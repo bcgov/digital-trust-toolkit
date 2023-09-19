@@ -136,7 +136,7 @@ process due to its complexity.
 
 * 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
 
-## 2.2. Risk Assessment (discuss excel sheet)
+## 2.2. Risk Assessment
 The authority that governs this GF is derived from [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.3. Trust Assurance and Certification
