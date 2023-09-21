@@ -9,7 +9,7 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.  
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. On receipt of a British Columbia (B.C.) Mines Act Permit credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.  
 
 Further information can be found online: [BC Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
@@ -60,7 +60,7 @@ The contact information for the CPO is:
 
 ## 1.5. Administering Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). 
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). Program responsible for managing digital services for mines in BC. *need to add more information about who MDS is and correct link, if possible* Can consider directory if needed.
 
 The contact information for MDS is: 
 * 	**Name:** Rebecca Stevenson
@@ -74,11 +74,11 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the B.C. Mines Act Permit credential from [the Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level. Currently, only Major Mines Permits are able to be issued as Verifiable Credentials. Additional mine permit types (i.e. B.C. Regional Mines Permits) may become available in the future. 
+The initial scope of this GF is for summary information for operating permits for major mines in B.C. Additional mine permit types (B.C. Regional Mines Permits) may become available in the future. 
 
 ## 1.8 Objectives 
 
-This GF describes the B.C. Mines Act Permit credential consisting of those data elements included from a B.C. Mines Act Permit. 
+To allow mine operators to hold proof of an operating permit in a veriable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
@@ -86,7 +86,7 @@ This GF describes the B.C. Mines Act Permit credential consisting of those data 
 
 ## 1.10 General Requirements
 
-The B.C. Mines Act Permit credential MUST be issued by the Ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. The CPO is the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+The B.C. Mines Act Permit credential MUST be issued by the Chief Permitting Officer (CPO) under section 10 of the Mines Act. The CPO is the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 ## 1.11. Revisions
 
@@ -134,16 +134,15 @@ authorizations;
       3. Any project that the CPO determines would benefit from the coordinated authorizations 
 process due to its complexity.
 
-* 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+* 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO).
 
 ## 2.2. Risk Assessment
-In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for this use case.
+In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
 
 ## 2.3. Trust Assurance and Certification
 Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
 
 Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
@@ -152,10 +151,10 @@ Legislation and regulations govern the disposition, administration and managemen
 
 ## 2.5. Business Requirements
 
-The primary use of the BC Mines Act Permit Credential is for permit holders within BC to prove they are in compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MDS). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+The primary use of the B.C. Mines Act Permit Credential is for permit holders within BC to prove they are in compliance with the BC Mines Act. 
 
 ## 2.6. Technical Requirements (Credential)
-The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+The format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
 
 ## 2.6.1 Schema Definition
 
@@ -204,7 +203,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a British Columbia (B.C.) Mines Act Permit Verifiable Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the B.C. Mines Act.
+On receipt of a British Columbia (B.C.) Mines Act Permit Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 # End of Document
 
