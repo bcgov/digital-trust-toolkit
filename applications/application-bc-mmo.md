@@ -57,7 +57,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.5. Administering Authority
 
-Mines Digital Services is the administering authority responsible for this Governance Framework (GF).  
+Mines Digital Services is the administering authority on behalf of the Major Mines Office.
 
 * 	**Name:** Rebecca Stevenson
 * 	**Title:** Project Owner
@@ -107,7 +107,7 @@ N/A
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: These are the mining operators within BC
+*  **Credential Holders**: These are the mining operators within B.C.
 *  **Major Mines**
 *  **Major Mines Office (MMO)**
 *  **Mine Manager** 
@@ -117,10 +117,12 @@ N/A
 
 ## 2.2. Risk Assessment
 
-add
+In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
+
 ## 2.3. Trust Assurance and Certification
 
-add
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
+
 ## 2.4. Governance Requirements
 The operations and processes of the Major Mines Office are governed by [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
@@ -128,21 +130,20 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 
 ## 2.5.1. Establishment of Connection
 
-1. The Mine Manager of the interested mining company MUST log in to access the MineSpace portal in order to request a single-use invitation link to connect (*note, trust assurance is based on the process the Mine Manager must follow in order to access MineSpace portal - includes BCeID, etc*.)
-2. After MineSpace displays its homescreen, The Mine Manager MUST select the option to request a single-use invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). Backend note - MineSpace MUST send the invitation request to Traction in order to generate a single-use invitation link. Traction MUST return the invitation link to MineSpace, the invitation link WILL display within the MineSpace homescreen.
+1. The Mine Manager of the interested mining company MUST log in to access the MineSpace portal in order to request a single-use invitation link to connect (*note, trust assurance is based on the process the Mine Manager must follow to access MineSpace portal - includes BCeID, etc*.)
+2. After MineSpace displays its home screen, The Mine Manager MUST select the option to request a single-use invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). Backend note - MineSpace MUST send the invitation request to Traction to generate a single-use invitation link. Traction MUST return the invitation link to MineSpace, the invitation link WILL display within the MineSpace home screen.
 3. MineSpace MUST return the invitation link to the mining company's homepage.
-4. The Mine Manager MUST use the invitation link provided within their organizational wallet in order to establish a secure connection.
+4. The Mine Manager MUST use the invitation link provided within their organizational wallet to establish a secure connection.
 5. Traction MUST send/request? approval notification to CORE 
 
 ## 2.5.2. Major Mines Operating Permit Issuance
-When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhere to the [Mines Act Permiting Process](https://mines.nrs.gov.bc.ca/authorizations). The Mines Act permitting process includes on-site activities, such as the management of water quality, waste and metal leaching and acid rock drainage at the mine, as well as, geotechnical design and reclamation and closure planning. 
 
 1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
 2.	For all connections, MDS CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
-3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offer to the Mine Manager. 
+3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
 4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
 5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
-6.	The Company’s Organizational Wallet SHALL send an email notification of offer to the Mine Manager through secure email. 
+6.	The Company’s Organizational Wallet SHALL send an email notification of the offer to the Mine Manager through secure email. 
 7.	The Mine Manager MUST read and respond to the email notification. 
 8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
 9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
