@@ -74,11 +74,11 @@ The purpose of this Governance Framework (GF) is to define the parameters of a B
 
 ## 1.7 Scope
 
-The initial scope of this GF is for summary information for operating permits for major mines in B.C. Additional mine permit types (B.C. Regional Mines Permits) may become available in the future. 
+The initial scope of this GF is summary information for operating permits of major mines in B.C. 
 
 ## 1.8 Objectives 
 
-To allow mine operators to hold proof of an operating permit in a veriable credential format that is both secure and tamperproof. 
+To allow mine operators to hold proof of an operating permit in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
@@ -107,34 +107,12 @@ N/A
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: Mining Operators within BC
-*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
+*  **Credential Holders**: Mining Operators within B.C.
+*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit is recorded in the division records.
 *  **Mines**: Moderate to large-scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-
-**Mines Classes**
-
-Summary of Mines Classes as outlined in the [2022 Health, Safety and Reclamation Code for Mines in
-British Columbia](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/health_safety_and_reclamation_code_nov2022.pdf)
-
-**Simple/Regional Mines** have applications for mining activities (Notice of Work) submitted under 10.1.1. Generally this includes mine in production by mine type placer, sand & gravel/aggregate pits, quarries for construction aggregate, and industrial mineral quarries. Also within regional mines are application for exploration projects which occurring prior to production, which includes mining activities for exploration for mineral and coal, under 9.2.1/9.1.1.
-
-**Complex/Mines** have application for mining activities under 10.1.2 for surface or underground development or production for coal and mineral mines, or major modifications /expansions of existing producing coal and mineral mines, or underground exploration requiring excavation, large pilot projects, bulk samples, trial cargos and test shipments. 
-
-
-**Definitions**
-
-* 	**Major** Proposed Mines (e.g., metal and coal mines as well as some large aggregate and industrial minerals operations), major expansions/upgrades to existing mines, and some large-scale exploration/development projects require approval under the Mines Act as per part 10 of the Health, Safety and Reclamation Code for Mines in British Columbia (the Code).
-
-* 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated 
-authorizations process:
-      1. Any new mineral or coal mine project, whether or not reviewable under the Environmental 
-Assessment Act (EAA);
-      2. A mine project that is an extension, expansion, or re-start requiring multiple 
-authorizations;
-      3. Any project that the CPO determines would benefit from the coordinated authorizations 
-process due to its complexity.
-
-* 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO).
+*  **Major Mines** Metal and coal mines as well as some large aggregate and industrial minerals operations.
+* 	**Coordinated Authorizations** are designated by the Chief Permitting Officer (CPO) to manage projects that require multiple permits. 
+* 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO).
 
 ## 2.2. Risk Assessment
 In accordance with B.C. Government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
@@ -144,7 +122,8 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 
 ## 2.4. Governance Requirements
 
-Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+Legislation and regulations govern the disposition, administration, and management of mines in B.C. 
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 - **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
 - **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
@@ -158,7 +137,7 @@ The format for this credential is AnonCreds specification (https://wiki.hyperled
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ BC.mines.act.permit
+__Schema Name:__ b.c.mines.act.permit
 
 __Schema Version:__ 1.0
 
