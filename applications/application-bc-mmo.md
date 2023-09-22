@@ -154,7 +154,7 @@ When mining operators wish to obtain a BC Mines Act Permit in BC, they must adhe
    
 
 ## 2.6. Technical Requirements
-The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution.
+The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID* 
 
 ## 2.7. Information Trust Requirements
 
