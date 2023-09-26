@@ -70,11 +70,11 @@ The contact information for MDS is:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of a BC Mines Act Permit credential. 
+The purpose of this GF is to define the B.C. Mines Act Permit credential. 
 
 ## 1.7 Scope
 
-The initial scope of this GF is summary information for operating permits of major mines in B.C. 
+The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
 
 ## 1.8 Objectives 
 
@@ -86,7 +86,7 @@ To allow mine operators to hold proof of an operating permit in a verifiable cre
 
 ## 1.10 General Requirements
 
-The B.C. Mines Act Permit credential MUST be issued by the Chief Permitting Officer (CPO) under section 10 of the Mines Act. The CPO is the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+The B.C. Mines Act Permit credential MUST be issued by the Chief Permitting Officer (CPO) under section 10 of the Mines Act. The CPO is the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regard to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
 
 ## 1.11. Revisions
 
@@ -147,7 +147,7 @@ Name | Attribute | Format | Rules | Notes
 --- | --- | --- | --- | --- |
 Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Mines can possess multiple permits.
 Permit Status | permit_status_code | String | not NULL | Defined as either "open" or "closed".
-Permittee | mine_party_appt | String | not NULL | Name of the mining company who holds the permit.
+Permittee | mine_party_appt | String | not NULL | Name of the mining company that holds the permit.
 Mine Operation Status | mine_operation_status_code | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
 Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines**: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating**:(1) Operating Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** include: (1) Long Term Maintanance (2) Long-Term Maintenance and Water Treatmant or (3) Permit Release Pending.
