@@ -60,7 +60,7 @@ The contact information for the CPO is:
 
 ## 1.5. Administering Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). Program responsible for managing digital services for mines in BC. *need to add more information about who MDS is and correct link, if possible* Can consider directory if needed.
+[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). The program responsible for managing digital services for mines in BC. *need to add more information about who MDS is and correct link, if possible* Can consider directory if needed.
 
 The contact information for MDS is: 
 * 	**Name:** Rebecca Stevenson
@@ -150,16 +150,16 @@ Permit Status | permit_status_code | String | not NULL | Defined as either "open
 Permittee | mine_party_appt | String | not NULL | Name of the mining company that holds the permit.
 Mine Operation Status | mine_operation_status_code | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
 Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines**: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating**:(1) Operating Seasonal, or (2) Operating Year Round
-Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** include: (1) Long Term Maintanance (2) Long-Term Maintenance and Water Treatmant or (3) Permit Release Pending.
-Mine Commodity | mine_commodity_code | String | not NULL | Name of commodity being mined.
+Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** includes: (1) Long Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.
+Mine Commodity | mine_commodity_code | String | not NULL | Name of the commodity being mined.
 Disturbance | mine_disturbance_code | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
-Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (latitude is an attribute under etl_location)
-Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (longitutde is an attribute under etl_location)
-Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
+Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (longitude is an attribute under etl_location)
+Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
 Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, [Mines Act Section 12](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section12) Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
-Mine Tailings Storage Facility | tsf_operating_status_code | String | not NULL | Stores the information relavent to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground up rock, sand and silt) and water from the milling process. Operating Status Code defines the specific operating status of a tailings storage facilitaty for a mining operation.
+Mine Tailings Storage Facility | tsf_operating_status_code | String | not NULL | Stores the information relevant to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground-up rock, sand, and silt) and water from the milling process. Operating Status Code defines the specific operating status of a tailings storage facility for a mining operation.
 Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | Describes a TSF as operational. 
 Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | Describes a TSF as under Care and Maintenance. 
 
@@ -177,7 +177,7 @@ The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.go
 
 The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
-The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
+The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the commitments of BC government in supporting inclusion, equitability and access throughout the province.
 
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
