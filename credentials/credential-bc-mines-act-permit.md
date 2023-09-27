@@ -137,7 +137,7 @@ The format for this credential is AnonCreds specification (https://wiki.hyperled
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ b.c.mines.act.permit
+__Schema Name:__ bc-mines-act-permit
 
 __Schema Version:__ 1.0
 
@@ -151,23 +151,27 @@ Permittee | mine_party_appt | String | not NULL | Name of the mining company tha
 Mine Operation Status | mine_operation_status_code | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
 Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines**: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating**:(1) Operating Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** includes: (1) Long Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.
-Mine Commodity | mine_commodity_code | String | not NULL | Name of the commodity being mined.
+Mine Commodity | mine_commodity_code | String | not NULL | Name of the commodities being mined.
 Disturbance | mine_disturbance_code | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
 Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (latitude is an attribute under etl_location)
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (longitude is an attribute under etl_location)
 Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
-Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, [Mines Act Section 12](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section12) Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
-Mine Tailings Storage Facility | tsf_operating_status_code | String | not NULL | Stores the information relevant to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground-up rock, sand, and silt) and water from the milling process. Operating Status Code defines the specific operating status of a tailings storage facility for a mining operation.
-Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | Describes a TSF as operational. 
-Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | Describes a TSF as under Care and Maintenance. 
+Bond Total | bond_total | String | not NULL | Lists the total bond value of the permit.
+Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | numerical value for the total number of tailing storage facilities that are operating
+Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Care and Maintenance
 
 
 ### 2.6.2. Credential Implementation
-Ledger | SCHEMA DEF |
---- | --- |
-CANdy | To be updated |
+Ledger | CRED_DEF_ID | Notes |
+--- | --- | --- |
+bcorvin test | S7S2wzcF2giKuwxdeLBk69:3:CL:80097:js-dev | *Created for testing - 2023-09-27* |
+
+### 2.6.3 Schema Implementation
+Ledger | SCHEMA_ID | Notes |
+--- | --- | --- |
+bcorvin test | S7S2wzcF2giKuwxdeLBk69:2:mines-act-permit:0.3 | *Created for testing - 2023-09-27* |
 
 ## 2.7. Information Trust Requirements
 
