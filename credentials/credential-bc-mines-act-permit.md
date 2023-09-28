@@ -9,7 +9,7 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A British Columbia (B.C.) Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
 
 Further information can be found online: 
  - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
@@ -111,9 +111,9 @@ N/A
 *  **Credential Holders**: Mining operators within B.C.
 *  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit is recorded in the division records.
 *  **Mines**: Moderate to large-scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-*  **Major Mines** Metal and coal mines as well as some large aggregate and industrial minerals operations.
-* 	**Coordinated Authorizations** are designated by the Chief Permitting Officer (CPO) to manage projects that require multiple permits. 
-* 	**Major Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO).
+*  **Major Mines**: Metal and coal mines as well as some large aggregate and industrial minerals operations.
+* 	**Coordinated Authorizations**: Designated by the Chief Permitting Officer (CPO) to manage projects that require multiple permits. 
+* 	**Major Mines Office (MMO)**: All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO).
 
 ## 2.2. Risk Assessment
 In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
@@ -131,10 +131,10 @@ Legislation and regulations govern the disposition, administration, and manageme
 
 ## 2.5. Business Requirements
 
-The primary use of the B.C. Mines Act Permit Credential is for permit holders within BC to prove they are in compliance with the BC Mines Act. 
+The primary use of the B.C. Mines Act Permit credential is for permit holders within BC to prove they are in compliance with the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
-The format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+The format for this credential is [AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 ## 2.6.1 Schema Definition
 
@@ -142,7 +142,7 @@ __Schema Name:__ bc-mines-act-permit
 
 __Schema Version:__ 1.0
 
-This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
@@ -179,14 +179,14 @@ The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.go
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
-The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
+The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc).
 
 The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the commitments of BC government in supporting inclusion, equitability and access throughout the province.
 
-The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
+The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a British Columbia (B.C.) Mines Act Permit Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 # End of Document
 
