@@ -1,17 +1,19 @@
 ---
 layout: default
-title: BC Mines Act Permit - DRAFT
+title: B.C. Mines Act Permit - DRAFT
 parent: Credentials
 ---
 
-# BC Mines Act Permit - DRAFT
+# B.C. Mines Act Permit - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur.
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
 
-Further information can be found online: [BC Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
+Further information can be found online: 
+ - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
+ - [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -50,37 +52,43 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the governing authority responsible for this Governance Framework (GF). 
+The Chief Permitting Officer (CPO) is the governing authority responsible for this GF as defined in section 8.2 of [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2). The CPO may delegate in writing to an inspector any of the powers conferred on the CPO under this Act.
+
+The contact information for the CPO is: 
+* 	**Name:** Lowell Constable
+* 	**Title:** Executive Director and Deputy Chief Inspector
+* 	**Organization:** Major Mines Office
+* 	**Email:** Lowell.Constable@gov.bc.ca
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of The Mines Digital Services (MDS) during the pilot phase of development.
+The Mines Digital Services (MDS) team is the administering authority responsible for this GF. MDS has replaced the legacy Mine Management System (MMS) with a suite of scalable, open-source, and data-driven technologies to support mine oversight in B.C.
 
-The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+The contact information for MDS is: 
+* 	**Name:** Rebecca Stevenson
+* 	**Title:** Project Owner
+* 	**Organization:** Mines Digital Services
+* 	**Email:** rebecca.stevenson@gov.bc.ca
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of a BC Mines Act Permit credential. 
+The purpose of this GF is to define the B.C. Mines Act Permit credential. 
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Mines Act Permit credential from [The Mines Digital Services](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/). The initial scope of this pilot will focus on developing a credential for a BC Mines Act - Mines Act Permit issued by the entity responsible for the permitting process. The scope of the information included in this credential will be summary level.
+The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
 
 ## 1.8 Objectives 
 
-This GF describes the BC Mines Act - Mines Act Permit credential consisting of those data elements included from a BC Mines Act Permit. 
+To allow mine operators to hold proof of an operating permit in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
-[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
+[The B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
 
-The BC Mines Act - Mines Act Permit Credential MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under section 10 of the Mines Act. CPO means the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regards to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00). Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 
 ## 1.11. Revisions
 
@@ -88,109 +96,82 @@ Version 1.0.
 
 ## 1.12. Extensions
 
-There are no extensions to this Governance Framework.  
+There are no extensions to this GF.  
 
 ## 1.13. Schedule of Controlled Documents
 
-TBD
+N/A
 
 # 2. Controlled Documents
 
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
-[BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-
-*  **Credential Holders**: Mining Operators within BC
-*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit Document is recorded in the division records
+[B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
+*  **Credential Holders**: Mining operators within B.C.
+*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit is recorded in the division records.
 *  **Mines**: Moderate to large-scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-
-**Mines Classes**
-
-Summary of Mines Classes as outlined in the [2022 Health, Safety and Reclamation Code for Mines in
-British Columbia](https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/mineral-exploration-mining/documents/health-and-safety/code-review/health_safety_and_reclamation_code_nov2022.pdf)
-
-**Simple/Regional Mines** have applications for mining activities (Notice of Work) submitted under 10.1.1. Generally this includes mine in production by mine type placer, sand & gravel/aggregate pits, quarries for construction aggregate, and industrial mineral quarries. Also within regional mines are application for exploration projects which occurring prior to production, which includes mining activities for exploration for mineral and coal, under 9.2.1/9.1.1.
-
-**Complex/Mines** have application for mining activities under 10.1.2 for surface or underground development or production for coal and mineral mines, or major modifications /expansions of existing producing coal and mineral mines, or underground exploration requiring excavation, large pilot projects, bulk samples, trial cargos and test shipments. 
-
-
-**Definitions**
-
-* 	**Major** Proposed Mines (e.g., metal and coal mines as well as some large aggregate and industrial minerals operations), major expansions/upgrades to existing mines, and some large-scale exploration/development projects require approval under the Mines Act as per part 10 of the Health, Safety and Reclamation Code for Mines in British Columbia (the Code).
-
-* 	**Coordinated Authorizations** are referred by the Chief Permitting Officer (CPO) to manage projects that require multiple permits – for example, a Mines Act permit to construct and operate an outfall and an EMA permit to discharge from it. There are three different routes for a project to come into the coordinated 
-authorizations process:
-      1. Any new mineral or coal mine project, whether or not reviewable under the Environmental 
-Assessment Act (EAA);
-      2. A mine project that is an extension, expansion, or re-start requiring multiple 
-authorizations;
-      3. Any project that the CPO determines would benefit from the coordinated authorizations 
-process due to its complexity.
-
-* 	**Mines Office (MMO)** All construction and operations permit applications for coal and mineral mines are managed by the Mines Office (MMO) and must be submitted through the MMO’s intake email permrecl@gov.bc.ca.
+*  **Major Mines**: Metal and coal mines as well as some large aggregate and industrial minerals operations.
+* 	**Coordinated Authorizations**: Designated by the Chief Permitting Officer (CPO) to manage projects that require multiple permits. 
+* 	**Major Mines Office (MMO)**: All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO).
 
 ## 2.2. Risk Assessment
-TBD
+In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
 
 ## 2.3. Trust Assurance and Certification
-TBD
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
-The Mines Digital Services (MDS) updates and manages this credential governance framework.
 
-Legislation and regulations govern the disposition, administration and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+Legislation and regulations govern the disposition, administration, and management of mines in B.C. 
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
-- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
+- **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
+- **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
 ## 2.5. Business Requirements
 
-The primary use of the BC Mines Act Permit Credential is for permit holders within BC to prove they are in compliance with the BC Mines Act. The BC Mines Act Permit Credential will be issued by the Ministry of Energy and Mines (MDS). All users of the BC Mines Act Permit Credential must adhere to provincial legislation and requirements.
+The primary use of the B.C. Mines Act Permit credential is for permit holders within BC to prove they are in compliance with the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
-The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+The format for this credential is [AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ BC.mines.act.permit
+__Schema Name:__ bc-mines-act-permit
 
 __Schema Version:__ 1.0
 
-This schema definition follows the AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
+This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Notice of Work | notice_of_work_type | String | not NULL | A Notice of Work (NoW) is a unique identifier assigned to a regional mining operation or mine site application. If not required then NoW is described as N/A. Authorization End Dates are included within NoW. 
-Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier assigned to a permit: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization by the regulatory authority. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). Mines can possess multiple permits.
+Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Status | permit_status_code | String | not NULL | Defined as either "open" or "closed".
-Permittee | mine_party_appt | String | not NULL | Name of the mining company who holds the permit.
+Permittee | mine_party_appt | String | not NULL | Name of the mining company that holds the permit.
 Mine Operation Status | mine_operation_status_code | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
-Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines**: (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating**:(1) Operating Seasonal, or (2) Operating Year Round
-Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** include: (1) Long Term Maintanance (2) Long-Term Maintenance and Water Treatmant or (3) Permit Release Pending.
-Mine Commodity | mine_commodity_code | String | not NULL | Name of commodity being mined.
+Mine Operation Status Reason | mine_operation_status_reason_code | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines** (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating** (1) Operating Seasonal, or (2) Operating Year Round
+Mine Operation Status Sub Reason | mine_operation_status_sub_reason_code | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** (1) Long-Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.
+Mine Commodity | mine_commodity_code | String | not NULL | Name of the commodities being mined.
 Disturbance | mine_disturbance_code | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
-Mine Number | mine_no | String | not NULL | (7-digit) unique identifier assigned to a specific mine or mining operation. This number is used to differentiate and track individual mines within a jurisdiction and is an essential element of the permit. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-Permit Issuer| permit_issuer | String | not NULL | The person who has delegated authority from regulation - see [Mines Act Section 8.3](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2) Field is captured within Regional Mines Permit. This field is not captured for Major Mines Permits. If no name is specified, title will default to Chief Permitting Officer or relevant delegated authority or will be left blank.
-Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.[Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
-Permit Amendment | permit_amendment | String | not NULL | Permitting activities occur throughout the life of a mine, typically with changes (amendments) made to the initial construction and operations permit that was issued. This attribute contains the details of the initial permit record as well as a history of each amendment made to a permit over time. Amendments may include extension of a permit, a change in permit status, or an amalgamation of permits. [Mines Act Section 11.1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section11.1) 
-Permit Amendment Type Code | permit_amendment_type_code | String | not NULL | Possible types of permit amendments: Original Permit, Permit Amendment, Amalgamated Permit.
-Permit Amendment Status Code | permit_amendment_status_code | String | not NULL | Statuses used to reflect the state of a permit amendment: Active or Remitted.
-Amendment Date | amendment_date | String | not NULL | (YYYY-MM-DD) Refers to the most recent date of approved permit amendments.
-Permit Amendment Document | permit_amendment_document | String | not NULL | Reference to any documents recorded as part of a permit.
-Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (latitude is an attribute under etl_location)
-Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site. [Mines Act Section 1](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1) (longitutde is an attribute under etl_location)
-Bond | bond_id | String | not NULL | As a condition of Mines Act permits, a permittee is required to provide a monetary security to cover reclamation costs, and to provide for protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
-Bond Type | bond_type | String | not NULL | Contains a list of methods used to secure a bond with the Ministry. Bond types include; Cash, Qualified Environmental Trust, [Mines Act Section 12](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section12) Reclamation, Asset Security Agreement, Surety Bond, Irrevocable Letter of Credit, Safekeeping Agreement.
-Mine Tailings Storage Facility | tsf_operating_status_code | String | not NULL | Stores the information relavent to a mine tailings storage facility. A tailings storage facility (TSF) is a structure (one or more dams) built for the purposes of storing the uneconomical ore (ground up rock, sand and silt) and water from the milling process. Operating Status Code defines the specific operating status of a tailings storage facilitaty for a mining operation.
-Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | Describes a TSF as operational. 
-Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | Describes a TSF as under Care and Maintenance. 
+Mine Number | mine_no | String | not NULL | (7-digit) Unique identifier assigned to a specific mine or mining operation to differentiate and track individual mines within a jurisdiction.
+Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.
+Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site.
+Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site.
+Bond Total | bond_total | String | not NULL | ($0.00) Lists the total bond value of the permit. A permittee is required to provide monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
+Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Operating status.
+Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Care and Maintenance status.
 
 
 ### 2.6.2. Credential Implementation
-Ledger | SCHEMA DEF |
---- | --- |
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa:2:BC Mines Act Permit:1.0 |
+Ledger | CRED_DEF_ID | Notes |
+--- | --- | --- |
+bcorvin test | S7S2wzcF2giKuwxdeLBk69:3:CL:80097:js-dev | *Created for testing - 2023-09-27* |
+
+### 2.6.3 Schema Implementation
+Ledger | SCHEMA_ID | Notes |
+--- | --- | --- |
+bcorvin test | S7S2wzcF2giKuwxdeLBk69:2:mines-act-permit:0.3 | *Created for testing - 2023-09-27* |
 
 ## 2.7. Information Trust Requirements
 
@@ -198,14 +179,14 @@ The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.go
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
-The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
+The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc).
 
-The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
+The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the commitments of BC government in supporting inclusion, equitability and access throughout the province.
 
-The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
+The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-TBD
+On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
 
 # End of Document
 
