@@ -60,7 +60,7 @@ The contact information for the CPO is:
 
 ## 1.5. Administering Authority
 
-[The Mines Digital Services (MDS)](https://digital.gov.bc.ca/learning/case-studies/monitoring-mining-operations-in-bc/) is the administering authority responsible for this Governance Framework (GF). The program responsible for managing digital services for mines in BC. *need to add more information about who MDS is and correct link, if possible* Can consider directory if needed.
+The Mines Digital Services (MDS) team is the administering authority responsible for this Governance Framework (GF). MDS has replaced the legacy Mine Management System (MMS) with a suite of scalable, open-source, and data-driven technologies to support mine oversight in B.C.
 
 The contact information for MDS is: 
 * 	**Name:** Rebecca Stevenson
