@@ -9,9 +9,11 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. On receipt of a British Columbia (B.C.) Mines Act Permit credential issued according to this Governance Framework (GF), the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a BC Mines Act Permit.  
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates all mining activities in British Columbia – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A British Columbia (B.C.) Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
 
-Further information can be found online: [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
+Further information can be found online: 
+ - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
+ - [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -86,7 +88,7 @@ To allow mine operators to hold proof of an operating permit in a verifiable cre
 
 ## 1.10 General Requirements
 
-The B.C. Mines Act Permit credential MUST be issued by the Chief Permitting Officer (CPO) under section 10 of the Mines Act. The CPO is the individual, or a delegate, appointed under the Mines Act primarily responsible for administering and making decisions under the Mines Act in regard to permitting. Under section 8.3 of the Mines Act, the CPO may delegate in writing to an inspector any of the powers conferred on the CPO under the Mines Act. 
+Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00).
 
 ## 1.11. Revisions
 
@@ -106,8 +108,7 @@ N/A
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 [B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-
-*  **Credential Holders**: Mining Operators within B.C.
+*  **Credential Holders**: Mining operators within B.C.
 *  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit is recorded in the division records.
 *  **Mines**: Moderate to large-scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
 *  **Major Mines** Metal and coal mines as well as some large aggregate and industrial minerals operations.
