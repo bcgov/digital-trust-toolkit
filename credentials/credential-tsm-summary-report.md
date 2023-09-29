@@ -10,7 +10,7 @@ parent: Credentials
 
 ## 1.1. Introduction
 
-Established in 2004, the Towards Sustainable Mining™ (TSM) is a globally recognized program developed by the Mining Association of Canada (MAC) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the [Mining Association of Canada (MAC)](https://mining.ca/). This Governance Framework (GF) documents the TSM Summary Report credential and its requirements.
+Established in 2004, the [Towards Sustainable Mining™ (TSM)](https://mining.ca/towards-sustainable-mining/) is a globally recognized program developed by the [Mining Association of Canada (MAC)](https://mining.ca/) to aid mining companies in a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program provides a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that consist of a set of indicators designed to help mining facilities build, measure and publicly report on the quality of their management systems and performance in key areas of mining activity at the site level. The periodic issuance of TSM reports is required for all members of the [Mining Association of Canada (MAC)](https://mining.ca/). This Governance Framework (GF) documents the TSM Summary Report credential and its requirements.
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -50,7 +50,7 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4. Governing Authority
 
-[The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority that leads the development, maintenance, and implementation of the Governance Framework (GF) for TSM. The governance and decision-making process for the TSM program includes the following groups and committees:
+[The Mining Association of Canada (MAC)](https://mining.ca/) is the governing authority that leads the development, maintenance, and implementation of the Governance Framework (GF) for TSM. The governance and decision-making process for the TSM program includes the [following groups and committees](https://mining.ca/wp-content/uploads/dlm_uploads/2021/12/TSM-Program-Governance.pdf):
 
 * The **TSM Governance Team** is a subcommittee of the MAC Board of Directors. This group is responsible for providing strategic direction on all matters related to TSM and making recommendations to the Board on proposed changes to the program.
 
