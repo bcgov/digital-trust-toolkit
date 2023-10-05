@@ -138,22 +138,22 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 
 ## 2.5.2. Major Mines Operating Permit Issuance
 
-1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
-2.	For all connections, MDS CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
-3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
-4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
-5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
+1.	Using the established connection, CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
+2.	For all connections, CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
+3.	MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
+4.	CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
+5.	Traction SHALL offer the credential to the Company’s Organizational Wallet.
 6.	The Company’s Organizational Wallet SHALL send an email notification of the offer to the Mine Manager through secure email. 
 7.	The Mine Manager MUST read and respond to the email notification. 
 8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
 9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
 10.	The Mine Manager MUST either Accept/Decline the offer. 
 11.	Organizational Wallets MAY display a problem report if the credential is declined.
-12.	MDS Traction MUST notify MDS CORE-BC Gov if the offer is declined.
-13.	MDS CORE-BC Gov MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
+12.	Traction MUST notify CORE if the offer is declined.
+13.	CORE MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
 
 ## 2.6. Technical Requirements
-The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID* 
+The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID once production instance created* 
 
 ## 2.7. Information Trust Requirements
 
