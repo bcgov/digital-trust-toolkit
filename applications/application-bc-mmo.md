@@ -83,8 +83,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 ## 1.10 General Requirements
 The Major Mines Office (MMO) updates and manages this governance framework.
-Legislation and regulations govern the disposition, administration, and management of mines in B.C. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
-
+Legislation and regulations govern the disposition, administration, and management of mines in B.C.
 - **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
 - **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
@@ -107,10 +106,10 @@ N/A
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: The holder of a permit issued under section 10 of the Mines Act.
+*  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 *  **Major Mines**: Moderate to large-scale mineral and coal mining operations. 
-*  **Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under section 10 of the Mines Act for major mines in B.C.
-*  **Mine Manager**: The person appointed under section 21 of the Health, Safety, and Reclamation Code for Mines in B.C. to be responsible for the management and operation of a mine.
+*  **Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
+*  **Mine Manager**: The person appointed under section 21 of the [Health, Safety, and Reclamation Code for Mines in B.C.](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/health-safety/health-safety-and-reclamation-code-for-mines-in-british-columbia) to be responsible for the management and operation of a mine.
 *  **Mines Digital Services (MDS)**: The team that manages a suite of systems to enable easier access for the public, industry, and government to current mining information within the province of B.C. 
 *  **MineSpace**: A website portal developed for mining businesses to manage permit applications, see inspection history, and submit reports.
 *  **CORE**: A digital repository for all major mine record information internal to the Ministry.
