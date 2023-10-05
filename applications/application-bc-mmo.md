@@ -111,9 +111,9 @@ N/A
 *  **Major Mines**: Moderate to large-scale mineral and coal mining operations. 
 *  **Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under section 10 of the Mines Act for major mines in B.C.
 *  **Mine Manager**: The person appointed under section 21 of the Health, Safety, and Reclamation Code for Mines in B.C. to be responsible for the management and operation of a mine.
-*  **Mines Digital Services (MDS)**: Replaces the legacy Mine Management System to support easier access for the public, industry, and government to current mining information within the province of B.C. 
-*  **MineSpace**: Part of MDS, a website portal developed for mining businesses to manage permit applications, see inspection history, and submit reports.
-*  **CORE**: Part of MDS, a digital repository for all major mine record information internal to the Ministry.
+*  **Mines Digital Services (MDS)**: The team that manages a suite of systems to enable easier access for the public, industry, and government to current mining information within the province of B.C. 
+*  **MineSpace**: A website portal developed for mining businesses to manage permit applications, see inspection history, and submit reports.
+*  **CORE**: A digital repository for all major mine record information internal to the Ministry.
 
 ## 2.2. Risk Assessment
 
