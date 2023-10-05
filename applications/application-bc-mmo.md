@@ -4,12 +4,12 @@ title: BC Major Mines Office
 parent: Applications
 ---
 
-# BC Major Mines Office Governance Framework - DRAFT
+# B.C. Major Mines Office Governance Framework - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for BC Major Mines Office as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
+This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -74,19 +74,18 @@ The purpose of this governance framework is to describe the rules/policies/proce
 
 ## 1.8 Objectives 
 
-1) To outline legislative and administrative processes relevant to digital credential exchanges.
+1) Outline legislative and administrative processes relevant to digital credential exchanges.
 2) Support digital business interaction/automation within the B.C. mining ecosystem.
 
 ## 1.9 Principles 
 
-[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
+[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
 The Major Mines Office (MMO) updates and manages this governance framework.
-Legislation and regulations govern the disposition, administration, and management of mines in BC. These can be found in [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
-
-- **[BC Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[BC Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
+Legislation and regulations govern the disposition, administration, and management of mines in B.C.
+- **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
+- **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
 ## 1.11. Revisions
 
@@ -107,13 +106,13 @@ N/A
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
-*  **Credential Holders**: These are the mining operators within B.C.
-*  **Major Mines**
-*  **Major Mines Office (MMO)**
-*  **Mine Manager** 
-*  **Mines Digital Services (MDS)** 
-*  **MineSpace**
-*  **CORE** 
+*  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+*  **Major Mines**: Moderate to large-scale mineral and coal mining operations. 
+*  **Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
+*  **Mine Manager**: The person appointed under section 21 of the [Health, Safety, and Reclamation Code for Mines in B.C.](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/health-safety/health-safety-and-reclamation-code-for-mines-in-british-columbia) to be responsible for the management and operation of a mine.
+*  **Mines Digital Services (MDS)**: The team that manages a suite of systems to enable easier access for the public, industry, and government to current mining information within the province of B.C. 
+*  **MineSpace**: A website portal developed for mining businesses to manage permit applications, see inspection history, and submit reports.
+*  **CORE**: A digital repository for all major mine record information internal to the Ministry.
 
 ## 2.2. Risk Assessment
 
@@ -130,32 +129,30 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 
 ## 2.5.1. Establishment of Connection
 
-1. The Mine Manager of the interested mining company MUST log in to access the MineSpace portal in order to request a single-use invitation link to connect (*note, trust assurance is based on the process the Mine Manager must follow to access MineSpace portal - includes BCeID, etc*.)
-2. After MineSpace displays its home screen, The Mine Manager MUST select the option to request a single-use invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). Backend note - MineSpace MUST send the invitation request to Traction to generate a single-use invitation link. Traction MUST return the invitation link to MineSpace, the invitation link WILL display within the MineSpace home screen.
+1. The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the B.C. government.
+2. After MineSpace displays its home screen, The Mine Manager MUST select the option to request a single-use invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). *Backend note - MineSpace MUST send the invitation request to Traction to generate a single-use invitation link. Traction MUST return the invitation link to MineSpace, the invitation link WILL display within the MineSpace home screen.*
 3. MineSpace MUST return the invitation link to the mining company's homepage.
 4. The Mine Manager MUST use the invitation link provided within their organizational wallet to establish a secure connection.
 5. Traction MUST send/request? approval notification to CORE 
 
 ## 2.5.2. Major Mines Operating Permit Issuance
 
-1.	Using the established connection, MDS CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
-2.	For all connections, MDS CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
-3.	MDS MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
-4.	MDS CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
-5.	MDS Traction SHALL offer the credential to the Company’s Organizational Wallet.
+1.	Using the established connection, CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
+2.	For all connections, CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
+3.	MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
+4.	CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
+5.	Traction SHALL offer the credential to the Company’s Organizational Wallet.
 6.	The Company’s Organizational Wallet SHALL send an email notification of the offer to the Mine Manager through secure email. 
 7.	The Mine Manager MUST read and respond to the email notification. 
 8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
 9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
 10.	The Mine Manager MUST either Accept/Decline the offer. 
 11.	Organizational Wallets MAY display a problem report if the credential is declined.
-12.	MDS Traction MUST notify MDS CORE-BC Gov if the offer is declined.
-13.	MDS CORE-BC Gov MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
-
-   
+12.	Traction MUST notify CORE if the offer is declined.
+13.	CORE MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
 
 ## 2.6. Technical Requirements
-The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID* 
+The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID once production instance created* 
 
 ## 2.7. Information Trust Requirements
 
@@ -170,7 +167,8 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a British Columbia (B.C.) Mines Act Permit Credential issued according to this Governance Framework (GF) framework, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+
+On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
 
 # End of Document
 

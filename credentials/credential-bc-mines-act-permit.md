@@ -108,12 +108,9 @@ N/A
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 [B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-*  **Credential Holders**: Mining operators within B.C.
-*  **Mines Act Permit Holder**: A person and/or a company in whose name a Mines Act Permit is recorded in the division records.
-*  **Mines**: Moderate to large-scale mineral and coal mining operations, including sand and gravel pits, quarries, and placer mines.
-*  **Major Mines**: Metal and coal mines as well as some large aggregate and industrial minerals operations.
-* 	**Coordinated Authorizations**: Designated by the Chief Permitting Officer (CPO) to manage projects that require multiple permits. 
-* 	**Major Mines Office (MMO)**: All construction and operations permit applications for coal and mineral mines are managed by the Major Mines Office (MMO).
+*  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+*  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
+* 	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
 
 ## 2.2. Risk Assessment
 In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
