@@ -112,7 +112,7 @@ N/A
 *  **Mine Manager**: The person appointed under section 21 of the [Health, Safety, and Reclamation Code for Mines in B.C.](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/health-safety/health-safety-and-reclamation-code-for-mines-in-british-columbia) to be responsible for the management and operation of a mine.
 *  **Mines Digital Services (MDS)**: The team that manages a suite of systems to enable easier access for the public, industry, and government to current mining information within the province of B.C. 
 *  **MineSpace**: A website portal developed for mining businesses to manage permit applications, see inspection history, and submit reports.
-*  **CORE**: A digital repository for all major mine record information internal to the Ministry.
+*  **Core**: A website portal internal to the Province to manage permit applications, track inspection history, and receive reports for mines in B.C. 
 
 ## 2.2. Risk Assessment
 
