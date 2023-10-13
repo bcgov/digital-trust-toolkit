@@ -24,7 +24,7 @@ IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR
 This governance framework includes structural elements from the Trust over IP Metamodel that were developed by the Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 ## 1.2. Terminology and Notation
 
-Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
+Please reference [Glossary - General Trust Over IP Terms](https://docs.google.com/document/u/0/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/mobilebasic?pli=1).
 
 **Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
@@ -102,7 +102,7 @@ N/A
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-[ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
+[ToIP Core Glossary](https://docs.google.com/document/u/0/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/mobilebasic?pli=1)
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
