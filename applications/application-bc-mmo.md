@@ -129,28 +129,22 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 
 ## 2.5.1. Establishment of Connection
 
-1. The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the B.C. government.
-2. After MineSpace displays its home screen, The Mine Manager MUST select the option to request a single-use invitation link from the MineSpace portal homepage for the required mining company (not for the mine site, this is the organizational link). *Backend note - MineSpace MUST send the invitation request to Traction to generate a single-use invitation link. Traction MUST return the invitation link to MineSpace, the invitation link WILL display within the MineSpace home screen.*
-3. MineSpace MUST return the invitation link to the mining company's homepage.
-4. The Mine Manager MUST use the invitation link provided within their organizational wallet to establish a secure connection.
-5. Traction MUST send/request? approval notification to CORE 
+1. The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the Chief Permitting Officer of Mines for the B.C. government.
+2. After selecting the specific mine from the MineSpace home screen, The Mine Manager MUST request a single-use invitation link for the required mining company (based on the mine site selected). 
+3. MineSpace MUST present the connection invitation link (URL) to the Mine Manager.
+4. The Mine Manager MUST use the connection invitation link provided by MineSpace within their organizational wallet to establish a secure connection.
 
 ## 2.5.2. Major Mines Operating Permit Issuance
 
-1.	Using the established connection, CORE MUST offer the credential when a new permit and/or amendment is issued (if the connection exists).
-2.	For all connections, CORE MUST offer [permit credentials](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-mines-act-permit.md) that have not been offered before. 
-3.	MineSpace MUST provide an Activity Feed Notification for each credential offered to the Mine Manager. 
-4.	CORE MUST provide an activity feed notification for each credential to the Mining Inspector. 
-5.	Traction SHALL offer the credential to the Company’s Organizational Wallet.
-6.	The Company’s Organizational Wallet SHALL send an email notification of the offer to the Mine Manager through secure email. 
-7.	The Mine Manager MUST read and respond to the email notification. 
-8.	The Mine Manager MUST review the credential offer and accept the credential into their Organizational Wallet
-9.	The Organizational Wallet MUST display offer details to the Mine Manager. 
-10.	The Mine Manager MUST either Accept/Decline the offer. 
-11.	Organizational Wallets MAY display a problem report if the credential is declined.
-12.	Traction MUST notify CORE if the offer is declined.
-13.	CORE MUST provide an Activity Feed Notification for Declined Offer to the Mining Inspector.
-
+1.	The Mine Manager MUST look up the authorizations and permits for the selected mine within MineSpace to display the request button for an operating permit.
+1.  The Mine Manager MUST select the permit that is desired as a credential.
+1.	Traction SHALL offer the credential to the Company’s organizational wallet.
+1.	The organizational wallet MUST display offer details to the Mine Manager. 
+1.	The Mine Manager MUST review the credential offer.
+1.	The Mine Manager MUST either Accept/Decline the offer. 
+1.	Traction MUST receive a problem report if the credential is declined.
+1.	Traction MUST notify Core if the offer is declined.
+   
 ## 2.6. Technical Requirements
 The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID once production instance created* 
 
