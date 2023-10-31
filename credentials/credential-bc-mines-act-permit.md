@@ -9,7 +9,7 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) provides proof the credential holder has been issued a B.C. Mines Act Permit. 
 
 Further information can be found online: 
  - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
