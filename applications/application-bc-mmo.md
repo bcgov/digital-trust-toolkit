@@ -11,17 +11,9 @@ parent: Applications
 
 This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/)
 
+***Acknowledgements***
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
-These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
-
-THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
-
-IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-***Acknowledgements***
-
-This governance framework includes structural elements from the Trust over IP Metamodel that were developed by the Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 ## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://docs.google.com/document/u/0/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/mobilebasic?pli=1).
@@ -50,10 +42,10 @@ The standard language for this governing framework (GF) is English.
 
 [The Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) is the governing authority responsible for this Governance Framework (GF). 
 
-* 	**Name:** Jolene Jackson
-* 	**Title:** Senior Project Lead - Mines Competitiveness & Authorizations Division
+* 	**Name:** Sean Shaw
+* 	**Title:** A/Executive Director and Deputy Chief Permitting Officer
 * 	**Organization:** Major Mines Office
-* 	**Email:** jolene.jackson@gov.bc.ca
+* 	**Email:** sean.shaw@gov.bc.ca
 
 ## 1.5. Administering Authority
 
@@ -146,7 +138,8 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 1.	Traction MUST notify Core if the offer is declined.
    
 ## 2.6. Technical Requirements
-The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution. *add public DID once production instance created* 
+The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
+- [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
 
 ## 2.7. Information Trust Requirements
 
@@ -162,7 +155,7 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 
 ## 2.9. Legal Agreements
 
-On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)
+Not applicable.
 
 # End of Document
 
