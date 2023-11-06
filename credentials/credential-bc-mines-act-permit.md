@@ -173,6 +173,9 @@ Ledger | SCHEMA_ID | Notes |
 [CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/332) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.0 | Production - November 3, 2023 |
 [BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.0 | Test - November 3, 2023 |
 
+### 2.6.4 Overlays Capture Architecture (OCA) Bundle
+[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
+
 ## 2.7. Information Trust Requirements
 
 The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
