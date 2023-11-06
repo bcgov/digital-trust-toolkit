@@ -59,7 +59,7 @@ Mines Digital Services is the administering authority on behalf of the Major Min
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. The purpose of the rules is to enable all actors to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the B.C. Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
 
 ## 1.7 Scope
 
@@ -75,8 +75,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-The Major Mines Office (MMO) updates and manages this governance framework.
-Legislation and regulations govern the disposition, administration, and management of mines in B.C.
+Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00).
 - **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
 - **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
