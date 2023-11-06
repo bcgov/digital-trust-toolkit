@@ -68,7 +68,7 @@ The purpose of this GF is to define the B.C. Mines Act Permit credential.
 
 ## 1.7 Scope
 
-The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
+On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder can provide evidence of permit issuance. The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
 
 ## 1.8 Objectives 
 
@@ -80,7 +80,7 @@ To allow mine operators to hold evidence of an operating permit in a verifiable 
 
 ## 1.10 General Requirements
 
-Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00). Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 
 ## 1.11. Revisions
 
@@ -181,7 +181,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder can provide evidence of permit issuance. 
+Not applicable. 
 
 # End of Document
 
