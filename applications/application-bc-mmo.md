@@ -85,7 +85,7 @@ Version 1.0.
 
 ## 1.12. Extensions
 
-There are no extensions to this Governance Framework.  
+There are no extensions to this GF.  
 
 ## 1.13. Schedule of Controlled Documents
 
@@ -94,7 +94,7 @@ N/A
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-[ToIP Core Glossary](https://docs.google.com/document/u/0/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/mobilebasic?pli=1)
+[ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 
