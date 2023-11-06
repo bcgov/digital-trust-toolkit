@@ -80,7 +80,7 @@ The initial scope of the B.C. Mines Act Permit credential is summary information
 
 ## 1.8 Objectives 
 
-To allow mine operators to hold proof of an operating permit in a verifiable credential format that is both secure and tamperproof. 
+To allow mine operators to hold evidence of an operating permit in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
@@ -108,7 +108,7 @@ N/A
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 [B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-*  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+*  **Credential Holders**: The holder of a credential issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 *  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
 * 	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
 
@@ -128,7 +128,7 @@ Legislation and regulations govern the disposition, administration, and manageme
 
 ## 2.5. Business Requirements
 
-The primary use of the B.C. Mines Act Permit credential is for permit holders within BC to prove they are in compliance with the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
+The primary use of the B.C. Mines Act Permit credential is for permit holders within B.C. to provide proof of permit issuance from the province according to [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
