@@ -17,7 +17,7 @@ The development of this documentation follows the governance framework created b
 
 ## 1.2. Terminology and Notation
 
-Please reference [Glossary - General Trust Over IP Terms](https://docs.google.com/document/u/0/d/1fZByfuSOwszDRkE7ARQLeElSYmVznoOyJK4sxRvJpyM/mobilebasic?pli=1).
+Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
 
 **Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
