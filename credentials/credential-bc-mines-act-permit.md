@@ -9,23 +9,15 @@ parent: Credentials
 
 ## 1.1 Introduction
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) grants the credential holder the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit.  
+[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) provides evidence the credential holder has been issued a B.C. Mines Act Permit. 
 
 Further information can be found online: 
  - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
  - [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
+***Acknowledgements***
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
-These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
-
-THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
-
-IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-***Acknowledgements***
-
-This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 ## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
@@ -76,11 +68,11 @@ The purpose of this GF is to define the B.C. Mines Act Permit credential.
 
 ## 1.7 Scope
 
-The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
+On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder can provide evidence of permit issuance. The initial scope of the B.C. Mines Act Permit credential is summary information for operating permits of major mines in B.C. 
 
 ## 1.8 Objectives 
 
-To allow mine operators to hold proof of an operating permit in a verifiable credential format that is both secure and tamperproof. 
+To allow mine operators to hold evidence of an operating permit in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
@@ -88,7 +80,7 @@ To allow mine operators to hold proof of an operating permit in a verifiable cre
 
 ## 1.10 General Requirements
 
-Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00). Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 
 ## 1.11. Revisions
 
@@ -108,7 +100,7 @@ N/A
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 
 [B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-*  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+*  **Credential Holders**: The holder of a credential issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 *  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
 * 	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
 
@@ -128,7 +120,7 @@ Legislation and regulations govern the disposition, administration, and manageme
 
 ## 2.5. Business Requirements
 
-The primary use of the B.C. Mines Act Permit credential is for permit holders within BC to prove they are in compliance with the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
+The primary use of the B.C. Mines Act Permit credential is for permit holders within B.C. to provide proof of permit issuance from the province according to [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
@@ -163,12 +155,18 @@ Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_mainten
 ### 2.6.2. Credential Implementation
 Ledger | CRED_DEF_ID | Notes |
 --- | --- | --- |
-bcorvin test | S7S2wzcF2giKuwxdeLBk69:3:CL:80097:js-dev | *Created for testing - 2023-09-27* |
+[CANdy-Prod](https://candyscan.idlab.org/txs/CANDY_PROD/domain?page=1&pageSize=50&filterTxNames=%5B%5D&sortFromRecent=true&search=A2UZSmrL9N5FDZGPu68wy:3:CL:332:mds-prod-revok) | A2UZSmrL9N5FDZGPu68wy:3:CL:332:mds-prod-revok | Production - November 3, 2023 |
+[BCovrin Test](http://test.bcovrin.vonx.io/) | SG22gyoUVsC7TiC9m68ytU:3:CL:115414:mds-test-revok | Test - November 3, 2023 |
+
 
 ### 2.6.3 Schema Implementation
 Ledger | SCHEMA_ID | Notes |
 --- | --- | --- |
-bcorvin test | S7S2wzcF2giKuwxdeLBk69:2:mines-act-permit:0.3 | *Created for testing - 2023-09-27* |
+[CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/332) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.0 | Production - November 3, 2023 |
+[BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.0 | Test - November 3, 2023 |
+
+### 2.6.4 Overlays Capture Architecture (OCA) Bundle
+[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
 
 ## 2.7. Information Trust Requirements
 
@@ -183,7 +181,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-On receipt of a B.C. Mines Act Permit credential issued according to this GF, the credential holder shall be granted the same rights as a permittee holder in receipt of a paper and/or digital copy of a B.C. Mines Act Permit under the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+Not applicable. 
 
 # End of Document
 
