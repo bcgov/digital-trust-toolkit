@@ -152,7 +152,7 @@ Mine Number | mine_no | String | not NULL | (7-digit) Unique identifier assigned
 Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site.
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site.
-Bond Total | bond_total | String | not NULL | Lists the total bond value of the permit. A permittee is required to provide monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
+Bond Total | bond_total | String | not NULL | (0.00) Lists the total bond value of the permit. A permittee is required to provide monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
 Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Operating status.
 Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Care and Maintenance status.
 
