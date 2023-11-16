@@ -147,7 +147,7 @@ Mine Operation Status | mine_operation_status | String | not NULL | Layer one in
 Mine Operation Status Reason | mine_operation_status_reason | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines** (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating** (1) Operating Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** (1) Long-Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.
 Mine Commodity | mine_commodity | String | not NULL | Lists the name(s) of the commodities being mined.
-Disturbance | mine_disturbance | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
+Mine Disturbance | mine_disturbance | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).
 Mine Number | mine_no | String | not NULL | (7-digit) Unique identifier assigned to a specific mine or mining operation to differentiate and track individual mines within a jurisdiction.
 Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site.
