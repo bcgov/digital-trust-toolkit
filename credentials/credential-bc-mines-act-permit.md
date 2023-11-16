@@ -140,7 +140,7 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 
 Name | Attribute | Format | Rules | Notes	
 --- | --- | --- | --- | --- |
-Permit Number | permit_no | String | not NULL| (up to 3-digit) alpha-numeric identifier: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+Permit Number | permit_no | String | not NULL| (3-digit) Alpha-numeric identifier: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Status | permit_status | String | not NULL | Defined as either "open" or "closed".
 Permittee | mine_party_appt | String | not NULL | Name of the mining company that holds the permit.
 Mine Operation Status | mine_operation_status | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
@@ -153,8 +153,8 @@ Permit Start Date| issue_date | String | not NULL | (YYYY-MM-DD) The original is
 Latitude | latitude| String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site.
 Longitude | longitude | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site.
 Bond Total | bond_total | String | not NULL | (0.00) Lists the total bond value of the permit. A permittee is required to provide monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine. 
-Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Operating status.
-Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | numerical value for the total number of tailing storage facilities that are in Care and Maintenance status.
+Mine Tailings Storage Facility Operating Count | tsf_operating_count | String | not NULL | Numerical value for the total number of tailing storage facilities that are in Operating status.
+Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_maintenance_count | String | not NULL | Numerical value for the total number of tailing storage facilities that are in Care and Maintenance status.
 
 
 ### 2.6.2. Credential Implementation
