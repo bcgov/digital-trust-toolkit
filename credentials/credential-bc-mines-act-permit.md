@@ -142,7 +142,7 @@ Name | Attribute | Format | Rules | Notes
 --- | --- | --- | --- | --- |
 Permit Number | permit_no | String | not NULL| (3-digit) Alpha-numeric identifier: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 Permit Status | permit_status | String | not NULL | Defined as either "open" or "closed".
-Permittee | mine_party_appt | String | not NULL | Name of the mining company that holds the permit.
+Permittee | permittee_name | String | not NULL | Name of the mining company that holds the permit.
 Mine Operation Status | mine_operation_status | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.
 Mine Operation Status Reason | mine_operation_status_reason | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines** (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating** (1) Operating Seasonal, or (2) Operating Year Round
 Mine Operation Status Sub Reason | mine_operation_status_sub_reason | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** (1) Long-Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.
