@@ -160,15 +160,15 @@ Mine Tailings Storage Facility Care and Maintenance Count | tsf_care_and_mainten
 ### 2.6.2. Credential Implementation
 Ledger | CRED_DEF_ID | Notes |
 --- | --- | --- |
-[CANdy-Prod](https://candyscan.idlab.org/txs/CANDY_PROD/domain?page=1&pageSize=50&filterTxNames=%5B%5D&sortFromRecent=true&search=A2UZSmrL9N5FDZGPu68wy:3:CL:332:mds-prod-revok) | A2UZSmrL9N5FDZGPu68wy:3:CL:332:mds-prod-revok | Production - November 3, 2023 |
-[BCovrin Test](http://test.bcovrin.vonx.io/) | SG22gyoUVsC7TiC9m68ytU:3:CL:115414:mds-test-revok | Test - November 3, 2023 |
+[CANdy-Prod](https://candyscan.idlab.org/txs/CANDY_PROD/domain?page=1&pageSize=50&filterTxNames=[]&sortFromRecent=true&search=A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok) | A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok | Production - November 16, 2023 |
+[BCovrin Test](http://test.bcovrin.vonx.io/) | SG22gyoUVsC7TiC9m68ytU:3:CL:171126:mds-test-revok | Test - November 16, 2023 |
 
 
 ### 2.6.3 Schema Implementation
 Ledger | SCHEMA_ID | Notes |
 --- | --- | --- |
-[CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/332) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.0 | Production - November 3, 2023 |
-[BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.0 | Test - November 3, 2023 |
+[CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/361) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.1.1 | Production - November 16, 2023 |
+[BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.1.1 | Test - November 16, 2023 |
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
 [B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
