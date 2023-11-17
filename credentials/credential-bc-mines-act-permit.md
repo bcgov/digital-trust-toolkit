@@ -1,10 +1,10 @@
 ---
 layout: default
-title: B.C. Mines Act Credential
+title: B.C. Mines Act Permit Credential
 parent: Credentials
 ---
 
-# B.C. Mines Act Credential
+# B.C. Mines Act Permit Credential
 # 1. Primary Document
 
 ## 1.1 Introduction
