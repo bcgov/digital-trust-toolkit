@@ -1,10 +1,10 @@
 ---
 layout: default
-title: B.C. Mines Act Permit - DRAFT
+title: B.C. Mines Act Permit Credential
 parent: Credentials
 ---
 
-# B.C. Mines Act Permit - DRAFT
+# B.C. Mines Act Permit Credential
 # 1. Primary Document
 
 ## 1.1 Introduction
@@ -134,7 +134,7 @@ The format for this credential is [AnonCreds specification](https://wiki.hyperle
 
 __Schema Name:__ bc-mines-act-permit
 
-__Schema Version:__ 1.1
+__Schema Version:__ 1.1.1
 
 This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
@@ -171,7 +171,7 @@ Ledger | SCHEMA_ID | Notes |
 [BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.1.1 | Test - November 16, 2023 |
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
-[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
+[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit-1_1_1)
 
 ## 2.7. Information Trust Requirements
 Not applicable.
