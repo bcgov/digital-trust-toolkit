@@ -171,7 +171,7 @@ Ledger | SCHEMA_ID | Notes |
 [BCovrin Test](http://test.bcovrin.vonx.io/) | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.1.1 | Test - November 16, 2023 |
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
-[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
+[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit-1_1_1)
 
 ## 2.7. Information Trust Requirements
 Not applicable.
