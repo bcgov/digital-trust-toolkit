@@ -134,7 +134,7 @@ The format for this credential is [AnonCreds specification](https://wiki.hyperle
 
 __Schema Name:__ bc-mines-act-permit
 
-__Schema Version:__ 1.1
+__Schema Version:__ 1.1.1
 
 This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
