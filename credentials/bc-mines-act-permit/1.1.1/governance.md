@@ -185,7 +185,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-[Mines Act Permit Credential Terms of Use](insert link here)
+[Mines Act Permit Credential Terms of Use](./2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
 
 # End of Document
 
