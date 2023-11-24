@@ -15,13 +15,18 @@ Further information can be found online:
  - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
  - [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
 
-***Acknowledgements***
+***Acknowledgements***:
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
-The Province of British Columbia (the "Province") makes no representations or warranties, express or implied, with respect to the digital certificate, including but not limited to its accuracy, completeness, currentness, performance, merchantability, or fitness for a particular purpose.  The Province does not guarantee that the digital certificate will operate, will operate error-free, or that the digital certificate will be available at all times or be available in a timely manner.  Use of the digital certificate is at your own risk.  The digital certificate is provided on an "as is" basis "with all faults" and "as available".   Use of the digital certificate may require third-party applications or services.  You agree to assume all risk and liability arising from your use of third-party applications or services and that the Province is not responsible for any issues arising out of such use. 
+***No Warranty***:
+The Mines Act Permit Credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the Mines Act Permit Credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
+ - (a). the Mines Act Permit Credential will be available;
+ - (b) your use of the Mines Act Permit Credential will be timely, uninterrupted or error-free;
+ - (c) any errors in the Mines Act Permit Credential will be corrected; or
+ - (d) the Mines Act Permit Credential will meet your expectations and requirements.
 
-Use of the digital certificate means that you understand and agree that the Province will not be liable in any event for any loss or damage, including (i) consequential losses or damages; (ii) loss of actual or anticipated profits or income (whether direct or indirect); (iii) loss of contract or business or other losses or damages arising from your use of the digital certificate; and (iv) special, indirect, incidental or punitive losses or damages. 
-
+ ***Limitation of Liability***:
+ To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the Mines Act Permit Credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the Mines Act Permit Credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
 
 ## 1.2. Terminology and Notation
 
