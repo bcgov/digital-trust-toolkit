@@ -59,7 +59,7 @@ The [Mining Association of Canada (MAC)](https://mining.ca/) is also responsible
 
 ## 1.6. Purpose
 
-The purpose of this GF is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MAC in a trusted manner. 
+The purpose of this GF is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with MAC in a trusted manner. 
 
 ## 1.7. Scope 
 
