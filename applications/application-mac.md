@@ -67,10 +67,10 @@ MAC is a participant in an open ecosystem and the focus of this framework is to 
 
 ## 1.8. Objectives
 
-MAC TSM operates based on a [Theory of Change](https://github.com/bcgov/bc-vcpedia/files/12563322/Theory.of.Change.-.TSM.pdf) philosophy that outlines the following objectives:
+MAC relies on its [Theory of Change](https://github.com/bcgov/bc-vcpedia/files/12563322/Theory.of.Change.-.TSM.pdf) philosophy to drive the following objectives:
 
-1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
-2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
+1. Continuous enhancement of on-site sustainability performance through strategic approaches;
+2. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting; and
 3. Enable industry-level monitoring, trend identification, and intervention by using comprehensive TSM reporting data from national mining associations and stakeholders.
 
 
