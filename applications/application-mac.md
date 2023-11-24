@@ -86,7 +86,7 @@ Guided by its [Mission and Vision statements](https://mining.ca/about-us/), MAC 
 
 ## 1.11. Revisions
 
-Version 1.0. Revisions to this governance framework is managed by MAC executive leadership. The most recent version of this governance document is published at the following address ___________________________
+Version 1.0. Revisions to this governance framework are managed by MAC executive leadership. 
 
 ## 1.12. Extensions
 
@@ -103,11 +103,11 @@ N/A
 
 ## 2.2. Risk Assessment
 
-[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the primary authority for determining management of risk. 
+[MAC Board of Directors](https://mining.ca/about-us/board-of-directors/) is the primary authority for determining the management of risk. 
 
 ## 2.3. Trust Assurance and Certification
 
-MAC is a not for profit Canadian Corporation. MAC is governed by a set of Bylaws in accordance with the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
+MAC is a not-for-profit Canadian Corporation. MAC is governed by a set of Bylaws in accordance with the [Canada Not for Profit Corporations Act](https://laws-lois.justice.gc.ca/eng/acts/c-7.75/).
 
 ## 2.4. Governance Requirements
 
@@ -118,34 +118,34 @@ Governance Requirements stem from the [MAC Board of Directors](https://mining.ca
 ### 2.5.1. Establishing connections
 
 1. MAC MUST send an invitation to the other business entity via email to initiate the exchange of information via digital wallet. 
-2. The receiving party MUST accept invitation in order to establish a secure connection.
+2. The receiving party MUST accept the invitation in order to establish a secure connection.
 
 ### 2.5.2. Annual MAC Membership Confirmation
 Participation in the TSM initiative is mandatory for all MAC members for their Canadian operations, members MUST adhere to the [TSM reporting requirements](https://mining.ca/towards-sustainable-mining/protocols-frameworks/tsm-protocol-reporting-schedule/):
 
-* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labelled _Optional Reporting and Verification Process_
+* Self-assessed TSM performance indicators MUST be reported to MAC annually using a presentation request. Amendments to this requirement are offered to high TSM performers and described in the [TSM Primer]( https://mining.ca/wp-content/uploads/dlm_uploads/2021/04/TSM-Primer-English.pdf) under the section labeled _Optional Reporting and Verification Process_
 
 1. Using the established connection, MAC MUST receive a verification request from the business entity. 
 2. Continuing from step 1, the business entity MUST provide **all of the attributes** in the presentation proposal as outlined in the [TSM Protocol Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-tsm-protocol.md#261-schema-definition)
 3. MAC will receive and review the proposal
 4. Any clarification questions can be asked via the secure messaging function 
 5. Annual self-assessments MUST be submitted through presentation requests to MAC
-6. Upon receipt MAC will publish data publicly via website
+6. Upon receipt MAC will publish data publicly via their website
 
 ## 2.6. Technical Requirements
 
-*MUST have an Aries compatible business wallet.*
+MAC uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution.
 
 ## 2.7. Information Trust Requirements
 
 •	[MAC Privacy of Information](https://mining.ca/privacy-information/)
 
-## 2.8. Inclusion, Equitability and Accessibility Requirement
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
 •	[MAC Advancing Diversity and Inclusion](https://mining.ca/advancing-diversity-and-inclusion-in-canadas-mining-sector/)
 
 ## 2.9. Legal Agreements
 
-Not applicable
+Not applicable.
  
 # End of Document
 
