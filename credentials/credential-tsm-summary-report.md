@@ -93,6 +93,7 @@ The TSM program outlines the following objectives in its [Theory of Change](http
 4) Credible Performance Reporting
 
 The TSM summary credential includes a combination of pass/fail scores and letter grades ranging from Level C to Level AAA based on the below rating scale:
+
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
 
 ## 1.9. Principles
