@@ -9,7 +9,7 @@ parent: Applications
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant of the open global community that exchanges verifiable credentials:
+This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant in the open global community that exchanges verifiable credentials:
  - [(Layer Four Application of the Trust Over IP Foundation (ToIP) Model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 ***Acknowledgements***
