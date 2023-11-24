@@ -259,7 +259,7 @@ BCovrin Test | TBD | --- | ---
 
 MAC is the owner of intellectual property that TSM consists of. MAC licenses TSM to industry associations that choose to adopt TSM based on the following agreement template:[TSM Mutual Cooperation Agreement](https://github.com/bcgov/bc-vcpedia/files/12563019/TSM.Mutual.Cooperation.Agreement.Template.2022.pdf)
 
-Industry adopters of TSM are also bound to agree and abide by the [TSM Claims and Labels Policy](https://mining.ca/resources/guides-manuals/tsm-claims-and-labels-policy-2023/). Claims and labels are the messages, logos and imagery used to communicate that an entity  meets a certain level of Towards Sustainable Mining (TSM) performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM. .
+Industry adopters of TSM are also bound to agree and abide by the [TSM Claims and Labels Policy](https://mining.ca/resources/guides-manuals/tsm-claims-and-labels-policy-2023/). Claims and labels are the messages, logos and imagery used to communicate that an entity  meets a certain level of Towards Sustainable Mining (TSM) performance. Claims and labels may be used in marketing and communications materials, annual reports, and other media by companies and facilities that are members of associations implementing TSM. 
 
 
 # End of Document
