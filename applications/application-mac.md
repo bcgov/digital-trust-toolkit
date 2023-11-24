@@ -10,10 +10,8 @@ parent: Applications
 
 ## 1.1. Introduction 
 
-This document articulates the governance framework for the [Mining Association of Canada (MAC)](https://mining.ca/) as a participant in the open global community that exchanges verifiable credentials: 
-- [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
-
-The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
+This document articulates the governance framework for the [Mining Association of Canada (MAC)](https://mining.ca/) as a participant in the open global community that exchanges verifiable credentials:
+ - [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
 ***Acknowledgements***
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
@@ -52,17 +50,16 @@ The [Mining Association of Canada (MAC)](https://mining.ca/) is the Governing Au
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of MAC during the pilot phase of development.
+The [Mining Association of Canada (MAC)](https://mining.ca/) is also responsible for administering this GF. The contact information for MAC during the pilot phase of development is:
 
-The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+*   **Name:**  Katherine Gosselin
+* 	**Title:** Director of Towards Sustainable Mining
+* 	**Organization:** The Mining Association of Canada
+* 	**Email:** [kgosselin@mining.ca](mailto:kgosselin@mining.ca)
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with MAC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this GF is to describe the rules/policies/procedures for verifiable credential exchanges involving MAC with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MAC in a trusted manner. 
 
 ## 1.7. Scope 
 
@@ -81,30 +78,8 @@ MAC TSM operates based on a [Theory of Change](https://github.com/bcgov/bc-vcped
 
 **MAC Mission and Vision Statement**
 
-MAC is also guided by its [Mission and Vision](https://mining.ca/about-us/). The Mission of MAC is to contribute to building a strong, sustainable and internationally competitive Canadian mining, minerals and metals industry with broad national support and to promote sound corporate and public policy. The Vision Statement of MAC is to create a strong, responsible and globally competitive Canadian mining and mineral processing industry that creates wealth and opportunity for all Canadians.
+Guided by its [Mission and Vision statements](https://mining.ca/about-us/), MAC members also adhere to the principles and goals set out in the [MAC Membership Overview](https://mining.ca/members-partners/become-a-member/#:~:text=Membership%20enables%20companies%20to%3A,Towards%20Sustainable%20Mining%20(TSM)%20program). 
 
-**MAC Membership Principles and Goals**
-
-Members of MAC are bound to adhere to the principles and goals set out in the [MAC Membership Overview](https://mining.ca/members-partners/become-a-member/#:~:text=Membership%20enables%20companies%20to%3A,Towards%20Sustainable%20Mining%20(TSM)%20program). 
-
-*Branding Mining (the narrative)*:
-The Canadian mining industry’s global presence and importance is known to Canadians and supported by 
-government.
-
-*CSR/Social License (reputation)*:
-The mining industry is seen as a responsible actor committed to sustainable development in Canada and 
-globally.
-
-*Regulatory Efficiency (ability to build and operate mines)*:
-A responsible and cost-effective regulatory framework.
-
-*Economic Competitiveness*:
-A competitive fiscal environment; a competitive, available and effective system of infrastructure; a skilled and 
-ample workforce; and an open international trade and investment environment.
-
-*Organizational and Operational Excellence*:
-MAC is the respected, authoritative voice of the Canadian mining and mineral processing industry and an 
-employer of choice
 
 ## 1.10. General Requirements
 [The Mining Association of Canada](https://mining.ca/) updates and manages this credential governance framework.
