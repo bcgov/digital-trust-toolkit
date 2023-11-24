@@ -53,7 +53,7 @@ The standard language for this governing framework (GF) is English.
 * The **MAC Board of Directors** sets the overall objective and recommends changes. In practice, the MAC Board will only consider a decision if the Community of Interest Advisory Panel (COI Panel) is comfortable with the direction proposed.
 
 * The **Community of Interest Advisory Panel (COI Panel)** is an independent advisory body comprised of individuals from Indigenous groups, mining communities, 
-non-governmental organizations, and organized labour, among others. Industry representatives participate in the panel on an exofficio basis.
+non-governmental organizations, and organized labour, among others. Industry representatives participate in the panel on an ex officio basis.
 
 *Reference* [**TSM 101: A Primer**](https://mining.ca/wp-content/uploads/dlm_uploads/2023/01/SPARK-MAC-TSM-PRIMER-2022-ENG.pdf) 
 ![TSMGovernanceTriangle](https://user-images.githubusercontent.com/122049466/215233717-be0da646-ddb5-431d-9cad-579f778475d2.PNG)
@@ -75,36 +75,29 @@ The contact information for [The Mining Association of Canada (MAC)](https://min
 
 ## 1.6. Purpose
 
-The purpose of this Governance Framework (GF) is to define the parameters of a TSM Summary Report credential.
+The purpose of this Governance Framework (GF) is to define what a TSM Summary Report credential is and who is responsible for the authority and administration of its use.
 
 ## 1.7. Scope
 
-This Governance Framework applies to the TSM Summary Report credential from the Mining Association of Canada (MAC).
+A TSM Summary Report credential issued according to this GF, provides summary information for each protocol as required.
 
 ## 1.8. Objectives
 
-This GF describes the TSM Summary Report credential consisting of the eight protocols used as performance indicators (detailed descriptions of the protocols can be accessed online through MAC's Website: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
+To allow the credential holder proof of summary data for each protocol in a variable credential format that is both secure and tamperproof: [TSM Protocols & Frameworks](https://mining.ca/towards-sustainable-mining/protocols-frameworks/)):
 
-TSM describes the following overarching objectives in its [Theory of Change](https://github.com/bcgov/bc-vcpedia/files/12563322/Theory.of.Change.-.TSM.pdf)
+The TSM program outlines the following objectives in its [Theory of Change](https://github.com/bcgov/bc-vcpedia/files/12563322/Theory.of.Change.-.TSM.pdf)
 
-1) Multi Stakeholder Engagement
+1) Multi-Stakeholder Engagement
 2) Continual Improvement
 3) Driving Change Across the Mining Industry
 4) Credible Performance Reporting
 
-Specific priorities associated with the above objectives include the following:
-1. Drive continuous enhancement of on-site sustainability performance through strategic approaches.
-2. Drive culture change within national mining industries, establishing processes for regular engagement and collaboration with a diverse set of individuals from national stakeholder and rights holder groups.
-3. Encourage company progress from good practice to excellence via a multi-level rating system, supported by TSM protocols for benchmarking and target setting.
-4. Enable industry-level monitoring, trend identification, and intervention by using comprehensive TSM reporting data from national mining associations and stakeholders.
-
-The TSM summary credential is a combination of pass/fail scores and letter grades ranging from Level C to Level AAA.
-
+The TSM summary credential includes a combination of pass/fail scores and letter grades ranging from Level C to Level AAA based on the below rating scale:
 ![TSMRatingScale](https://user-images.githubusercontent.com/122049466/215434528-b231e7aa-5c64-4313-b30a-e022d9b47d02.PNG)
 
 ## 1.9. Principles
 
-TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic and environmental practices that align with the priorities and values of their communities of interest. 
+TSM has a set of [Guiding Principles](https://mining.ca/download/36658/), which all participating members must commit to. These [Guiding Principles](https://mining.ca/download/36658/), address the expectation of its members towards adopting social, economic, and environmental practices that align with the priorities and values of their communities of interest. 
 
 
 ## 1.10. General Requirements
