@@ -147,11 +147,11 @@ The TSM Guiding Principles are backed by a suite of [protocols](https://mining.c
 * [**MAC Board of Directors**](https://mining.ca/about-us/board-of-directors/): The Mining Association of Canada (MAC) is governed by a team of industry leaders from our membership who were selected for their breadth and depth of mining experience. Through their strategic guidance and oversight, these professionals collectively play a vital role in advancing the work of MAC and the industry at large.
 
 ## 2.2. Risk Assessment
-[The Mining Association of Canada (MAC) Board of Directors (Board)](https://mining.ca/about-us/board-of-directors/) is the primary authority for the risk assessment process of the TSM Programme. The Board relies heavily on the collective expertise and advice from the [Community of Interest (COI) Panel](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/). The panel provides advice to the board through a formal process for issues identification.
+[The Mining Association of Canada (MAC) Board of Directors (Board)](https://mining.ca/about-us/board-of-directors/) is the primary authority for the risk assessment process of the TSM Program. 
 
 ## 2.3. Trust Assurance and Certification
   
-Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/). The [TSM Community of Interest (COI) Panels](https://mining.ca/towards-sustainable-mining/how-tsm-works/community-of-interest-advisory-panel/) is an independent, multi-interest group comprised of about 12 to 15 individuals from Aboriginal groups, communities where the industry is active, environmental and social NGOs, and labor and financial organizations that advises the MAC Board of Directors.
+Trust Assurance and Certification is determined primarily by the [MAC Board of Directors](https://mining.ca/about-us/board-of-directors/).
 
 MAC utilizes the [TSM Mutual Cooperation Agreement Template](https://github.com/bcgov/bc-vcpedia/files/12563019/TSM.Mutual.Cooperation.Agreement.Template.2022.pdf) as a trust assurance framework for international adoption. MAC has identified the following minimum categories of requirements for Licensees: 
 1.	Guiding Principles
