@@ -12,13 +12,14 @@ parent: Credentials
 
 Established in 2004, the [Towards Sustainable Mining™ (TSM)](https://mining.ca/towards-sustainable-mining/) is a globally recognized program developed by the [Mining Association of Canada (MAC)](https://mining.ca/) to provide mining operations a standardized way to evaluate and manage their environmental and social responsibilities. The TSM program outlines a set of eight (8) [protocols](https://tsminitiative.com/protocols-frameworks) that include indicators designed to assist mining operators in building, measuring, and publicly reporting on the quality of their management systems and performance in key areas of mining activity. 
 
-MAC makes no representations or warranties, express or implied, with respect to the TSM Summary Report digital certificate, including but not limited to its accuracy, completeness, currentness, performance, merchantability, or fitness for a particular purpose.  MAC does not guarantee that the digital certificate will operate, will operate error-free, or that the digital certificate will be available at all times or be available in a timely manner.  Use of the digital certificate is at your own risk.  The digital certificate is provided on an "as is" basis "with all faults" and "as available".   Use of the digital certificate may require third-party applications or services.  You agree to assume all risk and liability arising from your use of third-party applications or services and that the Province is not responsible for any issues arising out of such use. 
-
-Use of the digital certificate means that you understand and agree that MAC will not be liable in any event for any loss or damage, including (i) consequential losses or damages; (ii) loss of actual or anticipated profits or income (whether direct or indirect); (iii) loss of contract or business or other losses or damages arising from your use of the digital certificate; and (iv) special, indirect, incidental or punitive losses or damages. 
-
 ***Acknowledgements***
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
+The TSM Summary Report digital credential is provided "as is", and MAC disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the TSM Summary Report digital credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement.
+
+MAC does not guarantee that the digital certificate will operate, will operate error-free, or that the digital certificate will be available at all times or be available in a timely manner.  Use of the digital certificate is at your own risk and may require third-party applications or services.  
+
+Use of the digital certificate means that you understand and agree that MAC will not be liable in any event for any loss or damage, including (i) consequential losses or damages; (ii) loss of actual or anticipated profits or income (whether direct or indirect); (iii) loss of contract or business or other losses or damages arising from your use of the digital certificate; and (iv) special, indirect, incidental or punitive losses or damages. 
 
 ## 1.2. Terminology and Notation
 
