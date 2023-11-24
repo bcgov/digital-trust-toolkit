@@ -3,17 +3,11 @@
 ## Introduction
 
 Each verifiable credential issued by the BC Government requires governance documents. For guidance with writing governance documentation, use the tools available from [Trust-Over-IP](https://trustoverip.org/our-work/deliverables/) 
-
 The purpose of this repository is to serve as a registry of groups within the BC Government who are "issuers" of verifiable credentials. Creating an entry in this repository will be a requirement for requesting a digital wallet from the BC Government Digital Trust Services.
-
-Currently the Digital Wallet service is under active development on a Pilot project looking at a use case in Mining.
 
 ## Requirements
 The [Wiki](https://github.com/bcgov/bc-vcpedia/wiki) contains detailed instructions on what to include and how to submit for review.
 
-The following minimum requirements must be met in order for your request to be approved:
-- TBD
-
 ## How to submit your governance documents
 
-email to minesdigitaltrust@gov.bc.ca
+email to [EMDT@gov.bc.ca](mailto:EMDT@gov.bc.ca)

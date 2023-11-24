@@ -4,12 +4,12 @@ title: BC Major Mines Office
 parent: Applications
 ---
 
-# B.C. Major Mines Office Governance Framework - DRAFT
+# B.C. Major Mines Office Governance Framework
 # 1. Primary Document
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant of the open global community that exchanges verifiable credentials:
+This document articulates the governance framework for British Columbia (B.C.) Major Mines Office (MMO) as a participant in the open global community that exchanges verifiable credentials:
  - [(Layer Four Application of the Trust Over IP Foundation (ToIP) Model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 ***Acknowledgements***
@@ -155,7 +155,7 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 
 ## 2.9. Legal Agreements
 
-Not applicable.
+[Mines Act Permit Credential Terms of Use](./2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
 
 # End of Document
 
