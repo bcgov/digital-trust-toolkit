@@ -163,6 +163,7 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 
 
 ### 2.6.2. Credential Implementation
+
 | Ledger                                                                                                                                                                       | CRED_DEF_ID                                       | Notes                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ |
 | [CANdy-Prod](https://candyscan.idlab.org/txs/CANDY_PROD/domain?page=1&pageSize=50&filterTxNames=[]&sortFromRecent=true&search=A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok) | A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok     | Production - November 16, 2023 |
@@ -170,6 +171,7 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 
 
 ### 2.6.3 Schema Implementation
+
 | Ledger                                                             | SCHEMA_ID                                          | Notes                          |
 | ------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------ |
 | [CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/361) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.1.1  | Production - November 16, 2023 |
