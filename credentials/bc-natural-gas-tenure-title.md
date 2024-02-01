@@ -19,17 +19,19 @@ The following legislation and regulations govern the disposition, administration
 * 	[The Petroleum and Natural Gas Act Regulations](https://www.bclaws.gov.bc.ca/civix/content/complete/statreg/1922970521/96361/reg96361/?xsl=/templates/browse.xsl)
 * 	[Petroleum and Natural Gas Tenure Policy Guides](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure/publications)
 
+***Acknowledgements***:
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
-These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
+***No Warranty***:
+The Mines Act Permit Credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the Mines Act Permit Credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
+ - (a). the Mines Act Permit Credential will be available;
+ - (b) your use of the Mines Act Permit Credential will be timely, uninterrupted or error-free;
+ - (c) any errors in the Mines Act Permit Credential will be corrected; or
+ - (d) the Mines Act Permit Credential will meet your expectations and requirements.
 
-THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
+ ***Limitation of Liability***:
+ To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the Mines Act Permit Credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the Mines Act Permit Credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
 
-IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-***Acknowledgements***
-
-This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 ## 1.2. Terminology and Notation
 
 Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
@@ -70,15 +72,15 @@ The contact information for EMDT is:
 
 ## 1.6 Purpose 
 
-The purpose of this Governance Framework (GF) is to define the parameters of a BC Petroleum and Natural Gas Title credential. 
+The purpose of this GF is to define what the B.C. Petroleum and Natural Gas Title credential is and who is responsible for the authority and administration of its use.
 
 ## 1.7 Scope
 
-This Governance Framework (GF) applies to the BC Petroleum and Natural Gas Title credential from [the Tenure and Resource Stewardship Branch](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
+A B.C. Petroleum and Natural Gas Title credential issued according to this GF, provides evidence of title issuance and summary tenure information.
 
 ## 1.8 Objectives 
 
-This GF describes the BC Petroleum and Natural Gas Title credential consisting of all data elements included in a BC Petroleum and Natural Gas Title Document. 
+To allow the credential holder evidence they have been issued a B.C. Petroleum and Natural Gas Title in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
@@ -98,7 +100,7 @@ There are no extensions to this Governance Framework.
 
 ## 1.13. Schedule of Controlled Documents
 
-TBD
+N/A
 
 # 2. Controlled Documents
 
@@ -112,15 +114,13 @@ TBD
 
 
 ## 2.2. Risk Assessment
-TBD
+In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
 
 ## 2.3. Trust Assurance and Certification
-TBD
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
-The BC Tenure and Resource Stewardship Branch (TRSB) updates and manages this credential governance framework.
-
-Legislation and regulations govern the disposition, administration and management of petroleum and natural gas. These can be found in the [BC Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
+Legislation and regulations govern the disposition, administration, and management of petroleum and natural gas in B.C. [BC Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
 
