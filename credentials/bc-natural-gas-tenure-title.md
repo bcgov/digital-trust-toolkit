@@ -60,6 +60,12 @@ The standard language for this governing framework (GF) is English.
 
 [The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority responsible for this Governance Framework (GF). 
 
+The contact information for the TSRB is: 
+* 	**Name:**
+* 	**Title:** 
+* 	**Organization:** 
+* 	**Email:** 
+
 ## 1.5. Administering Authority
 
 [Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development.
