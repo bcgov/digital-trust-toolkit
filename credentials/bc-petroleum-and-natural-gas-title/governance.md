@@ -4,7 +4,7 @@ title: B.C. Petroleum & Natural Gas Title
 parent: Credentials
 ---
 
-# B.C. Petroleum & Natural Gas Title Credential - DRAFT
+# B.C. Petroleum & Natural Gas Title - DRAFT
 # 1. Primary Document
 
 ## 1.1 Introduction
@@ -23,14 +23,14 @@ The following legislation and regulations govern the disposition, administration
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
 ***No Warranty***:
-The B.C. Petroleum & Natural Gas Title Credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the B.C. Petroleum & Natural Gas Title Credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
- - (a). the B.C. Petroleum & Natural Gas Title Credential will be available;
- - (b) your use of the B.C. Petroleum & Natural Gas Title Credential will be timely, uninterrupted or error-free;
- - (c) any errors in the B.C. Petroleum & Natural Gas Title Credential will be corrected; or
- - (d) the B.C. Petroleum & Natural Gas Title Credential will meet your expectations and requirements.
+The B.C. Petroleum & Natural Gas Title credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the B.C. Petroleum & Natural Gas Title credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
+ - (a). the B.C. Petroleum & Natural Gas Title credential will be available;
+ - (b) your use of the B.C. Petroleum & Natural Gas Title credential will be timely, uninterrupted or error-free;
+ - (c) any errors in the B.C. Petroleum & Natural Gas Title credential will be corrected; or
+ - (d) the B.C. Petroleum & Natural Gas Title credential will meet your expectations and requirements.
 
  ***Limitation of Liability***:
- To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the B.C. Petroleum & Natural Gas Title Credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the B.C. Petroleum & Natural Gas Title Credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
+ To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the B.C. Petroleum & Natural Gas Title credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the B.C. Petroleum & Natural Gas Title credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
 
 ## 1.2. Terminology and Notation
 
@@ -60,7 +60,7 @@ The standard language for this governing framework (GF) is English.
 
 [The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority responsible for this Governance Framework (GF). 
 
-The contact information for the TSRB is: 
+The contact information for the TSRB is TBD: 
 * 	**Name:**
 * 	**Title:** 
 * 	**Organization:** 
@@ -68,13 +68,12 @@ The contact information for the TSRB is:
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development.
+The Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development is TBD.
 
-The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+* 	**Name:** 
+* 	**Title:** 
+* 	**Organization:**
+* 	**Email:** 
 
 ## 1.6 Purpose 
 
@@ -94,7 +93,7 @@ To allow the credential holder evidence they have been issued a B.C. Petroleum a
 
 ## 1.10 General Requirements
 
-The Petroleum and Natural Gas Title Credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in B.C., a Petroleum and Natural Gas Title Document must be provided in accordance with the B.C. Petroleum and Natural Gas Act. 
+The Petroleum and Natural Gas Title redential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in B.C., a Petroleum and Natural Gas Title Document must be provided in accordance with the B.C. Petroleum and Natural Gas Act. 
 
 ## 1.11. Revisions
 
@@ -129,8 +128,8 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 Legislation and regulations govern the disposition, administration, and management of petroleum and natural gas in B.C. [BC Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01). 
 
 ## 2.5. Business Requirements
+The primary use of the Petroleum and Natural Gas Title credential is for credential holders in B.C. to provide evidence of title issuance from the province according to [the Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01).
 
-The primary use of the Petroleum and Natural Gas Title Credential is to allow holders in B.C. to comply with required processes and procedures associated with maintaining a Petroleum and Natural Gas Title within the province. The Petroleum and Natural Gas Title Credential will be issued by the Ministry of Energy and Mines, Tenure and Resource Stewardship Branch. All users of the B.C. Petroleum and Natural Gas Title Credential must adhere to provincial legislation and requirements.
 
 ## 2.6. Technical Requirements (Credential)
 The Verifiable Credential format for this credential is AnonCreds specification (https://wiki.hyperledger.org/display/anoncreds)
