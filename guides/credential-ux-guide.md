@@ -148,8 +148,9 @@ Allows the issuer to declare the unit of measurement for attributes in the overl
       <li>Always use metric units</li>
     </ul>
   </li>
-  <li>Credentials should follow B.C. Governments web style guide on [Writing numbers and dates in web content](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/numbers) </li>
-</ul>
+ </ul>
+ 
+- Credentials should follow B.C. Governments web style guide on [Writing numbers and dates in web content](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/writing-guide/numbers)
 
 ### Date and timestamp
 To identify that this attribute is a date or time.
