@@ -4,7 +4,7 @@ title: UX Guide for Credentials
 parent: Guides
 ---
 
-# UX Guide for Credentials & Connections TEST
+# UX Guide for Credentials & Connections
 
 # Table of Contents
 
