@@ -14,7 +14,9 @@ parent: Guides
  - [Connection Name](#connectionname)
 
   <a id="overview"></a>
+  
  # Overview
+ 
 This guide is intended to ensure the credentials issued by the BC Government, or issued using BC Government infrastructure such as the CANdy ledger, are trusted and usable.
 > **_MUST v SHOULD:_** This guide uses the terms “MUST” and “SHOULD” as defined in [Key words for use in RFCs to Indicate Requirement Levels](https://www.ietf.org/rfc/rfc2119.txt).
 
