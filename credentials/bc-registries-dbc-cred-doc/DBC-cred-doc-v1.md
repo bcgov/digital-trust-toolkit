@@ -242,7 +242,6 @@ The attributes of the DBC credential are organized by topic and described below.
                     <li>Single individuals who represent multiple businesses</li>
                     <li>Individuals who have changed their name</li>
                 </ul>
-            </li>
         </ul>
     </td>
   </tr>
