@@ -1,0 +1,25 @@
+{
+    "@context": ["https://w3.org/ns/did/v1", "https://w3id.org/security/v2"],
+    "id": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer",
+    "verificationMethod": [
+      {
+        "id": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer#verkey",
+        "controller": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer",
+        "type": "Ed25519VerificationKey2018",
+        "publicKeyBase58": "H4s5sznjWKwK2cc5A8swZQNoY8uZUVzFvUN8DdQvqaGm"
+      }
+    ],
+    "authentication": [
+      "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer#verkey"
+    ],
+    "assertionMethod": [
+      "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer#verkey"
+    ],
+    "service": [
+      {
+        "id": "did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch:issuer#linked-domain",
+        "type": "LinkedDomain",
+        "serviceEndpoint": "https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/energy-mines-and-petroleum-resources"
+      }
+    ]
+  }
