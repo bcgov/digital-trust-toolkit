@@ -136,12 +136,7 @@ The primary use of the Petroleum and Natural Gas Title credential is for credent
 ## 2.6.1 Json-LD Format
 The Verifiable Credential format for this credential is W3C Verifiable Credential Data Model v2.0 specification (https://www.w3.org/TR/vc-data-model-2.0/)
 
-### 2.6.1.1 Issuer
-### 2.6.1.2 Schema
-### 2.6.1.3 Example
-### 2.6.1.4 Context
-
-### 2.6.1.5 Vocabulary
+### 2.6.1.1 Vocabulary
 
 __types__ 
 
