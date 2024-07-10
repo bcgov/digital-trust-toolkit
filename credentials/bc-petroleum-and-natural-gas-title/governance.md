@@ -132,7 +132,11 @@ The primary use of the Petroleum and Natural Gas Title credential is for credent
 
 
 ## 2.6 Technical Requirements (Credential)
+Technical requirements include both Json-LD and Anoncred formats to enable interoperability with multiple formats: 
 
+The Json-LD credential format is designed to meet W3C VCDM 2.0 requirements and is modeled for compliance with the [UN Transparency Protocol](https://uncefact.github.io/spec-untp/docs/about/) [Digital Conformity Credential](https://uncefact.github.io/spec-untp/docs/specification/ConformityCredential).
+
+The Anoncreds credential format enables the exchange of credential data between digital wallets once a trusted connection is established. 
 ## 2.6.1 Json-LD Format
 The Verifiable Credential format for this credential is [W3C Verifiable Credential Data Model v2.0 specification](https://www.w3.org/TR/vc-data-model-2.0/)
 
