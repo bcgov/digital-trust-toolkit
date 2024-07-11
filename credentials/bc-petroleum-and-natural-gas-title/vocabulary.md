@@ -21,7 +21,7 @@ A subsisting lease issued under this Act
 A person in whose name a lease is recorded in the division records.
 
 ### Licence
-A drilling licence or a licence under section 126 (3) or 130 (3)
+A drilling licence or a licence under section 126 (3) or 130 (3) as defined in the PNG Act.
 
 ### Licensee
 A person in whose name a licence is recorded in the division records
