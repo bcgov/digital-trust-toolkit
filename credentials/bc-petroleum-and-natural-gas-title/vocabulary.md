@@ -31,7 +31,7 @@ All fluid hydrocarbons, before and after processing, that are not defined as pet
 carbon dioxide; helium; hydrogen; hydrogen sulphide.
 
 ### Permit
-A subsisting exploration permit issued under this Act
+A subsisting exploration permit issued under the PNG Act.
 
 ### Permitee
 The person in whose name an exploration permit is recorded in the division records.
