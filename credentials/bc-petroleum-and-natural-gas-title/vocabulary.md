@@ -15,7 +15,7 @@ The majority of subsurface petroleum and natural gas (PNG) resources in British 
 The PNG Act describes a "holder of a location" as meaning "in accordance with the context, a permittee, licensee" . In this credential, the term title holder is used to reference a person in whose name a PNG title document is recorded in the division records. Title holders can be registered companies, and/or persons. A Title Holder will hold a percentage (%) interest in the title. Percent interest defines the percentage of interest allotted to each party named in the PNG title document. Percentage of ownership can be divided up to eight digits and should always equal 100% total. Lessee is defined by the PNG Act as "a person in whose name a lease is recorded in the division records".
 
 ### Lease
-A subsisting lease issued under this Act
+A subsisting lease issued under the PNG Act.
 
 ### Leasee
 A person in whose name a lease is recorded in the division records.
