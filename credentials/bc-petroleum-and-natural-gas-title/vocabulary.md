@@ -43,12 +43,12 @@ Crude petroleum and all other hydrocarbons, regardless of gravity, that are or c
 A well in which casing is run and that, in the opinion of the regulator, is producing or is capable of producing from a petroleum bearing zone.
 
 ### Well
-A hole in the ground
-(a) made or being made by drilling, boring or any other method to obtain petroleum or natural gas,
-(b) made or being made by drilling, boring or any other method to explore for, develop or use a storage reservoir for the storage or disposal of petroleum, natural gas, carbon dioxide, water produced in relation to the production of petroleum or natural gas, waste or any other prescribed substance,
-(c) used, drilled or being drilled to inject natural gas, water produced in relation to the production of petroleum or natural gas or other substances into an underground formation in connection with the production of petroleum or natural gas,
-(d) used to dispose of petroleum, natural gas, water produced in relation to the production of petroleum or natural gas, waste or any other prescribed substance into a storage reservoir, or
-(e) used, drilled or being drilled to obtain geological or geophysical information respecting petroleum or natural gas,
+A hole in the ground:
+(a) made or being made by drilling, boring or any other method to obtain petroleum or natural gas;
+(b) made or being made by drilling, boring or any other method to explore for, develop or use a storage reservoir for the storage or disposal of petroleum, natural gas, carbon dioxide, water produced in relation to the production of petroleum or natural gas, waste or any other prescribed substance;
+(c) used, drilled or being drilled to inject natural gas, water produced in relation to the production of petroleum or natural gas or other substances into an underground formation in connection with the production of petroleum or natural gas;
+(d) used to dispose of petroleum, natural gas, water produced in relation to the production of petroleum or natural gas, waste or any other prescribed substance into a storage reservoir; or
+(e) used, drilled or being drilled to obtain geological or geophysical information respecting petroleum or natural gas.
 
 ### Zone
 A stratum or strata designated by the regulator as a zone generally for a designated area or a specific well, or a stratum or strata designated by the director for the purposes of the administration of petroleum and natural gas rights or storage and disposal rights.
