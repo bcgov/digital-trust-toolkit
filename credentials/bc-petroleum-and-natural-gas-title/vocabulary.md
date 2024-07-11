@@ -65,7 +65,7 @@ an undivided interest in a location
 This field specifies the type of title based on the PNG Act. Title types can include the following: 1. Lease (Part 6); 2. Permit (Part 5); 3. Drilling Licence (Part 5.1), and 4. Storage Reservoir Licence (Part 14.130). Each title has only one title type.
 
 ### titleNumber
-A number is used to uniquely identify a title, assigned based on administrative policy by the TRSB. The title number is associated with the Exploration Licence outlined in Section 126, part 14.126 of the PNG Act.
+A number is used to uniquely identify a title, assigned based on administrative policy by the Tenure and Resource Stewardship Branch (TRSB). The title number is associated with the Exploration Licence outlined in Section 126, Part 14.126 of the PNG Act.
 
 ### originType
 This field specifies the type of origin based on the PNG Act. Origin types can include the following: 1. Lease (Part 6); 2. Permit (Part 5); 3. Drilling Licence (Part 5.1), and 4. Storage Reservoir Licence (Part 14.130). Each title has only one origin type.
