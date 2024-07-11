@@ -145,7 +145,7 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 [Context file](v0.jsonld)
 
 ### 2.6.1.1 Issuers
-#### Tenure Branch
+#### Director of Petroleum Lands
 DID: `did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`
 [DID document](../../applications/tenure-branch/did.json)
 
