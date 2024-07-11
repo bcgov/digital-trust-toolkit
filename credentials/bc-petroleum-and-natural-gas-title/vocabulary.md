@@ -40,7 +40,7 @@ The person in whose name an exploration permit is recorded in the division recor
 Crude petroleum and all other hydrocarbons, regardless of gravity, that are or can be recovered in liquid form from a pool through a well by ordinary production methods or that are or can be recovered from oil sand or oil shale
 
 ### PetroleumWell
-A well in which casing is run and that, in the opinion of the regulator, is producing or is capable of producing from a petroleum bearing zone
+A well in which casing is run and that, in the opinion of the regulator, is producing or is capable of producing from a petroleum bearing zone.
 
 ### Well
 A hole in the ground
