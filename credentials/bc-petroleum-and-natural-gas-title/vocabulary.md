@@ -59,7 +59,7 @@ A Tract is an area of land within a title defined by locations sharing identical
 ## Properties
 
 ### interest
-an undivided interest in a location
+An undivided interest in a location.
 
 ### titleType
 This field specifies the type of title based on the PNG Act. Title types can include the following: 1. Lease (Part 6); 2. Permit (Part 5); 3. Drilling Licence (Part 5.1), and 4. Storage Reservoir Licence (Part 14.130). Each title has only one title type.
