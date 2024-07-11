@@ -6,7 +6,7 @@ _Some terms defined in this vocabulary are referencing definitions from [The Pet
 An officer or employee of the ministry who is designated as the Director of Petroleum Lands by the minister.
 
 ### LegalEntity
-An entity registered in orgbook.
+An entity registered in [OrgBook](https://orgbook.gov.bc.ca/search).
 
 ### Petroleum&NaturalGasTitle
 The majority of subsurface petroleum and natural gas (PNG) resources in British Columbia (B.C.) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements are the mechanism used by the Province to give rights to petroleum and natural gas resources through issuance of Petroleum and Natural Gas Titles.
