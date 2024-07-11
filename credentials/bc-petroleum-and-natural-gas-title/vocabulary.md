@@ -3,7 +3,7 @@ _Some terms defined in this vocabulary are referencing definitions from [The Pet
 ## Classes
 
 ### Director
-An officer or employee of the ministry who is designated as the Director of Petroleum Lands by the minister
+An officer or employee of the ministry who is designated as the Director of Petroleum Lands by the minister.
 
 ### LegalEntity
 An entity registered in orgbook.
