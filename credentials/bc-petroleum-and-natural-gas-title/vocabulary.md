@@ -24,7 +24,7 @@ A person in whose name a lease is recorded in the division records.
 A drilling licence or a licence under section 126 (3) or 130 (3) as defined in the PNG Act.
 
 ### Licensee
-A person in whose name a licence is recorded in the division records
+A person in whose name a licence is recorded in the division records.
 
 ### NaturalGas
 All fluid hydrocarbons, before and after processing, that are not defined as petroleum, and any of the following that is produced from a well:
