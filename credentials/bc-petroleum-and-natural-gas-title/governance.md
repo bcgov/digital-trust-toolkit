@@ -150,9 +150,9 @@ DID: `did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`
 [DID document](../../applications/tenure-branch/did.json)
 
 ### 2.6.1.1 Examples
-[Credential](examples/v0.jsonld)
-[VC-DI](examples/v0-embedded-proof.jsonld)
-[VC-JOSE](examples/v0-envelopped-proof.jsonld)
+[Credential](examples/draft-no-signature.jsonld)
+[VC-DI](examples/draft-embedded-signature.jsonld)
+[VC-JOSE](examples/draft-enveloped-signature.jsonld)
 
 ## 2.6.2 AnonCreds
 The Verifiable Credential format for this credential is [AnonCreds specification](https://hyperledger.github.io/anoncreds-spec/)
