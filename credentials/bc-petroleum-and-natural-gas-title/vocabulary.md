@@ -34,7 +34,7 @@ carbon dioxide; helium; hydrogen; hydrogen sulphide;
 A subsisting exploration permit issued under this Act
 
 ### Permitee
-The person in whose name an exploration permit is recorded in the division records
+The person in whose name an exploration permit is recorded in the division records.
 
 ### Petroleum
 Crude petroleum and all other hydrocarbons, regardless of gravity, that are or can be recovered in liquid form from a pool through a well by ordinary production methods or that are or can be recovered from oil sand or oil shale
