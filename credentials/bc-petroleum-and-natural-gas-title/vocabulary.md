@@ -54,7 +54,7 @@ A hole in the ground
 A stratum or strata designated by the regulator as a zone generally or for a designated area or a specific well, or a stratum or strata designated by the director for the purposes of the administration of petroleum and natural gas rights or storage and disposal rights.
 
 ### Tract
-A Tract is an area of land within a title defined by locations sharing identical rights. This attribute has all of the tract(s) information contained within a title. See Tracts Appendix below for a detailed description of the information included.
+A Tract is an area of land within a title defined by locations sharing identical rights. This attribute has all of the tract(s) information contained within a title. 
 
 ## Properties
 
