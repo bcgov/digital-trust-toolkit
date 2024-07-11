@@ -28,7 +28,7 @@ A person in whose name a licence is recorded in the division records.
 
 ### NaturalGas
 All fluid hydrocarbons, before and after processing, that are not defined as petroleum, and any of the following that is produced from a well:
-carbon dioxide; helium; hydrogen; hydrogen sulphide;
+carbon dioxide; helium; hydrogen; hydrogen sulphide.
 
 ### Permit
 A subsisting exploration permit issued under this Act
