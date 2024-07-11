@@ -18,7 +18,7 @@ The PNG Act describes a "holder of a location" as meaning "in accordance with th
 A subsisting lease issued under this Act
 
 ### Leasee
-A person in whose name a lease is recorded in the division records
+A person in whose name a lease is recorded in the division records.
 
 ### Licence
 A drilling licence or a licence under section 126 (3) or 130 (3)
