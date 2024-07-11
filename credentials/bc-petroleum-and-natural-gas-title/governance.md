@@ -142,7 +142,7 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 
 ### 2.6.1.1 Vocabulary
 [Vocabulary file](vocabulary.md)
-[Context file](v0.jsonld)
+[Context file](context.jsonld)
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
