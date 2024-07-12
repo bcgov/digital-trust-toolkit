@@ -141,18 +141,17 @@ The Anoncreds credential format enables the exchange of credential data between 
 The Verifiable Credential format for this credential is [W3C Verifiable Credential Data Model v2.0 specification](https://www.w3.org/TR/vc-data-model-2.0/)
 
 ### 2.6.1.1 Vocabulary
-[Vocabulary file](vocabulary.md)
-[Context file](context.jsonld)
+- [Vocabulary file](vocabulary.md)
+- [Context file](context.jsonld)
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
-DID: `did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`
-[DID document](../../applications/tenure-branch/did.json)
+- DID: [`did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`](../../applications/tenure-branch/did.json)
 
 ### 2.6.1.1 Examples
-[Credential](examples/draft-no-signature.jsonld)
-[VC-DI](examples/draft-embedded-signature.jsonld)
-[VC-JOSE](examples/draft-enveloped-signature.jsonld)
+- [No Signature](examples/draft-no-signature.jsonld)
+- [Embedded Signature](examples/draft-embedded-signature.jsonld)
+- [Enveloped Signature](examples/draft-enveloped-signature.jsonld)
 
 ## 2.6.2 AnonCreds
 The Verifiable Credential format for this credential is [AnonCreds specification](https://hyperledger.github.io/anoncreds-spec/)
