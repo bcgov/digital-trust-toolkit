@@ -46,7 +46,7 @@ The BC Wallet presents credentials using a common template that is tailored to t
 
 For more details on OCA bundle, see:
 - [Overlays Capture Architecture (OCA) For Aries](https://github.com/swcurran/aries-rfcs/tree/oca4aries/features/0755-oca-for-aries)
-- [OCA for Aries Style Guide](https://github.com/swcurran/aries-rfcs/tree/oca4aries/features/0756-oca-for-aries-style-guide)
+- [OCA for Aries Style Guide](https://github.com/swcurran/aries-rfcs/tree/main/features/0756-oca-for-aries-style-guide)
 - [Credential Designs design guide](https://xd.adobe.com/view/045a1969-719a-4aa5-848f-637ef1b7051a-5109/)
 - [BC Government OCA bundles](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust)
 
