@@ -13,10 +13,10 @@
     }
   ],
   "authentication": [
-    "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office#multikey"
+    "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office#verkey"
   ],
   "assertionMethod": [
-    "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office#multikey"
+    "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office#verkey"
   ],
   "service": [
     {
