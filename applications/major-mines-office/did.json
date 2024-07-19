@@ -1,6 +1,6 @@
 {
   "@context": [
-    "https://w3.org/ns/did/v1",
+    "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/multikey/v1"
   ],
   "id": "did:web:bcgov.github.io:bc-vcpedia:applications:major-mines-office",
