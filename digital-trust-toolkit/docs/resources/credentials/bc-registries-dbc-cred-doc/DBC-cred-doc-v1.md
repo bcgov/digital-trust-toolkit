@@ -1,9 +1,3 @@
----
-layout: default
-title: Digital Business Card Credential Documentation
-parent: Credentials
----
-
 # Digital Business Card Credential Documentation
 
 ## About this Credential
@@ -23,7 +17,7 @@ The Digital Business Card (DBC) credential is a verifiable credential (VC) issue
 
 The DBC credential is intended to be used in a wide range of contexts, both alone or in conjunction with other credentials, as a source of trusted information. 
 
-<table>
+<!-- <table>
   <tr>
     <th>Credential</th>
     <td>Digital Business Card</td>
@@ -93,7 +87,7 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
     <td>The DBC credential will only be issued to individuals who create and access the BC Registries system using the BC Services Card digital identity, which has been assessed and is accepted by the Government of Canada as a Trusted Digital Identity Level 3 for persons, and for whom BC Registries have established a relationship to the business in question.
     </td>
 </tr>
-</table>
+</table> -->
 
 
 ### Attribute Summary
@@ -196,7 +190,7 @@ The attributes of the DBC credential are organized by topic and described below.
 
 *Credential ID*
 
-<table>
+<!-- <table>
   <tr>
     <th>Attribute</th>
     <td><code>credential_id</code></td>
@@ -245,7 +239,7 @@ The attributes of the DBC credential are organized by topic and described below.
         </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 ### Attributes about the Individual
 
@@ -368,7 +362,7 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### Role
 
-<table>
+<!-- <table>
   <tr>
     <th>Attribute</th>
     <td>role</td>
@@ -419,7 +413,7 @@ Note that the Person credential gets the values for its name attribute values fr
     <th>Examples</th>
     <td><code>Partner<br>Proprietor<br>Incorporator, Proprietor</code></td>
   </tr>
-</table>
+</table> -->
 
 ### Attributes about the Business
 
@@ -480,7 +474,7 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### CRA Business Number
 
-<table>
+<!-- <table>
   <tr>
     <th>Attribute</th>
     <td><code>cra_business_number</code></td>
@@ -530,12 +524,12 @@ Note that the Person credential gets the values for its name attribute values fr
         <ul><li>XBRL schema: <code>identifierTaxCode</code></li></ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 #### Business Name
 
-<table>
+<!-- <table>
   <tr>
     <th>Attribute</th>
     <td><code>business_name</code></td>
@@ -574,7 +568,7 @@ Note that the Person credential gets the values for its name attribute values fr
         <ul><li>Open Ownership schema: <code>name</code></li></ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 #### Business Type
 
@@ -672,7 +666,7 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### Company Status
 
-<table>
+<!-- <table>
   <tr>
     <th>Attribute</th>
     <td><code>company_status</code></td>
@@ -716,4 +710,4 @@ Note that the Person credential gets the values for its name attribute values fr
         There are cases where a person may represent a “Historic” business (e.g., tax audits can occur several years after a business is dissolved), and so it is possible for an individual have a DBC credential for such a business
     </td>
   </tr>
-</table>
+</table> -->

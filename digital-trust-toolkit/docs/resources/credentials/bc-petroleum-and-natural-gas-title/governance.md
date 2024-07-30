@@ -1,10 +1,9 @@
 ---
-layout: default
 title: B.C. Petroleum & Natural Gas Title
-parent: Credentials
 ---
 
 # B.C. Petroleum & Natural Gas Title - DRAFT
+
 # 1. Primary Document
 
 ## 1.1 Introduction

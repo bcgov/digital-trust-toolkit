@@ -1,5 +1,6 @@
 # Vocabulary
 _Some terms defined in this vocabulary are referencing definitions from [The Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01#part1)._
+
 ## Classes
 
 ### Director

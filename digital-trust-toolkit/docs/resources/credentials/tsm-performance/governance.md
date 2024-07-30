@@ -1,7 +1,5 @@
 ---
-layout: default
 title: TSM Summary Report
-parent: Credentials
 ---
 
 # TSM Summary Report Governance Framework (Primary Document)
