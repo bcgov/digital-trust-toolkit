@@ -1,9 +1,3 @@
----
-layout: default
-title: UX Guide for Credentials
-parent: Guides
----
-
 # UX Guide for Credentials & Connections
 
 # Table of Contents
@@ -24,7 +18,7 @@ This guide is intended to ensure the credentials issued by the BC Government, or
 
 | Goals | Approach to Meeting Goals |
 | ----------- | ----------- |
-| 1. Encourage holders and issuers to value the credentials they are issued<br>2. Help holders to use their credentials and get support when needed<br>3. Help holders to interact with their contacts | 1. Consistency between credentials<br>2. Clear information in credentials and connections (aka, contacts)<br>3. Emphasizing the authority that issued a credential<br>4. Making it easy to connect with the service within an issuer that can provide information and assistance<br>5. Enable issuers to work with the credential template and understand how their credential will be presented in the BC Wallet app |
+| 1. Encourage holders and issuers to value the credentials they are issued<br></br>2. Help holders to use their credentials and get support when needed<br></br>3. Help holders to interact with their contacts | 1. Consistency between credentials<br></br>2. Clear information in credentials and connections (aka, contacts)<br></br>3. Emphasizing the authority that issued a credential<br></br>4. Making it easy to connect with the service within an issuer that can provide information and assistance<br></br>5. Enable issuers to work with the credential template and understand how their credential will be presented in the BC Wallet app |
 
 <a id="bcwallet"></a>
 # BC Wallet – Current and Future Implementations
@@ -38,11 +32,11 @@ The BC Wallet presents credentials using a common template that is tailored to t
 - The credential’s data
 - The OCA (Overlay Capture Architecture) bundle specified for the credential. The elements of the credential – e.g., its colour, logo, name, attribute names – are defined in various “overlays”. Guidance for the content of the OCA bundle for BC Government credentials are specified in this section.
 
-*Example Credential - Simple View* <br>
-<img src="example_credential-simple_view.png" width="200">
+*Example Credential - Simple View* <br></br>
+<img src="example_credential-simple_view.png" width="200"></img>
 
-*Credential - Detail View (top)* <br>
-<img src="credential-detail_view_(top).png" width="200">
+*Credential - Detail View (top)* <br></br>
+<img src="credential-detail_view_(top).png" width="200"></img>
 
 For more details on OCA bundle, see:
 - [Overlays Capture Architecture (OCA) For Aries](https://github.com/swcurran/aries-rfcs/tree/oca4aries/features/0755-oca-for-aries)
@@ -56,13 +50,13 @@ The Meta Overlay data in the OCA file describes the schema to the wallet, which 
 
 | Meta Overlay | Description | BC Wallet | Guidance |
 | ----------- | ----------- | ----------- | ----------- |
-| name | The name of the credential | Shown on card view | - MUST have a value<br> - The name of the credential<br> - Should be short – 1-3 words<br> - Should be the name of the Schema on the ledger<br> - Examples: Person, Digital Business Card |
-| description | A plain language definition of the credential | *Not used* | - MUST have a value <br> -- *Include in anticipation of when BC Wallet uses this attribute*<br> - A description of the credential<br> - Should be short – 10-20 words<br> - Should reflect the subject/topic of the credential, i.e., what the credential attributes describe |
-| issuer | The name of the organization that issues the credential | Shown on card view | - MUST have a value<br> - The name of the issuer of the credential<br> - Should be the legal name of the organization, not a department or branch within the organization<br> -- For credentials issued directly by the BC Government, this MUST be “Government of British Columbia”, unless a legislated role (or similar) is more appropriate<br> -- For credentials issued by crown corporations, this MUST be the name of corporation, e.g., for BC Hydro, this should be “British Columbia Hydro and Power Authority“ |
+| name | The name of the credential | Shown on card view | - MUST have a value<br></br> - The name of the credential<br></br> - Should be short – 1-3 words<br></br> - Should be the name of the Schema on the ledger<br></br> - Examples: Person, Digital Business Card |
+| description | A plain language definition of the credential | *Not used* | - MUST have a value <br></br> -- *Include in anticipation of when BC Wallet uses this attribute*<br></br> - A description of the credential<br></br> - Should be short – 10-20 words<br></br> - Should reflect the subject/topic of the credential, i.e., what the credential attributes describe |
+| issuer | The name of the organization that issues the credential | Shown on card view | - MUST have a value<br></br> - The name of the issuer of the credential<br></br> - Should be the legal name of the organization, not a department or branch within the organization<br></br> -- For credentials issued directly by the BC Government, this MUST be “Government of British Columbia”, unless a legislated role (or similar) is more appropriate<br></br> -- For credentials issued by crown corporations, this MUST be the name of corporation, e.g., for BC Hydro, this should be “British Columbia Hydro and Power Authority“ |
 | issuer_description | A description for the issuer of the credential | *Not used* | - *This should be left blank until how it is used by the BC Wallet is defined* |
 | issuer_url | A URL for the issuer of the credentialA URL for the issuer of the credential | *Not used* | - *This should be left blank until how it is used by the BC Wallet is defined* |
-| credential_help_text | Help text that is presented to the user of the BC Wallet in the context of the credential <br>If credential_support_url is defined, this text will be a hyperlink or button that a person can tap, resulting in the web page referenced by  credential_support_url being opened on the device browser | *Not used* | - *Include in anticipation of when BC Wallet users this attribute*<br> - Should be concise and specific to the credential<br> - If it will present as a hyperlink, this should be short – 3-5 words and indicate where the URL goes (e.g., “Digital Business Card help page”) |
-| credential_support_url | A link to a web page that has help information for users of the credential | *Not used* | - MUST have a value<br> -- *Include in anticipation of when BC Wallet users this attribute*<br> - URL for a service providing support in the use of the credential<br> - Should link to a support page maintained by the program area (possibly a division or branch within the issuing organization) responsible for the credential |
+| credential_help_text | Help text that is presented to the user of the BC Wallet in the context of the credential <br></br>If credential_support_url is defined, this text will be a hyperlink or button that a person can tap, resulting in the web page referenced by  credential_support_url being opened on the device browser | *Not used* | - *Include in anticipation of when BC Wallet users this attribute*<br></br> - Should be concise and specific to the credential<br></br> - If it will present as a hyperlink, this should be short – 3-5 words and indicate where the URL goes (e.g., “Digital Business Card help page”) |
+| credential_support_url | A link to a web page that has help information for users of the credential | *Not used* | - MUST have a value<br></br> -- *Include in anticipation of when BC Wallet users this attribute*<br></br> - URL for a service providing support in the use of the credential<br></br> - Should link to a support page maintained by the program area (possibly a division or branch within the issuing organization) responsible for the credential |
 
 ## Attributes – Labels & Information
 Two Overlays in the credential’s OCA bundle define affect how the credential’s attributes – the individual data elements defined in the credential’s schema – may be presented in BC Wallet: 
@@ -71,8 +65,8 @@ Two Overlays in the credential’s OCA bundle define affect how the credential�
 ### Attribute Labels
 Attribute labels appear in credential offers, proof requests, and in the credential details screen of BC Wallet. In the example below, “Given Names” is the label of the credential attribute “given_names”, which has the value “Jamie”.
 
-*Credential - Detail View (top)* <br>
-<img src="credential-detail_view_(top).png" width="200">
+*Credential - Detail View (top)* <br></br>
+<img src="credential-detail_view_(top).png" width="200"></img>
 
 Labels are defined in the Attribute Overlay and are identified in OCA documentation with OL-LA.Labels are defined in the Attribute Overlay and are identified in OCA documentation with OL-LA.
 
@@ -123,8 +117,8 @@ Issuers can add a watermark to their credentials. The intention of this watermar
     - A credential for demonstrative purposes = DEMO
 - Watermarks should be a single short word
 
-*Example non-production credential* <br>
-<img src="example_non-production_credential.png" width="200">
+*Example non-production credential* <br></br>
+<img src="example_non-production_credential.png" width="200"></img>
 
 ### Unit Overlay
 *BC Wallet does not currently make use of this overlay but may in the future.*
@@ -147,7 +141,7 @@ Additional information (e.g., image file types and sizes) are defined in the [OC
 
 | Element | Format | Description | Guidance |
 | ----------- | ----------- | ----------- | ----------- |
-| logo | URI | logo as displayed on the credential | - For credentials issued directly by the BC Government, this MUST be  the Government of BC mark (logo)<br> - Crown corps should use their own logo<br> - Private entities can use their own logo or that of the product/service associated with their credential |
+| logo | URI | logo as displayed on the credential | - For credentials issued directly by the BC Government, this MUST be  the Government of BC mark (logo)<br></br> - Crown corps should use their own logo<br></br> - Private entities can use their own logo or that of the product/service associated with their credential |
 | background_image | URI | image as displayed in the credentials details screen |  |
 | background_image_slice | URI | image as displayed on the left of the credential |  |
 | primary_background_color | RGB | Color as displayed on the credential card background. In a proof request, the color is used in lieu of the background_image_slice or secondary_background _color |  |
@@ -161,11 +155,11 @@ When a credential is issued an person’s wallet, a Connection is often created 
 - At the bottom of the Credential’s Details View as “Issued by:...”
 - In the Connections list of the BC Wallet, which is also where messages from the issuer are shown
 
-*Credential – Detail View (bottom)* <br>
-<img src="credential-detail_view_(bottom).png" width="200">
+*Credential – Detail View (bottom)* <br></br>
+<img src="credential-detail_view_(bottom).png" width="200"></img>
 
-*Message from Contact* <br>
-<img src="message_from_contact.png" width="200">
+*Message from Contact* <br></br>
+<img src="message_from_contact.png" width="200"></img>
 
 This information is provided by the Issuer when the connection is created, from the DIDComm connection alias (as defined in the their_label field).
 
