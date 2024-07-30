@@ -1,10 +1,9 @@
 ---
-layout: default
 title: BC Major Mines Office
-parent: Applications
 ---
 
 # B.C. Major Mines Office Governance Framework
+
 # 1. Primary Document
 
 ## 1.1 Introduction

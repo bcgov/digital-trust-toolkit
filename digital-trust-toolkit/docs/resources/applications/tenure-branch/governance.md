@@ -1,10 +1,8 @@
 ---
-layout: default
 title: Tenure and Resource Stewardship Branch Governance Framework
-parent: Applications
 ---
 
-## Tenure and Resource Stewardship Branch Governance Framework
+# Tenure and Resource Stewardship Branch Governance Framework
 
 # 1. Primary Document
 
