@@ -1,9 +1,3 @@
----
-layout: default
-title: BC Government Agency Service Provisional Governance Framework
-parent: Agents
----
-
 # BC Government Agency Service Provisional Governance Framework
 
 ## Authors
@@ -101,9 +95,10 @@ The following roles, solutions, and entities are out of scope from this governan
 
 The following chart is an overview of the member hierarchy for the Agency
 
-<p align="center">
-<img src='https://github.com/bcgov/bc-vcpedia/blob/wiki-assets/images/BC%20Enterprise%20Digital%20Trust%20Agency%20Member%20Hierarchy%20%20.png' height='700'>
-</p>
+<!-- FIXME: The image source returns a 404 -->
+<!-- <p style={{ align: 'center' }}>
+    <img src='https://github.com/bcgov/bc-vcpedia/blob/wiki-assets/images/BC%20Enterprise%20Digital%20Trust%20Agency%20Member%20Hierarchy%20%20.png' height='700'></img>
+</p> -->
 
 ### Acting Members
 
