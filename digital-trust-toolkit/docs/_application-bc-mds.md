@@ -1,10 +1,5 @@
----
-layout: default
-title: BC Mines Digital Services
-parent: Applications
----
-
 # BC Mines Digital Services Governance Framework - DRAFT
+
 # 1. Primary Document
 
 ## 1.1 Introduction
