@@ -154,7 +154,7 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 
 ## 2.9. Legal Agreements
 
-[Mines Act Permit Credential Terms of Use](./2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
+[Mines Act Permit Credential Terms of Use](../../credentials/bc-mines-act-permit/1.1.1/2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
 
 # End of Document
 
