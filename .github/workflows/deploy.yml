@@ -3,12 +3,15 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - feature/docusaurus
 
 jobs:
   build:
     name: Build Docusaurus
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./digital-trust-toolkit
     steps:
       - uses: actions/checkout@v4
         with:
@@ -17,6 +20,7 @@ jobs:
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: ./digital-trust-toolkit/package-lock.json
 
       - name: Install dependencies
         run: npm ci
@@ -26,7 +30,7 @@ jobs:
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: ./digital-trust-toolkit/build
 
   deploy:
     name: Deploy to GitHub Pages
@@ -43,6 +47,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./digital-trust-toolkit
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
