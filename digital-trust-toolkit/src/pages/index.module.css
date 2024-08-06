@@ -34,10 +34,6 @@
   padding: 1rem 12rem 0rem 12rem;
 }
 
-.textCenter {
-  text-align: center;
-}
-
 @media screen and (max-width: 996px) {
   .homeBanner {
     flex-direction: column;

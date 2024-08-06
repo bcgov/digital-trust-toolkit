@@ -39,8 +39,8 @@ export default function Home(): JSX.Element {
       title={`${siteConfig.title}`}
       description={`${siteConfig.title}`}>
       <HomepageHeader />
-      <main className={clsx(styles.homeMain, styles.textCenter)}>
-        <Heading as="h1">
+      <main className={clsx(styles.homeMain)}>
+        <Heading as="h1" className={clsx('text--center')}>
           Explore the {siteConfig.title}
         </Heading>
         <HomepageFeatures />

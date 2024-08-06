@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Digital Trust Toolkit',
   tagline: 'This toolkit will guide you on implementing secure and user-friendly digital and in-person interactions. Whether you are a service owner, developer or somewhere in between; use it to navigate your adoption journey with practical workshops, templates and guides.',
-  favicon: 'img/favicon.ico',
+  // favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://bcgov.github.io',

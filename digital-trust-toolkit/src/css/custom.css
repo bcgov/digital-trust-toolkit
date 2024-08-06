@@ -15,3 +15,12 @@
 .tertiary-background {
   background-color: #fbda80;
 }
+
+.unstyled-link {
+  text-decoration: none;
+  color: #22272B;
+}
+
+.unstyled-link:hover {
+  text-decoration: none;
+}
