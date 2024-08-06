@@ -3,21 +3,52 @@
  * and scoped locally.
  */
 
-.heroBanner {
-  padding: 4rem 0;
+.homeBanner {
+  color: #ffffff;
+  margin: 60px 0 0 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.homeBanner1 {
+  flex-grow: 1;
+  padding: 1rem 6rem;
+  width: 100%;
+}
+
+.homeBanner2 {
+  width: 40px;
+}
+
+.homeBanner3 {
+  width: 50%;
+}
+
+.homeMain {
+  padding: 2rem 0;
+  flex-grow: 1;
+}
+
+.homeFooter {
+  color: #ffffff;
+  padding: 1rem 12rem 0rem 12rem;
+}
+
+.textCenter {
   text-align: center;
-  position: relative;
-  overflow: hidden;
 }
 
 @media screen and (max-width: 996px) {
-  .heroBanner {
+  .homeBanner {
+    flex-direction: column;
+  }
+
+  .homeBanner1 {
+    padding: 2rem;
+  }
+
+  .homeFooter { 
     padding: 2rem;
   }
 }
 
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
