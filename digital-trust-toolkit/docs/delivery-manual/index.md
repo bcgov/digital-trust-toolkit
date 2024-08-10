@@ -1,5 +1,6 @@
 ---
-description: This is a description
+order: 3
+description: Find step-by-step guidance for successful digital trust adoption.
 ---
 
 # Delivery Manual
