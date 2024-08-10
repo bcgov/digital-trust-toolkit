@@ -66,6 +66,8 @@ Based on this structure, the following navbar and main page links will be genera
 
 To add another link to the navbar and main page, simply create a new folder in the `docs` directory with an index file. The new link will be automatically generated.
 
+_NOTE: If the links on the website do not update immediately, you can try stopping the development server then restarting it with `npm run start`. Alternatively, you can rebuild the documentation by running `npm run build`._
+
 #### Ordering
 
 You can customize the ordering of the links by adding an `order` property in the front matter of the index files:
