@@ -2,6 +2,10 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+import { generateMainLinks, MainLink } from './scripts/generate-links';
+
+const mainLinks = generateMainLinks();
+
 const config: Config = {
   title: 'Digital Trust Toolkit',
   tagline: 'This toolkit will guide you on implementing secure and user-friendly digital and in-person interactions. Whether you are a service owner, developer or somewhere in between; use it to navigate your adoption journey with practical workshops, templates and guides.',
@@ -62,12 +66,12 @@ const config: Config = {
     navbar: {
       title: 'DTT',
       items: [
-        {
+        ...mainLinks.map((link: MainLink) => ({
           type: 'docSidebar',
-          sidebarId: 'docsSidebar',
-          position: 'left',
-          label: 'Docs',
-        },
+          sidebarId: link.id,
+          label: link.label,
+          position: 'left' as const,
+        })),
         {
           href: 'https://github.com/bcgov/bc-vcpedia',
           label: 'About',

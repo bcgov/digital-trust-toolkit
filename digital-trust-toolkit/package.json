@@ -20,6 +20,9 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.4.0",
+    "front-matter": "^4.0.2",
+    "lodash.camelcase": "^4.3.0",
+    "lodash.startcase": "^4.4.0",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
