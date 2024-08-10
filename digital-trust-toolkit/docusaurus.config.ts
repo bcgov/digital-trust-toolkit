@@ -64,6 +64,7 @@ const config: Config = {
 
   themeConfig: {
     navbar: {
+      style: 'primary',
       title: 'DTT',
       items: [
         ...mainLinks.map((link: MainLink) => ({
