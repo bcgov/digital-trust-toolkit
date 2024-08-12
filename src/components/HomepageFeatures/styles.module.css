@@ -1,0 +1,18 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  flex-shrink: 1;
+}
+
+.feature {
+  padding: 1rem;
+  margin: 0.5rem 0.5rem;
+  border: 1px solid #eaeaea;
+}
+
+@media screen and (max-width: 996px) {
+  .feature {
+    margin: 1rem 0rem;
+  }
+}
