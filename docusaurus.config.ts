@@ -15,12 +15,12 @@ const config: Config = {
   url: 'https://bcgov.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/bc-vcpedia',
+  baseUrl: '/digital-trust-toolkit',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'bcgov', // Usually your GitHub org/user name.
-  projectName: 'bc-vcpedia', // Usually your repo name.
+  projectName: 'digital-trust-toolkit', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
