@@ -35,7 +35,7 @@ The BC Government offers a variety of solutions for accessing services online or
 **Consider Digital Trust If:**
 
 - **New or Existing Services:** Digital trust is valuable for both new and existing services, providing secure access and extending into other experiences like signing, issuing, and messaging through BC Wallet app.
-- **Leveraging Existing Credentials:** There are existing digital credentials that can be integrated into your service. If your service requires the issuance of a new credential, that is also possible (see the [Issue experience pattern](LINK)).
+- **Leveraging Existing Credentials:** There are existing digital credentials that can be integrated into your service. If your service requires the issuance of a new credential, that is also possible (see the Issue experience pattern.)
 - **Team and Buy-in:** Your organization has the appropriate team and buy-in to lead the adoption of digital trust, ideally agile teams with an appetite for experimentation and innovation.
 
 For a detailed comparison of B.C.'s identity solutions, visit the [Digital Trust website](https://digital.gov.bc.ca/digital-trust/online-identity)​​.
@@ -67,35 +67,35 @@ A practical implementation of Access using VC-AuthN is showcased in the justice 
 [Watch on YouTube](https://www.youtube.com/watch?v=QphQI_lDAwc&list=PLnjj0g-jwI8gmCuVx4rhF7PT397CJXL0p&index=5) 
 
 ## Get started
-Follow the [Service Delivery Manual **INTERNAL LINK**](..) for guidance on activities and workshops that help guide your team **Align**, **Discover**, **Trial** and **Scale**.
+<!-- Follow the [Service Delivery Manual **INTERNAL LINK**](..) for guidance on activities and workshops that help guide your team **Align**, **Discover**, **Trial** and **Scale**. -->
 
 ### 1. Align
 Assess the suitability of digital trust for your service by considering security requirements, user needs, and the potential benefits. Assemble an agile team ready to innovate and experiment.
 
-[Complete the Align phase ->**INTERNAL LINK**](..)
+<!-- [Complete the Align phase ->**INTERNAL LINK**](..) -->
 
 ### 2. Discover
 Research user needs and gather insights from stakeholders to understand how digital credentials can enhance user experience and address specific challenges.
 
-[Complete the Discover phase ->**INTERNAL LINK**](..)
+<!-- [Complete the Discover phase ->**INTERNAL LINK**](..) -->
 
-[Proof request design best practices ->**INTERNAL LINK**](..)
+<!-- [Proof request design best practices ->**INTERNAL LINK**](..) -->
 
 ### 3. Trial
 Implement and test the digital trust solution, conducting pilot trials to validate the approach and refine the implementation based on feedback.
 
-[Complete the Trial phase ->**INTERNAL LINK**](..)
+<!-- [Complete the Trial phase ->**INTERNAL LINK**](..) -->
 
-[How to implement ->**INTERNAL LINK**](..)
+<!-- [How to implement ->**INTERNAL LINK**](..) -->
 
 ### 4. Scale
 Launch the digital trust solution broadly, monitor its performance, and plan for scaling to cover additional services or a broader user base, ensuring continuous improvement.
 
-[Complete the Scale phase->**INTERNAL LINK**](..)
+<!-- [Complete the Scale phase->**INTERNAL LINK**](..) -->
 
 ## Resources
 - Play with the [BC Wallet showcase](https://digital.gov.bc.ca/digital-trust/showcase/) to explore how digital credential verification can work
-- [Becoming a Verifier->**INTERNAL LINK**](..)
-- [Read the implementation guide->**INTERNAL LINK**](..)
+<!-- - [Becoming a Verifier->**INTERNAL LINK**](..) -->
+<!-- - [Read the implementation guide->**INTERNAL LINK**](..) -->
 ## Contact
-For further assistance contact the [**INSERT EMAIL/FORM LINK HERE**]
+<!-- For further assistance contact the [**INSERT EMAIL/FORM LINK HERE**] -->
