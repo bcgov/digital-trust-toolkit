@@ -1,20 +1,9 @@
 ---
 hide_title: true
-sidebar_position: 1
+sidebar_position: 0.5
 sidebar_label: Home
 ---
 
-<!-- [![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>) -->
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](#)
+Digital trust has created extensive resources—including tools, guidelines, and templates—to facilitate the adoption process. Currently, these valuable resources remain internal, accessible only through direct engagement with our team. This approach promotes considerable one-on-one support, resulting in bottlenecks for scaling our digital trust initiatives.
 
-## Introduction
-
-Each verifiable credential issued by the BC Government requires governance documents. For guidance with writing governance documentation, use the tools available from [Trust-Over-IP](https://trustoverip.org/our-work/deliverables/) 
-The purpose of this repository is to serve as a registry of groups within the BC Government who are "issuers" of verifiable credentials. Creating an entry in this repository will be a requirement for requesting a digital wallet from the BC Government Digital Trust Services.
-
-## Requirements
-The [Wiki](https://github.com/bcgov/bc-vcpedia/wiki) contains detailed instructions on what to include and how to submit for review.
-
-## How to submit your governance documents
-
-email to [EMDT@gov.bc.ca](mailto:EMDT@gov.bc.ca)
+By making these resources publicly available, we aim to streamline the adoption process, empowering adopters to become more self-sufficient. While this move towards open access is designed to reduce the need for intensive support from our team, it does not eliminate our advisory support and facilitation when needed. This strategic shift is pivotal for sustainable scaling of digital trust ecosystems.
