@@ -129,37 +129,31 @@ Legislation and regulations govern the disposition, administration, and manageme
 
 ## 2.5. Business Requirements
 
-The primary use of the B.C. Mines Act Permit credential is for credential holders within B.C. to provide evidence of permit issuance from the province according to [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
+The primary use of the Contractor credential is for credential holders to provide evidence they are a verified contractor under a contract or agreement with an organization/group/company. 
 
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ bc-mines-act-permit
+__Schema Name:__ TBD
 
-__Schema Version:__ 1.1.1
+__Schema Version:__ TBD
 
 This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 | Name                             | Attribute                        | Format | Rules    | Notes                                                                                                                                                                                                                                                                                            |
 | -------------------------------- | -------------------------------- | ------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Permit Number                    | permit_no                        | String | not NULL | (3-digit) Alpha-numeric identifier: **M-##- or C-##-** Permit Numbers are assigned to a specific mining operation or activity that has been granted permission or authorization. [Mines Act Section 10 (1)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10). |
-| Permit Status                    | permit_status                    | String | not NULL | Defined as either "open" or "closed".                                                                                                                                                                                                                                                            |
-| Permittee                        | permittee_name                   | String | not NULL | Name of the mining company that holds the permit.                                                                                                                                                                                                                                                |
-| Mine Operation Status            | mine_operation_status            | String | not NULL | Layer one in the hierarchy of identifying mine status. Mines status can be (1) Abandoned (2) Closed (3) Not Started (4) Operating.                                                                                                                                                               |
-| Mine Operation Status Reason     | mine_operation_status_reason     | String | not NULL | Layer two in the hierarchy for identifying mine status. **Reasons for Closed Mines** (1) Closed for Care and Maintenance, (2) Closed for Reclamation and (3) Closed for Unknown. **Reasons for Operating** (1) Operating Seasonal, or (2) Operating Year Round                                   |
-| Mine Operation Status Sub Reason | mine_operation_status_sub_reason | String | not NULL | Layer three in the hierarchy for identifying mine status. Mine Operation **Reasons for "Closed for Reclamation"** (1) Long-Term Maintenance (2) Long-Term Maintenance and Water Treatment or (3) Permit Release Pending.                                                                         |
-| Mine Commodity                   | mine_commodity                   | String | not NULL | Lists the name(s) of the commodities being mined.                                                                                                                                                                                                                                                |
-| Mine Disturbance                 | mine_disturbance                 | String | not NULL | Specifies if mine is above ground (surface) or below ground (sub-surface).                                                                                                                                                                                                                       |
-| Mine Number                      | mine_no                          | String | not NULL | (7-digit) Unique identifier assigned to a specific mine or mining operation to differentiate and track individual mines within a jurisdiction.                                                                                                                                                   |
-| Permit Start Date                | issue_date                       | String | not NULL | (YYYY-MM-DD) The original issue date of the permit.                                                                                                                                                                                                                                              |
-| Latitude                         | latitude                         | String | not NULL | (00.0000000) The geographic coordinate representing the north-south position of a specific location related to the administrative building at the mining operation or mine site.                                                                                                                 |
-| Longitude                        | longitude                        | String | not NULL | (-000.0000000) The geographic coordinate that represents the east-west position of a specific location related to the administrative building at the mining operation or mine site.                                                                                                              |
-| Bond Total                       | bond_total                       | String | not NULL | (0.00) Lists the total bond value of the permit. A permittee is required to provide monetary security to cover reclamation costs, and to provide for the protection of, and mitigation of damage to, watercourses and cultural heritage resources affected by the mine.                          |
-| TSF Operating Count              | tsf_operating_count              | String | not NULL | Numerical value for the total number of tailing storage facilities that are in Operating status.                                                                                                                                                                                                 |
-| TSF Maintenance Count            | tsf_care_and_maintenance_count   | String | not NULL | Numerical value for the total number of tailing storage facilities that are in Care and Maintenance status.                                                                                                                                                                                      |
-
+| Surname                           | family_name                        | String  | optional | Legal family name or mononym(s) 
+| Given names                       | given_names                        | String  | optional | Legal first and middle name(s)
+| Company name                      | company_name                       | String  | optional | Name of the company or group that holds the contract
+| User ID                           | user_id                            | String  | optional | A unique user ID
+| Email                             | email                              | String  | optional | Email belonging to the holder
+| Ministry                          | ministry                           | String  | optional | Name of the ministry this contract is for
+| Contract number                   | contract_number                    | String  | optional | Contract number
+| Contract start Date               | contract_start                     | dateint | optional | The date when the contract starts
+| Contract end date                 | contract_end                       | dateint | optional | The date when the contract ends
+| Criminal record check expiry date | criminal_record_expiry             | dateint | optional | The date when the criminal record check expires
 
 ### 2.6.2. Credential Implementation
 
