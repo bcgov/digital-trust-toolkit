@@ -5,14 +5,14 @@ sidebar_position: 1
 ---
 Resources related to communicating about and presenting digital trust and digital credentials.
 
-**Key messages** (coming soon)
+**Key messages** (coming soon) <br>
 Core messaging for communicating digital trust and credentials. <br>
 <!--[Key Messages->**INTERNAL LINK**](..) -->
 
-**Overlay Capture Architecture (OCA) Explorer**
+**Overlay Capture Architecture (OCA) Explorer** <br>
 Examples of digital credentials' visual presentation in BC Wallet. <br>
 [OCA Explorer](https://bcgov.github.io/aries-oca-bundles/oca-explorer/)
 
-**Credential UX guide**
+**Credential UX guide** <br>
 Guidelines for designing user-friendly content for digital trust and credential use cases. <br>
 <!--[Credential UX Guide->**INTERNAL LINK**](..) -->
