@@ -1,3 +1,7 @@
+---
+title: BC Mines Act Permit
+---
+
 # B.C. Mines Act Permit Credential
 
 # 1. Primary Document

@@ -3,9 +3,9 @@
     "https://www.w3.org/ns/credentials/v2",
     "https://www.w3.org/ns/credentials/examples/v2",
     "https://untp.traceability.site/core/dcc/context.jsonld",
-    "https://bcgov.github.io/bc-vcpedia/credentials/bc-petroleum-and-natural-gas-title/context.jsonld"
+    "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/context.jsonld"
   ],
-  "id": "https://bcgov.github.io/bc-vcpedia/credentials/bc-petroleum-and-natural-gas-title/examples/draft-no-signature.jsonld",
+  "id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/examples/draft-no-signature.jsonld",
   "type": [
     "ExampleCredential",
     "VerifiableCredential",
@@ -44,7 +44,7 @@
           "ConformityAssessmentScheme"
         ],
         "name": "B.C. Petroleum & Natural Gas Title - DRAFT",
-        "url": "https://bcgov.github.io/bc-vcpedia/credentials/bc-petroleum-and-natural-gas-title/governance.html"
+        "url": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/governance.html"
       },
       "assessments": [
         {
