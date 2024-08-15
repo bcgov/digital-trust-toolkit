@@ -3,11 +3,11 @@
     "@protected": true,
 
 
-    "png-vocab": "https://bcgov.github.io/bc-vcpedia/credentials/bc-petroleum-and-natural-gas-title/vocabulary#",
+    "png-vocab": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#",
 
     "url": "https://schema.org/url",
       
-    "BCPetroleum&NaturalGasTitleCredential": "https://bcgov.github.io/bc-vcpedia/credentials/bc-petroleum-and-natural-gas-title/governance",
+    "BCPetroleum&NaturalGasTitleCredential": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/governance",
     "Director": "png-vocab:director",
     "Law": "https://www.bclaws.gov.bc.ca/",
 
