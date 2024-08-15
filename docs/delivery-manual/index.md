@@ -14,6 +14,7 @@ The Delivery Manual, designed to facilitate digital trust adoption, includes tar
 Structured around four main phases—**Align**, **Discover**, **Trial**, and **Scale**—the Delivery Manual allows for iterative learning and continuous improvement, helping adopters navigate the complexities of digital trust adoption incrementally.
 
 ![The image outlines the four phases of the digital trust adoption process—Align, Discover, Trial  and Scale—illustrating a non-linear approach for iterative learning and continuous improvement.](/img/deliverymanual/Digital_Trust_Adoption_Phases.png)
+
 1. **Align Phase**: Establish shared goals, connect with stakeholders and identify potential opportunities for the project.
 	<!-- [Align Phase ->**INTERNAL LINK**](..) -->
 2. **Discover Phase**: Conduct research, understand needs and create a plan for successful implementation.
