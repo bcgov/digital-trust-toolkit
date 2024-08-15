@@ -1,7 +1,9 @@
 ﻿---
 title: Guide to becoming a verifier
-sidebar_position: 2
+sidebar_position: 4
 ---
+
+<!-- How to ensure this appears under 'Technology'? -->
 
 Becoming a verifier is an integral aspect of digital trust ecosystems, enabling services to leverage digital credentials issued by trusted entities and held by individuals or organizations. By implementing verification capabilities, services can enhance security, streamline processes and improve user experiences while maintaining privacy and control for credential holders. The following steps provide a guide to becoming a verifier, but remember that this is not a one-size-fits-all approach. You may need to adapt these steps to your specific needs and the process is often iterative rather than strictly linear.
 
