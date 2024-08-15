@@ -20,7 +20,7 @@ Core Activities are key tasks to complete during the Align phase, either indepen
 
 ### Ideation Workshop
 ==Activity==
-Creating a flowchart to detail the interactions and steps involving each actor in the use case.
+An initial workshop focused on brainstorming potential use cases for digital credentials.
 🕛  60+ minutes 
 🙌 Project team 
 🔨 Miro 
@@ -42,13 +42,13 @@ An evaluation to determine the necessary skills and resources for the use case.
 🔨 Miro 
 💻 Skills and Resource Assessment →  
 
-### Skills and Resource Assessment
+### Readiness checklist
 ==Document==
 A tool designed to assess the adopter’s readiness to progress to the next phase.
 🕛  45+ minutes 
 🙌 Project team leads
 🔨 Miro 
- 💻 Skills and Resource Assessment → 
+ 💻 Readiness checklist → 
 
 ## Considerations
 
