@@ -139,9 +139,9 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 | Email                             | email                              | String  | optional | Email address belonging to the contractor
 | Organization                      | organization                       | String  | optional | Abbreviation or name of the organization this contract is for
 | Contract Number                   | contract_number                    | String  | optional | Contract number the contractor is associated to
-| Contract Start Date               | contract_start_dateint             | dateint | optional | (YYYY-MM-DD) The date when the contract starts, if different dates for each contractor on the contract, use the contractor-specific start date
-| Contract End Date                 | contract_end_dateint               | dateint | optional | (YYYY-MM-DD) The date when the contract ends, if different dates for each contractor on the contract, use the contractor-specific start date
-| Criminal Record Check Expiry Date | criminal_record_expiry_dateint     | dateint | optional | (YYYY-MM-DD) The date when the criminal record check expires for the contractor
+| Contract Start Date               | contract_start_dateint             | dateint | optional | (YYYYMMDD) The date when the contract starts, if different dates for each contractor on the contract, use the contractor-specific start date
+| Contract End Date                 | contract_end_dateint               | dateint | optional | (YYYYMMDD) The date when the contract ends, if different dates for each contractor on the contract, use the contractor-specific start date
+| Criminal Record Check Expiry Date | criminal_record_expiry_dateint     | dateint | optional | (YYYYMMDD) The date when the criminal record check expires for the contractor
 
 ### 2.6.2. Credential Implementation
 
