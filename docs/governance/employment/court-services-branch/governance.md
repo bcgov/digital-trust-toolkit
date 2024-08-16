@@ -138,7 +138,7 @@ Further information on Court Services Branch operations is available at: [Courth
 1.	The Contractor MUST indicate to Share the details for the proof to be successful.
 1.	Traction MUST check the proof is valid.
 1.	Traction MUST send a problem report to ACM if the proof is invalid.
-1.	Traction MUST semd a success notification to ACM if the proof is valid.
+1.	Traction MUST send a success notification to ACM if the proof is valid.
 2.	If the proof is valid, A2A will allow the Contractor to access the A2A application.
    
 ## 2.6. Technical Requirements
