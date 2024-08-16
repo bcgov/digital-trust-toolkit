@@ -7,25 +7,22 @@ title: Contractor Credential
 # 1. Primary Document
 
 ## 1.1 Introduction
+This document outlines the governance framework for the Contractor Credential, a digital credential designed to represent an active contract between a contractor and a specific organization. The Contractor Credential intends to provide a standardized, secure, and verifiable means of identifying and recognizing contractors who have a current contractual relationship with the organization. The structure of the credential is designed to encapsulate essential information, such as the contractor's identity, the contracting organization, and the contract's status, ensuring clarity and consistency in its representation across systems and processes.
 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) – from early exploration to development, production, reclamation, closure, and post-closure. A permit must be in place before any work in, on, or about a mine can occur. A B.C. Mines Act Permit credential issued according to this Governance Framework (GF) provides evidence the credential holder has been issued a B.C. Mines Act Permit. 
-
-Further information can be found online: 
- - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
- - [B.C. Mine Permitting](https://www2.gov.bc.ca/gov/content/industry/mineral-exploration-mining/permitting)
+The Contractor Credential is designed to be issued by the Information Technology (IT) or Human Resources (HR) department during the contractor’s onboarding process. This credential serves as a versatile and standardized proof of the contractor’s status, allowing issuers and verifiers the flexibility to utilize it according to their specific needs.
 
 ***Acknowledgements***:
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
 ***No Warranty***:
-The Mines Act Permit Credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the Mines Act Permit Credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
- - (a). the Mines Act Permit Credential will be available;
- - (b) your use of the Mines Act Permit Credential will be timely, uninterrupted or error-free;
- - (c) any errors in the Mines Act Permit Credential will be corrected; or
- - (d) the Mines Act Permit Credential will meet your expectations and requirements.
+The Contractor Credential is provided “as is”, and the Province of British Columbia (the "Province") disclaims all representations, warranties, conditions, obligations, and liabilities of any kind, whether express or implied, in relation to the Contractor Credential, including without limitation implied warranties with respect to merchantability, satisfactory quality, fitness for a particular purpose and non-infringement. Without limiting the general nature of the previous sentence, the Province does not represent or warrant that:
+ - (a) the Contractor Credential will be available;
+ - (b) your use of the Contractor Credential will be timely, uninterrupted or error-free;
+ - (c) any errors in the Contractor Credential will be corrected; or
+ - (d) the Contractor Credential will meet your expectations and requirements.
 
- ***Limitation of Liability***:
- To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the Mines Act Permit Credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the Mines Act Permit Credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
+***Limitation of Liability***:
+To the maximum extent permitted by applicable law, under no circumstances will the Province be liable to you, to any other individual or to any entity for any direct, indirect, special, incidental, consequential or other loss, claim, injury or damage, whether foreseeable or unforeseeable (including without limitation claims for damages for loss of profits or business opportunities, use or misuse of, or inability to use, the Contractor Credential, interruptions, deletion or corruption of files, loss of programs or information, errors, defects or delays) arising out of or in any way connected with your use of the Contractor Credential and whether based on contract, tort, strict liability or any other legal theory. The previous sentence will apply even if the Province has been specifically advised of the possibility of any such loss, claim, injury or damage.
 
 ## 1.2. Terminology and Notation
 
@@ -53,65 +50,56 @@ The standard language for this governing framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-The Chief Permitting Officer (CPO) is the governing authority responsible for this GF as defined in section 8.2 of [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section8.2). The CPO may delegate in writing to an inspector any of the powers conferred on the CPO under [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+The Cybersecurity and Digital Trust (CDT) branch serves as the governing authority for this governance framework. Each issuer and verifier of the credential is responsible for defining the specific procedures for its issuance and verification.
 
 The contact information for the CPO is: 
-* 	**Name:** Lowell Constable
-* 	**Title:** Executive Director and Deputy Chief Inspector
-* 	**Organization:** Major Mines Office
-* 	**Email:** Lowell.Constable@gov.bc.ca
+* 	**Name:** Jillian Carruthers
+* 	**Title:** Sr. Executive Director
+* 	**Organization:** Cybersecurity and Digital Trust
+* 	**Email:** jillian.carruthers@gov.bc.ca
 
 ## 1.5. Administering Authority
 
-The Mines Digital Services (MDS) team is the administering authority responsible for this GF. MDS has replaced the legacy Mine Management System (MMS) with a suite of scalable, open-source, and data-driven technologies to support mine oversight in B.C.
+The Cybersecurity and Digital Trust (CDT) branch is the administering authority responsible for this GF.
 
-The contact information for MDS is: 
-* 	**Name:** Rebecca Stevenson
-* 	**Title:** Project Owner
-* 	**Organization:** Mines Digital Services
-* 	**Email:** rebecca.stevenson@gov.bc.ca
+The contact information for CDT is: 
+* 	**Name:** Jillian Carruthers
+* 	**Title:** Sr. Executive Director
+* 	**Organization:** Cybersecurity and Digital Trust
+* 	**Email:** jillian.carruthers@gov.bc.ca
 
 ## 1.6 Purpose 
 
-The purpose of this GF is to define what the B.C. Mines Act Permit credential is and who is responsible for the authority and administration of its use.
+The purpose of this GF is to define what the Contractor credential is and who is responsible for the authority and administration of its use.
 
 ## 1.7 Scope
 
-A B.C. Mines Act Permit credential issued according to this GF, provides evidence of permit issuance and summary permit information. The initial scope of the B.C. Mines Act Permit credential is limited to operating permits of major mines in B.C. 
+A Contractor credential issued according to this GF, provides evidence of an active contract between a contractor and a specific organization.
 
 ## 1.8 Objectives 
 
-To allow the credential holder evidence they have been issued a B.C. Mines Act permit in a verifiable credential format that is both secure and tamperproof. 
+To allow the credential holder evidence they have an active contract in a verifiable credential format that is both secure and tamperproof. 
 
 ## 1.9 Principles 
 
 [The B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-
-Mining activities in British Columbia are subject to a variety of different provincial and federal enactments. Mining permits MUST be issued by the ministry responsible for mining activities through the authority of the Chief Permitting Officer (CPO) under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
+N/A
 
 ## 1.11. Revisions
-
 Version 1.0. 
 
 ## 1.12. Extensions
-
 There are no extensions to this GF.  
 
 ## 1.13. Schedule of Controlled Documents
-
 N/A
 
 # 2. Controlled Documents
 
 ## 2.1. Glossary
 [ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
-
-[B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-*  **Credential Holders**: The holder of a credential issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-*  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
-* 	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
 
 ## 2.2. Risk Assessment
 In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
@@ -121,11 +109,11 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 
 ## 2.4. Governance Requirements
 
-Legislation and regulations govern the disposition, administration, and management of mines in B.C. 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
+The requirements for the Contractor credential are based on the standards and practices used for contractors that hold contracts with the Provincial Government of BC. References include the following:
 
-- **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
+* [BC Procurement Resources (gov.bc.ca)](https://www2.gov.bc.ca/gov/content/bc-procurement-resources)
+* [Procurement Services Act (gov.bc.ca)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03022_01)
+* [CPPM Policy Chapter 6: Procurement (gov.bc.ca)](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/procurement)
 
 ## 2.5. Business Requirements
 
@@ -136,42 +124,42 @@ The format for this credential is [AnonCreds specification](https://wiki.hyperle
 
 ## 2.6.1 Schema Definition
 
-__Schema Name:__ TBD
+__Schema Name:__ contractor-credential
 
-__Schema Version:__ TBD
+__Schema Version:__ 1.0
 
 This schema definition follows [the AnonCreds specification](https://wiki.hyperledger.org/display/anoncreds).
 
 | Name                             | Attribute                        | Format | Rules    | Notes                                                                                                                                                                                                                                                                                            |
 | -------------------------------- | -------------------------------- | ------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Surname                           | family_name                        | String  | optional | Legal family name or mononym(s) 
-| Given names                       | given_names                        | String  | optional | Legal first and middle name(s)
-| Company name                      | company_name                       | String  | optional | Name of the company or group that holds the contract
-| User ID                           | user_id                            | String  | optional | A unique user ID
-| Email                             | email                              | String  | optional | Email belonging to the holder
-| Ministry                          | ministry                           | String  | optional | Name of the ministry this contract is for
-| Contract number                   | contract_number                    | String  | optional | Contract number
-| Contract start Date               | contract_start                     | dateint | optional | The date when the contract starts
-| Contract end date                 | contract_end                       | dateint | optional | The date when the contract ends
-| Criminal record check expiry date | criminal_record_expiry             | dateint | optional | The date when the criminal record check expires
+| Family Name                       | family_name                        | String  | optional | Legal family name or mononym(s) of the contractor
+| Given Names                       | given_names                        | String  | optional | Legal first and middle name(s) of the contractor
+| Company Name                      | company_name                       | String  | optional | Name of the contracting company that holds the contract
+| User ID                           | user_id                            | String  | optional | A unique user ID for the contractor
+| Email                             | email                              | String  | optional | Email address belonging to the contractor
+| Organization                      | organization                       | String  | optional | Abbreviation or name of the organization this contract is for
+| Contract Number                   | contract_number                    | String  | optional | Contract number the contractor is associated to
+| Contract Start Date               | contract_start_dateint             | dateint | optional | (YYYY-MM-DD) The date when the contract starts, if different dates for each contractor on the contract, use the contractor-specific start date
+| Contract End Date                 | contract_end_dateint               | dateint | optional | (YYYY-MM-DD) The date when the contract ends, if different dates for each contractor on the contract, use the contractor-specific start date
+| Criminal Record Check Expiry Date | criminal_record_expiry_dateint     | dateint | optional | (YYYY-MM-DD) The date when the criminal record check expires for the contractor
 
 ### 2.6.2. Credential Implementation
 
 | Ledger                                                                                                                                                                       | CRED_DEF_ID                                       | Notes                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ |
-| [CANdy-Prod](https://candyscan.idlab.org/txs/CANDY_PROD/domain?page=1&pageSize=50&filterTxNames=[]&sortFromRecent=true&search=A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok) | A2UZSmrL9N5FDZGPu68wy:3:CL:361:mds-prod-revok     | Production - November 16, 2023 |
-| [BCovrin Test](http://test.bcovrin.vonx.io/)                                                                                                                                 | SG22gyoUVsC7TiC9m68ytU:3:CL:171126:mds-test-revok | Test - November 16, 2023       |
+| CANdy-Prod TODO | TODO     | Production - TBD |
+| BCovrin Test TODO                                                                                                                              | TODO | Test - TBD      |
 
 
 ### 2.6.3 Schema Implementation
 
 | Ledger                                                             | SCHEMA_ID                                          | Notes                          |
 | ------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------ |
-| [CANdy-Prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/361) | A2UZSmrL9N5FDZGPu68wy:2:bc-mines-act-permit:1.1.1  | Production - November 16, 2023 |
-| [BCovrin Test](http://test.bcovrin.vonx.io/)                       | S7S2wzcF2giKuwxdeLBk69:2:bc-mines-act-permit:1.1.1 | Test - November 16, 2023       |
+| CANdy-Prod TODO | TODO  | Production - TBD |
+| BCovrin Test TODO                     | TODO | Test - TBD      |
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
-[B.C. Mines Act Permit Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/mines-act-permit)
+TODO
 
 ## 2.7. Information Trust Requirements
 Not applicable.
@@ -185,7 +173,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-[Mines Act Permit Credential Terms of Use](./2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
+N/A
 
 # End of Document
 
