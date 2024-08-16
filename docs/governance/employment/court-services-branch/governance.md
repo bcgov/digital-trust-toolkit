@@ -112,15 +112,28 @@ The operations and processes of the Court Services Branch are governed by [the M
 
 ## 2.5.1. Establishment of Connection
 
-1. The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the Chief Permitting Officer of Mines for the B.C. government.
-2. After selecting the specific mine from the MineSpace home screen, The Mine Manager MUST request a single-use invitation link for the required mining company (based on the mine site selected). 
-3. MineSpace MUST present the connection invitation link (URL) to the Mine Manager.
-4. The Mine Manager MUST use the connection invitation link provided by MineSpace within their organizational wallet to establish a secure connection.
+1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the connect button for connecting to the contractor's BC Wallet.
+1. TODO The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the Chief Permitting Officer of Mines for the B.C. government.
+1. TODO After selecting the specific mine from the MineSpace home screen, The Mine Manager MUST request a single-use invitation link for the required mining company (based on the mine site selected). 
+1. TODO MineSpace MUST present the connection invitation link (URL) to the Mine Manager.
+1. TODO The Mine Manager MUST use the connection invitation link provided by MineSpace within their organizational wallet to establish a secure connection.
+1. Perform the App Attestation check to ensure this connection is with the "BC Wallet App". If the check fails, the connection is deleted.
 
-## 2.5.2. Major Mines Operating Permit Issuance
+## 2.5.2. CSB Contractor Credential Issuance
+
+1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the request button for issuing the credential.
+1. The Mine Manager MUST indicate to issue the credential to the user.
+1.	Traction SHALL offer the credential to the Company’s organizational wallet.
+1.	The organizational wallet MUST display offer details to the Mine Manager. 
+1.	The Mine Manager MUST review the credential offer.
+1.	The Mine Manager MUST either Accept/Decline the offer. 
+1.	Traction MUST receive a problem report if the credential is declined.
+1.	Traction MUST notify Core if the offer is declined.
+
+## 2.5.3. Access to Audio (A2A) Verification
 
 1.	The Mine Manager MUST look up the authorizations and permits for the selected mine within MineSpace to display the request button for an operating permit.
-1.  The Mine Manager MUST select the permit that is desired as a credential.
+1. The Mine Manager MUST select the permit that is desired as a credential.
 1.	Traction SHALL offer the credential to the Company’s organizational wallet.
 1.	The organizational wallet MUST display offer details to the Mine Manager. 
 1.	The Mine Manager MUST review the credential offer.
