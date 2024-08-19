@@ -110,7 +110,6 @@ Further information on Court Services Branch operations is available at: [Courth
 ## 2.5. Business Requirements
 
 ## 2.5.1. Establishment of Connection
-
 1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify identity of the Contractor and their association to the contract.
 1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the connect button for connecting to the Contractor's BC Wallet.
 1. The CSB Administrator WILL present the screen with the QR code (if online, via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
@@ -118,7 +117,6 @@ Further information on Court Services Branch operations is available at: [Courth
 1. A2A WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the A2A application.
 
 ## 2.5.2. CSB Contractor Credential Issuance
-
 1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the issue button for issuing the [Contractor Credential](../contractor-credential/governance.md).
 1. The CSB Administrator MUST indicate to issue the credential to the user.
 1.	Traction SHALL offer the credential to the Contractor’s BC Wallet App.
@@ -129,14 +127,20 @@ Further information on Court Services Branch operations is available at: [Courth
 1.	Traction MUST notify A2A if the offer is accepted or declined.
 
 ## 2.5.3. Access to Audio (A2A) Verification
-
 1.	The Contractor WILL launch the A2A website with the specified URL.
 1. The A2A website WILL use the VC-Authn service to display a QR code with the proof request to check the Contractor is valid (see section 2.6 for details).
 1.	The Contractor MUST review the proof details in the BC Wallet App.
 1.	The Contractor MUST indicate to Share the details for the proof to be successful.
 1.	VC-Authn MUST check the proof. If it is invalid, return an error to the Contractor.
 1.	If the proof is valid, VC-Authn will allow the Contractor to access the A2A application.
-   
+
+## 2.5.3. Contractor Remove Connection and Revoke Credentials
+If the Contractor wishes to use a different device than originally connected, the CSB Administrator will need to re-connect to re-issue the Contractor Credential.
+1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the remove button for removing the connection and revoke the Contractor Credential.
+2. The CSB Administrator MUST indicate to remove and revoke.
+3. Traction MUST revoke all credentials known to be issued by A2A to the connection.
+4. Traction MUST remove the connection information associated to the user in the CSB Tenant.
+
 ## 2.6. Technical Requirements
 The Court Services Branch uses a Hyperledger Aries-compatible business wallet, therefore Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App.
 
