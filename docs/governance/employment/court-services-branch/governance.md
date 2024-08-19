@@ -36,8 +36,7 @@ Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.gi
 
 ## 1.3. Localization
 
-The standard language for this governing framework (GF) is English.
-<!-- governing framework or Governance Framework? Same abbreviation used in 1.4-->
+The standard language for this Governance Framework (GF) is English.
 
 ## 1.4 Governing Authority
 
@@ -176,8 +175,7 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-<!-- information below is not relevant-->
-[Mines Act Permit Credential Terms of Use](../../credentials/bc-mines-act-permit/1.1.1/2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
+N/A
 
 # End of Document
 
