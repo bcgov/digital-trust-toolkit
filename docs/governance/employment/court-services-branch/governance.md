@@ -75,10 +75,7 @@ The Court Services Branch (CSB) is a participant in an open ecosystem and the fo
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-<!--Information below does not apply-->
-Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00).
-- **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
-- **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
+N/A
 
 ## 1.11. Revisions
 
@@ -115,15 +112,15 @@ Further information on Court Services Branch operations is available at: [Courth
 
 ## 2.5.1. Establishment of Connection
 
-1. The CSB Administrator MUST conduct an online meeting with the Contractor to establish identity.
-1. After establishing trust that the Contractor is the correct person associated to the contract, the CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the connect button for connecting to the Contractor's BC Wallet.
-1. The CSB Administrator WILL present the screen with the QR code (via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
+1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify identity of the Contractor and their association to the contract.
+1. The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the connect button for connecting to the Contractor's BC Wallet.
+1. The CSB Administrator WILL present the screen with the QR code (if online, via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
 1. The Contractor MUST accept the connection request in the BC Wallet App. (If successful, the CSB Administrator can stop screen sharing at this point.)
-1. ACM will use the Traction tenant to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the ACM application.
+1. ACM will use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the ACM application.
 
 ## 2.5.2. CSB Contractor Credential Issuance
 
-1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the issue button for issuing the Contractor Credential (TODO add link to GF).
+1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the issue button for issuing the [Contractor Credential](../contractor-credential/governance.md).
 1. The CSB Administrator MUST indicate to issue the credential to the user.
 1.	Traction SHALL offer the credential to the Contractor’s BC Wallet App.
 1.	BC Wallet MUST display offer details to the Contractor. 
@@ -148,10 +145,23 @@ The Court Services Branch uses a Hyperledger Aries-compatible business wallet, t
 - [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
-The proof request that uses the Contractor Credential (TODO add link) to allow Contractors to access the A2A application is defined as:
+The proof request that uses the Contractor Credential [Contractor Credential](../contractor-credential/governance.md) to allow access the A2A application is defined as:
 1. Attributes requested: Contractor Credential: user_id, Contractor Credential: contract_number
 1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
-1. Restrictions: Contractor Credential: Issuer is CSB (use production CSB cred_def listed above)
+1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
+  
+## 2.6.1 Contractor Credential Issuance Details
+The Contractor Credential [Contractor Credential](../contractor-credential/governance.md) issued to contractors from ACM is mapped as:
+1. ACM Last Name = family_name
+2. ACM First Name + ACM Initials = given_names
+3. ACM Group = company_name
+4. ACM User Id = user_id
+5. ACM Email = email
+6. "Court Services Branch" = organization
+7. ACM Contract Number = contract_number
+8. ACM Contract Start Date = contract_start_dateint
+9. ACM Contract End Date = contract_end_dateint
+10. ACM Criminal Record Check Expiry Date = criminal_record_expiry_dateint
 
 ## 2.7. Information Trust Requirements
 
