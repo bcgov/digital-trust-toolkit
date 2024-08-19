@@ -144,19 +144,14 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 | Criminal Record Check Expiry Date | criminal_record_expiry_dateint     | dateint | optional | (YYYYMMDD) The date when the criminal record check expires for the contractor
 
 ### 2.6.2. Credential Implementation
-
-| Ledger                                                                                                                                                                       | CRED_DEF_ID                                       | Notes                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ |
-| CANdy-Prod TODO | TODO     | Production - TBD |
-| CANdy Test TODO                                                                                                                              | TODO | Test - TBD      |
-
+N/A - Each issuer will define their own implementation details
 
 ### 2.6.3 Schema Implementation
 
-| Ledger                                                             | SCHEMA_ID                                          | Notes                          |
-| ------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------ |
-| CANdy-Prod TODO | TODO  | Production - TBD |
-| CANdy Test TODO                     | TODO | Test - TBD      |
+|Environment|Ledger|Public DID|
+|---|---|---|
+|Production|[CANdy-prod](https://candyscan.idlab.org/home/CANDY_PROD)|TODO|
+|Test|[CANdy-test](https://candyscan.idlab.org/home/CANDY_TEST)|TODO|
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
 TODO
