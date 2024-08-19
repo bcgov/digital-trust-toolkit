@@ -148,7 +148,7 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 | Ledger                                                                                                                                                                       | CRED_DEF_ID                                       | Notes                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------- | ------------------------------ |
 | CANdy-Prod TODO | TODO     | Production - TBD |
-| BCovrin Test TODO                                                                                                                              | TODO | Test - TBD      |
+| CANdy Test TODO                                                                                                                              | TODO | Test - TBD      |
 
 
 ### 2.6.3 Schema Implementation
@@ -156,7 +156,7 @@ This schema definition follows [the AnonCreds specification](https://wiki.hyperl
 | Ledger                                                             | SCHEMA_ID                                          | Notes                          |
 | ------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------ |
 | CANdy-Prod TODO | TODO  | Production - TBD |
-| BCovrin Test TODO                     | TODO | Test - TBD      |
+| CANdy Test TODO                     | TODO | Test - TBD      |
 
 ### 2.6.4 Overlays Capture Architecture (OCA) Bundle
 TODO
