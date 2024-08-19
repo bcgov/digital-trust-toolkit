@@ -61,7 +61,7 @@ Governance frameworks provide the rules and standards for digital credential eco
 -   Consider how governance requirements might impact your verification process    
 
 **Resources:**
--   [BC Gov's VCpedia ==**ADD INTERNAL LINK**==](..): A comprehensive resource for verifiable credentials governance documentation.    
+<!-- -   [BC Gov's VCpedia ==**ADD INTERNAL LINK**==](..): A comprehensive resource for verifiable credentials governance documentation.     -->
 -   [UX and Governance Workshop:](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668) a session to contextualize how your current governance fits in adopting digital trust.    
 -   [Pan-Canadian Intergovernmental Collaboration on Digital Trust](https://iccs-isac.github.io/Gouvernance-CICN-ICDT-Governance/") (under development)    
 

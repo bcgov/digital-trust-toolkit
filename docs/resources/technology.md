@@ -16,7 +16,7 @@ Access technical resources and guidelines for integrating digital trust solution
 ## Implementation Guidance & More
 
  - **Becoming an Issuer** (coming soon): Technical guidance on becoming an issuer for your service or use case.
- - [**Becoming a Verifier->INTERNAL LINK**](..): Technical guidance on becoming a verifier for your service or use case.
+ <!-- - [**Becoming a Verifier->INTERNAL LINK**](..): Technical guidance on becoming a verifier for your service or use case. -->
  - [**Proof Request Explorer**](https://vc-authn-oidc-dev.apps.silver.devops.gov.bc.ca/ver_configs/explorer): Explore existing VC-AuthN proof requests.
  - [**Pathfinder SSO**](https://digital.gov.bc.ca/bcgov-common-components/pathfinder-sso/): Set up a login service that connects your users to your applications.
  - [**BC Wallet Showcase**](https://digital.gov.bc.ca/digital-trust/showcase/): Explore using digital credentials with the BC Wallet.
