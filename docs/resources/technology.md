@@ -1,7 +1,6 @@
 ﻿---
 title: Technology
-order: 3
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 Access technical resources and guidelines for integrating digital trust solutions into your existing systems and infrastructure.

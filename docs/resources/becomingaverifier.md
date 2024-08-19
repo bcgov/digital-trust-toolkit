@@ -1,6 +1,6 @@
 ﻿---
 title: Guide to becoming a verifier
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 <!-- How to ensure this appears under 'Technology'? -->
