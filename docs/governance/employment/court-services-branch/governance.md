@@ -144,13 +144,13 @@ The Court Services Branch uses a Hyperledger Aries-compatible business wallet, t
 - [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
-The proof request that uses the Contractor Credential [Contractor Credential](../contractor-credential/governance.md) to allow access the A2A application is defined as:
+The proof request that uses the [Contractor Credential](../contractor-credential/governance.md) to allow access the A2A application is defined as:
 1. Attributes requested: Contractor Credential: user_id, Contractor Credential: contract_number
 1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
 1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
   
 ## 2.6.1 Contractor Credential Issuance Details
-The Contractor Credential [Contractor Credential](../contractor-credential/governance.md) issued to contractors from ACM is mapped as:
+The [Contractor Credential](../contractor-credential/governance.md) issued to contractors from ACM is mapped as:
 1. ACM Last Name = family_name
 2. ACM First Name + ACM Initials = given_names
 3. ACM Group = company_name
