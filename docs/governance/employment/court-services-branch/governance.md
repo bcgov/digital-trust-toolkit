@@ -135,7 +135,7 @@ Further information on Court Services Branch operations is available at: [Courth
 1.	If the proof is valid, VC-Authn will allow the Contractor to access the A2A application.
 
 ## 2.5.3. Contractor Remove Connection and Revoke Credentials
-If the Contractor wishes to use a different device than originally connected, the CSB Administrator will need to re-connect to re-issue the Contractor Credential.
+In some cases, the CSB Administrator will need to remove the connection and revoke the Contractor Credential.
 1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the remove button for removing the connection and revoke the Contractor Credential.
 2. The CSB Administrator MUST indicate to remove and revoke.
 3. Traction MUST revoke all credentials known to be issued by A2A to the connection.
