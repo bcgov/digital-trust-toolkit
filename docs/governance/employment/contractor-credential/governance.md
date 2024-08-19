@@ -46,7 +46,7 @@ Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.gi
 
 ## 1.3. Localization
 
-The standard language for this governing framework (GF) is English.
+The standard language for this Governance Framework (GF) is English.
 
 ## 1.4 Governing Authority
 
