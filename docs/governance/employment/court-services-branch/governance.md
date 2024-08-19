@@ -112,34 +112,40 @@ Further information on Court Services Branch operations is available at: [Courth
 ## 2.5.1. Establishment of Connection
 
 1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify identity of the Contractor and their association to the contract.
-1. The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the connect button for connecting to the Contractor's BC Wallet.
+1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the connect button for connecting to the Contractor's BC Wallet.
 1. The CSB Administrator WILL present the screen with the QR code (if online, via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
 1. The Contractor MUST accept the connection request in the BC Wallet App. (If successful, the CSB Administrator can stop screen sharing at this point.)
-1. ACM will use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the ACM application.
+1. A2A WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the A2A application.
 
 ## 2.5.2. CSB Contractor Credential Issuance
 
-1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Court Materials (ACM) application to display the issue button for issuing the [Contractor Credential](../contractor-credential/governance.md).
+1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the issue button for issuing the [Contractor Credential](../contractor-credential/governance.md).
 1. The CSB Administrator MUST indicate to issue the credential to the user.
 1.	Traction SHALL offer the credential to the Contractor’s BC Wallet App.
 1.	BC Wallet MUST display offer details to the Contractor. 
 1.	The Contractor MUST review the credential offer.
 1.	The Contractor MUST either Accept/Decline the offer. 
 1.	Traction MUST receive a problem report if the credential is declined.
-1.	Traction MUST notify ACM if the offer is accepted or declined.
+1.	Traction MUST notify A2A if the offer is accepted or declined.
 
 ## 2.5.3. Access to Audio (A2A) Verification
 
 1.	The Contractor WILL launch the A2A website with the specified URL.
-1. The A2A website MUST display a QR code with the proof request to check the Contractor is valid (see section 2.6 for details).
+1. The A2A website WILL use the VC-Authn service to display a QR code with the proof request to check the Contractor is valid (see section 2.6 for details).
 1.	The Contractor MUST review the proof details in the BC Wallet App.
 1.	The Contractor MUST indicate to Share the details for the proof to be successful.
 1.	VC-Authn MUST check the proof. If it is invalid, return an error to the Contractor.
 1.	If the proof is valid, VC-Authn will allow the Contractor to access the A2A application.
    
 ## 2.6. Technical Requirements
-The Court Services Branch uses a Hyperledger Aries-compatible business wallet, therefore Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App:
-- [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
+The Court Services Branch uses a Hyperledger Aries-compatible business wallet, therefore Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App.
+
+Ledger details are as follows:
+|Environment|Ledger|Public DID|Credential Definitions|
+|---|---|---|---|
+|Production|[CANdy-prod](https://candyscan.idlab.org/home/CANDY_PROD)|TODO|TODO|
+|Test|[CANdy-test](https://candyscan.idlab.org/home/CANDY_TEST)|TODO|TODO|
+
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
 The proof request that uses the [Contractor Credential](../contractor-credential/governance.md) to allow access the A2A application is defined as:
@@ -148,17 +154,17 @@ The proof request that uses the [Contractor Credential](../contractor-credential
 1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
   
 ## 2.6.1 Contractor Credential Issuance Details
-The [Contractor Credential](../contractor-credential/governance.md) issued to contractors from ACM is mapped as:
-1. ACM Last Name = family_name
-2. ACM First Name + ACM Initials = given_names
-3. ACM Group = company_name
-4. ACM User Id = user_id
-5. ACM Email = email
-6. "Court Services Branch" = organization
-7. ACM Contract Number = contract_number
-8. ACM Contract Start Date = contract_start_dateint
-9. ACM Contract End Date = contract_end_dateint
-10. ACM Criminal Record Check Expiry Date = criminal_record_expiry_dateint
+The [Contractor Credential](../contractor-credential/governance.md) issued to contractors from A2A is mapped as:
+1. A2A Last Name = family_name
+2. A2A First Name + A2A Initials = given_names
+3. A2A Group = company_name
+4. A2A User Id = user_id
+5. A2A Email = email
+6. "Attorney General" = organization
+7. A2A Contract Number = contract_number
+8. A2A Contract Start Date = contract_start_dateint
+9. A2A Contract End Date = contract_end_dateint
+10. A2A Criminal Record Check Expiry Date = criminal_record_expiry_dateint
 
 ## 2.7. Information Trust Requirements
 
