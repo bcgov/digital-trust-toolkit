@@ -134,10 +134,8 @@ Further information on Court Services Branch operations is available at: [Courth
 1. The A2A website MUST display a QR code with the proof request to check the Contractor is valid (see section 2.6 for details).
 1.	The Contractor MUST review the proof details in the BC Wallet App.
 1.	The Contractor MUST indicate to Share the details for the proof to be successful.
-1.	Traction MUST check the proof is valid.
-1.	Traction MUST send a problem report to ACM if the proof is invalid.
-1.	Traction MUST send a success notification to ACM if the proof is valid.
-1.	If the proof is valid, A2A will allow the Contractor to access the A2A application.
+1.	VC-Authn MUST check the proof. If it is invalid, return an error to the Contractor.
+1.	If the proof is valid, VC-Authn will allow the Contractor to access the A2A application.
    
 ## 2.6. Technical Requirements
 The Court Services Branch uses a Hyperledger Aries-compatible business wallet, therefore Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App:
