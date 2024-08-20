@@ -1,5 +1,8 @@
 ---
 title: Discover
+order: 1
+sidebar_postion: 2
+description: Conduct research, understand needs and create a plan for successful implementation.
 ---
 
 ## Overview
