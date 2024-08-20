@@ -12,62 +12,82 @@ In the Discover phase, you'll dive deep into understanding your specific require
 Identify key actors (Issuers, Verifiers, Holders) and their roles in your digital trust ecosystem. Gain insights into your current state and existing pain points through feedback from these actors.
 
 2.  **Planning for project delivery**
-Develop a comprehensive project plan based on onboarding materials and guidance provided. This plan should outline how you\'ll implement the digital trust solution in your specific context.
+Develop a comprehensive project plan based on onboarding materials and guidance provided. This plan should outline how you'll implement the digital trust solution in your specific context.
 
 3.  **Partnership agreement**
-Assess your organization\'s capacity and budget for continuing the partnership. Establish a formal agreement to move forward into the trial phase, or identify constraints that may require pausing or adjusting the partnership.
+Assess your organization's capacity and budget for continuing the partnership. Establish a formal agreement to move forward into the trial phase, or identify constraints that may require pausing or adjusting the partnership.
 
 ## Core activities
 
 ### Discovery research
-==Adopter intiative==
+_Adopter intiative_
+
 Collecting feedback from various actors to identify gaps in current services and opportunities for digital trust enhancements.
+
 [Read Building for impact with product discovery →](https://digital.gov.bc.ca/2024/06/26/product-discovery/)
 
 ---
 
 ### Service design
-==Adopter initiative==
+_Adopter initiative_
+
 Mapping current operations and planning the integration of digital trust solutions to improve them
+
 [Learn more about service and content design →](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design)
 
 ---
 
 ### Project planning
-==Adopter initiative==
+_Adopter initiative_
+
 Create a detailed plan for implementing your digital trust solution. Consider timelines, resources, and potential challenges.
+
 [Learn the steps to steps for digital service delivery →](https://digital.gov.bc.ca/topics/service-delivery/)
 
 ---
 
 ### Sequence diagram
-==Activity==
+_Activity_
+
 Creating a flowchart to detail the interactions and steps involving each actor in the use case.
-🕛  60+ minutes <br></br>
-🙌 Project team <br></br>
-🔨 Miro <br></br>
+
+🕛  60+ minutes
+
+🙌 Project team
+
+🔨 Miro
+
 💻 [Sequence diagram → **INTERNAL LINK**](..) 
 
 ---
 
 ### UX and governance
-==Activity==
+_Activity_
+ 
 Contextualize UX and governance considerations by reflecting on the status quo and how to align with digital trust.
-🕛  90+ minutes <br></br>
-🙌 Project team <br></br>
-🔨 Miro <br></br>
+
+🕛  90+ minutes
+
+🙌 Project team
+
+🔨 Miro
+
 💻 [UX and governance → **INTERNAL LINK**](..) 
 
 ---
 
 ### Partnership agreement
-==Document==
-Contextualize UX and governance considerations by reflecting on the status quo and how to align with digital trust.
-🕛  90+ minutes <br></br>
-🙌 Project team <br></br>
-🔨 Miro <br></br>
-💻 _Coming soon!_
+_Document_
 
+Contextualize UX and governance considerations by reflecting on the status quo and how to align with digital trust.
+
+🕛  90+ minutes
+
+🙌 Project team
+
+🔨 Miro
+
+💻 _Coming soon!_
 
 
 ## Considerations
