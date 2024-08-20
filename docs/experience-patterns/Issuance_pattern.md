@@ -1,6 +1,6 @@
 ---
 title: Issuance Experience Pattern
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Issuance Overview

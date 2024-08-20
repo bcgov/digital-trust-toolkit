@@ -1,6 +1,6 @@
 ---
 title: Digital Trust 101
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 ## The Challenge: Evolving Cybersecurity Threats

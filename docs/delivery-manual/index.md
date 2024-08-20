@@ -1,7 +1,7 @@
 ---
 title: Delivery Manual
 order: 3
-sidebar_postion: 3
+sidebar_postion: 1
 description: Find step-by-step guidance for successful digital trust adoption.
 ---
 
