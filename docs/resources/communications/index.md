@@ -1,6 +1,6 @@
 ﻿---
 title: Communications
-sidebar_position: 2
+sidebar_position: 1
 ---
 Resources related to communicating about and presenting digital trust and digital credentials.
 

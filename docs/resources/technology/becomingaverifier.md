@@ -1,9 +1,9 @@
 ﻿---
-title: Guide to becoming a verifier
-sidebar_position: 5
+title: Becoming a Verifier
+sidebar_position: 2
 ---
 
-<!-- How to ensure this appears under 'Technology'? -->
+# Guide to becoming a verifier
 
 Becoming a verifier is an integral aspect of digital trust ecosystems, enabling services to leverage digital credentials issued by trusted entities and held by individuals or organizations. By implementing verification capabilities, services can enhance security, streamline processes and improve user experiences while maintaining privacy and control for credential holders. The following steps provide a guide to becoming a verifier, but remember that this is not a one-size-fits-all approach. You may need to adapt these steps to your specific needs and the process is often iterative rather than strictly linear.
 
@@ -21,7 +21,7 @@ This involves analyzing your current processes, understanding your specific need
 **Resources:**
 -   [Ideation Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831634): A structured approach to help you brainstorm and refine your verification use case.
 -   [Examples of digital credentials](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/209879044): Real-world scenarios demonstrating successful implementation of digital credential verification.
--   [Ecosystem builder:](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/20545537) Build an ecosystem map to visualize and understand how key actors, credentials and experiences in your use case fit within a digital trust ecosystem.
+-   [Ecosystem builder](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/20545537): Build an ecosystem map to visualize and understand how key actors, credentials and experiences in your use case fit within a digital trust ecosystem.
     
 ## 2. Select your experience pattern
 
@@ -49,7 +49,7 @@ Schemas and presentation requests determine what data you'll verify and how. Thi
 
 **Resources:**
 -   [AnonCreds Documentation](https://www.hyperledger.org/projects/anoncreds): Comprehensive guide to working with privacy-preserving credentials.    
--   [Presentation request explorer:](https://vc-authn-oidc-dev.apps.silver.devops.gov.bc.ca/ver_configs/explorer) review existing presentation request and best practices for privacy-respecting presentation requests.    
+-   [Presentation request explorer](https://vc-authn-oidc-dev.apps.silver.devops.gov.bc.ca/ver_configs/explorer): review existing presentation request and best practices for privacy-respecting presentation requests.    
 
 ## 4. Review relevant governance frameworks
 
@@ -61,9 +61,9 @@ Governance frameworks provide the rules and standards for digital credential eco
 -   Consider how governance requirements might impact your verification process    
 
 **Resources:**
-<!-- -   [BC Gov's VCpedia ==**ADD INTERNAL LINK**==](..): A comprehensive resource for verifiable credentials governance documentation.     -->
--   [UX and Governance Workshop:](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668) a session to contextualize how your current governance fits in adopting digital trust.    
--   [Pan-Canadian Intergovernmental Collaboration on Digital Trust](https://iccs-isac.github.io/Gouvernance-CICN-ICDT-Governance/") (under development)    
+-   [BC Gov's VCpedia](https://bcgov.github.io/digital-trust-toolkit/docs/governance/): A comprehensive resource for verifiable credentials governance documentation.     -->
+-   [UX and Governance Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668): a session to contextualize how your current governance fits in adopting digital trust.    
+-   [Pan-Canadian Intergovernmental Collaboration on Digital Trust](https://iccs-isac.github.io/Gouvernance-CICN-ICDT-Governance/"): (under development)    
 
 ## 5. Map Service and User Journeys
 
@@ -79,9 +79,9 @@ A clear ene-to-end service and user journey is essential for a seamless verifica
 -   Note that services relying solely on digital credentials may impose accessibility constraints  
 
 **Resources:**
--   [BC Gov's service design methods and tools:](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize) guidance on how to map and visualize for digital government services - including user journeys.    
--   [UX and Governance Workshop:](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668) examine your current UX and governance and how they align with digital trust experience(s) being introduced.    
--   [Sequence Diagram Workshop:](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206798853) template for mapping how credentials are managed, shared and verified in your digital trust use case.
+-   [BC Gov's service design methods and tools](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize): guidance on how to map and visualize for digital government services - including user journeys.    
+-   [UX and Governance Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668): examine your current UX and governance and how they align with digital trust experience(s) being introduced.    
+-   [Sequence Diagram Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206798853): template for mapping how credentials are managed, shared and verified in your digital trust use case.
     
 ## 6. Choose your tech stack
 
@@ -132,4 +132,4 @@ A well-planned rollout and robust support system are key to successful adoption.
 
 Becoming a verifier can be a complex process and you may need additional support along the way. Our Digital Trust team is here to help you navigate this journey.
 
-To get additional guidance and support, please contact the Digital Trust team at [DItrust@gov.bc.ca](mailto:DItrust@gov.bc.ca "mailto:DItrust@gov.bc.ca"). We're ready to assist you with any questions or challenges you may encounter during your process in becoming a verifier.
+To get additional guidance and support, please contact the Digital Trust team at [DITrust@gov.bc.ca](mailto:DITrust@gov.bc.ca "mailto:DITrust@gov.bc.ca"). We're ready to assist you with any questions or challenges you may encounter during your process in becoming a verifier.
