@@ -27,7 +27,7 @@ Create a sequence diagram to capture interactions between entities over time. Th
 
 </table>
 
-<!-- ![A screenshot of the Sequence Diagram Workshop](/img/deliverymanual/Sequence-Diagram-workshop.png) -->
+![A screenshot of the Sequence Diagram Workshop](static/img/deliverymanual/Sequence-Diagram-workshop.PNG "A screenshot of the Sequence Diagram Workshop")
 
 ## Activity guide
 Use the sequence diagram template to map out interactions for your use case. Identify key actors and detail the step-by-step flow of actions. Include any unique interactions specific to your scenario.
