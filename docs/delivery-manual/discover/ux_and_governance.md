@@ -28,7 +28,7 @@ Evaluate the existing UX processes and governance frameworks, pinpoint opportuni
 
 </table>
 
-![A screenshot of the UX and governance session](img/deliverymanual/UX-and-Governance-Session.png "A screenshot of the UX and governance session")
+![A screenshot of the UX and governance session](/static/img/deliverymanual/UX-and-Governance-Session.png "A screenshot of the UX and governance session")
 
 ## Activity guide
 This session is aimed to contextualize the UX and Governance. You will examine your current UX and governance, and how they align with digital trust solution(s) being introduced.
