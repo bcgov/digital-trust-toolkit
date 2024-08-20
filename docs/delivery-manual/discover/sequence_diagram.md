@@ -27,7 +27,7 @@ Create a sequence diagram to capture interactions between entities over time. Th
 
 </table>
 
-![A screenshot of the Sequence Diagram Workshop](/static/img/deliverymanual/Sequence-Diagram-workshop.png "A screenshot of the Sequence Diagram Workshop")
+![A screenshot of the Sequence Diagram Workshop](/img/deliverymanual/Sequence-Diagram-workshop.png "A screenshot of the Sequence Diagram Workshop")
 
 ## Activity guide
 Use the sequence diagram template to map out interactions for your use case. Identify key actors and detail the step-by-step flow of actions. Include any unique interactions specific to your scenario.
@@ -44,7 +44,7 @@ During the discovery phase, once you've identified your use case and technology 
 ## How it works
 
 ### Before you start this activity
--   Identify a use case - to help identify one, have an [ideation workshop **INTERNAL LINK**](...)
+<!-- -   Identify a use case - to help identify one, have an [ideation workshop **INTERNAL LINK**](...) -->
 -   Decide on the technology stack
 
 1.  **Review the template:** 
@@ -58,4 +58,4 @@ Use the board as a guide to achieve the workshop objectives.
     
 ### Next steps:
 -   Share the diagram with your team for alignment
--   Complete the [Discovery checklist **INTERNAL LINK**](...) to proceed to the Trial phase
+<!-- -   Complete the [Discovery checklist **INTERNAL LINK**](...) to proceed to the Trial phase -->

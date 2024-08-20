@@ -1,6 +1,5 @@
 ---
 title: UX and Governance
-
 ---
 
 Evaluate the existing UX processes and governance frameworks, pinpoint opportunities to incorporate digital trust solutions and ensure compliance with relevant laws and regulations.

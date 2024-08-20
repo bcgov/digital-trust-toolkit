@@ -1,6 +1,5 @@
 ---
 title: Discover
-order: 1
 sidebar_position: 2
 description: Conduct research, understand needs and create a plan for successful implementation.
 ---
@@ -60,7 +59,7 @@ Creating a flowchart to detail the interactions and steps involving each actor i
 
 🔨 Miro
 
-💻 [Sequence diagram → **INTERNAL LINK**](..) 
+<!-- 💻 [Sequence diagram → **INTERNAL LINK**](..)  --> -->
 
 ---
 
@@ -75,7 +74,7 @@ Contextualize UX and governance considerations by reflecting on the status quo a
 
 🔨 Miro
 
-💻 [UX and governance → **INTERNAL LINK**](..) 
+<!-- 💻 [UX and governance → **INTERNAL LINK**](..)  -->
 
 ---
 
@@ -101,7 +100,7 @@ Contextualize UX and governance considerations by reflecting on the status quo a
 
 ## Additional resources
 
--   [Review the Technical Implementation Guide in the toolkit **INTERNAL LINK**](...) 
+<!-- -   [Review the Technical Implementation Guide in the toolkit **INTERNAL LINK**](...)  -->
 <!--- The above is supposed to link to the Technology page --->
 -   [Explore case studies of successful digital trust implementations](https://digital.gov.bc.ca/digital-trust/home/)
 -   [Schedule a consultation with the Digital Trust Team](mailto:DITRUST@gov.bc.ca) for personalized guidance
