@@ -1,6 +1,6 @@
 ---
 title: Discover
-sidebar_position: 2
+sidebar_position: 3
 description: Conduct research, understand needs and create a plan for successful implementation.
 ---
 

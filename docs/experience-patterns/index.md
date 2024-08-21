@@ -1,8 +1,8 @@
 ---
 title: Experience Patterns
 order: 2
+sidebar_position: 1
 description: Explore proven patterns and use cases for implementing digital trust.
-sidebar_position: 2
 ---
 
 Explore proven patterns and use cases for implementing digital trust. Digital trust experience patterns enable trusted interactions online and in-person that are user-friendly, safe, and secure. These experiences can be used on their own or in combination with each other.
