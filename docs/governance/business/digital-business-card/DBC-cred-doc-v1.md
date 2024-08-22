@@ -190,7 +190,7 @@ The attributes of the DBC credential are organized by topic and described below.
 
 *Credential ID*
 
-<!-- <table>
+<table>
   <tr>
     <th>Attribute</th>
     <td><code>credential_id</code></td>
@@ -239,7 +239,7 @@ The attributes of the DBC credential are organized by topic and described below.
         </ul>
     </td>
   </tr>
-</table> -->
+</table>
 
 ### Attributes about the Individual
 
