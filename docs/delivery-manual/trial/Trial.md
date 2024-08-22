@@ -1,0 +1,91 @@
+---
+title: Trial
+sidebar_position: 1
+---
+
+## Overview
+In the Trial Phase, you'll build and test an MVP, engage with trial participants, issue and/or verify credentials, and measure performance. This phase is crucial for validating your digital trust solution in a real-world context before broader implementation.
+
+## Key outcomes
+
+1.  **Preparation and MVP Build**: Develop your issuer and verifier services with support from the Digital Trust team. Build and prepare an MVP for the trial.
+    
+2.  **Participant engagement**:  
+    Identify and recruit potential participants for the trial, informing them about the process and expectations.
+    
+3.  **Issuance and verification**:  
+    Issue digital credentials to participants and verify these credentials, allowing participants to experience the full cycle of the digital trust solution.
+
+4.  **Performance evalutation**: 
+    Collect and analyze performance metrics and user feedback to determine the trial's success and inform decisions about scaling.
+
+## Core Activities
+Core Activities are key tasks to complete during the Align phase, either independently or with Digital Trust team support, to prepare for adoption.
+
+### Build and test
+==Adopter led initiative==
+Creating an MVP and performing pre-trial checks to ensure its functionality and effectiveness.
+<!-- 💻 [Technology->**INTERNAL LINK**](..)  -->
+
+---
+
+### Communication strategy
+==Adopter led initiative==
+Developing a plan to ensure consistent and effective communication among all actors during the trial. 
+<!-- 💻 [Communications->**INTERNAL LINK**](..) -->
+
+---
+
+### User research
+==Adopter led initiative==
+Continuously gathering participant feedback throughout the trial to make necessary adjustments and improvements.
+💻 [BC Gov's Design Research Guide](https://bcgov.github.io/design-research-guide/)
+
+---
+
+### Metrics for success
+==Activity==
+Establishing and tracking key performance indicators to measure the trial's success.
+🕛  60+ minutes 
+🙌 Project team 
+🔨 Miro 
+<!-- 💻 [Metrics for success->**INTERNAL LINK**](..) -->
+
+---
+
+### Support model
+==Activity==
+Establishing clear support channels and protocols to efficiently address user requests and issues.
+🕛  60+ minutes 
+🙌 Project team 
+🔨 Miro 
+<!-- 💻 [Support model->**INTERNAL LINK**](..) -->
+
+---
+
+### Post-trial assessment
+==Activity==
+Reviewing trial results against predefined success metrics and decide: stop or continue the initiative?
+🕛  60+ minutes 
+🙌 Project team 
+🔨 Miro 
+<!-- 💻 [Post-trial assessment ->**COMING SOON**](..) -->
+
+
+## Considerations
+
+-   **Participant Selection**: Ensure a diverse and representative group of users for the trial.
+    
+-   **Technical support**: IHave robust support mechanisms in place for participants during the trial.
+    
+-   **Flexibility:** Be prepared to make quick adjustments based on feedback and performance metrics.
+
+
+    
+    
+
+## Additional Resources
+
+-   [Technical resources->**INTERNAL LINK**](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/)
+-   Explore best practices for user testing and feedback collection: [BC Gov's Design Research Guide](https://bcgov.github.io/design-research-guide/)
+-   [Contact the Digital Trust Team](mailto:DItrust@gov.bc.ca)

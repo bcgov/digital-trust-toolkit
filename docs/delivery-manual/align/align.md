@@ -1,6 +1,6 @@
 ---
 title: Align
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 ## Overview
