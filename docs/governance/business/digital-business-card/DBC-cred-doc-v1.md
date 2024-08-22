@@ -17,7 +17,7 @@ The Digital Business Card (DBC) credential is a verifiable credential (VC) issue
 
 The DBC credential is intended to be used in a wide range of contexts, both alone or in conjunction with other credentials, as a source of trusted information. 
 
-<!-- <table>
+<table>
   <tr>
     <th>Credential</th>
     <td>Digital Business Card</td>
@@ -33,24 +33,20 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
     </td>
   </tr>
   <tr>
-    <th >Schema</th>
-        <td>Digital Business Card, version 1.0.0
-            <ul>
-                <li>Schema ID: <a href="https://candyscan.idlab.org/tx/CANDY_PROD/domain/350">AcZpBDz3oxmKrpcuPcdKai:2:Digital Business Card:1.0.0</a></li>
-            </ul>    
-            </td>
-  </tr>
-  <tr>
-    <th>Credential</th>
-        <td>NAME, version 1.0
-            <ul>
-                <li>Cred Def ID: <a href="https://candyscan.idlab.org/tx/CANDY_PROD/domain/351">AcZpBDz3oxmKrpcuPcdKai:3:CL:350:default</a></li>
-            </ul>    
+    <th>Schema</th>
+        <td>
+            Digital Business Card, version 1.0.0 
+            <ul><li>Schema ID: <a href="https://candyscan.idlab.org/tx/CANDY_PROD/domain/350">AcZpBDz3oxmKrpcuPcdKai:2:Digital Business Card:1.0.0</a></li></ul>
         </td>
   </tr>
   <tr>
+    <th>Credential</th>
+        <td>NAME, version 1.0<ul><li>Cred Def ID: <a href="https://candyscan.idlab.org/tx/CANDY_PROD/domain/351">AcZpBDz3oxmKrpcuPcdKai:3:CL:350:default</a></li></ul></td>
+  </tr>
+  <tr>
     <th>Data Registry</th>
-    <td> CANdy Ledger
+    <td> 
+        CANdy Ledger
         <ul>
             <li>Ledger <a href="https://candyscan.idlab.org/home/CANDY_PROD">browser</a></li>
             <li>Ledger <a href="https://github.com/ICCS-ISAC/dtrust-reconu/blob/main/CANdy/prod/pool_transactions_genesis">Pool Genesis File</a></li>
@@ -59,7 +55,8 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
   </tr>
   <tr>
     <th>Holders</th>
-    <td>The DBC credential is currently only available to individuals whose identity and relationship to the business are well established. Currently, they must meet the following criteria:
+    <td>
+        The DBC credential is currently only available to individuals whose identity and relationship to the business are well established. Currently, they must meet the following criteria:
         <ul>
             <li>The business is a Sole Proprietorship that was originally registered in the modern BC Registries system</li>
             <li>The individual authenticated to BC Registries using their BC Services Card digital identity, is the owner of the Sole Proprietorship, and is the person who completed the registration of the business</li>
@@ -68,7 +65,8 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
 </tr>
 <tr>
     <th>Data Source</th>
-    <td>The DBC credential data comes from the BC Registries system. More specifically:
+    <td>
+        The DBC credential data comes from the BC Registries system. More specifically:
         <ul>
             <li>The individual’s name is from the BC Services Card digital identity; they are ultimately from subject’s Canadian foundational identity unless taken from marriage documents</li>
             <li>Business information is from the BC Registries system; some of this is reported by the business via filings</li>
@@ -79,15 +77,17 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
 </tr>
 <tr>
     <th>Revocation</th>
-    <td>A DBC credential will be revoked – and sometimes re-issued – due to both automated events (e.g., data updates) and manual events. These are described in greater detail in the Revocation section, below.
+    <td>
+        A DBC credential will be revoked – and sometimes re-issued – due to both automated events (e.g., data updates) and manual events. These are described in greater detail in the Revocation section, below.
     </td>
 </tr>
 <tr>
     <th>Assurance</th>
-    <td>The DBC credential will only be issued to individuals who create and access the BC Registries system using the BC Services Card digital identity, which has been assessed and is accepted by the Government of Canada as a Trusted Digital Identity Level 3 for persons, and for whom BC Registries have established a relationship to the business in question.
+    <td>
+        The DBC credential will only be issued to individuals who create and access the BC Registries system using the BC Services Card digital identity, which has been assessed and is accepted by the Government of Canada as a Trusted Digital Identity Level 3 for persons, and for whom BC Registries have established a relationship to the business in question.
     </td>
 </tr>
-</table> -->
+</table>
 
 
 ### Attribute Summary
@@ -197,7 +197,7 @@ The attributes of the DBC credential are organized by topic and described below.
   </tr>
   <tr>
     <th>Description</th>
-    <td>A unique identifier assigned by BC Registries that is specific to the relationship between the individual and the business.<br>
+    <td>A unique identifier assigned by BC Registries that is specific to the relationship between the individual and the business.<br></br>
     This is intended to aid verifiers when the name of the individual and/or the business changes.</td>
   </tr>
   <tr>
@@ -223,8 +223,7 @@ The attributes of the DBC credential are organized by topic and described below.
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>00000001<br>00012345</code>
-</td>
+    <td><code>00000001</code><br></br><code>00012345</code></td>
   </tr>
   <tr>
     <th>Notes</th>
@@ -362,21 +361,24 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### Role
 
-<!-- <table>
+<table>
   <tr>
     <th>Attribute</th>
     <td>role</td>
   </tr>
   <tr>
     <th>Description</th>
-    <td>The person's role(s) with the business, if any. <br>
-    Roles are limited to those tracked by BC Registries, and do not normally correspond to job titles.</td>
+    <td>
+        The person's role(s) with the business, if any. <br></br>
+        Roles are limited to those tracked by BC Registries, and do not normally correspond to job titles.
+    </td>
   </tr>
   <tr>
     <th>Source</th>
-    <td>Currently a business filing, from when an individual sets up their own proprietorship; during this process, they declare they are the proprietor. <br>
-    In the future:
-    <ul><li>Other roles will be determined through business filings supported by a process to authenticate and link a Registries Account record to the filing information</li></ul>
+    <td>
+        Currently a business filing, from when an individual sets up their own proprietorship; during this process, they declare they are the proprietor.<br></br>
+        In the future:
+        <ul><li>Other roles will be determined through business filings supported by a process to authenticate and link a Registries Account record to the filing information</li></ul>
     </td>
   </tr>
   <tr>
@@ -411,9 +413,9 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>Partner<br>Proprietor<br>Incorporator, Proprietor</code></td>
+    <td><code>Partner</code><br></br><code>Proprietor</code><br></br><code>Incorporator, Proprietor</code></td>
   </tr>
-</table> -->
+</table>
 
 ### Attributes about the Business
 
@@ -474,7 +476,7 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### CRA Business Number
 
-<!-- <table>
+<table>
   <tr>
     <th>Attribute</th>
     <td><code>cra_business_number</code></td>
@@ -485,9 +487,7 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Source</th>
-    <td>Canada Revenue Agency,
-        <ul><li>A business number is automatically provided to new B.C. corporations, businesses or societies as part of the registration or incorporation process.</li></ul>
-    </td>
+    <td>Canada Revenue Agency,<ul><li>A business number is automatically provided to new B.C. corporations, businesses or societies as part of the registration or incorporation process.</li></ul></td>
   </tr>
   <tr>
     <th>Data Type</th>
@@ -524,19 +524,19 @@ Note that the Person credential gets the values for its name attribute values fr
         <ul><li>XBRL schema: <code>identifierTaxCode</code></li></ul>
     </td>
   </tr>
-</table> -->
+</table>
 
 
 #### Business Name
 
-<!-- <table>
+<table>
   <tr>
     <th>Attribute</th>
     <td><code>business_name</code></td>
   </tr>
   <tr>
     <th>Description</th>
-    <td>The operating name the sole proprietorship has registered for itself with BC Registries. <br>In future, when credentials may be issued for other types of businesses,  this may also be the operating name of a general partnership or the legal name of an incorporated company, a society, or a cooperative association.</td>
+    <td>The operating name the sole proprietorship has registered for itself with BC Registries.<br></br>In future, when credentials may be issued for other types of businesses,  this may also be the operating name of a general partnership or the legal name of an incorporated company, a society, or a cooperative association.</td>
   </tr>
   <tr>
     <th>Source</th>
@@ -560,15 +560,16 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>Rogers Communications Canada Inc.<br>12345676, Inc<br>Twelve Oaks Construction</code></td>
+    <td><code>Rogers Communications Canada Inc.</code><br></br><code>12345676, Inc</code><br></br><code>Twelve Oaks Construction</code></td>
   </tr>
   <tr>
     <th>Notes</th>
-    <td>This attribute is in close alignment with:
+    <td>
+        This attribute is in close alignment with:
         <ul><li>Open Ownership schema: <code>name</code></li></ul>
     </td>
   </tr>
-</table> -->
+</table>
 
 #### Business Type
 
@@ -666,7 +667,7 @@ Note that the Person credential gets the values for its name attribute values fr
 
 #### Company Status
 
-<!-- <table>
+<table>
   <tr>
     <th>Attribute</th>
     <td><code>company_status</code></td>
@@ -702,7 +703,7 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>Active<br>Historical</code></td>
+    <td><code>Active</code><br></br><code>Historical</code></td>
   </tr>
   <tr>
     <th>Notes</th>
@@ -710,4 +711,4 @@ Note that the Person credential gets the values for its name attribute values fr
         There are cases where a person may represent a “Historic” business (e.g., tax audits can occur several years after a business is dissolved), and so it is possible for an individual have a DBC credential for such a business
     </td>
   </tr>
-</table> -->
+</table>
