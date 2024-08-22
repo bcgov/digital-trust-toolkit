@@ -26,7 +26,7 @@ Build an ecosystem map to visualize and understand how key actors, credentials a
 
 </table>
 
-![A screenshot of the Ecosystem Builder activity in Miro](/img/deliverymanual/ecosystem_builder "A screenshot of the Ecosystem Builder activity in Miro")
+<!-- ![A screenshot of the Ecosystem Builder activity in Miro](/img/deliverymanual/ecosystem_builder "A screenshot of the Ecosystem Builder activity in Miro") -->
 
 ## Activity Guide
 This session helps you understand how your digital trust use case fits within an ecosystem. Use the Miro board to create a visual map of the digital trust ecosystem related to your use case.

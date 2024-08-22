@@ -27,7 +27,7 @@ Ensure that the implementation of your digital trust use case is well supported.
 
 </table>
 
-![A screenshot of the Support model](img/Discover/Sequence-Diagram-workshop.png "A screenshot of the Support model")
+<!-- ![A screenshot of the Support model](img/Discover/Sequence-Diagram-workshop.png "A screenshot of the Support model") -->
 
 ## Activity guide
 Having a support model and support plan in place when building technological solutions is crucial for multiple reasons:
