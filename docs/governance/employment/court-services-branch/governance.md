@@ -40,21 +40,21 @@ The standard language for this Governance Framework (GF) is English.
 
 ## 1.4 Governing Authority
 
-[The Court Services Branch (CSB)](https://www2.gov.bc.ca/gov/content/justice/courthouse-services/courthouse-roles/court-feedback) is the governing authority responsible for this Governance Framework (GF). 
+The Chief Administrator of Court Services: ADM, Court Services Branch, Ministry of the Attorney General is the governing authority responsible for this Governance Framework (GF). 
 
-* 	**Name:** TBD
-* 	**Title:** TBD
-* 	**Organization:** Court Services Branch
-* 	**Email:** TBD
+* 	**Name:** Jenny Manton
+* 	**Title:** Chief Administrator of Court Services
+* 	**Organization:** Court Services Branch, Ministry of the Attorney General
+* 	**Email:** Jenny.Manton@gov.bc.ca
 
 ## 1.5. Administering Authority
 
-[The Court Services Branch (CSB)](https://www2.gov.bc.ca/gov/content/justice/courthouse-services/courthouse-roles/court-feedback) is the administering authority responsible for this Governance Framework (GF). 
+The Chief Administrator of Court Services: ADM, Court Services Branch, Ministry of the Attorney General is the administering authority responsible for this Governance Framework (GF). 
 
-* 	**Name:** TBD
-* 	**Title:** TBD
-* 	**Organization:** Court Services Branch
-* 	**Email:** TBD
+* 	**Name:** Jenny Manton
+* 	**Title:** Chief Administrator of Court Services
+* 	**Organization:** Court Services Branch, Ministry of the Attorney General
+* 	**Email:** Jenny.Manton@gov.bc.ca
 
 ## 1.6 Purpose 
 
@@ -104,8 +104,11 @@ In accordance with B.C. Government procedures and policies, the standard [Privac
 Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and Contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
-The operations and processes of the Court Services Branch are governed by the [Court Rules Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96080_01). 
-Further information on Court Services Branch operations is available at: [Courthouse Services](https://www2.gov.bc.ca/gov/content/justice/courthouse-services)
+The operations and processes of the Court Services Branch are governed by the following Acts:
+* [Attorney General Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96022_01)
+* [Provincial Court Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96379_01)
+* [Supreme Court Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96443_01)
+* [Court of Appeal Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21006)
 
 ## 2.5. Business Requirements
 
