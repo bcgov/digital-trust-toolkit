@@ -176,7 +176,7 @@ This section indicates which Person Schema attributes are used by BC, whether th
   <tr>
     <th>Notes</th>
     <td>
-        <ul><li>Attriubte data will always be upper case (e.g., "SMITH" not "Smith")</li><li>The only characters allowed are the letters A through Z, digits 0 through 9, and the following "special characters": hyphen, apostrophe, period, and space</li><li>Characters are encoded using UTF-8</li></ul>
+        <ul><li>Attribute data will always be upper case (e.g., "SMITH" not "Smith")</li><li>The only characters allowed are the letters A through Z, digits 0 through 9, and the following "special characters": hyphen, apostrophe, period, and space</li><li>Characters are encoded using UTF-8</li></ul>
     </td>
   </tr>
 </table>
@@ -362,7 +362,7 @@ The name attributes of a Person credential will – with some exceptions – ref
   </tr>
   <tr>
     <th>Format</th>
-    <td><ul><li>Maximum 10 characters</li><li>Canadian postcal codes will have a space, e.g., "V8V 3P6"</li></ul></td>
+    <td><ul><li>Maximum 10 characters</li><li>Canadian postal codes will have a space, e.g., "V8V 3P6"</li></ul></td>
   </tr>
   <tr>
     <th>Rules</th>
