@@ -24,8 +24,7 @@ Ministry of Citizens’ Services.
   <tr>
     <th>Issuer</th>
     <td>
-        Service BC, through its Provincial Identity Information Management (IDIM)<br></br>
-        Program, of the BC Government of British Columbia
+        Service BC, through its Provincial Identity Information Management (IDIM) Program, of the BC Government of British Columbia
     </td>
   </tr>
   <tr>
@@ -63,7 +62,7 @@ Ministry of Citizens’ Services.
         The Person credential data comes from the BC Services Card digital identity. More specifically:
         <ul>
             <li>The individual’s name is from their Canadian foundational identity document (e.g., birth certificate, immigration document) unless taken from marriage or name change documents</li>
-            <li>he individual’s date of birth is from the subject’s Canadian foundational identity document</li>
+            <li>The individual’s date of birth is from the subject’s Canadian foundational identity document</li>
             <li>Address values are self-asserted and unverified</li>
             <li>Picture is taken by the BC Services Card program partner, the Insurance Corporation of BC (ICBC), at the time the individual presents their foundational identity documents</li>
         </ul>
