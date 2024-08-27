@@ -1,6 +1,7 @@
 ﻿---
 title: Ideation Workshop
 ---
+
 Explore potential use cases for digital trust technology in your service area.
 [Launch Miro Activity → ](https://miro.com/app/board/uXjVK1HW990=/?share_link_id=419926456586)
 

@@ -2,6 +2,7 @@
 title: Trial
 sidebar_position: 1
 ---
+import Tag from '@site/src/components/Tag';
 
 ## Overview
 In the Trial Phase, you'll build and test an MVP, engage with trial participants, issue and/or verify credentials, and measure performance. This phase is crucial for validating your digital trust solution in a real-world context before broader implementation.
@@ -23,52 +24,54 @@ In the Trial Phase, you'll build and test an MVP, engage with trial participants
 Core Activities are key tasks to complete during the Align phase, either independently or with Digital Trust team support, to prepare for adoption.
 
 ### Build and test
-==Adopter led initiative==
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Creating an MVP and performing pre-trial checks to ensure its functionality and effectiveness.
 <!-- 💻 [Technology->**INTERNAL LINK**](..)  -->
 
 ---
 
 ### Communication strategy
-==Adopter led initiative==
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Developing a plan to ensure consistent and effective communication among all actors during the trial. 
+
 <!-- 💻 [Communications->**INTERNAL LINK**](..) -->
 
 ---
 
 ### User research
-==Adopter led initiative==
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Continuously gathering participant feedback throughout the trial to make necessary adjustments and improvements.
+
 💻 [BC Gov's Design Research Guide](https://bcgov.github.io/design-research-guide/)
 
 ---
 
 ### Metrics for success
-==Activity==
-Establishing and tracking key performance indicators to measure the trial's success.
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
+<Tag color="#89C300">Activity</Tag><br></br>
+Establishing and tracking key performance indicators to measure the trial's success.><br></br>
+🕛  60+ minutes><br></br>
+🙌 Project team><br></br>
+🔨 Miro><br></br>
 <!-- 💻 [Metrics for success->**INTERNAL LINK**](..) -->
 
 ---
 
 ### Support model
-==Activity==
-Establishing clear support channels and protocols to efficiently address user requests and issues.
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
+<Tag color="#89C300">Activity</Tag><br></br>
+Establishing clear support channels and protocols to efficiently address user requests and issues.><br></br>
+🕛  60+ minutes><br></br>
+🙌 Project team><br></br>
+🔨 Miro><br></br>
 <!-- 💻 [Support model->**INTERNAL LINK**](..) -->
 
 ---
 
 ### Post-trial assessment
-==Activity==
-Reviewing trial results against predefined success metrics and decide: stop or continue the initiative?
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
+<Tag color="#89C300">Activity</Tag><br></br>
+Reviewing trial results against predefined success metrics and decide: stop or continue the initiative?><br></br>
+🕛  60+ minutes><br></br>
+🙌 Project team><br></br>
+🔨 Miro><br></br>
 <!-- 💻 [Post-trial assessment ->**COMING SOON**](..) -->
 
 

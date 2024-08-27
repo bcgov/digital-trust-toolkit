@@ -2,6 +2,9 @@
 title: Readiness Checklist
 sidebar_position: 4
 ---
+
+## Before You Start This Activity
+
 Explore potential use cases for digital trust technology in your service area.
 [Launch Miro Activity](/img/deliverymanual/Readiness_Checklist.docx)
 
@@ -41,6 +44,9 @@ Identifying any potential gaps that need to be filled to meet the prerequisites 
 When all other ALIGN activities have been completed and there is a desire to continue to the DISCOVER phase.
 
 ## How it Works
+
+### Before You Start This Activity
+
 1. **Review the Checklist:** 
 Identify questions where you need your team’s or your organization’s input.
 2. **Fill Out the Checklist:** 
