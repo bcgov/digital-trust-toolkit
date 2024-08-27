@@ -1,8 +1,9 @@
 ---
 title: Discover
-sidebar_position: 3
+sidebar_position: 1
 description: Conduct research, understand needs and create a plan for successful implementation.
 ---
+import Tag from '@site/src/components/Tag';
 
 ## Overview
   
@@ -22,7 +23,7 @@ Assess your organization's capacity and budget for continuing the partnership. E
 ## Core activities
 
 ### Discovery research
-_Adopter intiative_
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 
 Collecting feedback from various actors to identify gaps in current services and opportunities for digital trust enhancements.
 
@@ -31,7 +32,7 @@ Collecting feedback from various actors to identify gaps in current services and
 ---
 
 ### Service design
-_Adopter initiative_
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 
 Mapping current operations and planning the integration of digital trust solutions to improve them
 
@@ -40,7 +41,7 @@ Mapping current operations and planning the integration of digital trust solutio
 ---
 
 ### Project planning
-_Adopter initiative_
+<Tag color="#89C300">Adopter Initiative</Tag><br></br>
 
 Create a detailed plan for implementing your digital trust solution. Consider timelines, resources, and potential challenges.
 
@@ -49,47 +50,38 @@ Create a detailed plan for implementing your digital trust solution. Consider ti
 ---
 
 ### Sequence diagram
-_Activity_
+<Tag color="#89C300">Activity</Tag><br></br>
 
 Creating a flowchart to detail the interactions and steps involving each actor in the use case.
 
-🕛  60+ minutes
-
-🙌 Project team
-
-🔨 Miro
-
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
 <!-- 💻 [Sequence diagram → **INTERNAL LINK**](..)  --> -->
 
 ---
 
 ### UX and governance
-_Activity_
+<Tag color="#89C300">Activity</Tag><br></br>
  
 Contextualize UX and governance considerations by reflecting on the status quo and how to align with digital trust.
 
-🕛  90+ minutes
-
-🙌 Project team
-
-🔨 Miro
-
+🕛  90+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
 <!-- 💻 [UX and governance → **INTERNAL LINK**](..)  -->
 
 ---
 
 ### Partnership agreement
-_Document_
+<Tag color="#89C300">Document</Tag><br></br>
 
 Contextualize UX and governance considerations by reflecting on the status quo and how to align with digital trust.
 
-🕛  90+ minutes
-
-🙌 Project team
-
-🔨 Miro
-
-💻 _Coming soon!_
+🕛  90+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 _Coming soon!_<br></br>
 
 
 ## Considerations

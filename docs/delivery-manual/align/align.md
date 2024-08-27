@@ -1,7 +1,8 @@
 ---
 title: Align
-sidebar_position: 2
+sidebar_position: 1
 ---
+import Tag from '@site/src/components/Tag';
 
 ## Overview
 The Align Phase initiates the digital trust adoption journey by creating awareness, identifying potential use cases, and assessing readiness. It establishes a foundation of shared understanding and commitment among participants, setting the stage for successful progression through subsequent phases of discovery, trial, and scaling.
@@ -19,36 +20,36 @@ The Align Phase initiates the digital trust adoption journey by creating awarene
 Core Activities are key tasks to complete during the Align phase, either independently or with Digital Trust team support, to prepare for adoption.
 
 ### Ideation Workshop
-==Activity==
-An initial workshop focused on brainstorming potential use cases for digital credentials.
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
-💻 Ideation Workshop →  
+<Tag color="#89C300">Activity</Tag><br></br>
+An initial workshop focused on brainstorming potential use cases for digital credentials.<br></br>
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 Ideation Workshop →
 
 ### Ecosystem Workshop
-==Activity==
-Helps understand and visualize how your digital trust use case fits within an ecosystem.
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
-💻 Ecosystem Workshop →  
+<Tag color="#89C300">Activity</Tag><br></br>
+Helps understand and visualize how your digital trust use case fits within an ecosystem.<br></br>
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro <br></br>
+💻 Ecosystem Workshop → 
 
 ### Skills and Resource Assessment
-==Activity==
+<Tag color="#89C300">Activity</Tag><br></br>
 An evaluation to determine the necessary skills and resources for the use case.
-🕛  60+ minutes 
-🙌 Project team 
-🔨 Miro 
-💻 Skills and Resource Assessment →  
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 Skills and Resource Assessment → <br></br>
 
 ### Readiness checklist
-==Document==
-A tool designed to assess the adopter’s readiness to progress to the next phase.
-🕛  45+ minutes 
-🙌 Project team leads
-🔨 Miro 
- 💻 Readiness checklist → 
+<Tag color="#89C300">Document</Tag><br></br>
+A tool designed to assess the adopter’s readiness to progress to the next phase.<br></br>
+🕛  45+ minutes<br></br>
+🙌 Project team leads<br></br>
+🔨 Miro<br></br>
+ 💻 Readiness checklist →<br></br>
 
 ## Considerations
 
