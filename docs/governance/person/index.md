@@ -6,4 +6,4 @@ description: Person
 
 # Person Ecosystem
 
-* [BC Person Credential](./person/person-cred-doc.md)
+* [BC Person Credential](./person-cred-doc.md)
