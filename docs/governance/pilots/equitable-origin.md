@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Equitable Origin Governance Framework
-parent: Applications
 ---
 
 ## Equitable Origin Governance Framework

@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Governance for Business Registration
-parent: Credentials
 ---
 
 Governance for Business Registration Credential (Level 3 according to TrustOverIP Governance model)

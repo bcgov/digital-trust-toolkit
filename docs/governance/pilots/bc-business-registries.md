@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Governance for BC Business Registries application (Level 4 according to TrustOverIP Governance model)
-parent: Applications
 ---
 
 Governance for BC Business Registries application (Level 4 according to TrustOverIP Governance model)
