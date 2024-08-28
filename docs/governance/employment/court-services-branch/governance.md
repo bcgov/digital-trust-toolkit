@@ -123,6 +123,7 @@ The operations and processes of the Court Services Branch are governed by the fo
 1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the issue button for issuing the [Contractor Credential](../contractor-credential/governance.md).
 1. The CSB Administrator MUST indicate to issue the credential to the user.
 1.	Traction SHALL offer the credential to the Contractor’s BC Wallet App.
+1.1. Different credentials may be issued using different credential definitions (e.g. Transcriber Credential, Interepreter Credential)
 1.	BC Wallet MUST display offer details to the Contractor. 
 1.	The Contractor MUST review the credential offer.
 1.	The Contractor MUST either Accept/Decline the offer. 
@@ -152,6 +153,7 @@ Ledger details are as follows:
 |---|---|---|---|
 |Production|[CANdy-prod](https://candyscan.idlab.org/home/CANDY_PROD)|TODO|TODO|
 |Test|[CANdy-test](https://candyscan.idlab.org/home/CANDY_TEST)|TODO|TODO|
+TODO: Include specific cred defs for each type of credential (e.g. Transcriber, Interpreter, etc)
 
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
