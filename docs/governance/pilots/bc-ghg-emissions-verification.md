@@ -1,10 +1,10 @@
 ---
-layout: default
-title: BC CAS Governance Framework - Draft
-parent: Applications
+title: BC Climate Action Secretariat Ecosystem Governance Framework
 ---
 
-## BC Climate Action Secretariat (CAS) Governance Framework - Draft
+## Title: application-bc-ghg-emissions-verification.md
+
+# BC Climate Action Secretariat Ecosystem Governance Framework
 
 # Primary Document
 

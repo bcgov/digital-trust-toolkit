@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Qube Monthly Report Primary Governance
-parent: Credentials
 ---
 
 # Qube Monthly Report Primary Governance Document

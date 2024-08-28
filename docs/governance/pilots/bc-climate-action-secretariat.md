@@ -1,16 +1,14 @@
 ---
-layout: default
-title: PricewaterhouseCoopers (PwC) Governance Framework
-parent: Applications
+title: BC Climate Action Secretariat (CAS) Governance Framework - Draft
 ---
 
-## PricewaterhouseCoopers (PwC) Governance Framework
+## BC Climate Action Secretariat (CAS) Governance Framework - Draft
 
 # 1. Primary Document
 
 ## 1.1. Introduction 
 
-This document articulates the governance framework for PricewaterhouseCoopers (PwC) as an actor involved in the verifiable credential exchanges [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
+This document articulates the governance framework for the [BC Climate Action Secretariat (CAS)](https://www2.gov.bc.ca/gov/content/environment/climate-change) as an actor involved in the verifiable credential exchanges [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
@@ -49,16 +47,11 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-[PricewaterhouseCoopers (PwC)](https://www.pwc.com/ca/en/) is the Governing Authority responsible for this Governance Framework (GF).
-The contact information for PwC during the pilot phase of development is:
-* 	**Name:** Naomi Thomas
-* 	**Title:** Senior Manager, Sustainability and Climate Change
-* 	**Organization:** PricewaterhouseCoopers LLP
-* 	**Email:**  [naomi.thomas@pwc.com](mailto:naomi.thomas@pwc.com)
+The [BC Climate Action Secretariat (CAS)](https://www2.gov.bc.ca/gov/content/environment/climate-change) is the Governing Authority and party legally responsible for developing, maintaining and implementing the Governance Framework (GF).
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of the BC Climate Action Secretariat (CAS) during the pilot phase of development.
 
 The contact information for EMDT is:
 * 	**Name:** Kyle Robinson 
@@ -68,11 +61,11 @@ The contact information for EMDT is:
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving PricewaterhouseCoopers (PwC) Services Inc. with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with PwC in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving CAS with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with CAS in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 
-PricewaterhouseCoopers (PwC) is a participant in an open ecosystem and the focus of this framework is to describe the process PwC uses for digital exchanges on Indy networks.
+The BC Climate Action Secretariat (CAS) is a participant in an open ecosystem and the focus of this framework is to describe the process CAS uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
@@ -83,9 +76,18 @@ _This section states the high-level outcomes desired by the trust community thro
 scope.
 3. MUST be consistent with the principles of the GF (below).
 
-## 1.9. Principles 
+## 1.9 Principles 
 
-See [PricewaterhouseCoopers (PwC) Values](https://www.pwc.com/gx/en/about/purpose-and-values.html)
+[The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
+
+BC Climate Action Secretariat has identified the following guiding principles in their Climate Preparedness and Adaptation Strategy 2022-2025:
+
+ - Build a Shared Path to Climate Resilience with Indigenous Peoples
+ - Take an Equity Informed Approach
+ - Enhance Health and Well Being for All
+ - Promote Nature Based Solutions to Enhance Community Resilience
+ - Align Emissions Reduction with Climate Adaption
+ - Take a Proactive Approach with a Business Case for Adaptation
 
 ## 1.10. General Requirements
 TBD
@@ -94,7 +96,7 @@ TBD
 
 Version 1.0
 
-_TBD - How and when PricewaterhouseCoopers (PwC) would change governance framework_
+_TBD - How and when CAS would change governance framework_
 
 ## 1.12. Extensions
 
@@ -125,36 +127,38 @@ TBD
 
 ### 2.5.1. Establishing connections
 
-1. PricewaterhouseCoopers (PwC) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
-2. The receiving party MUST accept invitation in order to establish a secure connection.
+1. The BC Climate Action Secretariat (CAS) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
+2. The receiving party MUST use the invitation in order to establish a secure connection.
 
-### 2.5.2. Issuance of Third-party GHG Verification Statement
+### 2.5.2. Reporting GHG Emissions to BC Government (CAS)
 
-1. Using the established connection, PwC MUST receive a credential request from the business entity. 
-2. Continuing from step 1, the business entity will provide the following attributes from the [BC GHG Emissions Report Verification Statement Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-ghg-emissions-verification.md#261-schema-definition) in the credential request: 
-
-reporting_operation, name_of_facility, facility_type, facility_address, facility_longitude, facility_latitude, total_emissions, total_emissions_not_reporting_only, total_emissions_reporting_only, total_co2_from_nonbiomass, total_co2_from_nonbiomass_not_schedule_c, total_co2_from_nonbiomass_in_schedule_c
-
-3. PwC will receive and review the request
-4. Any clarification questions can be asked via the secure messaging function 
-5. Once all data is entered and correct, PwC will offer the credential to the business entity
+TBD
 
 ## 2.6. Technical Requirements
 
 *MUST have an Hyperledger Aries compatible business wallet.*
 
+## 2.6.1. Public DID of the BC Climate Action Secretariat (CAS)
+
+Ledger | DID |
+--- | --- |
+BCovrin Test | ADCssx1nPW6FQwNHTFTRNW |
+
 ## 2.7. Information Trust Requirements
 
-[PwC's Code of Conduct](https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html#:~:text=We%20take%20appropriate%20measures%20to,%2C%20bullying%2C%20or%20disrespectful%20behaviour.)
+The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
 
-[PwC's Privacy Commitment](https://www.pwc.com/ca/en/privacy-policy.html#:~:text=We%20will%20always%20collect%20your,otherwise%20permitted%20by%20applicable%20law.)
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
-## 2.8. Inclusion, Equitability and Accessibility Requirement
+The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
-TBD
+The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/diversity-inclusion/diversity-inclusion-strategy) outlines the committments of BC govenment in supporting inclusion, equitability and access throughout the province.
+
+The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as BC’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
 
 TBD
 
 # End of Document
+
