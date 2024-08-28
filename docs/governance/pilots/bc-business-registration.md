@@ -4,7 +4,7 @@ title: Governance for Business Registration
 
 Governance for Business Registration Credential (Level 3 according to TrustOverIP Governance model)
 
-Registered Issuers in <utility>
+Registered Issuers in
 |Name|Issuer did|
 |---|---|
 |BC OrgBook|??|
