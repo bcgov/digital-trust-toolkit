@@ -116,7 +116,7 @@ The operations and processes of the Court Services Branch are governed by the fo
 1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify identity of the Contractor and their association to the contract.
 1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the connect button for connecting to the Contractor's [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet).
 1. The CSB Administrator WILL present the screen with the QR code (if online, via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
-1. The Contractor MUST accept the connection request in the BC Wallet App. (If successful, the CSB Administrator can stop screen sharing at this point.)
+1. The Contractor MUST accept the connection request from "BC Court Services" in the BC Wallet App. (If successful, the CSB Administrator can stop screen sharing at this point.)
 1. A2A WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the A2A application.
 
 ## 2.5.2. CSB Transcriber Credential Issuance from A2A
