@@ -43,7 +43,7 @@ Developing a plan to ensure consistent and effective communication among all act
 <Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Continuously gathering participant feedback throughout the trial to make necessary adjustments and improvements.
 
-💻 [BC Gov's Design Research Guide →](https://bcgov.github.io/design-research-guide/)
+💻 [Design Research Guide from the Government of British Columbia →](https://bcgov.github.io/design-research-guide/)
 
 ---
 
