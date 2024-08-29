@@ -79,7 +79,7 @@ A clear ene-to-end service and user journey is essential for a seamless verifica
 -   Note that services relying solely on digital credentials may impose accessibility constraints  
 
 **Resources:**
--   [BC Gov's service design methods and tools](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize): guidance on how to map and visualize for digital government services - including user journeys.    
+-   [Service design methods and tools from the Government of British Columbia](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize): guidance on how to map and visualize for digital government services - including user journeys.    
 -   [UX and Governance Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/ux_and_governance): examine your current UX and governance and how they align with digital trust experience(s) being introduced.    
 -   [Sequence Diagram Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/sequence_diagram): template for mapping how credentials are managed, shared and verified in your digital trust use case.
     
