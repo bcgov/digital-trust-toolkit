@@ -89,14 +89,14 @@ Implement and test the digital trust solution, conducting pilot trials to valida
 
 [Complete the Trial phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/)
 
-[Becoming an issuer→](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/207126646/Becoming+an+Issuer)
+Becoming an issuer→ **Coming soon!**
 
 
 ### 4. Scale
 
 Launch the digital trust solution broadly, monitor its performance, and plan for scaling to cover additional services or a broader user base, ensuring continuous improvement.
 
-[Complete the Scale phase →](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/204898449)
+Complete the Scale phase → **Coming soon!**
 
 
 ## Resources
