@@ -3,8 +3,6 @@ title: Readiness Checklist
 sidebar_position: 4
 ---
 
-## Before You Start This Activity
-
 Explore potential use cases for digital trust technology in your service area.
 [Launch Miro Activity](/img/deliverymanual/Readiness_Checklist.docx)
 
