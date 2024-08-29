@@ -26,7 +26,8 @@ Core Activities are key tasks to complete during the Align phase, either indepen
 ### Build and test
 <Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Creating an MVP and performing pre-trial checks to ensure its functionality and effectiveness.
-<!-- 💻 [Technology->**INTERNAL LINK**](..)  -->
+
+💻 [Technology →](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/)
 
 ---
 
@@ -34,7 +35,7 @@ Creating an MVP and performing pre-trial checks to ensure its functionality and 
 <Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Developing a plan to ensure consistent and effective communication among all actors during the trial. 
 
-<!-- 💻 [Communications->**INTERNAL LINK**](..) -->
+💻 [Communications →](https://bcgov.github.io/digital-trust-toolkit/docs/resources/communications/)
 
 ---
 
@@ -42,37 +43,37 @@ Developing a plan to ensure consistent and effective communication among all act
 <Tag color="#89C300">Adopter Initiative</Tag><br></br>
 Continuously gathering participant feedback throughout the trial to make necessary adjustments and improvements.
 
-💻 [BC Gov's Design Research Guide](https://bcgov.github.io/design-research-guide/)
+💻 [BC Gov's Design Research Guide →](https://bcgov.github.io/design-research-guide/)
 
 ---
 
 ### Metrics for success
 <Tag color="#89C300">Activity</Tag><br></br>
 Establishing and tracking key performance indicators to measure the trial's success.><br></br>
-🕛  60+ minutes><br></br>
-🙌 Project team><br></br>
-🔨 Miro><br></br>
-<!-- 💻 [Metrics for success->**INTERNAL LINK**](..) -->
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 [Metrics for success →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/Metrics%20for%20success)
 
 ---
 
 ### Support model
 <Tag color="#89C300">Activity</Tag><br></br>
 Establishing clear support channels and protocols to efficiently address user requests and issues.><br></br>
-🕛  60+ minutes><br></br>
-🙌 Project team><br></br>
-🔨 Miro><br></br>
-<!-- 💻 [Support model->**INTERNAL LINK**](..) -->
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 [Support model →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/Support%20model)
 
 ---
 
 ### Post-trial assessment
 <Tag color="#89C300">Activity</Tag><br></br>
 Reviewing trial results against predefined success metrics and decide: stop or continue the initiative?><br></br>
-🕛  60+ minutes><br></br>
-🙌 Project team><br></br>
-🔨 Miro><br></br>
-<!-- 💻 [Post-trial assessment ->**COMING SOON**](..) -->
+🕛  60+ minutes<br></br>
+🙌 Project team<br></br>
+🔨 Miro<br></br>
+💻 Post-trial assessment → **COMING SOON**
 
 
 ## Considerations
@@ -89,6 +90,6 @@ Reviewing trial results against predefined success metrics and decide: stop or c
 
 ## Additional Resources
 
--   [Technical resources->**INTERNAL LINK**](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/)
+-   [Technical resources](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/)
 -   Explore best practices for user testing and feedback collection: [BC Gov's Design Research Guide](https://bcgov.github.io/design-research-guide/)
 -   [Contact the Digital Trust Team](mailto:DItrust@gov.bc.ca)
