@@ -25,7 +25,7 @@ An initial workshop focused on brainstorming potential use cases for digital cre
 🕛  60+ minutes<br></br>
 🙌 Project team<br></br>
 🔨 Miro<br></br>
-💻 Ideation Workshop →
+💻 [Ideation Workshop →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/ideation_workshop)
 
 ### Ecosystem Workshop
 <Tag color="#89C300">Activity</Tag><br></br>
@@ -33,7 +33,7 @@ Helps understand and visualize how your digital trust use case fits within an ec
 🕛  60+ minutes<br></br>
 🙌 Project team<br></br>
 🔨 Miro <br></br>
-💻 Ecosystem Workshop → 
+💻 [Ecosystem Workshop →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/ecosystem_builder) 
 
 ### Skills and Resource Assessment
 <Tag color="#89C300">Activity</Tag><br></br>
@@ -41,7 +41,7 @@ An evaluation to determine the necessary skills and resources for the use case.
 🕛  60+ minutes<br></br>
 🙌 Project team<br></br>
 🔨 Miro<br></br>
-💻 Skills and Resource Assessment → <br></br>
+💻 [Skills and Resource Assessment → <br></br>](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/skillset_and_resource_assessment)
 
 ### Readiness checklist
 <Tag color="#89C300">Document</Tag><br></br>
@@ -49,7 +49,7 @@ A tool designed to assess the adopter’s readiness to progress to the next phas
 🕛  45+ minutes<br></br>
 🙌 Project team leads<br></br>
 🔨 Miro<br></br>
- 💻 Readiness checklist →<br></br>
+ 💻 [Readiness checklist →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/readiness_checklist)<br></br>
 
 ## Considerations
 

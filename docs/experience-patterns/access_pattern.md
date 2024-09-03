@@ -72,30 +72,30 @@ A practical implementation of Access using VC-AuthN is showcased in the justice 
 ### 1. Align
 Assess the suitability of digital trust for your service by considering security requirements, user needs, and the potential benefits. Assemble an agile team ready to innovate and experiment.
 
-<!-- [Complete the Align phase ->**INTERNAL LINK**](..) -->
+[Complete the Align phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/)
 
 ### 2. Discover
 Research user needs and gather insights from stakeholders to understand how digital credentials can enhance user experience and address specific challenges.
 
-<!-- [Complete the Discover phase ->**INTERNAL LINK**](..) -->
+[Complete the Discover phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/)
 
-<!-- [Proof request design best practices ->**INTERNAL LINK**](..) -->
+[Proof request design best practices →](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/becomingaverifier)
 
 ### 3. Trial
 Implement and test the digital trust solution, conducting pilot trials to validate the approach and refine the implementation based on feedback.
 
-<!-- [Complete the Trial phase ->**INTERNAL LINK**](..) -->
+[Complete the Trial phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/)
 
-<!-- [How to implement ->**INTERNAL LINK**](..) -->
+[How to implement →](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/becomingaverifier)
 
 ### 4. Scale
 Launch the digital trust solution broadly, monitor its performance, and plan for scaling to cover additional services or a broader user base, ensuring continuous improvement.
 
-<!-- [Complete the Scale phase->**INTERNAL LINK**](..) -->
+Complete the Scale phase (TBD) →
 
 ## Resources
 - Play with the [BC Wallet showcase](https://digital.gov.bc.ca/digital-trust/showcase/) to explore how digital credential verification can work
-<!-- - [Becoming a Verifier->**INTERNAL LINK**](..) -->
+[Becoming a Verifier →](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/becomingaverifier)
 <!-- - [Read the implementation guide->**INTERNAL LINK**](..) -->
 ## Contact
-<!-- For further assistance contact the [**INSERT EMAIL/FORM LINK HERE**] -->
+For further assistance contact the [Digital Trust Team](mailto:ditrust@gov.bc.ca).

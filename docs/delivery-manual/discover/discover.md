@@ -57,7 +57,7 @@ Creating a flowchart to detail the interactions and steps involving each actor i
 🕛  60+ minutes<br></br>
 🙌 Project team<br></br>
 🔨 Miro<br></br>
-<!-- 💻 [Sequence diagram → **INTERNAL LINK**](..)  --> -->
+💻 [Sequence diagram →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/sequence_diagram)
 
 ---
 
@@ -69,7 +69,7 @@ Contextualize UX and governance considerations by reflecting on the status quo a
 🕛  90+ minutes<br></br>
 🙌 Project team<br></br>
 🔨 Miro<br></br>
-<!-- 💻 [UX and governance → **INTERNAL LINK**](..)  -->
+💻 [UX and governance →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/ux_and_governance)
 
 ---
 
@@ -92,7 +92,6 @@ Contextualize UX and governance considerations by reflecting on the status quo a
 
 ## Additional resources
 
-<!-- -   [Review the Technical Implementation Guide in the toolkit **INTERNAL LINK**](...)  -->
-<!--- The above is supposed to link to the Technology page --->
+[Review the Technical Implementation Guide in the toolkit](https://bcgov.github.io/digital-trust-toolkit/docs/resources/technology/)
 -   [Explore case studies of successful digital trust implementations](https://digital.gov.bc.ca/digital-trust/home/)
 -   [Schedule a consultation with the Digital Trust Team](mailto:DITRUST@gov.bc.ca) for personalized guidance

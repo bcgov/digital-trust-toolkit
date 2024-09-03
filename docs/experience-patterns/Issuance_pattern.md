@@ -41,7 +41,7 @@ The BC Government and other trusted registries traditionally issue credentials t
 - **New or Existing Services:** Digital trust benefits both new and existing services, enabling secure credential issuance and extending into signing, accessing, and messaging through the BC Wallet app.
 - **Need for Credential Issuance:** If your service requires issuing credentials for identity verification, attributes, or claims, digital trust offers a secure and efficient solution.
 
-Learn more about existing [digital credentials](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/209879044/Digital+Credentials).
+Learn more about existing [digital credentials](https://bcgov.github.io/digital-trust-toolkit/docs/foundations/credentials).
 
 ### Examples of implementation
 
@@ -64,21 +64,21 @@ A practical implementation of digital trust is showcased in the [justice sector]
 
 ## Get started
 
-Follow the [Service Delivery Manual](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/203456593) for guidance on activities and workshops that help guide your team **Align**, **Discover**, **Trial** and **Scale**.
+Follow the [Service Delivery Manual](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/) for guidance on activities and workshops that help guide your team **Align**, **Discover**, **Trial** and **Scale**.
 
 
 ### 1. Align
 
 Assess the suitability of digital trust for your service by considering security requirements, user needs, and the potential benefits. Assemble an agile team ready to innovate and experiment.
 
-[Complete the Align phase →](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/204865601)
+[Complete the Align phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/)
 
 
 ### 2. Discover
 
 Research user needs and gather insights from stakeholders to understand how digital credentials can enhance user experience and address specific challenges.
 
-[Complete the Discover phase →](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/204832913)
+[Complete the Discover phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/)
 
 Issuance UX design best practices (TBD)
 
@@ -87,16 +87,16 @@ Issuance UX design best practices (TBD)
 
 Implement and test the digital trust solution, conducting pilot trials to validate the approach and refine the implementation based on feedback.
 
-[Complete the Trial phase →](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/204865619)
+[Complete the Trial phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/)
 
-[Becoming an issuer→](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/207126646/Becoming+an+Issuer)
+Becoming an issuer→ **Coming soon!**
 
 
 ### 4. Scale
 
 Launch the digital trust solution broadly, monitor its performance, and plan for scaling to cover additional services or a broader user base, ensuring continuous improvement.
 
-[Complete the Scale phase →](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/204898449)
+Complete the Scale phase → **Coming soon!**
 
 
 ## Resources
@@ -105,7 +105,7 @@ Launch the digital trust solution broadly, monitor its performance, and plan for
 - Review [Becoming an issuer](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/207126646/Becoming+an+Issuer) tutorial
 - Explore [existing credentials, their schema and branding](https://bcgov.github.io/aries-oca-bundles/OCABundles/schema/bcgov-digital-trust/LCRB/selling-it-right/)
 - [Using Credentials using OpenID4VC Issuer module](https://credo.js.org/guides/tutorials/openid4vc/issuing-credentials-using-openid4vc-issuer-module)
-- [Governance Frameworks](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/207585320/Governance+Frameworks)
+- [Governance Frameworks](https://bcgov.github.io/digital-trust-toolkit/docs/governance/)
 
 ## Contact
 
