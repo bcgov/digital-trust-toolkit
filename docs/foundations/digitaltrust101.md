@@ -27,7 +27,7 @@ If we want to effectively address the vulnerability to cybersecurity threats, we
 **Single Sign-On** (SSO) approaches are user-friendly, by simplifying access to a variety of services, but come at the expense of introducing a single point of failure. If the SSO credentials are compromised, a malicious actor gains access to all authorized accounts and services.
 
 ## Leaving usernames & passwords behind
-![Illustrates three stages of digital identity systems showcasing the increasing levels of trust and user control over their data from centralized to decentralized systems](/img/foundations/Path_Toward_Digital_Trust.png) 
+![Illustrates three stages of digital identity systems showcasing the increasing levels of trust and user control over their data from centralized to decentralized systems](/img/foundations/Path_Toward_Digital_Trust.png)
 As we take steps toward a better digital future, we evolve from username-password combinations and Single Sign-On (SSO) models, embracing digital trust technology for a more secure way to store and share information digitally.
 
 ## What is Digital Trust
