@@ -5,9 +5,12 @@ description: Governance Framework Documentation Repository
 ---
 
 <!-- DO NOT MODIFY THIS BLOCK -->
-import PageLinks from '@site/src/components/PageLinks/PageLinks'
+import BrowserOnly from '@docusaurus/BrowserOnly';
+import PageLinks from '@site/src/components/PageLinks/PageLinks';
 
-<PageLinks />
+<BrowserOnly>
+    {() => <PageLinks />}
+</BrowserOnly>
 <!-- CONTINUE ADDING CONTENT FROM HERE -->
 
 # Governance

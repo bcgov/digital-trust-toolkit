@@ -6,9 +6,12 @@ description: Utilize a comprehensive set of tools and guides to launch your digi
 ---
 
 <!-- DO NOT MODIFY THIS BLOCK -->
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import PageLinks from '@site/src/components/PageLinks/PageLinks'
 
-<PageLinks />
+<BrowserOnly>
+    {() => <PageLinks />}
+</BrowserOnly>
 <!-- CONTINUE ADDING CONTENT FROM HERE -->
 
 # Resources

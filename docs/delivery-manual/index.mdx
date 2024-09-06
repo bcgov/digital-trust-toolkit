@@ -6,9 +6,12 @@ description: Find step-by-step guidance for successful digital trust adoption.
 ---
 
 <!-- DO NOT MODIFY THIS BLOCK -->
+import BrowserOnly from '@docusaurus/BrowserOnly';
 import PageLinks from '@site/src/components/PageLinks/PageLinks'
 
-<PageLinks />
+<BrowserOnly>
+    {() => <PageLinks />}
+</BrowserOnly>
 <!-- CONTINUE ADDING CONTENT FROM HERE -->
 
 A flexible guide to support adopters through the phases of digital trust adoption.
