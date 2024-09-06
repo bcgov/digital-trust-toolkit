@@ -152,6 +152,7 @@ Ledger details are as follows:
 |---|---|---|---|
 |Production|[CANdy-prod](https://candyscan.idlab.org/home/CANDY_PROD)|TODO|TODO|
 |DEV|[CANdy-dev](https://candyscan.idlab.org/tx/CANDY_DEV/domain/34743)|RSDAVyaiUjFPCj245PoY3P|TODO|
+
 TODO: Include specific cred defs for each type of credential (e.g. Transcriber, Interpreter, etc)
 
 
