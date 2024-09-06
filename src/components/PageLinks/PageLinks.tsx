@@ -27,9 +27,9 @@ export default function PageLinks(): JSX.Element {
     return (
       <div className="container">
         <div className="row">
-          {currentItem.metadata.sublinks.map((sublink: Link) => (
+          {currentItem.metadata.sublinks.map((sublink: Link, idx: number) => (
             <BoxLink
-              key={sublink.id}
+              key={idx}
               id={sublink.id}
               label={sublink.label}
               metadata={sublink}

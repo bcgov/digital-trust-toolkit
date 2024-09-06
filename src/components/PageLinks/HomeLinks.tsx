@@ -14,8 +14,8 @@ export default function HomeLinks(): JSX.Element {
     <section className={styles.boxLinks}>
       <div className="container">
         <div className="row">
-          {links.map((props) => (
-            <BoxLink key={props.id} {...props} />
+          {links.map((props: BoxLinkProps, idx: number) => (
+            <BoxLink key={idx} {...props} />
           ))}
         </div>
       </div>
