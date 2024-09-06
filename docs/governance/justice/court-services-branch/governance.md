@@ -120,7 +120,7 @@ The operations and processes of the Court Services Branch are governed by the fo
 1. A2A WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the A2A application.
 
 ## 2.5.2. CSB Transcriber Credential Issuance from A2A
-1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the issue button for issuing the Transcriber Credential using the [Contractor Credential](../contractor-credential/governance.md) schema.
+1.	The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the issue button for issuing the Transcriber Credential using the [Contractor Credential](../../employment/contractor-credential/governance.md) schema.
 1. The CSB Administrator MUST indicate to issue the credential to the user.
 1.	Traction SHALL offer the credential to the Contractor’s BC Wallet App.
 1.	BC Wallet MUST display offer details to the Contractor. 
@@ -156,13 +156,13 @@ TODO: Include specific cred defs for each type of credential (e.g. Transcriber, 
 
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
-The proof request that uses the [Contractor Credential](../contractor-credential/governance.md) to allow access the A2A application is defined as:
+The proof request that uses the [Contractor Credential](../../employment/contractor-credential/governance.md) to allow access the A2A application is defined as:
 1. Attributes requested: Contractor Credential: user_id, Contractor Credential: contract_number
 1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
 1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
   
 ## 2.6.1 Transcriber Credential Issuance Details
-The [Contractor Credential](../contractor-credential/governance.md) issued to contractors from A2A is mapped as:
+The [Contractor Credential](../../employment/contractor-credential/governance.md) issued to contractors from A2A is mapped as:
 1. A2A Last Name = family_name
 2. A2A First Name + A2A Initials = given_names
 3. A2A Group = company_name
