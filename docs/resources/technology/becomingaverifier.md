@@ -19,9 +19,9 @@ This involves analyzing your current processes, understanding your specific need
 -   Consider whether your use case requires existing credentials or if you need to work with a potential issuer to create new ones
     
 **Resources:**
--   [Ideation Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831634): A structured approach to help you brainstorm and refine your verification use case.
--   [Examples of digital credentials](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/209879044): Real-world scenarios demonstrating successful implementation of digital credential verification.
--   [Ecosystem builder](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/20545537): Build an ecosystem map to visualize and understand how key actors, credentials and experiences in your use case fit within a digital trust ecosystem.
+-   [Ideation Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/ideation_workshop): A structured approach to help you brainstorm and refine your verification use case.
+-   [Examples of digital credentials](https://bcgov.github.io/digital-trust-toolkit/docs/foundations/credentials): Real-world scenarios demonstrating successful implementation of digital credential verification.
+-   [Ecosystem builder](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/align/ecosystem_builder): Build an ecosystem map to visualize and understand how key actors, credentials and experiences in your use case fit within a digital trust ecosystem.
     
 ## 2. Select your experience pattern
 
@@ -33,8 +33,8 @@ Experience patterns define how users will interact with your verification system
 -   Review the governance framework associated with your chosen solution
     
 **Resources:**
--   [Experience pattern library](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/203489593): A comprehensive guide to different verification experience patterns and their applications.    
--   [Overview of common digital trust experiences](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/209747983): Explore typical user interactions and workflows in digital credential ecosystems.
+-   [Experience pattern library](https://bcgov.github.io/digital-trust-toolkit/docs/experience-patterns/): A comprehensive guide to different verification experience patterns and their applications.    
+-   [Overview of common digital trust experiences](https://bcgov.github.io/digital-trust-toolkit/docs/foundations/experiences): Explore typical user interactions and workflows in digital credential ecosystems.
     
 ## 3. Define your credential scheme and presentation requests
 
@@ -61,8 +61,8 @@ Governance frameworks provide the rules and standards for digital credential eco
 -   Consider how governance requirements might impact your verification process    
 
 **Resources:**
--   [BC Gov's VCpedia](https://bcgov.github.io/digital-trust-toolkit/docs/governance/): A comprehensive resource for verifiable credentials governance documentation.     -->
--   [UX and Governance Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668): a session to contextualize how your current governance fits in adopting digital trust.    
+-   [Governance](https://bcgov.github.io/digital-trust-toolkit/docs/governance/): A comprehensive resource for verifiable credentials governance documentation.     -->
+-   [UX and Governance Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/ux_and_governance): a session to contextualize how your current governance fits in adopting digital trust.    
 -   [Pan-Canadian Intergovernmental Collaboration on Digital Trust](https://iccs-isac.github.io/Gouvernance-CICN-ICDT-Governance/"): (under development)    
 
 ## 5. Map Service and User Journeys
@@ -79,9 +79,9 @@ A clear ene-to-end service and user journey is essential for a seamless verifica
 -   Note that services relying solely on digital credentials may impose accessibility constraints  
 
 **Resources:**
--   [BC Gov's service design methods and tools](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize): guidance on how to map and visualize for digital government services - including user journeys.    
--   [UX and Governance Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206831668): examine your current UX and governance and how they align with digital trust experience(s) being introduced.    
--   [Sequence Diagram Workshop](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206798853): template for mapping how credentials are managed, shared and verified in your digital trust use case.
+-   [Service design methods and tools from the Government of British Columbia](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-content-design/methods-and-tools/document-and-visualize): guidance on how to map and visualize for digital government services - including user journeys.    
+-   [UX and Governance Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/ux_and_governance): examine your current UX and governance and how they align with digital trust experience(s) being introduced.    
+-   [Sequence Diagram Workshop](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/sequence_diagram): template for mapping how credentials are managed, shared and verified in your digital trust use case.
     
 ## 6. Choose your tech stack
 
@@ -125,8 +125,8 @@ A well-planned rollout and robust support system are key to successful adoption.
 -   Create user support materials and channels    
 
 **Resources:**
--   [Support Model](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206864416): understand existing support mechanisms and build out model for use case.    
--   [Metrics for success](https://ditp-bc.atlassian.net/wiki/spaces/DTT/pages/206798863): Define how to measure the success of your digital trust project.
+-   [Support Model](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/Support%20model): understand existing support mechanisms and build out model for use case.    
+-   [Metrics for success](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/trial/Metrics%20for%20success): Define how to measure the success of your digital trust project.
     
 ## Get Help
 

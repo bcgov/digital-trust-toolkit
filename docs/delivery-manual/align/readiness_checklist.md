@@ -3,8 +3,6 @@ title: Readiness Checklist
 sidebar_position: 4
 ---
 
-## Before You Start This Activity
-
 Explore potential use cases for digital trust technology in your service area.
 [Launch Miro Activity](/img/deliverymanual/Readiness_Checklist.docx)
 
@@ -57,4 +55,4 @@ Complete the different sections of the checklist, with support from your team or
     -   Work with your team and organization to address gaps before moving to the next phase.
     -   Consider sending your checklist alongside questions or concerns to [DITrust@gov.bc.ca](mailto:DITrust@gov.bc.ca "mailto:DITrust@gov.bc.ca") for further guidance.
 -   **If you feel confident and ready to proceed:**
-        -   Explore the [Discover phase->**INTERNAL LINK**](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/)
+        -   Explore the [Discover phase →](https://bcgov.github.io/digital-trust-toolkit/docs/delivery-manual/discover/)
