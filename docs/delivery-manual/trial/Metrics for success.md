@@ -27,7 +27,7 @@ Define how to measure the success of your digital trust project.
 
 </table>
 
-<!-- ![A screenshot of the Metrics for success workshop](img/Discover/Metrics-workshop.png "A screenshot of the Metrics for success") -->
+![A screenshot of the Metrics for success workshop](img/Discover/Metrics-workshop.png "A screenshot of the Metrics for success")
 
 ## Activity guide
 This workshop template enables you to collaboratively define and understand the Metrics for Success that are critical to the success of your digital credential use case. 
