@@ -158,9 +158,10 @@ TODO: Include specific cred defs for each type of credential (e.g. Transcriber, 
 
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
 The proof request that uses the [Contractor Credential](../../employment/contractor-credential/governance.md) to allow access the A2A application is defined as:
-1. Attributes requested: Contractor Credential: user_id, Contractor Credential: contract_number
+1. Attributes requested: Contractor Credential: user_id, company_name
 1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
 1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
+1. Revocation check: Contractor Credential is NOT revoked
   
 ## 2.6.1 Transcriber Credential Issuance Details
 The [Contractor Credential](../../employment/contractor-credential/governance.md) issued to contractors from A2A is mapped as:
