@@ -164,7 +164,13 @@ The proof request that uses the [Contractor Credential](../../employment/contrac
 1. Revocation check: Contractor Credential is NOT revoked
   
 ## 2.6.1 Transcriber Credential Issuance Details
-The [Contractor Credential](../../employment/contractor-credential/governance.md) issued to contractors from A2A is mapped as:
+### Credential Definition Configuration:
+1. Schema is [Contractor Credential](../../employment/contractor-credential/governance.md)
+2. Tag for the credential definition is "transcriber"
+3. Credential definition is revocable
+
+### Mapping:
+The Transcriber Credential issued to contractors from A2A is mapped as:
 1. A2A Last Name = family_name
 2. A2A First Name + A2A Initials = given_names
 3. A2A Group = company_name
@@ -175,7 +181,7 @@ The [Contractor Credential](../../employment/contractor-credential/governance.md
 8. A2A Contract Start Date = contract_start_dateint
 9. A2A Contract End Date = contract_end_dateint
 10. A2A Criminal Record Check Expiry Date = criminal_record_expiry_dateint
-11. Issued using the "Transcriber Credential Definition"
+
 
 ## 2.7. Information Trust Requirements
 
