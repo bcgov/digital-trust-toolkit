@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomeLinks from '@site/src/components/PageLinks/HomeLinks';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
@@ -43,7 +43,7 @@ export default function Home(): JSX.Element {
         <Heading as="h1" className={clsx('text--center')}>
           Explore the {siteConfig.title}
         </Heading>
-        <HomepageFeatures />
+        <HomeLinks />
       </main>
       <HomepageFooter />
     </Layout>
