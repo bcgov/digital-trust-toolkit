@@ -8,7 +8,7 @@ title: B.C. Petroleum & Natural Gas Title
 
 ## 1.1 Introduction
 
-The majority of subsurface petroleum and natural gas (PNG) resources in British Columbia (B.C.) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements are the mechanism used by the Province to give rights to petroleum and natural gas resources through issuance of Petroleum and Natural Gas Titles. 
+The majority of subsurface petroleum and natural gas (PNG) resources in British Columbia (B.C.) are owned by the Province. By entering into a tenure agreement with the Province, private industry can develop these resources. Tenure agreements are the mechanism used by the Province to give rights to petroleum and natural gas resources through the issuance of Petroleum and Natural Gas Titles. 
 
 Further information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
 
@@ -145,7 +145,9 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
-- DID: [`did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`](../tenure-branch/did.json)
+*Please note that the digitaltrust.gov.bc.ca domain is currently under review, the following DID identifier is a placeholder until approval is granted:
+
+DID: [did:web:test.digitaltrust.traceability.site:petroleum-and-natural-gas-act:director-of-petroleum-lands](https://test.digitaltrust.traceability.site/petroleum-and-natural-gas-act/director-of-petroleum-lands/did.json)
 
 ### 2.6.1.1 Examples
 - [No Signature](examples/draft-no-signature.jsonld)
