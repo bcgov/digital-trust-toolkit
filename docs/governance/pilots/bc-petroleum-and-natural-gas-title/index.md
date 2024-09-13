@@ -12,7 +12,7 @@ The majority of subsurface petroleum and natural gas (PNG) resources in British 
 
 Further information can be found on the [BC Government Petroleum and Natural Gas Tenure Site](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure).
 
-The following legislation and regulations govern the disposition, administration and management of petroleum and natural gas in B.C.:
+The following legislation and regulations govern the disposition, administration, and management of petroleum and natural gas in B.C.:
 
 * 	[The Petroleum and Natural Gas Act (PNG Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/00_96361_01)
 * 	[The Petroleum and Natural Gas Act Regulations](https://www.bclaws.gov.bc.ca/civix/content/complete/statreg/1922970521/96361/reg96361/?xsl=/templates/browse.xsl)
@@ -67,12 +67,12 @@ The contact information for the TSRB is TBD:
 
 ## 1.5. Administering Authority
 
-The Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development is TBD.
+The Administering Authority on behalf of the Tenure and Resource Stewardship Branch (TRSB) during the pilot phase of development is:
 
-* 	**Name:** 
-* 	**Title:** 
-* 	**Organization:**
-* 	**Email:** 
+* 	**Name:** Nancy Norris
+* 	**Title:** Senior Director, ESG & Digital Trust
+* 	**Organization:** [Energy and Mines Digital Trust](https://digital.gov.bc.ca/2024/06/25/energy-mines-digital-trust-pilot/), Ministry of Energy, Mines and Low Carbon Innovation
+* 	**Email:** Nancy.Norris@gov.bc.ca
 
 ## 1.6 Purpose 
 
@@ -92,7 +92,7 @@ To allow the credential holder evidence they have been issued a B.C. Petroleum a
 
 ## 1.10 General Requirements
 
-The Petroleum and Natural Gas Title redential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in B.C., a Petroleum and Natural Gas Title Document must be provided in accordance with the B.C. Petroleum and Natural Gas Act. 
+The Petroleum and Natural Gas Title credential MUST be issued by the Ministry of Energy, Mines and Low Carbon Innovation (EMLI) Tenure and Resource Stewardship Branch. When petroleum and natural gas operators wish to obtain a Petroleum and Natural Gas Title in B.C., a Petroleum and Natural Gas Title Document MUST be provided in accordance with the B.C. Petroleum and Natural Gas Act. 
 
 ## 1.11. Revisions
 
@@ -145,7 +145,7 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
-*Please note that the digitaltrust.gov.bc.ca domain is currently under review, the following DID identifier is a placeholder until approval is granted:
+*Please note that the domain **digitaltrust.gov.bc.ca**  is currently under review, the following DID identifier is a placeholder until approval is granted*:
 
 DID: [did:web:test.digitaltrust.traceability.site:petroleum-and-natural-gas-act:director-of-petroleum-lands](https://test.digitaltrust.traceability.site/petroleum-and-natural-gas-act/director-of-petroleum-lands/did.json)
 
