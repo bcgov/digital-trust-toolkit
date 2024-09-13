@@ -1,5 +1,5 @@
 ---
-title: Tenure and Resource Stewardship Branch Governance Framework
+title: Tenure and Resource Stewardship Branch Governance Framework - Draft
 ---
 
 # Tenure and Resource Stewardship Branch Governance Framework
@@ -10,17 +10,8 @@ title: Tenure and Resource Stewardship Branch Governance Framework
 
 This document articulates the governance framework for [The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) as a participant of the open global community that exchanges verifiable credentials [(layer four application of the Trust Over IP Foundation (ToIP) model)](https://www.trustoverip.org/wp-content/toip-model/).
 
+***Acknowledgements***:
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
-
-These materials are made available under and are subject to the [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/legalcode).
-
-THESE MATERIALS ARE PROVIDED “AS IS.” The Trust Over IP Foundation, established as the Joint Development Foundation Projects, LLC, Trust Over IP Foundation Series ("ToIP"), and its members and contributors (each of ToIP, its members and contributors, a "ToIP Party") expressly disclaim any warranties (express, implied, or otherwise), including implied warranties of merchantability, non-infringement, fitness for a particular purpose, or title, related to the materials. The entire risk as to implementing or otherwise using the materials is assumed by the implementer and user. 
-
-IN NO EVENT WILL ANY ToIP PARTY BE LIABLE TO ANY OTHER PARTY FOR LOST PROFITS OR ANY FORM OF INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER FROM ANY CAUSES OF ACTION OF ANY KIND WITH RESPECT TO THESE MATERIALS, ANY DELIVERABLE OR THE ToIP GOVERNING AGREEMENT, WHETHER BASED ON BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-***Acknowledgements***
-
-This governance framework includes structural elements from the Trust over IP Metamodel that were developed by Governance Stack Working Group of the Trust over IP Foundation, the eSSIF Lab Glossary and Mental Models, were contributed to the Trust Over IP Foundation under the CC BY-SA 4.0 license.  There have also been contributions from the Concepts & Terminology Working Group at ToIP, the Human Experience Working Group at ToIP and the Ecosystem Foundry Working Group at ToIP, the work of the Governance Framework Working Group at Sovrin Foundation is also acknowledged in providing support.
 
 ## 1.2. Terminology and Notation 
 
@@ -47,33 +38,29 @@ The standard language for this Governance Framework (GF) is American English.
 
 ## 1.4. Governing Authority 
 
-[The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining and implementing the Governance Framework (GF). 
+[The Tenure and Resource Stewardship Branch (TRSB)](https://www2.gov.bc.ca/gov/content/industry/natural-gas-oil/petroleum-natural-gas-tenure) is the governing authority and party responsible for developing, maintaining, and implementing the Governance Framework (GF). 
 
 ## 1.5. Administering Authority
 
-[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/case-studies/emdt) is the Administering Authority on behalf of PricewaterhouseCoopers (PwC) during the pilot phase of development.
+[Energy and Mines Digital Trust (EMDT)](https://digital.gov.bc.ca/2024/06/25/energy-mines-digital-trust-pilot/) is the Administering Authority on behalf of TRSB during the pilot phase of development.
 
 The contact information for EMDT is:
-* 	**Name:** Kyle Robinson 
-* 	**Title:** Senior Strategic Advisor, Digital Trust Ecosystems
-* 	**Organization:** Briartech Consulting Inc.
-* 	**Email:** [kyle.robinson@briartech.ca](mailto:kyle.robinson@briartech.ca)
+* 	**Name:** Nancy Norris
+* 	**Title:** Senior Director, ESG & Digital Trust
+* 	**Organization:** [Energy and Mines Digital Trust](https://digital.gov.bc.ca/2024/06/25/energy-mines-digital-trust-pilot/), Ministry of Energy, Mines and Low Carbon Innovation
+* 	**Email:** [emdt@gov.bc.ca](mailto:emdt@gov.bc.ca)
 
 ## 1.6. Purpose
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving the Tenure and Resource Stewardship Branch (TRSB) with the open global community. The purpose of the rules is to enable all actors to understand agreed upon standards, terminology and processes that allow the community to interact with TRSB in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
+The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving the Tenure and Resource Stewardship Branch (TRSB) with the open global community. The purpose of the rules is to enable all actors to understand agreed-upon standards, terminology, and processes that allow the community to interact with TRSB in a trusted manner. This will help determine a governing framework and operating model for a global ecosystem that identifies how credentials can be issued, held, and verified. 
 
 ## 1.7. Scope 
 The Tenure and Resource Stewardship Branch (TRSB) is a participant in an open ecosystem and the focus of this framework is to describe the process TRSB uses for digital exchanges on Indy networks.
 
 ## 1.8. Objectives
 
-_This section states the high-level outcomes desired by the trust community through its adoption of the GF._
-
-1. SHOULD specify tangible, achievable results (e.g. SMART criteria and Fit-for-Purpose criteria).
-2. MUST only contain outcomes over which the GF has the authority and mechanisms to achieve within its
-scope.
-3. MUST be consistent with the principles of the GF (below).
+1) Outline legislative and administrative processes relevant to digital credential exchanges.
+2) Support digital business interaction/automation within the B.C. energy ecosystem.
 
 ## 1.9. Principles 
 
@@ -83,7 +70,7 @@ scope.
 TBD
 
 ## 1.11. Revisions
-TBD
+Draft version
 
 ## 1.12. Extensions
 
@@ -96,6 +83,7 @@ TBD
 
 ## 2.1. Glossary
 
+[ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
 *  **Credential Holders**: BC Petroleum and Natural Gas Operators
 *  **Title Holder**: In the [BC Petroleum & Natural Gas Title Credential Governance](https://github.com/bcgov/bc-vcpedia/blob/main/credentials/credential-bc-petroleum-natural-gas-title.md), the term title holder is used to reference a person and/or a company in whose name a PNG title document is recorded in the division records.
 
@@ -105,18 +93,18 @@ TBD
 
 ## 2.3. Trust Assurance and Certification
 
-TBD
+Development of digital technology is led by [British Columbia’s Digital Code of Practice](https://digital.gov.bc.ca/resources/digital-principles), applicable to all public service employees and contractors involved in and accountable for digital service delivery.
 
 ## 2.4. Governance Requirements
 
 ## 2.5. Business Requirements
 
-## 2.5.1. Establishment of Connection
+## 2.5.1. Establishment of Connection - Anoncred Credential Format
 
 1. The Tenure and Resource Stewardship Branch (TRSB) MUST send an invitation to the other business entity via email to initiate the exchange of information. 
 2. The receiving party MUST use the invitation in order to establish a secure connection.
 
-## 2.5.2. Issuance of BC Petroleum & Natural Gas Title Credential 
+## 2.5.2. Issuance of BC Petroleum & Natural Gas Title Credential  - Anoncred Credential Format
 
 Using the established connection, TRSB MUST issue a credential to the business entity.
 
@@ -127,9 +115,17 @@ Using the established connection, TRSB MUST issue a credential to the business e
 
 ## 2.6. Technical Requirements
 
-*MUST have an Hyperledger Aries compatible business wallet.*
+Technical requirements include both Json-LD and Anoncred formats to enable interoperability with multiple credential formats: 
+
+The Json-LD credential format is designed to meet W3C VCDM 2.0 requirements and is modeled for compliance with the [UN Transparency Protocol](https://uncefact.github.io/spec-untp/docs/about/) [Digital Conformity Credential](https://uncefact.github.io/spec-untp/docs/specification/ConformityCredential).
+
+The Anoncreds credential format enables the exchange of credential data between digital wallets once a trusted connection is established. 
 
 ## 2.6.1. Public DID of Tenure and Resource Stewardship Branch (TRSB)
+
+*Please note that the domain **digitaltrust.gov.bc.ca**  is currently under review, the following DID identifier is a placeholder until approval is granted*:
+
+DID: [did:web:test.digitaltrust.traceability.site:petroleum-and-natural-gas-act:director-of-petroleum-lands](https://test.digitaltrust.traceability.site/petroleum-and-natural-gas-act/director-of-petroleum-lands/did.json)
 
 Ledger | DID |
 --- | --- |
@@ -139,7 +135,7 @@ BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa |
 
 The [Freedom of Information and Protection of Privacy Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96165_00) sets out the access and privacy rights of individuals as they relate to the public sector in British Columbia.
 
-## 2.8. Inclusion, Equitability and Accessibility Requirement
+## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
 The [Accessible British Columbia Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/21019) informs [**AccessibleBC**](https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/accessibility/legislation/accessiblebc)
 
