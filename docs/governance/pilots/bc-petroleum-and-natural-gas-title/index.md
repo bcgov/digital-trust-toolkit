@@ -72,7 +72,8 @@ The Administering Authority on behalf of the Tenure and Resource Stewardship Bra
 * 	**Name:** Nancy Norris
 * 	**Title:** Senior Director, ESG & Digital Trust
 * 	**Organization:** [Energy and Mines Digital Trust](https://digital.gov.bc.ca/2024/06/25/energy-mines-digital-trust-pilot/), Ministry of Energy, Mines and Low Carbon Innovation
-* 	**Email:** Nancy.Norris@gov.bc.ca
+* 	**Email:** [emdt@gov.bc.ca](mailto:emdt@gov.bc.ca)
+
 
 ## 1.6 Purpose 
 
