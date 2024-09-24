@@ -150,7 +150,7 @@ The Court Services Branch uses a Hyperledger Aries-compatible business wallet, t
 Ledger details are as follows:
 |Environment|Ledger|Public DID|Credential Definitions|
 |---|---|---|---|
-|Production|[CANdy-prod](https://candyscan.idlab.org/home/CANDY_PROD)|TODO|TODO|
+|Production|[CANdy-prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/1561)|EmX9iHJrL7R6MBLH38QYp|EmX9iHJrL7R6MBLH38QYp:3:CL:1560:transcriber|
 |DEV|[CANdy-dev](https://candyscan.idlab.org/tx/CANDY_DEV/domain/34743)|RSDAVyaiUjFPCj245PoY3P|RSDAVyaiUjFPCj245PoY3P:3:CL:34742:transcriber|
 
 TODO: Include specific cred defs for each type of credential (e.g. Transcriber, Interpreter, etc)
