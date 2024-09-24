@@ -182,6 +182,8 @@ The Transcriber Credential issued to contractors from A2A is mapped as:
 9. A2A Contract End Date = contract_end_dateint
 10. A2A Criminal Record Check Expiry Date = criminal_record_expiry_dateint
 
+### OCA:
+[OCABundles/schema/bcgov-digital-trust/transcriber-contractor/README.md](https://github.com/bcgov/aries-oca-bundles/blob/main/OCABundles/schema/bcgov-digital-trust/transcriber-contractor/README.md)
 
 ## 2.7. Information Trust Requirements
 
