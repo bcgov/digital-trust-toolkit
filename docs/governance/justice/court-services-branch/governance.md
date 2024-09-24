@@ -153,14 +153,11 @@ Ledger details are as follows:
 |Production|[CANdy-prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/1561)|EmX9iHJrL7R6MBLH38QYp|EmX9iHJrL7R6MBLH38QYp:3:CL:1560:transcriber|
 |DEV|[CANdy-dev](https://candyscan.idlab.org/tx/CANDY_DEV/domain/34743)|RSDAVyaiUjFPCj245PoY3P|RSDAVyaiUjFPCj245PoY3P:3:CL:34742:transcriber|
 
-TODO: Include specific cred defs for each type of credential (e.g. Transcriber, Interpreter, etc)
-
-
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
 The proof request that uses the [Contractor Credential](../../employment/contractor-credential/governance.md) to allow access the A2A application is defined as:
 1. Attributes requested: Contractor Credential: user_id, company_name
 1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
-1. Restrictions: Contractor Credential: Issuer is CSB (TODO use production CSB cred_def listed above)
+1. Restrictions: Contractor Credential: Credential definition is EmX9iHJrL7R6MBLH38QYp:3:CL:1560:transcriber
 1. Revocation check: Contractor Credential is NOT revoked
   
 ## 2.6.1 Transcriber Credential Issuance Details
