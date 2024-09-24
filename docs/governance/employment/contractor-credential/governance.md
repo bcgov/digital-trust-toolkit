@@ -153,9 +153,6 @@ N/A - Each issuer will define their own implementation details
 |Production|[CANdy-prod](https://candyscan.idlab.org/tx/CANDY_PROD/domain/1560)|B8B9jho4L57A1f6MmXpAbu:2:contractor-credential:1.0|B8B9jho4L57A1f6MmXpAbu|
 |Dev|[CANdy-dev](https://candyscan.idlab.org/tx/CANDY_DEV/domain/34742)|9defyjkM6MX5zh2D5Mwo1U:2:contractor-credential:1.0|9defyjkM6MX5zh2D5Mwo1U|
 
-### 2.6.4 Overlays Capture Architecture (OCA) Bundle
-TODO
-
 ## 2.7. Information Trust Requirements
 Not applicable.
 
