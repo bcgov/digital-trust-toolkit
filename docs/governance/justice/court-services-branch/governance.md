@@ -156,7 +156,7 @@ Ledger details are as follows:
 ## 2.6.1 Access to Audio (A2A) Proof Request Details
 The proof request that uses the [Contractor Credential](../../employment/contractor-credential/governance.md) to allow access the A2A application is defined as:
 1. Attributes requested: Contractor Credential: user_id, company_name
-1. Predicate checks: Contractor Credential: today >= contract_start_dateint, Contractor Credential: today <= contract_end_dateint, Contractor Credential: today <= criminal_record_expiry_dateint
+1. Predicate checks: Contractor Credential: today is on or after contract_start_dateint, Contractor Credential: today is on or before contract_end_dateint, Contractor Credential: today is on or before criminal_record_expiry_dateint
 1. Restrictions: Contractor Credential: Credential definition is EmX9iHJrL7R6MBLH38QYp:3:CL:1560:transcriber
 1. Revocation check: Contractor Credential is NOT revoked
   
