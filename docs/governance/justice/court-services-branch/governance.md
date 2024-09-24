@@ -11,7 +11,7 @@ title: BC Court Services Branch
 This document articulates the governance framework for British Columbia (B.C.) Court Services Branch (CSB) as a participant in the open global community that exchanges verifiable credentials:
  - [(Layer Four Application of the Trust Over IP Foundation (ToIP) Model)](https://www.trustoverip.org/wp-content/toip-model/)
 
-***Acknowledgements*** <br>
+***Acknowledgements***
 The development of this documentation follows the governance framework created by the [Trust over IP Foundation (ToIP)](https://trustoverip.org/) [Governance Metamodel Specification](https://trustoverip.org/wp-content/uploads/ToIP-Governance-Metamodel-Specification-V1.0-2022-12-21.pdf) created by the [Governance Stack Working Group (GSWG)](https://wiki.trustoverip.org/display/HOME/Governance+Stack+Working+Group).
 
 ## 1.2. Terminology and Notation
