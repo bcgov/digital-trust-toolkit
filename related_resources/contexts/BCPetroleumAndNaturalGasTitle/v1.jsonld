@@ -1,0 +1,82 @@
+{
+  "@context": {
+    "@protected": true,
+
+    "url": "https://schema.org/url",
+      
+    "BCPetroleumAndNaturalGasTitleCredential": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/governance",
+    "Director": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#director",
+    "Law": "https://www.bclaws.gov.bc.ca/",
+
+    "LegalEntity": {
+      "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#legalentity",
+      "@context": {
+        "@protected": true,
+        "legalName": "https://schema.org/legalName",
+        "identifier": "https://schema.org/identifier"
+      }
+    },
+    "PetroleumAndNaturalGasTitle": {
+      "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#petroleumnaturalgastitle",
+      "@context": {
+        "@protected": true,
+
+        "area": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#area",
+        "term": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#term",
+        "caveats": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#caveats",
+        "titleType": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#titletype",
+        "titleNumber": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#titlenumber",
+        "originType": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#origintype",
+        "originNumber": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#originnumber"
+      }
+    },
+    
+    "Tract": {
+      "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#tract",
+      "@context": {
+        "@protected": true,
+
+        "zones": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#tractlocations",
+        "notes": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#tractnotes",
+        "rights": {
+          "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#tractrights",
+          "@context": {
+            "@protected": true,
+            "inclusion": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#rightinclusion"
+          }
+        }
+      }
+    },
+    
+    "Well": {
+      "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#well",
+      "@context": {
+        "@protected": true,
+
+        "surfaceLocation": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#surfacelocation"
+      }
+    },
+    
+    "TitleHolder": {
+      "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#titleholder",
+      "@context": {
+        "@protected": true,
+
+        "interest": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#interest"
+      }
+    },
+
+    "DrillingPermit": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#permit",
+    "PetroleumLease": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#lease",
+    "NaturalGasLease": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#lease",
+    "PetroleumAndNaturalGasLease": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#lease",
+
+    "Lessee": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#lessee",
+    "Licensee": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#licensee",
+    "Permittee": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#permittee",
+
+    "Petroleum": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#petroleum",
+    "NaturalGas": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/pilots/bc-petroleum-and-natural-gas-title/vocabulary#naturalgas"
+
+  }
+}
