@@ -141,15 +141,14 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 
 ### 2.6.1.1 Vocabulary
 - [Vocabulary file](vocabulary.md)
+- Context file (link TBD)
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
-- DID: [`did:web:bcgov.github.io:bc-vcpedia:applications:tenure-branch`](../tenure-branch/did.json)
+- DID: (TBD)
 
 ### 2.6.1.1 Examples
-- [No Signature](examples/draft-no-signature.jsonld)
-- [Embedded Signature](examples/draft-embedded-signature.jsonld)
-- [Enveloped Signature](examples/draft-enveloped-signature.jsonld)
+(TBD)
 
 ## 2.6.2 AnonCreds
 The Verifiable Credential format for this credential is [AnonCreds specification](https://hyperledger.github.io/anoncreds-spec/)
