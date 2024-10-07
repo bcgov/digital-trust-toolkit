@@ -8,7 +8,7 @@ title: BC Court Services Branch
 
 ## 1.1 Introduction
 
-This document articulates the governance framework for British Columbia (B.C.) Court Services Branch (CSB) as a participant in the open global community that exchanges verifiable credentials:
+This document articulates the Governance Framework (GF) for British Columbia (B.C.) Court Services Branch (CSB) as a participant in the open global community that exchanges verifiable credentials:
  - [(Layer Four Application of the Trust Over IP Foundation (ToIP) Model)](https://www.trustoverip.org/wp-content/toip-model/)
 
 ***Acknowledgements***
@@ -113,7 +113,7 @@ The operations and processes of the Court Services Branch are governed by the fo
 ## 2.5. Business Requirements
 
 ## 2.5.1. Establishment of Connection
-1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify identity of the Contractor and their association to the contract.
+1. The CSB Administrator MUST conduct a meeting (online or in-person) with the Contractor to verify the identity of the Contractor and their association to the contract.
 1. The CSB Administrator MUST select the user in the User Management screen of the Access to Audio (A2A) application to display the connect button for connecting to the Contractor's [BC Wallet](https://www2.gov.bc.ca/gov/content/governments/government-id/bc-wallet).
 1. The CSB Administrator WILL present the screen with the QR code (if online, via screen sharing) for the Contractor to scan the QR code with their BC Wallet App.
 1. The Contractor MUST accept the connection request from "BC Court Services" in the BC Wallet App. (If successful, the CSB Administrator can stop screen sharing at this point.)
@@ -145,7 +145,7 @@ In some cases, the CSB Administrator will need to remove the connection and revo
 4. Traction MUST remove the connection information associated to the user in the CSB Tenant.
 
 ## 2.6. Technical Requirements
-The Court Services Branch uses a Hyperledger Aries-compatible business wallet, therefore Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App.
+The Court Services Branch uses a Hyperledger Aries-compatible business wallet. Therefore, Contractors MUST also use a Hyperledger Aries-compatible wallet solution, specifically the BC Wallet App.
 
 Ledger details are as follows:
 |Environment|Ledger|Public DID|Credential Definitions|
