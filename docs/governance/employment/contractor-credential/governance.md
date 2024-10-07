@@ -7,7 +7,7 @@ title: Contractor Credential
 # 1. Primary Document
 
 ## 1.1 Introduction
-This document outlines the governance framework for the Contractor Credential, a digital credential designed to represent an active contract between a contractor and a specific organization. The Contractor Credential intends to provide a standardized, secure, and verifiable means of identifying and recognizing contractors who have a current contractual relationship with the organization. The structure of the credential is designed to encapsulate essential information, such as the contractor's identity, the contracting organization, and the contract's status, ensuring clarity and consistency in its representation across systems and processes.
+This document outlines the Governance Framework (GF) for the Contractor Credential, a digital credential designed to represent an active contract between a contractor and a specific organization. The Contractor Credential intends to provide a standardized, secure, and verifiable means of identifying and recognizing contractors who have a current contractual relationship with the organization. The structure of the credential is designed to encapsulate essential information, such as the contractor's identity, the contracting organization, and the contract's status, ensuring clarity and consistency in its representation across systems and processes.
 
 The Contractor Credential is designed to be issued by the Information Technology (IT) or Human Resources (HR) department during the contractor’s onboarding process. This credential serves as a versatile and standardized proof of the contractor’s status, allowing issuers and verifiers the flexibility to utilize it according to their specific needs.
 
@@ -52,7 +52,7 @@ The standard language for this Governance Framework (GF) is English.
 
 The Cybersecurity and Digital Trust (CDT) branch serves as the governing authority for this governance framework. Each issuer and verifier of the credential is responsible for defining the specific procedures for its issuance and verification.
 
-The contact information for the CPO is: 
+The contact information for the CDT is: 
 * 	**Name:** Jillian Carruthers
 * 	**Title:** Sr. Executive Director
 * 	**Organization:** Cybersecurity and Digital Trust
