@@ -26,7 +26,7 @@ Explore potential use cases for digital trust technology in your service area.
 
 </table>
 
-<!-- ![A screenshot of the Ideation Workshop activity in Miro](/img/deliverymanual/ideation_workshop "A screenshot of the Ideation Workshop activity in Miro") -->
+![A screenshot of the Ideation Workshop activity in Miro](/img/deliverymanual/ideation_workshop.png "A screenshot of the Ideation Workshop activity in Miro")
 
 ## Activity Guide
 This workshop template enables you to explore potential use cases for digital trust technology in the context of your organization. Use the Miro board to generate use case ideas, prioritize them and consider how aligned they are with your organization’s overarching goals.

@@ -4,7 +4,7 @@ sidebar_position: 4
 ---
 
 Explore potential use cases for digital trust technology in your service area.
-[Launch Miro Activity](/img/deliverymanual/Readiness_Checklist.docx)
+<!--[Launch Miro Activity](/img/deliverymanual/Readiness_Checklist.docx)-->
 
 <table>
 	<tr>
@@ -27,7 +27,7 @@ Explore potential use cases for digital trust technology in your service area.
 
 </table>
 
-<!-- ![A screenshot of the Readiness Checklist document](/img/deliverymanual/align_readiness_checklist "A screenshot of the Readiness Checklist document") -->
+![A screenshot of the Readiness Checklist document](/img/deliverymanual/align_readiness_checklist.png "A screenshot of the Readiness Checklist document")
 
 ## Activity Guide
 This checklist enables you to evaluate whether you’re ready to move your digital trust technology use case into the DISCOVER phase. Use the document above to assess your preparedness and ensure that you have everything you need to move ahead effectively.
