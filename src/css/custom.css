@@ -5,6 +5,16 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('@bcgov/design-tokens/css/variables.css');
+@import url('@bcgov/bc-sans/css/BC_Sans.css');
+
+body {
+  font-family: 'BCSans', 'Noto Sans', 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: normal;
+}
+
 :root {
   --ifm-color-primary: #003366;
 }
@@ -28,4 +38,22 @@
 
 .unstyled-link:hover {
   text-decoration: none;
+  color: #22272B;
+}
+
+a {
+  text-decoration: underline;
+  color: #255A90;
+}
+
+a.navbar__brand,
+a.navbar__link,
+a.menu__link,
+a.table-of-contents__link,
+a.pagination-nav__link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2378c7;
 }
