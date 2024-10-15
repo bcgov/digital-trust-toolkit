@@ -26,7 +26,7 @@ Determine your available resources, assign roles and identify gaps, risks and de
 
 </table>
 
-<!-- ![A screenshot of the Ecosystem Workshop activity in Miro](/img/deliverymanual/skillset_and_resource_assessment "A screenshot of the Ecosystem Workshop activity in Miro") -->
+![A screenshot of the Ecosystem Workshop activity in Miro](/img/deliverymanual/skillset_and_resource_assessment.png "A screenshot of the Ecosystem Workshop activity in Miro")
 
 ## Activity Guide
 This session helps you outline the roles each team member has in this project, who’s accountable for the completion of project tasks and who needs to be consulted and informed as the project progresses.
