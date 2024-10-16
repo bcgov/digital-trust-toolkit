@@ -1,3 +1,9 @@
 {
-  "issuers": []
+  "issuers": [
+    {
+      "id": "did:web:registry-dev.apps.silver.devops.gov.bc.ca:petroleum-and-natural-gas-act:director-of-petroleum-lands",
+      "name": "Director of Petroleum Lands",
+      "scope": "Petroleum and Natural Gas Act"
+    }
+  ]
 }
