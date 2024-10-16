@@ -9,6 +9,11 @@
       "id": "did:web:registry-dev.apps.silver.devops.gov.bc.ca:mines-act:chief-permitting-officer",
       "name": "Chief Permitting Officer",
       "scope": "Mines Act"
+    },
+    {
+      "id": "did:web:registry-dev.apps.silver.devops.gov.bc.ca:business-corporations-act:registrar-of-companies",
+      "name": "Registrar of Companies",
+      "scope": "Business Corporations Act"
     }
   ]
 }
