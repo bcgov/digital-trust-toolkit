@@ -33,10 +33,10 @@ The BC Wallet presents credentials using a common template that is tailored to t
 - The OCA (Overlay Capture Architecture) bundle specified for the credential. The elements of the credential – e.g., its colour, logo, name, attribute names – are defined in various “overlays”. Guidance for the content of the OCA bundle for BC Government credentials are specified in this section.
 
 *Example Credential - Simple View* <br></br>
-<img src="./example_credential-simple_view.png" width="200"></img>
+![A simple view of a credential, showing the given and family names of a person](./example_credential-simple_view.png)
 
 *Credential - Detail View (top)* <br></br>
-<img src="./credential-detail_view_(top).png" width="200"></img>
+![A detailed top view of a credential, showing the given and family names of a person](./credential-detail_view_(top).png)
 
 For more details on OCA bundle, see:
 - [Overlays Capture Architecture (OCA) For Aries](https://github.com/swcurran/aries-rfcs/tree/oca4aries/features/0755-oca-for-aries)
@@ -66,7 +66,7 @@ Two Overlays in the credential’s OCA bundle define affect how the credential�
 Attribute labels appear in credential offers, proof requests, and in the credential details screen of BC Wallet. In the example below, “Given Names” is the label of the credential attribute “given_names”, which has the value “Jamie”.
 
 *Credential - Detail View (top)* <br></br>
-<img src="credential-detail_view_(top).png" width="200"></img>
+![A detailed top view of a credential, showing the given and family names of a person](./credential-detail_view_(top).png)
 
 Labels are defined in the Attribute Overlay and are identified in OCA documentation with OL-LA.Labels are defined in the Attribute Overlay and are identified in OCA documentation with OL-LA.
 
@@ -118,7 +118,7 @@ Issuers can add a watermark to their credentials. The intention of this watermar
 - Watermarks should be a single short word
 
 *Example non-production credential* <br></br>
-<img src="./example_non-production_credential.png" width="200"></img>
+![A simple view of a non-production business licence credential, showing the businenss name and type](./example_non-production_credential.png)
 
 ### Unit Overlay
 *BC Wallet does not currently make use of this overlay but may in the future.*
@@ -156,10 +156,10 @@ When a credential is issued an person’s wallet, a Connection is often created 
 - In the Connections list of the BC Wallet, which is also where messages from the issuer are shown
 
 *Credential – Detail View (bottom)* <br></br>
-<img src="./credential-detail_view_(bottom).png" width="200"></img>
+![A detailed bottom view of a credential, showing information on the photo, expiry date, and issuer](./credential-detail_view_(bottom).png)
 
 *Message from Contact* <br></br>
-<img src="./message_from_contact.png" width="200"></img>
+![A view showing the messaging feature in conversation with another contact](./message_from_contact.png)
 
 This information is provided by the Issuer when the connection is created, from the DIDComm connection alias (as defined in the their_label field).
 
