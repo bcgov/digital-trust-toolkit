@@ -133,7 +133,6 @@ Using the established connection, TRSB MUST issue a credential to the business e
 
 Ledger | DID |
 --- | --- |
-BCovrin Test | 4uVA6nbXMGWYLE6hq99aDa |
 
 ## 2.7. Information Trust Requirements
 
