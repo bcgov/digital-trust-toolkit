@@ -2,7 +2,7 @@
     "@context": {
         "@protected": true,
         "BCMinesActPermitCredential": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/mining/bc-mines-act-permit/1.1.1",
-        "BCMinesActPermit": {
+        "MinesActPermit": {
             "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/mining/bc-mines-act-permit/1.1.1",
             "@context": {
                 "@protected": true,
