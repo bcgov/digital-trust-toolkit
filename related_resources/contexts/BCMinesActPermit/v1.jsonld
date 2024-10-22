@@ -6,7 +6,7 @@
             "@id": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/mining/bc-mines-act-permit/1.1.1#17-scope",
             "@context": {
                 "@protected": true,
-                "permitNumber": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/mining/bc-mines-act-permit/1.1.1#permitNumber"
+                "permitNumber": "https://bcgov.github.io/digital-trust-toolkit/docs/governance/mining/bc-mines-act-permit/1.1.1/governance/#permitNumber"
             }
         }
     }
