@@ -1,6 +1,6 @@
 ---
-sidebar_position: 
-description: Justice
+sidebar_position: 6
+description: Justice Ecosystem
 ---
 
 # Justice Ecosystem
