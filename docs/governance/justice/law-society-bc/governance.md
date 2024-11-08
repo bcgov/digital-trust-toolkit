@@ -153,9 +153,9 @@ Ledger details are as follows:
 1.1 Credential definition is revocable
 
 1. Paralegals are issued credentials where:
-1.1 Schema is [Professional Credential](../../employment/contractor-credential/governance.md)
-1.1 Tag for the credential definition is "paralegal"
-1.1 Credential definition is revocable
+1.1. Schema is [Professional Credential](../../employment/contractor-credential/governance.md)
+1.1. Tag for the credential definition is "paralegal"
+1.1. Credential definition is revocable
 
 1. Notaries Public are issued credentials where:
 1.1 Schema is [Professional Credential](../../employment/contractor-credential/governance.md)
