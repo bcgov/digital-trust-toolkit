@@ -1,3 +1,0 @@
-# Applications
-
-Description here
