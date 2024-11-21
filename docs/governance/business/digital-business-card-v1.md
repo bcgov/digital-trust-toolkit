@@ -1,6 +1,6 @@
 # Digital Business Card Credential Documentation
 
-## About this Credential
+## About this Document
 
 This document describes the Digital Business Card verifiable credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
 
