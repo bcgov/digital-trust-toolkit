@@ -1,3 +1,14 @@
 {
-  "issuers": []
+  "issuers": [
+    {
+      "id": "did:web:registry-test.apps.silver.devops.gov.bc.ca:petroleum-and-natural-gas-act:director-of-petroleum-lands",
+      "name": "Director of Petroleum Lands",
+      "scope": "Petroleum and Natural Gas Act"
+    },
+    {
+      "id": "did:web:registry-test.apps.silver.devops.gov.bc.ca:mines-act:chief-permitting-officer",
+      "name": "Chief Permitting Officer",
+      "scope": "Mines Act"
+    }
+  ]
 }
