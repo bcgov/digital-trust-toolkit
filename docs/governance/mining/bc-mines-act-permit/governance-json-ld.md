@@ -139,26 +139,15 @@ The primary use of the B.C. Mines Act Permit credential is for credential holder
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [JSON-LD specification](https://www.w3.org/TR/json-ld11/) and is compliant with [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
 
-## 2.6.1 Schema Definition
+## 2.6.1 Context Files
+- [BCMinesActPermit, version 1](https://github.com/bcgov/digital-trust-toolkit/blob/main/related_resources/contexts/BCMinesActPermit/v1.jsonld)
+  - which extends the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
 
-__Schema Name:__ bc-mines-act-permit-published
-
-__Schema Version:__ 1.0 
-
-This schema definition follows [JSON-LD specification](https://www.w3.org/TR/json-ld11/)
-
-### 2.6.2. Credential Implementation
-
-
-### 2.6.3 Schema Implementation
-
-
-### 2.6.4 Overlays Capture Architecture (OCA) Bundle
-
+### 2.6.2 Overlays Capture Architecture (OCA) Bundle
+Currently under development.
 
 ## 2.7. Information Trust Requirements
-
-*Discussion of DID:TDW Server?*
+Not applicable.
 
 ## 2.8. Inclusion, Equitability, and Accessibility Requirements
 
@@ -169,7 +158,6 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-
-N/A
+Not applicable.
 
 # End of Document
