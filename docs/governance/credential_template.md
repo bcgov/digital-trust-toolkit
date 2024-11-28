@@ -1,4 +1,4 @@
-# Name(s) of the Credential(s) – Credential Documentation
+# _Name(s) of the Credential(s)_ – Credential Documentation
 
 ## About this Document
 
@@ -12,7 +12,7 @@ This document describes the _Name(s) of the Credential(s)_ to help potential ver
 
 ## Credential Overview
 
-A paragraph summarizing what the Credential(s) is, its purpose, and other notable information.
+_A paragraph summarizing what the Credential(s) is, its purpose, and other notable information._
 
 ### Credential Details
 
@@ -68,26 +68,26 @@ _Person credential Terms of Use._
 _Where the data in the credential comes from, and how the issuer ensures that it is correct when collected._
 
 ### Data Updates
-How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below.
+_How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below.
 
 ### Issuance
-Describes the process for issuing the credential sufficiently that a prospective verifier will have a good sense of how the issuer ensures that the credential is issued to only the correct party. This should include how the prospective holder is identified and authenticated before being issued a credential. This may reference the Data Source(s) section in explaining how the holder will have a credential with correct data.  
+_Describes the process for issuing the credential sufficiently that a prospective verifier will have a good sense of how the issuer ensures that the credential is issued to only the correct party. This should include how the prospective holder is identified and authenticated before being issued a credential. This may reference the Data Source(s) section in explaining how the holder will have a credential with correct data._
 
-Also: if the credential is issued to individuals or organizations, indicate what type(s) of wallets (e.g., BC Wallet) the credential will be issued to, or if the credential will be issued to any brand or type of wallet.
+_Also: if the credential is issued to individuals or organizations, indicate what type(s) of wallets (e.g., BC Wallet) the credential will be issued to, or if the credential will be issued to any brand or type of wallet._
 
 ### Revocation
-Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder.
+_Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder._
 
-- A Person credential will be revoked in the following cases:  
+- The credential will be revoked in the following cases:
   ...
-- A Person credential will be revoked and re-issued in the following cases:  
+- A credential will be revoked and re-issued in the following cases:
   ...
 
 ## Credential Definition
 
 ### Subject
-The type of entity – e.g., a person, company, title – that is described by the attributes.
+_The type of entity – e.g., a person, company, title – that is described by the attributes._
 
-The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential.
+_The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential._
 
 ### 
