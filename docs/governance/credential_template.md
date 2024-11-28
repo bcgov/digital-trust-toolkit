@@ -1,0 +1,93 @@
+# Name(s) of the Credential(s) – Credential Documentation
+
+## About this Document
+
+This document describes the _Name(s) of the Credential(s)_ to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
+
+## Version History
+
+| Ver. | Date | Notes |
+|------|------|-------|
+| 1.0  |      |       |
+
+## Credential Overview
+
+A paragraph summarizing what the Credential(s) is, its purpose, and other notable information.
+
+### Credential Details
+
+- **Name(s) of the Credential(s):** _Names(s) of the Credential(s)_
+- **Issuer:** _Issuer of the Credential(s)_
+- **Holders:** _Summary of who is eligible to be issued the Credential(s)_
+- **Data Source:** _Summary of the source(s) of the information in the credential(s)_
+- **Issuer DID:** _DID of the Issuer_
+- **Format:** _Technical format, e.g., AnonCreds, W3C_
+- **Schema:**  
+  - _Name, version, and address of the Schema_
+  - _Documentation of the Schema, if available_
+- **Credential Definition:**  
+  - _Name, version, and address of the credential definition_
+- **Data Registry:** _Registry address_
+- **OCA:** _Link to the Overlay Capture Architecture bundle for this credential_
+
+### Attribute Summary
+
+| Display Name of Attribute | Attribute       | Data Type |
+|---------------------------|-----------------|-----------|
+| Given Names               | `given_names`  | string    |
+| Family Name               | `family_name`  | string    |
+| Date of Birth             | `birthdate_dateint` | integer  |
+| ...                       | ...             | ...       |
+
+## Governance & Legal
+
+### Governing Authority & Administrative Authority
+_The governing body with the authority to issue and revoke the credential(s), including contact information unless an administrative authority is intended to be the contact.  
+[https://glossary.trustoverip.org/#term:governing-body]_
+
+_The Ministry of Citizens’ Services, as the Provincial Identity Information Services Provider as defined in section 69.2 of the Freedom of Information and Access to Information Act, is the governing authority for the BC Person credential._
+
+_If different than the Governing Authority, the administrative body that has been delegated operational responsibilities by the governing authority, including contact information.  
+[https://glossary.trustoverip.org/#term:administering-body]  _
+
+_Within the Ministry of Citizens’ Services, the Cybersecurity and Digital Trust Branch and the Service BC Division have operational responsibility for the BC Person credential._
+
+### Legal
+
+#### For Verifiers
+_A statement – included or linked to – limiting the liability of the issuer (and, if different, the governing and administrative authorities) for any harms suffered by parties that accept the credential._
+
+#### For End Users
+_A statement – included or linked to – limiting the liability of the issuer (and, if different, the governing and administrative authorities) for any harms suffered by parties that are issued the credential. This will often be presented to end users during the issuance process._
+
+_Person credential Terms of Use._
+
+## Credential Data, Issuance, and Changes
+
+### Data Source(s)
+_Where the data in the credential comes from, and how the issuer ensures that it is correct when collected._
+
+### Data Updates
+How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below.
+
+### Issuance
+Describes the process for issuing the credential sufficiently that a prospective verifier will have a good sense of how the issuer ensures that the credential is issued to only the correct party. This should include how the prospective holder is identified and authenticated before being issued a credential. This may reference the Data Source(s) section in explaining how the holder will have a credential with correct data.  
+
+Also: if the credential is issued to individuals or organizations, indicate what type(s) of wallets (e.g., BC Wallet) the credential will be issued to, or if the credential will be issued to any brand or type of wallet.
+
+### Revocation
+Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder.
+
+- A Person credential will be revoked in the following cases:  
+  ...
+- A Person credential will be revoked and re-issued in the following cases:  
+  ...
+
+## Credential Definition
+
+### Subject
+The type of entity – e.g., a person, company, title – that is described by the attributes.
+
+The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential.
+
+### 
