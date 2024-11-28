@@ -80,7 +80,7 @@ _Describes the circumstances – either specifically or in general – that woul
 
 - The credential will be revoked in the following cases:
   ...
-- A credential will be revoked and re-issued in the following cases:
+- The credential will be revoked and re-issued in the following cases:
   ...
 
 ## Credential Definition
