@@ -109,14 +109,13 @@ N/A
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-[ToIP Core Glossary](https://glossary.trustoverip.org/)
-
-*add glossary needed for JSON-LD here too*
-
-[B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-*  **Credential Holders**: The holder of a credential issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
-*  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
-* 	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
+ - [ToIP Core Glossary](https://glossary.trustoverip.org/)
+ - [UNTP Conformity Credential ](https://jargon.sh/user/unece/ConformityCredential/v/0.5.0/artefacts/readme/render)
+ - [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
+ - [B.C. Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
+   - **Credential Holders**: The holder of a credential issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10)
+   -  **Major Mines**: Moderate to large-scale mineral and coal mining operations.
+   -  	**Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
 
 ## 2.2. Risk Assessment
 In accordance with B.C. government procedures and policies, the standard [Privacy Impact Assessment (PIA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy/privacy-impact-assessments) and [Security Threat and Risk Assessment (STRA)](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/security-threat-and-risk-assessment) processes have been completed for the use of this credential technology.
