@@ -125,9 +125,8 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 
 ## 2.4. Governance Requirements
 
-Legislation and regulations govern the disposition, administration, and management of mines in B.C. 
-[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01).
-
+Legislation and regulations govern the disposition, administration, and management of mines in B.C.
+- **[The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01)**
 - **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
 - **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
@@ -138,7 +137,7 @@ The primary use of the B.C. Mines Act Permit credential is to provide evidence o
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [JSON-LD specification](https://www.w3.org/TR/json-ld11/) and is compliant with [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
 
-## 2.6.1 Context Files
+### 2.6.1 Context Files
 - [BCMinesActPermit, version 1](https://github.com/bcgov/digital-trust-toolkit/blob/main/related_resources/contexts/BCMinesActPermit/v1.jsonld)
   - which extends the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
 
