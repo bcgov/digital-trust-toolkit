@@ -2,7 +2,7 @@
 
 ## 1. About this Document
 
-This document describes the Legal Professional to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
+This document describes the Legal Professional credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
 
 ### 1.1 Version History
 
@@ -44,7 +44,7 @@ _A paragraph summarizing what the Credential(s) is, its purpose, and other notab
 ## 3. Governance & Legal
 
 ### 3.1 Governing Authority & Administrative Authority
-The Law Society of British Columbia, as defined in the Legal Profession Act, is the governing authority and administrative authority for the Legal Professional credential.
+The Law Society of British Columbia, as defined in the [Legal Profession Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98009_01), is the governing authority and administrative authority for the Legal Professional credential.
 [https://glossary.trustoverip.org/#term:governing-body]
 [https://glossary.trustoverip.org/#term:administering-body]
 
