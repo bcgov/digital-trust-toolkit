@@ -58,7 +58,7 @@ Mines Digital Services is the administering authority on behalf of the Major Min
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the B.C. Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for using verifiable credentials, including but not limited to, credential exchanges involving [the B.C. Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
 
 ## 1.7 Scope
 
@@ -132,7 +132,7 @@ The Anoncreds credential format enables the exchange of credential data between 
 ## 2.5.2. Major Mines Operating Permit Issuance - Anoncreds Exchange
 
 1.	The Mine Manager MUST look up the authorizations and permits for the selected mine within MineSpace to display the request button for an operating permit.
-1.  The Mine Manager MUST select the permit that is desired as a credential.
+1. The Mine Manager MUST select the permit that is desired as a credential.
 1.	Traction SHALL offer the credential to the Company’s organizational wallet.
 1.	The organizational wallet MUST display offer details to the Mine Manager. 
 1.	The Mine Manager MUST review the credential offer.
@@ -141,6 +141,13 @@ The Anoncreds credential format enables the exchange of credential data between 
 1.	Traction MUST notify Core if the offer is declined.
 
 ## 2.5.3. Publishing Mining Permit Data to OrgBook BC - JSON-LD Credentials
+
+Automated process takes credential data from MDS and creates JSON-LD credentials that are published to Orgbook BC scheduled for weekly deployments. Data MUST meet the following requirements in order to be published:
+1. Party is related to an Orgbook BC entity
+2. Party is assigned as a permittee to the permit on the date of the amendment issued
+3. The permit is associated with a major mine
+4. The permit has status "open"
+5. The permit is not an Exploration Permit
 
 ## 2.6. Technical Requirements
 Technical requirements include both JSON-LD and Anoncreds verifiable credential formats to enable interoperability of credential data. 
