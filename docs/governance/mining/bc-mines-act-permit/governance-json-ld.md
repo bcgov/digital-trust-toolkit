@@ -142,7 +142,11 @@ The format for this credential is [JSON-LD specification](https://www.w3.org/TR/
 - [BCMinesActPermit, version 1](https://github.com/bcgov/digital-trust-toolkit/blob/main/related_resources/contexts/BCMinesActPermit/v1.jsonld)
   - which extends the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
 
-### 2.6.2 Overlays Capture Architecture (OCA) Bundle
+### 2.6.2 Issuers
+Chief Permitting Officer (Mines Act)
+ - [did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer (TEST)](https://dev.uniresolver.io/#did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer)
+
+### 2.6.3 Overlays Capture Architecture (OCA) Bundle
 Currently under development.
 
 ## 2.7. Information Trust Requirements
