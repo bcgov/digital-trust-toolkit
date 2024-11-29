@@ -24,7 +24,7 @@ _A paragraph summarizing what the Credential(s) is, its purpose, and other notab
 | **Data Source:**        | _Summary of the source(s) of the information in the credential(s)_             |
 | **Issuer DID:**         | _DID of the Issuer_                                                            |
 | **Format:**             | _Technical format, e.g., AnonCreds, W3C_                                       |
-| **Schema:**             | - _Name, version, and address of the Schema_<br>- _Documentation of the Schema, if available_ |
+| **Schema:**             | - _Name, version, and address of the Schema_ _Documentation of the Schema, if available_ |
 | **Credential Definition:** | - _Name, version, and address of the credential definition_                  |
 | **Data Registry:**      | _Registry address_                                                             |
 | **OCA:**                | _Link to the Overlay Capture Architecture bundle for this credential_          |
