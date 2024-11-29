@@ -133,7 +133,7 @@ Legislation and regulations govern the disposition, administration, and manageme
 
 ## 2.5. Business Requirements
 
-The primary use of the B.C. Mines Act Permit credential is for credential holders within B.C. to provide evidence of permit issuance from the province according to [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
+The primary use of the B.C. Mines Act Permit credential is to provide evidence of permit issuance from the province to a registered business entity according to the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
 The format for this credential is [JSON-LD specification](https://www.w3.org/TR/json-ld11/) and is compliant with [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
@@ -161,6 +161,6 @@ The [Diversity & Inclusion Strategy for the BC Public Service](https://www2.gov.
 The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/19044) establishes the United Nations Declaration on the Rights of Indigenous Peoples (UN Declaration) as B.C.’s framework for reconciliation that respects the human rights of Indigenous Peoples.
 
 ## 2.9. Legal Agreements
-Not applicable.
+Data published by the province is provided under the [Access Only Data Terms and Conditions](https://bcgov.github.io/data-publication/pages/faq.html#data-publication-licensing-options---open-dataaccess-only).
 
 # End of Document
