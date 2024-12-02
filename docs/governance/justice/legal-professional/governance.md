@@ -67,9 +67,7 @@ _Where the data in the credential comes from, and how the issuer ensures that it
 _How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below._
 
 ### 4.3 Issuance
-_Describes the process for issuing the credential sufficiently that a prospective verifier will have a good sense of how the issuer ensures that the credential is issued to only the correct party. This should include how the prospective holder is identified and authenticated before being issued a credential. This may reference the Data Source(s) section in explaining how the holder will have a credential with correct data._
-
-_Also: if the credential is issued to individuals or organizations, indicate what type(s) of wallets (e.g., BC Wallet) the credential will be issued to, or if the credential will be issued to any brand or type of wallet._
+The legal professional MUST login to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Legal Professional credential is issued to the BC Wallet based on the account information associated to the logged in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
 
 ### 4.4 Revocation
 _Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder._
