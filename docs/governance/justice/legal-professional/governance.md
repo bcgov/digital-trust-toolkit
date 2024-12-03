@@ -13,6 +13,7 @@ This document describes the Legal Professional credential to help potential veri
 ## 2. Credential Overview
 
 _A paragraph summarizing what the Credential(s) is, its purpose, and other notable information._
+Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 
 ### 2.1 Credential Details
 
@@ -27,7 +28,7 @@ _A paragraph summarizing what the Credential(s) is, its purpose, and other notab
 | **Schema:**             | - _Name, version, and address of the Schema_ _Documentation of the Schema, if available_ |
 | **Credential Definition:** | - _Name, version, and address of the credential definition_                  |
 | **Data Registry:**      | CANdy                                                              |
-| **OCA:**                | _Link to the Overlay Capture Architecture bundle for this credential_          |
+| **OCA:**                | TODO [Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)          |
 
 
 ### 2.2 Attribute Summary
