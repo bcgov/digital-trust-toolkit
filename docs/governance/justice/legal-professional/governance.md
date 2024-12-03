@@ -36,7 +36,7 @@ _A paragraph summarizing what the Credential(s) is, its purpose, and other notab
 |---------------------------|-----------------|-----------|
 | Given Name                | `Given Name`    | string    |
 | Surname                   | `Surname`       | string    |
-| Public Person ID          | `PPID`          | integer  |
+| Public Person ID          | `PPID`          | string  |
 | Member Status             | `Member Status` | string    |
 | Member Status Code        | `Member Status Code`  | string    |
 | Credential Type           | `Credential Type` | string    |
@@ -102,7 +102,7 @@ _A list of all the attributes in the credential, with a table describing each at
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
 | **Display Name**         | Given Name; Surname |
-| **Description**          | The name on file with the Law Society that the legal professional operates under. This may be different than the person's legal name. |
+| **Description**          | The legal name on file with the Law Society of the legal professional. |
 | **Attribute**            | Given Name; Surname |
 | **Data Type**            | string; string |
 | **Format**               | text |
@@ -116,9 +116,9 @@ _A list of all the attributes in the credential, with a table describing each at
 | **Description**          | The Public Person ID is the unique identifier for the legal professional registered with the Law Society. This is NOT the number on the Certificate issued to the legal professional. |
 | **Attribute**            | PPID |
 | **Data Type**            | string |
-| **Format**               | numeric |
-| **Rules**                | N/A |
-| **Examples**             | 238946 |
+| **Format**               | alphanumeric |
+| **Rules**                | The prefix will always be MC |
+| **Examples**             | MC238946 |
 | **Notes**                | None |
 
 | **Field**               | **Description**                                                                                                       |
@@ -130,7 +130,7 @@ _A list of all the attributes in the credential, with a table describing each at
 | **Format**               | text |
 | **Rules**                | N/A |
 | **Examples**             | PRAC;Practicing |
-| **Notes**                | None |
+| **Notes**                | Only the PRAC;Practicing status is used for valid issued credentials. Other statuses are revoked. |
 
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
