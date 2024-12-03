@@ -80,7 +80,11 @@ _Describes the circumstances – either specifically or in general – that woul
 ## 5. Credential Definition
 
 ### 5.1 Subject
-_The type of entity – e.g., a person, company, title – that is described by the attributes._
+Lawyers are issued credentials where:
+- Schema is Legal Professional Credential
+- Tag for the credential definition is "lawyer"
+- Credential definition is revocable
+
 
 _The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential._
 
