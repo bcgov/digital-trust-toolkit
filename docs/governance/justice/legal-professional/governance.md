@@ -81,7 +81,7 @@ _Describes the circumstances – either specifically or in general – that woul
 ## 5. Credential Definition
 
 ### 5.1 Subject
-The subject of a Person credential is the individual to whom it was issued, where that individual is legal professional registered with the Law Society of B.C.
+The subject of this credential is the individual to whom it was issued, where that individual is legal professional registered with the Law Society of B.C.
 
 ### 5.2 Attributes 
 _A list of all the attributes in the credential, with a table describing each attribute. Subheadings and notes may be used to provide information that applies to a group of attributes, e.g., “Name” to describe Given Names and Family Name, “Address” to describe the set of address attributes._
