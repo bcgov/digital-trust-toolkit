@@ -61,7 +61,7 @@ _Person credential Terms of Use._
 ## 4. Credential Data, Issuance, and Changes
 
 ### 4.1 Data Source(s)
-_Where the data in the credential comes from, and how the issuer ensures that it is correct when collected._
+- Law Society Member Portal connected to the database of registered legal professionals
 
 ### 4.2 Data Updates
 _How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below._
@@ -85,9 +85,6 @@ Lawyers are issued credentials where:
 - Tag for the credential definition is "lawyer"
 - Credential definition is revocable
 
-
-_The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential._
-
 ### 5.2 Attributes 
 _A list of all the attributes in the credential, with a table describing each attribute. Subheadings and notes may be used to provide information that applies to a group of attributes, e.g., “Name” to describe Given Names and Family Name, “Address” to describe the set of address attributes._
 
@@ -104,11 +101,44 @@ _A list of all the attributes in the credential, with a table describing each at
 
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
-| **Display Name**         |  |
-| **Description**          |  |
-| **Attribute**            |  |
-| **Data Type**            |  |
-| **Format**               |  |
-| **Rules**                |  |
-| **Examples**             |  |
-| **Notes**                |  |
+| **Display Name**         | Given Name; Surname |
+| **Description**          | The name on file with the Law Society that the legal professional operates under. This may be different than the person's legal name. |
+| **Attribute**            | Given Name; Surname |
+| **Data Type**            | string; string |
+| **Format**               | text |
+| **Rules**                | N/A |
+| **Examples**             | John Robert; Smith |
+| **Notes**                | None |
+
+| **Field**               | **Description**                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
+| **Display Name**         | Public Person ID |
+| **Description**          | The Public Person ID is the unique identifier for the legal professional registered with the Law Society. This is NOT the number on the Certificate issued to the legal professional. |
+| **Attribute**            | PPID |
+| **Data Type**            | string |
+| **Format**               | numeric |
+| **Rules**                | N/A |
+| **Examples**             | 238946 |
+| **Notes**                | None |
+
+| **Field**               | **Description**                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
+| **Display Name**         | Member Status; Member Status Code |
+| **Description**          | The Member Status and Member Status Code indicate the current status for the legal professional according to the Law Society policies.<br/>  Member Status Code; Member Status (PRAC;Practicing, NPRAC;Non-Practicing, RETI;Retired, FORM;Former) |
+| **Attribute**            | Member Status; Member Status Code |
+| **Data Type**            | string |
+| **Format**               | text |
+| **Rules**                | N/A |
+| **Examples**             | PRAC;Practicing |
+| **Notes**                | None |
+
+| **Field**               | **Description**                                                                                                       |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
+| **Display Name**         | Credential Type |
+| **Description**          | The Credential Type indicates the type of legal professional credential issued. (Lawyer)|
+| **Attribute**            | Credential Type |
+| **Data Type**            | string |
+| **Format**               | text |
+| **Rules**                | N/A |
+| **Examples**             | Lawyer |
+| **Notes**                | None |
