@@ -135,7 +135,7 @@ Legislation and regulations govern the disposition, administration, and manageme
 The primary use of the B.C. Mines Act Permit credential is to provide evidence of permit issuance from the province to a registered business entity according to the [B.C. Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.6. Technical Requirements (Credential)
-The format for this credential is [JSON-LD specification](https://www.w3.org/TR/json-ld11/) and is compliant with [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
+The format for this credential is [JSON-LD specification](https://www.w3.org/TR/json-ld11/) and is compliant with [W3C Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
 
 ### 2.6.1 Context Files
 - [BCMinesActPermit, version 1](https://github.com/bcgov/digital-trust-toolkit/blob/main/related_resources/contexts/BCMinesActPermit/v1.jsonld)
