@@ -153,7 +153,7 @@ Automated process takes data from Mines Digital Services (MDS) and creates W3C V
 Technical requirements include both W3C Verifiable Credential and Anoncreds digital credential formats to enhance interoperability and use case adoption. 
  - [W3C Verifiable Credential](https://www.w3.org/TR/vc-data-model-2.0/) records are published to [OrgBook BC](https://orgbook.gov.bc.ca/about/orgbook-data)
    - intended to extend the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
- -  [AnonCreds credentials](https://wiki.hyperledger.org/display/anoncreds) enable the exchange of credential data between digital wallets once a trusted connection is established. The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
+ -  [AnonCreds credentials](https://wiki.hyperledger.org/display/anoncreds) enable the exchange of claims between digital wallets through an established and trusted connection. The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
     - [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
 
 ## 2.7. Information Trust Requirements
