@@ -95,7 +95,7 @@ N/A
 ## 2.1. Glossary
  - [ToIP Core Glossary](https://glossary.trustoverip.org/)
  - [UNTP Conformity Credential ](https://jargon.sh/user/unece/ConformityCredential/v/0.5.0/artefacts/readme/render)
- - [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld)
+ - [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0)
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
 *  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
