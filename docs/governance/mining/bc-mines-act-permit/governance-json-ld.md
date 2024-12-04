@@ -11,7 +11,7 @@ title: BC Mines Act Permit - Published
 [The Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) regulates mining activities in British Columbia (B.C.) A permit must be in place before any work in, on, or about a mine in B.C. can occur. 
 A B.C. Mines Act Permit credential published according to this Governance Framework (GF) provides evidence that a mining permit has been issued to a registered business in the province of B.C.
 
-Published B.C. Mines Act Permit data uses digital credential technology in the format of [Verifiable Credential](https://www.w3.org/TR/vc-data-model-2.0/) which expresses linked data that is both human and machine-readable. An important feature of publishing public data using [JSON-LD](https://json-ld.org/) is the ability to enable compliance with international standards like the [UN Transparency Protocol (UNTP)](https://uncefact.github.io/spec-untp/).
+Published B.C. Mines Act Permit data uses digital credential technology in the format of [W3C Verifiable Credential](https://www.w3.org/TR/vc-data-model-2.0/) which expresses linked data that is both human and machine-readable. An important feature of publishing public data using this format is the ability to enable compliance with international standards like the [UN Transparency Protocol (UNTP)](https://uncefact.github.io/spec-untp/).
 
 Further information about B.C. mines and permits can be found online: 
  - [B.C. Mine Information](https://mines.nrs.gov.bc.ca/) 
