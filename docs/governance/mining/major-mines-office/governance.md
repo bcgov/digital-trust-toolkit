@@ -16,7 +16,7 @@ The development of this documentation follows the governance framework created b
 
 ## 1.2. Terminology and Notation
 
-Please reference [Glossary - General Trust Over IP Terms](https://trustoverip.github.io/toip/glossary).
+Please reference [Glossary - General Trust Over IP Terms](https://glossary.trustoverip.org/).
 
 **Requirements** include any combination of Machine-Testable Requirements and Human-Auditable Requirements. Unless otherwise stated, all Requirements MUST be expressed as defined in [RFC 2119](https://www.rfc-editor.org/rfc/rfc2119).
 
@@ -58,7 +58,7 @@ Mines Digital Services is the administering authority on behalf of the Major Min
 
 ## 1.6 Purpose 
 
-The purpose of this governance framework is to describe the rules/policies/procedures for verifiable credential exchanges involving [the B.C. Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
+The purpose of this governance framework is to describe the rules/policies/procedures for using verifiable credentials, including but not limited to, credential exchanges involving [the B.C. Major Mines Office (MMO)](https://mines.nrs.gov.bc.ca/authorizations) with the open global community. This description enables participants to understand agreed-upon standards, terminology, and processes that allow the community to interact with the MMO in a trusted manner. 
 
 ## 1.7 Scope
 
@@ -74,7 +74,7 @@ The purpose of this governance framework is to describe the rules/policies/proce
 [The BC Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/corporate-values) has one overarching corporate value, __Integrity__, and 6 core corporate values: Curiosity, Service, Passion, Teamwork, Accountability, and Courage. __Integrity__ is placed above all the other values as a quality that affirms the [Standards of Conduct for the B.C. Public Service](https://www2.gov.bc.ca/gov/content/careers-myhr/about-the-bc-public-service/ethics-standards-of-conduct/standards-of-conduct).
 
 ## 1.10 General Requirements
-Mining activities in British Columbia are subject to a variety of different provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00).
+Mining activities in British Columbia are subject to various provincial and federal regulations. The main pieces of legislation that govern major mines in B.C. are the [Environmental Assessment Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/18051), [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01) and [the Environmental Management Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/03053_00).
 - **[B.C. Mine Information](https://mines.nrs.gov.bc.ca/)**
 - **[B.C. Mine Authorizations](https://mines.nrs.gov.bc.ca/authorizations)**
 
@@ -93,10 +93,11 @@ N/A
 # 2. Controlled Documents
 
 ## 2.1. Glossary
-[ToIP Core Glossary](https://trustoverip.github.io/toip/glossary)
+ - [ToIP Core Glossary](https://glossary.trustoverip.org/)
+ - [UNTP Conformity Credential ](https://jargon.sh/user/unece/ConformityCredential/v/0.5.0/artefacts/readme/render)
+ - [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0)
 
 [BC Mines Act Definitions](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section1)
-
 *  **Credential Holders**: The holder of a permit issued under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10).
 *  **Major Mines**: Moderate to large-scale mineral and coal mining operations. 
 *  **Major Mines Office (MMO)**: The branch within the Ministry responsible for managing and issuing construction and operations permits under [section 10 of the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01#section10) for major mines in B.C.
@@ -117,28 +118,43 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 The operations and processes of the Major Mines Office are governed by [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.5. Business Requirements
+Technical requirements include both W3C Verifiable Credential and AnonCred formats to enable interoperability with multiple frameworks:
+The W3C Verifiable Credential format is designed to meet compliance with the UN Transparency Protocol Digital Conformity Credential.
+The AnonCreds format enables the exchange of claims between digital wallets through an established and trusted connection.
 
-## 2.5.1. Establishment of Connection
+## 2.5.1. Establishment of Connection - Anoncreds Exchange
 
 1. The Mine Manager of the interested mining company MUST log into the MineSpace portal to request a single-use invitation link to connect with the Chief Permitting Officer of Mines for the B.C. government.
 2. After selecting the specific mine from the MineSpace home screen, The Mine Manager MUST request a single-use invitation link for the required mining company (based on the mine site selected). 
 3. MineSpace MUST present the connection invitation link (URL) to the Mine Manager.
 4. The Mine Manager MUST use the connection invitation link provided by MineSpace within their organizational wallet to establish a secure connection.
 
-## 2.5.2. Major Mines Operating Permit Issuance
+## 2.5.2. Major Mines Operating Permit Issuance - Anoncreds Exchange
 
 1.	The Mine Manager MUST look up the authorizations and permits for the selected mine within MineSpace to display the request button for an operating permit.
-1.  The Mine Manager MUST select the permit that is desired as a credential.
+1. The Mine Manager MUST select the permit that is desired as a credential.
 1.	Traction SHALL offer the credential to the Company’s organizational wallet.
 1.	The organizational wallet MUST display offer details to the Mine Manager. 
 1.	The Mine Manager MUST review the credential offer.
 1.	The Mine Manager MUST either Accept/Decline the offer. 
 1.	Traction MUST receive a problem report if the credential is declined.
 1.	Traction MUST notify Core if the offer is declined.
-   
+
+## 2.5.3. Publishing Mining Permit Data to OrgBook BC - W3C Verifiable Credential
+
+Automated process takes data from Mines Digital Services (MDS) and creates W3C Verifiable Credential records that are published to Orgbook BC, scheduled for weekly deployments. Data MUST meet the following requirements in order to be published:
+1. The business entity, issuedToParty, is an Orgbook BC entity
+2. The business entity, issuedToParty, is assigned as a permittee to the permit on the date of the amendment issued
+3. The permit is associated with a major mine
+4. The permit has status "open"
+5. The permit is not an Exploration Permit
+
 ## 2.6. Technical Requirements
-The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
-- [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
+Technical requirements include both W3C Verifiable Credential and Anoncreds digital credential formats to enhance interoperability and use case adoption. 
+ - [W3C Verifiable Credential](https://www.w3.org/TR/vc-data-model-2.0/) records are published to [OrgBook BC](https://orgbook.gov.bc.ca/about/orgbook-data)
+   - intended to extend the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
+ -  [AnonCreds credentials](https://wiki.hyperledger.org/display/anoncreds) enable the exchange of claims between digital wallets through an established and trusted connection. The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
+    - [CANdy](https://candyscan.idlab.org/home/CANDY_DEV) Production Ledger: [A2UZSmrL9N5FDZGPu68wy](https://candyscan.idlab.org/tx/CANDY_PROD/domain/321)
 
 ## 2.7. Information Trust Requirements
 
@@ -154,7 +170,10 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 
 ## 2.9. Legal Agreements
 
-[Mines Act Permit Credential Terms of Use](../bc-mines-act-permit/1.1.1/2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
+Issuance of a B.C. Mines Act Permit credential in the anoncreds format requires the following terms of use:
+ - [Mines Act Permit Credential Terms of Use](../bc-mines-act-permit/1.1.1/2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
+
+Publishing B.C. Mines Act Permit data in the W3C Verifiable Credential format is provided under [Access Only Data Terms and Conditions](https://bcgov.github.io/data-publication/pages/faq.html#data-publication-licensing-options---open-dataaccess-only).
 
 # End of Document
 
