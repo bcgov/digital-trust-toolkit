@@ -140,7 +140,7 @@ The AnonCreds format enables the exchange of claims between digital wallets thro
 1.	Traction MUST receive a problem report if the credential is declined.
 1.	Traction MUST notify Core if the offer is declined.
 
-## 2.5.3. Publishing Mining Permit Data to OrgBook BC - JSON-LD Credentials
+## 2.5.3. Publishing Mining Permit Data to OrgBook BC - W3C Verifiable Credential
 
 Automated process takes credential data from MDS and creates JSON-LD credentials that are published to Orgbook BC scheduled for weekly deployments. Data MUST meet the following requirements in order to be published:
 1. Party is related to an Orgbook BC entity
