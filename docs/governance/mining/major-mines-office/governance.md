@@ -144,7 +144,7 @@ The AnonCreds format enables the exchange of claims between digital wallets thro
 
 Automated process takes data from Mines Digital Services (MDS) and creates W3C Verifiable Credential records that are published to Orgbook BC, scheduled for weekly deployments. Data MUST meet the following requirements in order to be published:
 1. The business entity, issuedToParty, is an Orgbook BC entity
-2. Party is assigned as a permittee to the permit on the date of the amendment issued
+2. The business entity, issuedToParty, is assigned as a permittee to the permit on the date of the amendment issued
 3. The permit is associated with a major mine
 4. The permit has status "open"
 5. The permit is not an Exploration Permit
