@@ -118,7 +118,7 @@ Development of digital technology is led by [British Columbia’s Digital Code o
 The operations and processes of the Major Mines Office are governed by [the Mines Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96293_01). 
 
 ## 2.5. Business Requirements
-Technical requirements include both Json-LD and Anoncred formats to enable interoperability with multiple formats:
+Technical requirements include both W3C Verifiable Credential and AnonCred formats to enable interoperability with multiple frameworks:
 The Json-LD credential format is designed to meet W3C VCDM 2.0 requirements and is modeled for compliance with the UN Transparency Protocol Digital Conformity Credential.
 The Anoncreds credential format enables the exchange of credential data between digital wallets once a trusted connection is established.
 
