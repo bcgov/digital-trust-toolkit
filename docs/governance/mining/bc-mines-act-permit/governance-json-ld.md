@@ -139,7 +139,7 @@ The format for this credential is [JSON-LD specification](https://www.w3.org/TR/
 
 ### 2.6.1 Context Files
 - [BCMinesActPermit, version 1](https://github.com/bcgov/digital-trust-toolkit/blob/main/related_resources/contexts/BCMinesActPermit/v1.jsonld)
-  - which extends the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
+  - which is intended to extend the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
 
 ### 2.6.2 Issuers
 Chief Permitting Officer (Mines Act)
