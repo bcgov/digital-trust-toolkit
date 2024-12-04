@@ -119,7 +119,7 @@ The operations and processes of the Major Mines Office are governed by [the Mine
 
 ## 2.5. Business Requirements
 Technical requirements include both W3C Verifiable Credential and AnonCred formats to enable interoperability with multiple frameworks:
-The Json-LD credential format is designed to meet W3C VCDM 2.0 requirements and is modeled for compliance with the UN Transparency Protocol Digital Conformity Credential.
+The W3C Verifiable Credential format is designed to meet compliance with the UN Transparency Protocol Digital Conformity Credential.
 The Anoncreds credential format enables the exchange of credential data between digital wallets once a trusted connection is established.
 
 ## 2.5.1. Establishment of Connection - Anoncreds Exchange
