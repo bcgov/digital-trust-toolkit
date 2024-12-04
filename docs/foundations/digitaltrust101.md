@@ -41,7 +41,7 @@ Digital trust goes beyond providing secure access and identity verification. It 
 - Ongoing, confidential relationships and data exchange
 - Filling in and signing things digitally, in a secure and authentic way
 
-<img src="/img/foundations/Digital_Credentials_In_BC_Wallet.png" alt="An in-app view of the BC Wallet, showing various digital credentials in a secure digital wallet: the Person and Digital Business Card credential issued by the B.C. Government, the Member credential issued by the Law Society of BC." width="250px" align="right"/>
+<img src="../../static/img/foundations/Digital_Credentials_In_BC_Wallet.png" alt="An in-app view of the BC Wallet, showing various digital credentials in a secure digital wallet: the Person and Digital Business Card credential issued by the B.C. Government, the Member credential issued by the Law Society of BC." width="250px" align="right"/>
 
 
 ## Benefits of Digital Trust
