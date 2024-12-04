@@ -150,7 +150,7 @@ Automated process takes data from Mines Digital Services (MDS) and creates W3C V
 5. The permit is not an Exploration Permit
 
 ## 2.6. Technical Requirements
-Technical requirements include both JSON-LD and Anoncreds verifiable credential formats to enable interoperability of credential data. 
+Technical requirements include both W3C Verifiable Credential and Anoncreds digital credential formats to enhance interoperability and use case adoption. 
  - [JSON-LD credentials](https://www.w3.org/TR/json-ld11/) are compliant with [Verifiable Credentials Data Model v2.0](https://www.w3.org/TR/vc-data-model-2.0/#json-ld) and published to [OrgBook BC](https://orgbook.gov.bc.ca/about/orgbook-data)
    - extends the Digital Conformity Credential of [UNTP, version 0.5.0](https://test.uncefact.org/vocabulary/untp/dcc/0.5.0/)
  -  [AnonCreds credentials](https://wiki.hyperledger.org/display/anoncreds) enable the exchange of credential data between digital wallets once a trusted connection is established. The Major Mines Office uses a Hyperledger Aries-compatible business wallet, therefore mining operators MUST also use a Hyperledger Aries-compatible business wallet solution:
