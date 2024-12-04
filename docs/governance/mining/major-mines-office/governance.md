@@ -173,7 +173,7 @@ The [Declaration on the Rights of Indigenous Peoples Act (Declaration Act)](http
 Issuance of a B.C. Mines Act Permit credential in the anoncreds format requires the following terms of use:
  - [Mines Act Permit Credential Terms of Use](../bc-mines-act-permit/1.1.1/2023-11-23%20MAP%20TOU%20V1%20Final.pdf)
 
-Publishing B.C. Mines Act Permit credential data in JSON-LD format is provided under [Access Only Data Terms and Conditions](https://bcgov.github.io/data-publication/pages/faq.html#data-publication-licensing-options---open-dataaccess-only).
+Publishing B.C. Mines Act Permit data in the W3C Verifiable Credential format is provided under [Access Only Data Terms and Conditions](https://bcgov.github.io/data-publication/pages/faq.html#data-publication-licensing-options---open-dataaccess-only).
 
 # End of Document
 
