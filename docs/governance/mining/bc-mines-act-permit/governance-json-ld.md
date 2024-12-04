@@ -143,7 +143,9 @@ The format for this credential is [JSON-LD specification](https://www.w3.org/TR/
 
 ### 2.6.2 Issuers
 Chief Permitting Officer (Mines Act)
- - [did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer (TEST)](https://dev.uniresolver.io/#did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer)
+ - [did:web:registry-dev.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer (DEV)](https://dev.uniresolver.io/#did:web:registry-dev.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer)
+  - [did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer (TEST)](https://dev.uniresolver.io/#did:web:registry-test.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer)
+   - [did:web:registry.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer (PROD)](https://dev.uniresolver.io/#did:web:registry.digitaltrust.gov.bc.ca:mines-act:chief-permitting-officer)
 
 ### 2.6.3 Overlays Capture Architecture (OCA) Bundle
 Currently under development.
