@@ -74,9 +74,9 @@ The legal professional MUST login to the Law Society Member Portal with their us
 _Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder._
 
 - The credential will be revoked in the following cases:
-  ...
+  - If the status changes from PRAC/Practicing to any other status
 - The credential will be revoked and re-issued in the following cases:
-  ...
+  - If the Given Name and/or Surname of the legal professional changes, through the LSBC name change process
 
 ## 5. Credential Definition
 
