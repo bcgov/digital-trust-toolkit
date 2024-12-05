@@ -25,8 +25,8 @@ Note: This credential supersedes the Member Card credential previously issued to
 | **Data Source:**        | LSBC Registry of Members             |
 | **Issuer DID:**         | _DID of the Issuer_                                                            |
 | **Format:**             | Hyperledger AnonCreds                                       |
-| **Schema:**             | - _Name, version, and address of the Schema_ _Documentation of the Schema, if available_ |
-| **Credential Definition:** | - _Name, version, and address of the credential definition_                  |
+| **Schema:**             | legal-professional, v1.0 |
+| **Credential Definition:** | lawyer, _txid of the credential definition (CLAIM_DEF)_                  |
 | **Data Registry:**      | CANdy                                                              |
 | **OCA:**                | TODO [Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)          |
 
