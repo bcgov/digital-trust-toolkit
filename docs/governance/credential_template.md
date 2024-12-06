@@ -25,14 +25,14 @@ _A paragraph summarizing what the Credential(s) is, its purpose, and other notab
 | **Issuer DID:**         | _DID of the Issuer_                                                            |
 | **Format:**             | _Technical format, e.g., AnonCreds, W3C_                                       |
 | **Schema:**             | - _Name, version, and address of the Schema_ _Documentation of the Schema, if available_ |
-| **Credential Definition:** | - _Name, version, and address of the credential definition_                  |
+| **Credential Definition:** | - _Name address of the credential definition_                  |
 | **Data Registry:**      | _Registry address_                                                             |
 | **OCA:**                | _Link to the Overlay Capture Architecture bundle for this credential_          |
 
 
 ### 2.2 Attribute Summary
 
-| Display Name of Attribute | Attribute       | Data Type |
+| Display Name of Attribute | Attribute       | Format |
 |---------------------------|-----------------|-----------|
 | Given Names               | `given_names`  | string    |
 | Family Name               | `family_name`  | string    |
@@ -98,7 +98,6 @@ _A list of all the attributes in the credential, with a table describing each at
 | **Display Name**         | Name displayed in the wallet next to the data value (e.g. Birthdate)                                                          |
 | **Description**          | Describes the data that will be in the attribute (e.g. The individual's documented birth date recorded from valid identification.)                                                                    |
 | **Attribute**            | Name of attribute in schema or credential  (e.g. `birthdate_dateint`)                                                                           |
-| **Data Type**            | The computer programming term for the type of data (e.g., String, Integer, “String, base64 encoded binary file”)      |
 | **Format**               | How the data is presented (e.g., minimum or maximum characters, how multiple values are delimited, date format is YYYYMMDD)                    |
 | **Rules**                | Things such as whether the attribute can be blank or not, and how data is handled if the source system data has more characters than the maximum characters defined in the Format |
 | **Examples**             | One to three samples of the data that a verifier could find in this attribute (e.g. 19711225, 19711013, 19580816)                                        |
@@ -109,7 +108,6 @@ _A list of all the attributes in the credential, with a table describing each at
 | **Display Name**         |  |
 | **Description**          |  |
 | **Attribute**            |  |
-| **Data Type**            |  |
 | **Format**               |  |
 | **Rules**                |  |
 | **Examples**             |  |
