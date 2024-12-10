@@ -149,7 +149,7 @@ Additional information (e.g., image file types and sizes) are defined in the [OC
 | issued_date_attribute | attribute name | If the credential has an issued date attribute, it is displayed on the credential | optional |
 | expiry_date_attribute | attribute name | If the credential has an expired date attribute, it is displayed on the credential | optional |
 
- <a id="connectionname"></a>
+<a id="connectionname"></a>
 # Connection Name
 When a credential is issued an person’s wallet, a Connection is often created in the wallet to facilitate future communications and transactions (e.g., offers of replacement credentials containing updated information). It appears:
 - At the bottom of the Credential’s Details View as “Issued by:...”
@@ -169,7 +169,7 @@ Note that:
     - Connectionless or ephemeral proof request?
 - People and organizations may also create Connections for each other outside of the credential issuance. Connections may be created to support proof requests or to create a secure communication channel.
 
-## Guidance
+#### Guidance
 Connection Name (“Contact” in BC Wallet) MUST be an appropriate public face of the organization that issues and supports the credential. It should be a name that is recognizable to the user and that will be useful to the user if they are trying to find help (e.g., using a web search engine).
 - For BC Government Ministries:
     - Connection Name should be the issuing program area, preferably one with a public contact, support information, and a long-running brand (e.g., “BC Registries”, “Service BC”) and not “Government of British Columbia” or “Ministry of Citizens' Services”
