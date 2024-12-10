@@ -149,7 +149,7 @@ Additional information (e.g., image file types and sizes) are defined in the [OC
 | issued_date_attribute | attribute name | If the credential has an issued date attribute, it is displayed on the credential | optional |
 | expiry_date_attribute | attribute name | If the credential has an expired date attribute, it is displayed on the credential | optional |
 
- <a id="connectionname"></a>
+<a id="connectionname"></a>
 # Connection Name
 When a credential is issued an person’s wallet, a Connection is often created in the wallet to facilitate future communications and transactions (e.g., offers of replacement credentials containing updated information). It appears:
 - At the bottom of the Credential’s Details View as “Issued by:...”
