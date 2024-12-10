@@ -8,11 +8,10 @@ This document describes the Legal Professional credential to help potential veri
 
 | Ver. | Date | Notes |
 |------|------|-------|
-| 1.0  |      |       |
+| 1.0  | December 10, 2024     | Intial version       |
 
 ## 2. Credential Overview
-
-_A paragraph summarizing what the Credential(s) is, its purpose, and other notable information._
+This credential represents proof that a Practicing Lawyer in British Columbia is in good standing with the Law Society of British Columbia. It is issued directly to Lawyers to hold in the BC Wallet App.
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 
 ### 2.1 Credential Details
@@ -56,8 +55,6 @@ _A statement – included or linked to – limiting the liability of the issuer 
 
 #### 3.2.2 For End Users
 _A statement – included or linked to – limiting the liability of the issuer (and, if different, the governing and administrative authorities) for any harms suffered by parties that are issued the credential. This will often be presented to end users during the issuance process._
-
-_Person credential Terms of Use._
 
 ## 4. Credential Data, Issuance, and Changes
 
