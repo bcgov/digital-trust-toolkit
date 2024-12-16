@@ -36,7 +36,7 @@ Note: This credential supersedes the Member Card credential previously issued to
 |---------------------------|-----------------|-----------|
 | Given Name                | `Given Name`    | string    |
 | Surname                   | `Surname`       | string    |
-| Public Person ID          | `PPID`          | string  |
+| PPID          | `PPID`          | string  |
 | Member Status             | `Member Status` | string    |
 | Member Status Code        | `Member Status Code`  | string    |
 | Credential Type           | `Credential Type` | string    |
