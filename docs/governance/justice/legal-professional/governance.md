@@ -18,8 +18,8 @@ Note: This credential supersedes the Member Card credential previously issued to
 
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
-| **Name(s) of the Credential(s):** | Legal Professional Credential                                         |
 | **Issuer:**             | Law Society of British Columbia (LSBC)                                          |
+| **Issuer Website:**     | [https://www.lawsociety.bc.ca/](https://www.lawsociety.bc.ca/)                                          |
 | **Holders:**            | Members of LSBC                    |
 | **Data Source:**        | LSBC Registry of Members             |
 | **Issuer DID:**         | _DID of the Issuer_                                                            |
@@ -68,8 +68,6 @@ _How and when the Issuer gets updates to the data that goes into the credential.
 The legal professional MUST login to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Legal Professional credential is issued to the BC Wallet based on the account information associated to the logged in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
 
 ### 4.4 Revocation
-_Describes the circumstances – either specifically or in general – that would cause the issuer to revoke a credential after it has been issued to the Holder._
-
 - The credential will be revoked in the following cases:
   - If the status changes from PRAC/Practicing to any other status
 - The credential will be revoked and re-issued in the following cases:
@@ -78,21 +76,9 @@ _Describes the circumstances – either specifically or in general – that woul
 ## 5. Credential Definition
 
 ### 5.1 Subject
-The subject of this credential is the individual to whom it was issued, where that individual is legal professional registered with the Law Society of B.C.
+The subject of this credential is the individual to whom it was issued, where that individual is a legal professional registered with the Law Society of B.C.
 
 ### 5.2 Attributes 
-_A list of all the attributes in the credential, with a table describing each attribute. Subheadings and notes may be used to provide information that applies to a group of attributes, e.g., “Name” to describe Given Names and Family Name, “Address” to describe the set of address attributes._
-
-| **Field**               | **Description**                                                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Display Name**         | Name displayed in the wallet next to the data value (e.g. Birthdate)                                                          |
-| **Description**          | Describes the data that will be in the attribute (e.g. The individual's documented birth date recorded from valid identification.)                                                                    |
-| **Attribute**            | Name of attribute in schema or credential  (e.g. `birthdate_dateint`)                                                                           |
-| **Data Type**            | The computer programming term for the type of data (e.g., String, Integer, “String, base64 encoded binary file”)      |
-| **Format**               | How the data is presented (e.g., minimum or maximum characters, how multiple values are delimited, date format is YYYYMMDD)                    |
-| **Rules**                | Things such as whether the attribute can be blank or not, and how data is handled if the source system data has more characters than the maximum characters defined in the Format |
-| **Examples**             | One to three samples of the data that a verifier could find in this attribute (e.g. 19711225, 19711013, 19580816)                                        |
-| **Notes**                | Additional information about the data that may (or not) be present in the attribute, in particular any “quirks” in the data that could affect a verifier trying to process the data or compare it to other records (including common attributes, such as family_name, in other credentials that may be part of the same proof request but have come from different issuers). |
 
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
