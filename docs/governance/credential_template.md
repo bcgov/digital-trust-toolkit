@@ -91,17 +91,17 @@ _The type of entity – e.g., a person, company, title – that is described by 
 _The subject of a Person credential is the individual to whom it was issued, i.e., its holder. See the Credential Assurance section, above, for why a verifier can be confident that the holder of a Person credential is the subject of the credential._
 
 ### 5.2 Attributes 
-_A list of all the attributes in the credential, with a table describing each attribute. Subheadings and notes may be used to provide information that applies to a group of attributes, e.g., “Name” to describe Given Names and Family Name, “Address” to describe the set of address attributes._
+_A list of all the attributes in the credential, with a table describing each attribute. Subheadings and notes may be used to provide information that applies to a group of attributes, e.g., “Name” to describe Given Names and Family Name, “Address” to describe the set of address attributes. Repeat the table for each individual attribute_
 
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| **Display Name**         | Name displayed in the wallet next to the data value (e.g. Birthdate)                                                          |
-| **Description**          | Describes the data that will be in the attribute (e.g. The individual's documented birth date recorded from valid identification.)                                                                    |
-| **Attribute**            | Name of attribute in schema or credential  (e.g. `birthdate_dateint`)                                                                           |
-| **Format**               | How the data is presented (e.g., minimum or maximum characters, how multiple values are delimited, date format is YYYYMMDD)                    |
-| **Rules**                | Things such as whether the attribute can be blank or not, and how data is handled if the source system data has more characters than the maximum characters defined in the Format |
-| **Examples**             | One to three samples of the data that a verifier could find in this attribute (e.g. 19711225, 19711013, 19580816)                                        |
-| **Notes**                | Additional information about the data that may (or not) be present in the attribute, in particular any “quirks” in the data that could affect a verifier trying to process the data or compare it to other records (including common attributes, such as family_name, in other credentials that may be part of the same proof request but have come from different issuers). |
+| **Display Name**         | _Name displayed in the wallet next to the data value (e.g. Birthdate)_                                                          |
+| **Description**          | _Describes the data that will be in the attribute (e.g. The individual's documented birth date recorded from valid identification.)_                                                                    |
+| **Attribute**            | _Name of attribute in schema or credential  (e.g. `birthdate_dateint`)_                                                                           |
+| **Format**               | _How the data is presented (e.g., minimum or maximum characters, how multiple values are delimited, date format is YYYYMMDD)_                    |
+| **Rules**                | _Things such as whether the attribute can be blank or not, and how data is handled if the source system data has more characters than the maximum characters defined in the Format_ |
+| **Examples**             | _One to three samples of the data that a verifier could find in this attribute (e.g. 19711225, 19711013, 19580816)_                                        |
+| **Notes**                | _Additional information about the data that may (or not) be present in the attribute, in particular any “quirks” in the data that could affect a verifier trying to process the data or compare it to other records (including common attributes, such as family_name, in other credentials that may be part of the same proof request but have come from different issuers)._ |
 
 | **Field**               | **Description**                                                                                                       |
 |--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
