@@ -11,7 +11,7 @@ This document describes the Legal Professional credential to help potential veri
 | 1.0  | December 10, 2024     | Intial version       |
 
 ## 2. Credential Overview
-This credential represents proof that a Practicing Lawyer in British Columbia is in good standing with the Law Society of British Columbia. It is issued directly to Lawyers to hold in the BC Wallet App.
+This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 
 ### 2.1 Credential Details
@@ -19,15 +19,15 @@ Note: This credential supersedes the Member Card credential previously issued to
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
 | **Name(s) of the Credential(s):** | Legal Professional Credential                                         |
-| **Issuer:**             | Law Society of British Columbia (LSBC)                                                  |
+| **Issuer:**             | Law Society of British Columbia (LSBC)                                          |
 | **Holders:**            | Members of LSBC                    |
 | **Data Source:**        | LSBC Registry of Members             |
 | **Issuer DID:**         | _DID of the Issuer_                                                            |
 | **Format:**             | Hyperledger AnonCreds                                       |
-| **Schema:**             | legal-professional, v1.0, _txid of the schema (SCHEMA_TX)_ |
-| **Credential Definition:** | lawyer, _txid of the credential definition (CLAIM_DEF)_                  |
 | **Data Registry:**      | CANdy                                                              |
-| **OCA:**                | TODO [Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)          |
+| **Schema:**             | legal-professional, v1.0, _txid of the schema (SCHEMA_TX)_ |
+| **Credential Definition(s):** | lawyer, _txid of the credential definition (CLAIM_DEF)_                  |
+| **OCA Bundle(s):**           | [Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)  |
 
 
 ### 2.2 Attribute Summary
