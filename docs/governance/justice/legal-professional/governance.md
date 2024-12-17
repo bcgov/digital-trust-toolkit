@@ -14,29 +14,21 @@ This document describes the Legal Professional credential to help potential veri
 This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 
-### 2.1 Credential Details
-
+### 2.1 Issuer Details
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
 | **Issuer:**             | Law Society of British Columbia (LSBC)                                          |
 | **Issuer Website:**     | [https://www.lawsociety.bc.ca/](https://www.lawsociety.bc.ca/)                                          |
-| **Holders:**            | Members of LSBC                    |
 | **Data Source:**        | LSBC Registry of Members             |
-| **Issuer DID:**         | _DID of the Issuer_                                                            |
-| **Format:**             | Hyperledger AnonCreds                                       |
-| **Data Registry:**      | CANdy                                                              |
-| **Schema:**             | legal-professional, v1.0, _txid of the schema (SCHEMA_TX)_ |
-| **Credential Definition(s):** | lawyer, _txid of the credential definition (CLAIM_DEF)_                  |
-| **OCA Bundle(s):**           | [Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)  |
-
 
 ### 2.2 Attribute Summary
+This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/anoncreds/) specification and has the following defined attributes. Further details on the attributes are listed in section 5 of this document. 
 
 | Display Name of Attribute | Attribute       | Data Type |
 |---------------------------|-----------------|-----------|
 | Given Name                | `Given Name`    | string    |
 | Surname                   | `Surname`       | string    |
-| PPID          | `PPID`          | string  |
+| PPID                      | `PPID`          | string  |
 | Member Status             | `Member Status` | string    |
 | Member Status Code        | `Member Status Code`  | string    |
 | Credential Type           | `Credential Type` | string    |
@@ -123,3 +115,16 @@ The subject of this credential is the individual to whom it was issued, where th
 | **Rules**                | N/A |
 | **Examples**             | Lawyer |
 | **Notes**                | None |
+
+### 5.3 Schema Implementation
+|Environment|Ledger|Schema ID|
+|---|---|---|
+|CANdy Production|TODO|TODO|
+|CANdy Test|[legal-professional](https://candyscan.idlab.org/tx/CANDY_TEST/domain/248)|MLvtJW6pFuYu4NnMB14d29:2:legal-professional:1.0|
+
+### 5.4 Credential Implementation
+|Environment|Ledger|Credential Definition ID|OCA Bundle|
+|---|---|---|---|
+|CANdy Production|TODO|TODO|TODO|
+|CANdy Test|[lawyer](https://candyscan.idlab.org/tx/CANDY_TEST/domain/249)|MLvtJW6pFuYu4NnMB14d29:3:CL:248:lawyer|[Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)|
+
