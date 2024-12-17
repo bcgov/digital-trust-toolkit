@@ -10,7 +10,7 @@ This document describes the Legal Professional credential to help potential veri
 |------|------|-------|
 | 1.0  | December 10, 2024     | Intial version       |
 
-## 2. Credential Overview
+## 2. Overview
 This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 
@@ -20,18 +20,6 @@ Note: This credential supersedes the Member Card credential previously issued to
 | **Issuer:**             | Law Society of British Columbia (LSBC)                                          |
 | **Issuer Website:**     | [https://www.lawsociety.bc.ca/](https://www.lawsociety.bc.ca/)                                          |
 | **Data Source:**        | LSBC Registry of Members             |
-
-### 2.2 Attribute Summary
-This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/anoncreds/) specification and has the following defined attributes. Further details on the attributes are listed in section 5 of this document. 
-
-| Display Name of Attribute | Attribute       | Data Type |
-|---------------------------|-----------------|-----------|
-| Given Name                | `Given Name`    | string    |
-| Surname                   | `Surname`       | string    |
-| PPID                      | `PPID`          | string  |
-| Member Status             | `Member Status` | string    |
-| Member Status Code        | `Member Status Code`  | string    |
-| Credential Type           | `Credential Type` | string    |
 
 ## 3. Governance & Legal
 
@@ -70,51 +58,18 @@ The legal professional MUST login to the Law Society Member Portal with their us
 ### 5.1 Subject
 The subject of this credential is the individual to whom it was issued, where that individual is a legal professional registered with the Law Society of B.C.
 
-### 5.2 Attributes 
+### 5.2 Attributes
+This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/anoncreds/) specification and has the following defined attributes. Further details on the attributes are listed in section 5 of this document. 
 
-| **Field**               | **Description**                                                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
-| **Display Name**         | Given Name; Surname |
-| **Description**          | The legal name on file with the Law Society of the legal professional. |
-| **Attribute**            | Given Name; Surname |
-| **Data Type**            | string; string |
-| **Format**               | text |
-| **Rules**                | N/A |
-| **Examples**             | John Robert; Smith |
-| **Notes**                | None |
+| **Display Name**         | **Attribute**            | **Description**                                                                                                       | **Format**               | **Rules & Notes**        | **Examples**             |
+|--------------------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------|--------------------------|
+| **Given Name**           | `Given Name`             | The legal given name on file with the Law Society of the legal professional.                                          | text                     | N/A                      | John Robert              |
+| **Surname**              | `Surname`                | The legal surname on file with the Law Society of the legal professional.                                             | text                     | N/A                      | Smith                    |
+| **Public Person ID**     | `PPID`                   | The Public Person ID is the unique identifier for the legal professional registered with the Law Society. This is NOT the number on the Certificate issued to the legal professional. | alphanumeric             | The prefix will always be MC | MC238946                 |
+| **Member Status**        | `Member Status`          | The current status for the legal professional according to the Law Society policies.                                  | text                     | Only the PRAC;Practicing status is used for valid issued credentials. Other statuses are revoked. | PRAC                     |
+| **Member Status Code**   | `Member Status Code`     | The code indicating the current status for the legal professional according to the Law Society policies.               | text                     | Only the PRAC;Practicing status is used for valid issued credentials. Other statuses are revoked. | Practicing               |
+| **Credential Type**      | `Credential Type`        | The Credential Type indicates the type of legal professional credential issued. (Lawyer)                               | text                     | N/A                      | Lawyer                   |
 
-| **Field**               | **Description**                                                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
-| **Display Name**         | Public Person ID |
-| **Description**          | The Public Person ID is the unique identifier for the legal professional registered with the Law Society. This is NOT the number on the Certificate issued to the legal professional. |
-| **Attribute**            | PPID |
-| **Data Type**            | string |
-| **Format**               | alphanumeric |
-| **Rules**                | The prefix will always be MC |
-| **Examples**             | MC238946 |
-| **Notes**                | None |
-
-| **Field**               | **Description**                                                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
-| **Display Name**         | Member Status; Member Status Code |
-| **Description**          | The Member Status and Member Status Code indicate the current status for the legal professional according to the Law Society policies.<br/>  Member Status Code; Member Status (PRAC;Practicing, NPRAC;Non-Practicing, RETI;Retired, FORM;Former) |
-| **Attribute**            | Member Status; Member Status Code |
-| **Data Type**            | string |
-| **Format**               | text |
-| **Rules**                | N/A |
-| **Examples**             | PRAC;Practicing |
-| **Notes**                | Only the PRAC;Practicing status is used for valid issued credentials. Other statuses are revoked. |
-
-| **Field**               | **Description**                                                                                                       |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------|               
-| **Display Name**         | Credential Type |
-| **Description**          | The Credential Type indicates the type of legal professional credential issued. (Lawyer)|
-| **Attribute**            | Credential Type |
-| **Data Type**            | string |
-| **Format**               | text |
-| **Rules**                | N/A |
-| **Examples**             | Lawyer |
-| **Notes**                | None |
 
 ### 5.3 Schema Implementation
 |Environment|Ledger|Schema ID|
