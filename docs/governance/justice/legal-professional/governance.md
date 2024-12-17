@@ -18,7 +18,7 @@ Note: This credential supersedes the Member Card credential previously issued to
 
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
-| **Name(s) of the Credential(s):** | Legal Professional                                           |
+| **Name(s) of the Credential(s):** | Legal Professional Credential                                         |
 | **Issuer:**             | Law Society of British Columbia (LSBC)                                                  |
 | **Holders:**            | Members of LSBC                    |
 | **Data Source:**        | LSBC Registry of Members             |
