@@ -1,8 +1,8 @@
-# Legal Professional – Credential Documentation
+# Law Society of British Columbia - Legal Professional – Credential Documentation
 
 ## 1. About this Document
 
-This document describes the Legal Professional credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
+This document describes the Law Society of British Columbia's (LSBC) use of the Legal Professional credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
 
 ### 1.1 Version History
 
@@ -10,16 +10,14 @@ This document describes the Legal Professional credential to help potential veri
 |------|------|-------|
 | 1.0  | December 10, 2024     | Intial version       |
 
-## 2. Overview
+## 2. Credential Overview
 This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
-
-### 2.1 Issuer Details
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
-| **Issuer:**             | Law Society of British Columbia (LSBC)                                          |
-| **Issuer Website:**     | [https://www.lawsociety.bc.ca/](https://www.lawsociety.bc.ca/)                                          |
-| **Data Source:**        | LSBC Registry of Members             |
+| **Credential:**         | Lawyer Credential                                          |
+| **Schema:**             | Legal Professional                                          |
+| **Issuer:**             | Law Society of British Columbia (LSBC) <br/> [https://www.lawsociety.bc.ca/](https://www.lawsociety.bc.ca/) |     
 
 ## 3. Governance & Legal
 
@@ -39,10 +37,10 @@ _A statement – included or linked to – limiting the liability of the issuer 
 ## 4. Credential Data, Issuance, and Changes
 
 ### 4.1 Data Source(s)
-- Law Society Member Portal connected to the database of registered legal professionals
+Law Society maintains a database of registered legal professionals
 
 ### 4.2 Data Updates
-_How and when the Issuer gets updates to the data that goes into the credential. How the credential gets updated should be left for the Revocation section, below._
+LSBC administrators perform updates on database records which trigger credential revocations and reissuance, see further details in section 4.4
 
 ### 4.3 Issuance
 The legal professional MUST login to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Legal Professional credential is issued to the BC Wallet based on the account information associated to the logged in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
@@ -59,7 +57,6 @@ The legal professional MUST login to the Law Society Member Portal with their us
 The subject of this credential is the individual to whom it was issued, where that individual is a legal professional registered with the Law Society of B.C.
 
 ### 5.2 Attributes
-This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/anoncreds/) specification and has the following defined attributes. Further details on the attributes are listed in section 5 of this document. 
 
 | **Display Name**         | **Attribute**            | **Description**                                                                                                       | **Format**               | **Rules & Notes**        | **Examples**             |
 |--------------------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------|--------------------------|--------------------------|--------------------------|
@@ -70,6 +67,16 @@ This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/
 | **Member Status Code**   | `Member Status Code`     | The code indicating the current status for the legal professional according to the Law Society policies.               | text                     | Only the PRAC;Practicing status is used for valid issued credentials. Other statuses are revoked. | Practicing               |
 | **Credential Type**      | `Credential Type`        | The Credential Type indicates the type of legal professional credential issued. (Lawyer)                               | text                     | N/A                      | Lawyer                   |
 
+## 6 Implementations
+### 6.1 Technical Format
+This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/anoncreds/) specification and the "Legal Professional" schema which has the following defined attributes.
+
+### 6.2 Issuer List
+The Governing Authority of this Credential document attests that the following issuer information is accurate and can be relied upon by verifiers.
+| Environment | Issuer Name | Issuer DID |
+|------|------|-------|
+| CANdy Production  | Law Society of British Columbia     | TODO   |
+| CANdy Test  | Law Society of British Columbia     | MLvtJW6pFuYu4NnMB14d29   |
 
 ### 5.3 Schema Implementation
 |Environment|Ledger|Schema ID|
