@@ -42,7 +42,7 @@ _A statement – included or linked to – limiting the liability of the issuer 
 ## 4. Credential Data, Issuance, and Changes
 
 ### 4.1 Data Source(s)
-LCRB maintains a database of registered legal professionals
+LCRB maintains a database of licensees
 
 ### 4.2 Data Updates
 LCRB administrators perform updates on database records which trigger credential revocations and reissuance, see further details in section 4.4
