@@ -1,8 +1,8 @@
-# Law Society of British Columbia - Legal Professional – Credential Documentation
+# Law Society of British Columbia - Lawyer – Credential Documentation
 
 ## 1. About this Document
 
-This document describes the Law Society of British Columbia's (LSBC) use of the Legal Professional credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
+This document describes the Law Society of British Columbia's (LSBC) use of the Lawyer credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
 
 ### 1.1 Version History
 
@@ -13,7 +13,7 @@ This document describes the Law Society of British Columbia's (LSBC) use of the 
 
 
 ## 2. Credential Overview
-This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
+This credential represents proof that a Lawyer in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ Note: This credential supersedes the Member Card credential previously issued to
 ## 3. Governance & Legal
 
 ### 3.1 Governing Authority & Administrative Authority
-The Law Society of British Columbia, as defined in the [Legal Profession Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98009_01), is the governing authority and administrative authority for the Legal Professional credential.
+The Law Society of British Columbia, as defined in the [Legal Profession Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/98009_01), is the governing authority and administrative authority for the Lawyer credential.
 [https://glossary.trustoverip.org/#term:governing-body]
 [https://glossary.trustoverip.org/#term:administering-body]
 
@@ -39,24 +39,24 @@ _A statement – included or linked to – limiting the liability of the issuer 
 ## 4. Credential Data, Issuance, and Changes
 
 ### 4.1 Data Source(s)
-Law Society maintains a database of registered legal professionals
+Law Society maintains a database of registered lawyers
 
 ### 4.2 Data Updates
-LSBC administrators perform updates on database records which trigger credential revocations and reissuance, see further details in section 4.4
+LSBC administrators perform updates on database records which trigger credential revocations and re-issuance, see further details in section 4.4
 
 ### 4.3 Issuance
-The legal professional MUST login to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Legal Professional credential is issued to the BC Wallet based on the account information associated to the logged in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
+The lawyer MUST log in to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Lawyer credential is issued to the BC Wallet based on the account information associated with the logged-in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
 
 ### 4.4 Revocation
 - The credential will be revoked in the following cases:
   - If the status changes from PRAC/Practicing to any other status
 - The credential will be revoked and re-issued in the following cases:
-  - If the Given Name and/or Surname of the legal professional changes, through the LSBC name change process
+  - If the Given Name and/or Surname of the lawyer changes, through the LSBC name change process
 
 ## 5. Credential Definition
 
 ### 5.1 Subject
-The subject of this credential is the individual to whom it was issued, where that individual is a legal professional registered with the Law Society of B.C.
+The subject of this credential is the individual to whom it was issued, where that individual is a lawyer registered with the Law Society of B.C.
 
 ### 5.2 Attributes
 
@@ -91,4 +91,3 @@ The Governing Authority of this Credential document attests that the following i
 |---|---|---|---|
 |CANdy Production|[lawyer](https://candyscan.idlab.org/tx/CANDY_PROD/domain/2352)|QzLYGuAebsy3MXQ6b1sFiT:3:CL:2351:lawyer|[Lawyer PROD OCA](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/LSBC/Lawyer/Prod)|
 |CANdy Test|[lawyer](https://candyscan.idlab.org/tx/CANDY_TEST/domain/249)|MLvtJW6pFuYu4NnMB14d29:3:CL:248:lawyer|[Lawyer TEST OCA](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/LSBC/Lawyer/Test)|
-
