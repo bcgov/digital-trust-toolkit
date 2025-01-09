@@ -89,6 +89,6 @@ The Governing Authority of this Credential document attests that the following i
 ### 5.4 Credential Implementation
 |Environment|Ledger|Credential Definition ID|OCA Bundle|
 |---|---|---|---|
-|CANdy Production|[lawyer](https://candyscan.idlab.org/tx/CANDY_PROD/domain/2352)|QzLYGuAebsy3MXQ6b1sFiT:3:CL:2351:lawyer|TODO|
-|CANdy Test|[lawyer](https://candyscan.idlab.org/tx/CANDY_TEST/domain/249)|MLvtJW6pFuYu4NnMB14d29:3:CL:248:lawyer|[Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)|
+|CANdy Production|[lawyer](https://candyscan.idlab.org/tx/CANDY_PROD/domain/2352)|QzLYGuAebsy3MXQ6b1sFiT:3:CL:2351:lawyer|[Lawyer PROD OCA](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/LSBC/Lawyer/Prod)|
+|CANdy Test|[lawyer](https://candyscan.idlab.org/tx/CANDY_TEST/domain/249)|MLvtJW6pFuYu4NnMB14d29:3:CL:248:lawyer|[Lawyer TEST OCA](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/LSBC/Lawyer/Test)|
 
