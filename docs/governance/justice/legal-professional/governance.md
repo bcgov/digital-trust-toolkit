@@ -8,7 +8,9 @@ This document describes the Law Society of British Columbia's (LSBC) use of the 
 
 | Ver. | Date | Notes |
 |------|------|-------|
-| 1.0  | December 10, 2024     | Intial version       |
+| 1.1  | January 9, 2025    | Updates with production DID, Schema and Cred Def values       |
+| 1.0  | December 10, 2024     | Initial version       |
+
 
 ## 2. Credential Overview
 This credential represents proof that a Legal Professional in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
@@ -75,18 +77,18 @@ This credential uses the [Hyperledger AnonCreds](https://github.com/hyperledger/
 The Governing Authority of this Credential document attests that the following issuer information is accurate and can be relied upon by verifiers.
 | Environment | Issuer Name | Issuer DID |
 |------|------|-------|
-| CANdy Production  | Law Society of British Columbia     | TODO   |
+| CANdy Production  | Law Society of British Columbia     | QzLYGuAebsy3MXQ6b1sFiT   |
 | CANdy Test  | Law Society of British Columbia     | MLvtJW6pFuYu4NnMB14d29   |
 
 ### 5.3 Schema Implementation
 |Environment|Ledger|Schema ID|
 |---|---|---|
-|CANdy Production|TODO|TODO|
+|CANdy Production|[legal-professional](https://candyscan.idlab.org/tx/CANDY_PROD/domain/2351)|QzLYGuAebsy3MXQ6b1sFiT:2:legal-professional:1.0|
 |CANdy Test|[legal-professional](https://candyscan.idlab.org/tx/CANDY_TEST/domain/248)|MLvtJW6pFuYu4NnMB14d29:2:legal-professional:1.0|
 
 ### 5.4 Credential Implementation
 |Environment|Ledger|Credential Definition ID|OCA Bundle|
 |---|---|---|---|
-|CANdy Production|TODO|TODO|TODO|
+|CANdy Production|[lawyer](https://candyscan.idlab.org/tx/CANDY_PROD/domain/2352)|QzLYGuAebsy3MXQ6b1sFiT:3:CL:2351:lawyer|TODO|
 |CANdy Test|[lawyer](https://candyscan.idlab.org/tx/CANDY_TEST/domain/249)|MLvtJW6pFuYu4NnMB14d29:3:CL:248:lawyer|[Lawyer Credential](https://github.com/bcgov/aries-oca-bundles/tree/main/OCABundles/schema/bcgov-digital-trust/lawyer-credential)|
 
