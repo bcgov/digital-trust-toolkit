@@ -13,7 +13,7 @@ This document describes the Law Society of British Columbia's (LSBC) use of the 
 
 
 ## 2. Credential Overview
-This credential represents proof that a Lawyer in British Columbia is in good standing with the Law Society of British Columbia. This credential is currently available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
+This credential represents proof that a Lawyer in British Columbia is in good standing with the Law Society of British Columbia. This credential, effective January 15th, 2025, is available for Practicing Lawyers to hold in the BC Wallet App as "Lawyer Credential".
 Note: This credential supersedes the Member Card credential previously issued to lawyers from LSBC.
 |              |                                                                |
 |-------------------------|---------------------------------------------------------------------------------|
