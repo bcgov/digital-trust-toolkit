@@ -31,10 +31,10 @@ The Law Society of British Columbia, as defined in the [Legal Profession Act](ht
 ### 3.2 Legal
 
 #### 3.2.1 For Verifiers
-_A statement – included or linked to – limiting the liability of the issuer (and, if different, the governing and administrative authorities) for any harms suffered by parties that accept the credential._
+*The Terms of Use for this credential as it relates to Verifiers is a work in progress and will be updated at a later time.*
 
 #### 3.2.2 For End Users
-_A statement – included or linked to – limiting the liability of the issuer (and, if different, the governing and administrative authorities) for any harms suffered by parties that are issued the credential. This will often be presented to end users during the issuance process._
+*The Terms of Use for this credential as it relates to End Users is a work in progress and will be updated at a later time.*
 
 ## 4. Credential Data, Issuance, and Changes
 
