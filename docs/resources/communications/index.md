@@ -11,7 +11,3 @@ Core messaging for communicating digital trust and credentials. <br></br>
 **Overlay Capture Architecture (OCA) Explorer** <br></br>
 Examples of digital credentials' visual presentation in BC Wallet. <br></br>
 [OCA Explorer](https://bcgov.github.io/aries-oca-bundles/oca-explorer/)
-
-**Credential UX guide** <br></br>
-Guidelines for designing user-friendly content for digital trust and credential use cases. <br></br>
-<!--[Credential UX Guide->**INTERNAL LINK**](..) -->

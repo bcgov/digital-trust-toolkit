@@ -1,6 +1,6 @@
 # Person – Credential Documentation
 
-## About this Credential
+## About this Document
 
 This document describes the Government of British Columbia’s Person credential to help potential verifiers determine whether it is suitable for their needs. The intended audience includes policy analysts, privacy specialists, solution architects, developers, and data architects.
 
