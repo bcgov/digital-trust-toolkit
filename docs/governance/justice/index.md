@@ -4,5 +4,5 @@ description: Justice Ecosystem
 ---
 
 # Justice Ecosystem
-
-* [B.C. Court Services Branch Governance Framework](https://bcgov.github.io/digital-trust-toolkit/docs/governance/justice/court-services-branch/governance)
+* [BC Court Services Branch](./court-services-branch/governance.md)
+* [BC Lawyer Credential](./legal-professional/governance.md)
