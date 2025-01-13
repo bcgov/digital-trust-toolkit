@@ -22,7 +22,7 @@ This guide is intended to ensure the credentials issued by the BC Government, or
 
 <a id="bcwallet"></a>
 # BC Wallet – Current and Future Implementations
-This guide is written to optimize how credentials will be presented in the BC Wallet app, which operates on mobile devices such as phones and tablets. The BC Wallet was first released in 2022, is evolving in response to user feedback, and is gradually adding support for [Overlays Capture Architecture (OCA) For Aries](https://github.com/swcurran/aries-rfcs/tree/oca4aries/features/0755-oca-for-aries). 
+This guide is written to optimize how credentials will be presented in the BC Wallet app, which operates on mobile devices such as phones and tablets. The BC Wallet was first released in 2022, is evolving in response to user feedback, and is gradually adding support for [Overlays Capture Architecture (OCA) For Aries](https://github.com/hyperledger/aries-rfcs/tree/main/features/0755-oca-for-aries). 
 
 This guide is designed to help credential issuers take advantage of current BC Wallet functionality. They also aim to help issuers “future proof” their credential by providing guidance for OCA features that are expected to be supported by BC Wallet in the near future, and guidance to not use some aspects of OCA where future BC Wallet implementation is undefined.
 
