@@ -31,10 +31,10 @@ The Law Society of British Columbia, as defined in the [Legal Profession Act](ht
 ### 3.2 Legal
 
 #### 3.2.1 For Verifiers
-*The Terms of Use for this credential as it relates to Verifiers is a work in progress and will be updated at a later time.*
+Not applicable
 
 #### 3.2.2 For End Users
-*The Terms of Use for this credential as it relates to End Users is a work in progress and will be updated at a later time.*
+The Terms of Use for this credential as it relates to End Users is documented here: [Lawyer Credential TOU - 4679934](./4679934%20-%202025-Lawyer-Credential%20TOU.pdf)
 
 ## 4. Credential Data, Issuance, and Changes
 
