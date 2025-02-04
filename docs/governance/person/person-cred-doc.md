@@ -264,9 +264,7 @@ The name attributes of a Person credential will – with some exceptions – ref
   <tr>
     <th>Notes</th>
     <td>
-      <ul><li>A family name with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li>
-        <li>If the individual has a mononym containing a space, the first part of the mononym may be recorded in the given_names attribute and the second part in the family_name attribute</li>
-        </ul>
+      <ul><li>A family name with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li><li>If the individual has a mononym containing a space, the first part of the mononym may be recorded in the given_names attribute and the second part in the family_name attribute</li></ul>
     </td>
   </tr>
 </table>
