@@ -176,7 +176,7 @@ This section indicates which Person Schema attributes are used by BC, whether th
   <tr>
     <th>Notes</th>
     <td>
-        <ul><li>Attribute data will always be upper case (e.g., "SMITH" not "Smith")</li><li>The only characters allowed are the letters A through Z, digits 0 through 9, and the following "special characters": hyphen, apostrophe, period, and space</li><li>Characters are encoded using UTF-8</li></ul>
+        <ul><li>Attribute data will always be upper case (e.g., "SMITH" not "Smith")</li><li>Allowable Characters: The only characters allowed are the letters A through Z, digits 0 through 9, and the following "special characters": hyphen, apostrophe, period, and space</li><li>Characters are encoded using UTF-8</li></ul>
     </td>
   </tr>
 </table>
@@ -225,7 +225,7 @@ The name attributes of a Person credential will – with some exceptions – ref
       <ul>
         <li>May be blank</li>
         <li>First and middle names over 15 characters are truncated</li>
-        <li>If the individual has a mononym, this attribute will normally have no value and the mononym will appear in the family_name attribute</li>
+        <li>If the individual has a mononym, this attribute will _normally_ have no value and the mononym will appear in the family_name attribute</li>
       </ul>
     </td>
   </tr>
@@ -233,22 +233,23 @@ The name attributes of a Person credential will – with some exceptions – ref
     <th>Notes</th>
     <td>
       <ul>
-        <li>Names can start with special characters</li>
+        <li>Names can start with any of the Allowable Characters</li>
         <li>First Names and Middle Names with spaces or punctuation (e.g., “JO ANNE”, “JIAN U”, “D’ARCY”) will have the spaces and punctuation removed (e.g., “JOANNE”, “JIANU”, “DARCY”)</li>
         <li>To work around the removal of spaces, described above, a first name with a space (e.g. “JO ANNE”) may be entered as a first name and a middle name (e.g., “JO ANNE” is entered as “JO” and “ANNE”). This will appear as “JO ANNE” in the given_names attribute, which is indistinguishable from an individual whose first name is “JO” and whose middle name is “ANNE”. Similarly, a middle name with a space (e.g., “MARY LOU”) may be entered as two middle names (e.g., “MARY” and “LOU”). As such, spaces in the given_names attribute are not a reliable delimiter between names</li>
         <li>Some legacy records have only an initial for a middle name (e.g., "J" for "James")</li>
-        <li>A mononym may be duplicated in this attribute and the family_name unless it has a space in it, in which case the first part may be recorded in this attribute and the second part in the family_name attribute</li>
+        <li>A mononym may be duplicated in this attribute as well as family_name</li>
+        <li>If the individual has a mononym containing a space, the first part of the mononym may be recorded in the given_names attribute and the second part in the family_name attribute</li>
       </ul>
     </td>
   </tr>
 </table>
 
-##### Family Names
+##### Family Name
 
 <table>
   <tr>
     <th>Attribute</th>
-    <td><code>family_names</code></td>
+    <td><code>family_name</code></td>
   </tr>
   <tr>
     <th>Format</th>
@@ -263,7 +264,7 @@ The name attributes of a Person credential will – with some exceptions – ref
   <tr>
     <th>Notes</th>
     <td>
-      <ul><li>Last Names with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li><li>family_name unless it has a space in it, in which case the family_name attribute</li></ul>
+      <ul><li>A family name with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li><li>If the individual has a mononym containing a space, the first part of the mononym may be recorded in the given_names attribute and the second part in the family_name attribute</li></ul>
     </td>
   </tr>
 </table>
