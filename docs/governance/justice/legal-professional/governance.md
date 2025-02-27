@@ -34,7 +34,7 @@ The Law Society of British Columbia, as defined in the [Legal Profession Act](ht
 Not applicable
 
 #### 3.2.2 For End Users
-The Terms of Use for this credential as it relates to End Users is documented here: [Lawyer Credential TOU - 4679934](./4679934%20-%202025-Lawyer-Credential%20TOU.pdf)
+The Terms of Use for this credential as it relates to End Users is documented here: [Lawyer Credential Terms](https://www.lawsociety.bc.ca/lsbc/apps/members/digital-credential/docs/Lawyer-Credential-Terms.pdf))
 
 ## 4. Credential Data, Issuance, and Changes
 
@@ -45,7 +45,7 @@ Law Society maintains a database of registered lawyers
 LSBC administrators perform updates on database records which trigger credential revocations and re-issuance, see further details in section 4.4
 
 ### 4.3 Issuance
-The lawyer MUST log in to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Lawyer credential is issued to the BC Wallet based on the account information associated with the logged-in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
+The lawyer MUST log in to the Law Society Member Portal with their username and password. The Member Portal provides a means for connecting with the BC Wallet with a QR code scan process. Once the connection is established, the Lawyer accepts the [Terms of Use](https://www.lawsociety.bc.ca/lsbc/apps/members/digital-credential/docs/Lawyer-Credential-Terms.pdf) and then the Lawyer credential is issued to the BC Wallet based on the account information associated with the logged-in user. The LSBC Member Portal WILL use the Traction tenant integration to perform the App Attestation proof request check to ensure this connection is with the official BC Wallet App. If the check fails, the connection is deleted and an error is returned to the LSBC Member Portal.
 
 ### 4.4 Revocation
 - The credential will be revoked in the following cases:
