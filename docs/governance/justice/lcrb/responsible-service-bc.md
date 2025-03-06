@@ -6,19 +6,19 @@ This document describes the Responsible Service BC Training Certificate Credenti
 ### 1.1 Version History
 | Ver. | Date        | Notes       |
 |------|-------------|-------------|
-| 1.0  | March 06, 2025 | Initial version with updated schema/credential details, corrected attributes, and OCA bundles with accurate image and color data. |
+| 1.0  | March 06, 2025 | Initial version with updated schema/credential details, corrected attributes, OCA bundles with accurate image and color data, program website enhancements, and updated proof requests from BC Wallet definitions (March 2025). |
 
 ## 2 Credential Overview
-The Responsible Service BC Training Certificate Credential provides evidence that the credential holder has completed the required training certification for selling or serving liquor or cannabis in British Columbia. Issued by the Liquor and Cannabis Regulation Branch (LCRB), it is intended for individuals working in licensed establishments (e.g., bars, restaurants, retail stores) or hosting special events where liquor is served. The credential supports regulatory compliance under the *Liquor Control and Licensing Act* (LCLA) and *Cannabis Control and Licensing Act* (CCLA). It encompasses three distinct types: *Serving It Right* (for liquor service), *Selling It Right* (for cannabis sales), and *Special Event Server* (for special events involving liquor), all sharing a common schema.
+The Responsible Service BC Training Certificate Credential provides evidence that the credential holder has completed the required training certification for selling or serving liquor or cannabis in British Columbia. Issued by the Liquor and Cannabis Regulation Branch (LCRB), it is intended for individuals working in licensed establishments (e.g., bars, restaurants, retail stores) or hosting special events where liquor is served. The credential ensures compliance with B.C. laws, enhances safety in licensed establishments, and supports industry standards under the *Liquor Control and Licensing Act* (LCLA) and *Cannabis Control and Licensing Act* (CCLA). It encompasses three distinct types: *Serving It Right* (for liquor service), *Selling It Right* (for cannabis sales), and *Special Event Server* (for special events involving liquor), all sharing a common schema. Further resources, including training schedules and FAQs, are available at [Responsible Service BC](https://www.responsibleservicebc.gov.bc.ca/).
 
-- **Credential**: Responsible Service BC Training Certificate Credential (includes *Serving It Right*, *Selling It Right*, *Special Event Server*)
+- **Credential**: Responsible Service BC Training Certificate (includes *Serving It Right*, *Selling It Right*, *Special Event Server*)
 - **Schema**: LCRBSirSes (version 1.0.0)
   - [Schema details](https://candyscan.idlab.org/tx/CANDY_PROD/domain/1098)
 - **Issuer**:
   - **Name**: Liquor and Cannabis Regulation Branch (LCRB)
   - **Description**: The LCRB regulates the private retail sale of liquor and non-medical cannabis in British Columbia.
   - **Website**: [https://justice.gov.bc.ca/lcrb/](https://justice.gov.bc.ca/lcrb/)
-  - **Contact info**: General inquiries – [https://www.responsibleservicebc.gov.bc.ca/contact-us](https://www.responsibleservicebc.gov.bc.ca/contact-us)
+  - **Contact info**: General inquiries – [Contact Us](https://www.responsibleservicebc.gov.bc.ca/contact-us) for training support
 
 ## 3 Governance & Legal
 ### 3.1 Governing Authority & Administrative Authority
@@ -55,7 +55,7 @@ The Province of British Columbia disclaims all liability for harms suffered by c
 
 ## 4 Credential Data, Issuance and Changes
 ### 4.1 Data Source(s)
-Credential data is sourced from We Know Training, the LCRB’s designated training service provider. Accuracy is ensured through training completion verification, validated by the LCRB under the General Manager’s authority.
+Credential data is sourced from We Know Training, the LCRB’s designated training service provider, detailed at [Responsible Service BC](https://www.responsibleservicebc.gov.bc.ca/). Accuracy is ensured through training completion verification, validated by the LCRB under the General Manager’s authority.
 
 #### 4.1.1 Data Updates
 Credential data remains static post-issuance. Updates to a holder’s status (e.g., name change) require revocation and re-issuance.
@@ -117,8 +117,8 @@ The credential is issued in the AnonCreds format.
 - **Logo Image**: [https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/serving-it-right/assets/logo.png](https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/serving-it-right/assets/logo.png)
 - **Background Image Slice**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_serving.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_serving.jpg)
 - **Full Background Image**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_serving.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_serving.jpg)
-- **Primary Color**: "#003366"
-- **Secondary Color**: "#FCBA19"
+- **Primary Color**: "#003366" 
+- **Secondary Color**: "#FCBA19" 
 - **Main Display Attribute**: "given_names"
 - **Secondary Display Attribute**: "family_name"
 - **Issuance Date Field**: "date_created_dateint"
@@ -128,8 +128,8 @@ The credential is issued in the AnonCreds format.
 - **Logo Image**: [https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/selling-it-right/assets/logo.png](https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/selling-it-right/assets/logo.png)
 - **Background Image Slice**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_selling.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_selling.jpg)
 - **Full Background Image**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_selling.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_selling.jpg)
-- **Primary Color**: "#003366"
-- **Secondary Color**: "#FCBA19"
+- **Primary Color**: "#003366" 
+- **Secondary Color**: "#FCBA19" 
 - **Main Display Attribute**: "given_names"
 - **Secondary Display Attribute**: "family_name"
 - **Issuance Date Field**: "date_created_dateint"
@@ -139,8 +139,8 @@ The credential is issued in the AnonCreds format.
 - **Logo Image**: [https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/special-event-server/assets/logo.png](https://github.com/bcgov/aries-oca-bundles/raw/main/OCABundles/schema/bcgov-digital-trust/LCRB/special-event-server/assets/logo.png)
 - **Background Image Slice**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_special_event.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_image_slice_special_event.jpg)
 - **Full Background Image**: [https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_special_event.jpg](https://www.responsibleservicebc.gov.bc.ca/files/static/bc_wallet_vc_lcrb_background_image_special_event.jpg)
-- **Primary Color**: "#003366"
-- **Secondary Color**: "#FCBA19"
+- **Primary Color**: "#003366" 
+- **Secondary Color**: "#FCBA19" 
 - **Main Display Attribute**: "given_names"
 - **Secondary Display Attribute**: "family_name"
 - **Issuance Date Field**: "date_created_dateint"
@@ -148,5 +148,7 @@ The credential is issued in the AnonCreds format.
 
 ## 7 Example Proof Requests
 **Proof Request: Verify Serving It Right Certification**
-- **Attributes Requested**: `certification_number`, `expires_dateint`, `date_completed_dateint`
-- **Explanation**: A verifier (e.g., a bar owner) requests proof that an employee holds a valid *Serving It Right* credential. The response provides the certification number, expiry date, and completion date to confirm training validity and compliance with liquor service regulations.
+- **Attributes Requested**: 
+  - From `Person` schema: `given_names`, `family_name`, `picture`
+  - From `LCRBSirSes` schema: `given_names`, `family_name`, `certification_number`, `expires_dateint`
+- **Explanation**: A verifier (e.g., a bar owner) requests proof that an employee holds a valid *Serving It Right* credential with identity verification. The response includes the individual’s full name and photo from a `Person` credential for identity confirmation, alongside the certification number to uniquely identify the training credential and the expiry date to ensure it remains valid for liquor service in British Columbia.
