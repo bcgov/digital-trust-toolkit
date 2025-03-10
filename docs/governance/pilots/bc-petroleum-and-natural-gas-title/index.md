@@ -141,11 +141,13 @@ The Verifiable Credential format for this credential is [W3C Verifiable Credenti
 
 ### 2.6.1.1 Vocabulary
 - [Vocabulary file](vocabulary.md)
-- Context file (link TBD)
+- [Context file](https://bcgov.github.io/digital-trust-toolkit/contexts/BCPetroleumAndNaturalGasTitle/v1.jsonld)
 
 ### 2.6.1.1 Issuers
 #### Director of Petroleum Lands
-- DID: (TBD)
+- DEV: `did:web:registry-dev.digitaltrust.gov.bc.ca:petroleum-and-natural-gas-act:director-of-petroleum-lands`
+- TEST: `did:web:registry-test.digitaltrust.gov.bc.ca:petroleum-and-natural-gas-act:director-of-petroleum-lands`
+- PROD: (TBD)
 
 ### 2.6.1.1 Examples
 (TBD)
