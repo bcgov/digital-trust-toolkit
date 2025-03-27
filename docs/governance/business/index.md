@@ -13,11 +13,8 @@ The Business Ecosystem provides digital credentials and documentation for busine
 ## Available Credentials
 
 ### Digital Business Card
-The [BC Digital Business Card](./digital-business-card-v1.md) credential represents official business information that can be verified digitally. This credential helps businesses:
+The [BC Digital Business Card](./digital-business-card-v1.md) (DBC) credential is a verifiable credential (VC) issued to individuals to enable them to prove to other parties (“verifiers”) that the individual is affiliated with a business registered or incorporated at BC Registries. Additionally, the credential includes verifiable information about both the individual and the business.
 
-- Establish their digital identity
-- Share verified business information
-- Participate in digital trust ecosystems
 
 ## Implementation Status
 
@@ -27,9 +24,9 @@ The [BC Digital Business Card](./digital-business-card-v1.md) credential represe
 
 ## Getting Started
 
-1. Review the [Digital Business Card documentation](./digital-business-card-v1.md)
-2. Understand the verification and issuance processes
-3. Learn about integration options
+- Review the [Digital Business Card documentation](./digital-business-card-v1.md)
+- Understand the verification and issuance processes
+- Learn about integration options
 
 ## Additional Resources
 
