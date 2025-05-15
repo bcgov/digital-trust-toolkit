@@ -159,7 +159,7 @@ The BC Services Card digital identity is used by BC Registries for both its iden
 A DBC credential will be revoked in the following cases:
 
 1. The individual is issued a new DBC credential for a business for which they already have been issued one or more credentials. An individual may only have one active DBC credential for a given business at a time, and when they are issued a new one, all previously issued active DBC credentials will be revoked
-1. 1. The individual was able to self-issue the credential but, due to a change in their role within the BC Registries system, now cannot
+1. The individual was able to self-issue the credential but, due to a change in their role within the BC Registries system, now cannot
 1. A rare event has occurred, such as a change to the company identifier or the business is administratively dissolved by the Registrar
 
 A DBC credential will be revoked and re-issued in the following cases:
