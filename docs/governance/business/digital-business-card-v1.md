@@ -11,7 +11,7 @@ The Digital Business Card credential is issued by the Government of British Colu
 | Ver.      | Date | Notes |
 | ----------- | ----------- | ----------- |
 | <b>1.0</b>      | 17-Nov-2023       | - |
-| <b>1.1</b>      | 16-May-2025       | Added Partnerships, Benefit Companies, and roles that can self-issue |
+| <b>1.1</b>      | 16-May-2025       | Added new entities (General Partnerships, Benefit Companies) and roles that can self-issue |
 
 ## Credential Overview
 The Digital Business Card (DBC) credential is a verifiable credential (VC) issued to individuals to enable them to prove to other parties (“verifiers”) that the individual is affiliated with a business registered or incorporated at BC Registries. Additionally, the credential includes verifiable information about both the individual and the business.
@@ -408,7 +408,7 @@ Note that the Person credential gets the values for its name attribute values fr
                 <li>Proprietor</li>
                 <li>Partner</li>
                 <li>Director</li>
-                <li>_blank_, indicating that the individual does not have any of the other roles, or if their role(s) cannot be confidently determined by BC Registries</li>
+                <li><em>blank</em>, indicating that the individual does not have any of the other roles, or if their role(s) cannot be confidently determined by BC Registries</li>
             </ul>
             <li>In future, allowable values may include:</li>
             <ul>
@@ -619,7 +619,7 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>Sole Proprietorship</code><code>Benefit Company</code></td>
+    <td><code>Sole Proprietorship</code><br></br><code>Benefit Company</code></td>
   </tr>
   <tr>
     <th>Notes</th>
