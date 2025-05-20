@@ -11,6 +11,7 @@ The Digital Business Card credential is issued by the Government of British Colu
 | Ver.      | Date | Notes |
 | ----------- | ----------- | ----------- |
 | <b>1.0</b>      | 17-Nov-2023       | - |
+| <b>1.1</b>      | 16-May-2025       | Added new entities (General Partnerships, Benefit Companies) and roles that can self-issue |
 
 ## Credential Overview
 The Digital Business Card (DBC) credential is a verifiable credential (VC) issued to individuals to enable them to prove to other parties (“verifiers”) that the individual is affiliated with a business registered or incorporated at BC Registries. Additionally, the credential includes verifiable information about both the individual and the business.
@@ -58,8 +59,8 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
     <td>
         The DBC credential is currently only available to individuals whose identity and relationship to the business are well established. Currently, they must meet the following criteria:
         <ul>
-            <li>The business is a Sole Proprietorship that was originally registered in the modern BC Registries system</li>
-            <li>The individual authenticated to BC Registries using their BC Services Card digital identity, is the owner of the Sole Proprietorship, and is the person who completed the registration of the business</li>
+            <li>The business is a Sole Proprietorship, General Partnership, or Benefit Corporation that was originally registered in the modern BC Registries system</li>
+            <li>The individual authenticated to BC Registries using their BC Services Card digital identity, and is either (a.) an Account Administrator or an Account Coordinator for the business, or (b.) is the Account User who registered the business</li>
         </ul>
     </td>
 </tr>
@@ -157,7 +158,8 @@ The BC Services Card digital identity is used by BC Registries for both its iden
 
 A DBC credential will be revoked in the following cases:
 
-1. The individual is issued a new DBC credential for a business for which they already have been issued one or more credentials. An individual may only have one active DBC credential for a given business at a time, and when they are issued a new one, all previously issued active DBC credentials will be revoked.
+1. The individual is issued a new DBC credential for a business for which they already have been issued one or more credentials. An individual may only have one active DBC credential for a given business at a time, and when they are issued a new one, all previously issued active DBC credentials will be revoked
+1. The individual was able to self-issue the credential but, due to a change in their role within the BC Registries system, now cannot
 1. A rare event has occurred, such as a change to the company identifier or the business is administratively dissolved by the Registrar
 
 A DBC credential will be revoked and re-issued in the following cases:
@@ -376,9 +378,12 @@ Note that the Person credential gets the values for its name attribute values fr
   <tr>
     <th>Source</th>
     <td>
-        Currently a business filing, from when an individual sets up their own proprietorship; during this process, they declare they are the proprietor.<br></br>
-        In the future:
-        <ul><li>Other roles will be determined through business filings supported by a process to authenticate and link a Registries Account record to the filing information</li></ul>
+        Currently a business filing, either from when an individual sets up the entity or a subsequent filing, creates the record of the invidual's role.
+        The relationship between the individual being issued the credential and their role is determined at issuance by matching the name of the individual to that in the filing and either:
+        <ul>
+            <li>Confirming in the system that the individual was the person who registered the entity</li>
+            <li>Having the individual self-attest that they are the individual with the matching role</li>
+        </ul>
     </td>
   </tr>
   <tr>
@@ -399,13 +404,15 @@ Note that the Person credential gets the values for its name attribute values fr
         <ul>
             <li>Roles are limited to those defined by BC Registries (and/or its governing legislation) and by the Business Type. (For clarity, this will not include the person's role within or in relation to the organization, e.g., CEO, Accountant.)</li>
             <li>Allowable values (currently) are:</li>
-            <ul><li>Proprietor</li></ul>
+            <ul>
+                <li>Proprietor</li>
+                <li>Partner</li>
+                <li>Director</li>
+                <li><em>blank</em>, indicating that the individual does not have any of the other roles, or if their role(s) cannot be confidently determined by BC Registries</li>
+            </ul>
             <li>In future, allowable values may include:</li>
             <ul>
                 <li>Incorporator</li>
-                <li>Partner</li>
-                <li>Director</li>
-                <li>An indicator (to be determined) that the individual does not have such a role, or if their role(s) cannot be confidently determined by BC Registries</li>
             </ul>
             <li>An individual who is an Incorporator may have another role. In future, multiple roles will be separated by commas</li>
         </ul>
@@ -601,14 +608,18 @@ Note that the Person credential gets the values for its name attribute values fr
     <td>
         <ul>
             <li>Never blank</li>
-            <li>Initially the possible values will be:</li>
-            <ul><li>Sole Proprietorship</li></ul>
+            <li>The possible values are:</li>
+            <ul>
+              <li>Sole Proprietorship</li>
+              <li>General Partnership</li>
+              <li>Benefit Company</li>
+            </ul>
         </ul>
     </td>
   </tr>
   <tr>
     <th>Examples</th>
-    <td><code>Sole Proprietorship</code></td>
+    <td><code>Sole Proprietorship</code><br></br><code>Benefit Company</code></td>
   </tr>
   <tr>
     <th>Notes</th>
