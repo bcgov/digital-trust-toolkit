@@ -10,7 +10,7 @@ The Digital Business Card credential is issued by the Government of British Colu
 
 | Ver.      | Date | Notes |
 | ----------- | ----------- | ----------- |
-| <b>1.0</b>      | 17-Nov-2023       | - |
+| <b>1.0</b>      | 17-Nov-2023       | Initial release, limited to proprietors who registered their Sole Proprietorships |
 | <b>1.1</b>      | 16-May-2025       | Added new entities (General Partnerships, Benefit Companies) and roles that can self-issue |
 
 ## Credential Overview
