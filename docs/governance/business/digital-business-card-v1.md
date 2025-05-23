@@ -59,7 +59,7 @@ The DBC credential is intended to be used in a wide range of contexts, both alon
     <td>
         The DBC credential is currently only available to individuals whose identity and relationship to the business are well established. Currently, they must meet the following criteria:
         <ul>
-            <li>The business is a Sole Proprietorship, General Partnership, or Benefit Corporation that was originally registered in the modern BC Registries system</li>
+            <li>The business is a Sole Proprietorship, General Partnership, or Benefit Company that was originally registered in the modern BC Registries system</li>
             <li>The individual authenticated to BC Registries using their BC Services Card digital identity, and is either (a.) an Account Administrator or an Account Coordinator for the business, or (b.) is the Account User who registered the business</li>
         </ul>
     </td>
@@ -128,7 +128,7 @@ The Digital Business Card credential definition implements the Digital Business 
 
 The data in the DBC credential comes from the BC Registries system, which generates the data for some attributes and receives from external sources the data for other attributes. Possible data sources are:
 
-- **Business Filing** – the information is provided from a filing made by or on behalf of the business to BC Registries, as part of the business’ requirement to keep its information current as part of its obligation under the relevant legislation (e.g.,[Partnership Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96348_01), [Business Corporations Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02057_00))
+- **Business Filing** – the information is provided from a filing made by or on behalf of the business to BC Registries, as part of the business’ requirement to keep its information current as part of its obligation under the relevant legislation (e.g., [Partnership Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/96348_01), [Business Corporations Act](https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/02057_00))
 - **BC Registries system** – these include system generated information, such as identifiers and timestamps, as well as information derived from user actions (e.g., which individual was the person who created the business in the BC Registries system)
 - **BC Services Card digital identity** – the identity information about the individual is created when the individual first accesses the BC Registries system using their BC Services Card digital identity and authenticator. The BC Services Card digital identity is a high assurance credential, with the individual’s name matching the name on their foundational identity document
 - **Canada Revenue Agency** – the information is provided to the BC Registries system directly from a CRA system
@@ -250,7 +250,7 @@ The DBC credential gets the values for its name attribute from the BC Services C
 
 - If an individual's name has a special character (e.g., Á, Ê, Ç) or a number in their name on their foundational identity document, it will not be reflected in the name attributes of the Person credential
 - The name in the Person credential will normally reflect the name on foundational identity documents, but those documents may not reflect the individual’s name. For example:
-  - Some names have special characters that the BC Vital Statistics will not accept and print on a birth certificate
+  - Some names have special characters that BC Vital Statistics will not accept and print on a birth certificate
   - Immigration, Refugees and Citizenship Canada (IRCC) will truncate an individual’s name (the combined given names and family name) at 45 characters on IIRC foundational identity documents (e.g., permanent resident card and the student, work, visitor, and temporary-resident permits)
 - An individual may use the last name of their spouse without getting a legal name change. In these cases, their Person credential should reflect their foundational identity documents, as individuals are required by law to update their BC Services Card when they change their name by marriage or otherwise. Individuals who do this may continue to use their original name in other contexts, and so their Person credential may not be consistent with their other identity documents or credentials bearing their name
 
@@ -293,7 +293,7 @@ Note that the Person credential gets the values for its name attribute values fr
         <ul>
             <li>May be blank</li>
             <li>First and middle names over 15 characters are truncated</li>
-            <li>If the individual has a mononym, this attribute will <i>normally</i> have no value and the mononym will appear in the family_name attribute</li>
+            <li>If the individual has a mononym this attribute will <i>normally</i> have no value and the mononym will appear in the family_name attribute</li>
         </ul>
     </td>
   </tr>
@@ -354,7 +354,7 @@ Note that the Person credential gets the values for its name attribute values fr
     <th>Notes</th>
     <td>
         <ul>
-            <li>ast Names with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li>
+            <li>Last Names with spaces or punctuation (e.g., “St. John”, “O’Brian”, “van Cleef”, “Scott-Bigsby”) will have the spaces and punctuation included if the individual has a photo BC Services Card but removed if the individual has a non-photo BC Services Card</li>
             <li>A mononym may be duplicated in this attribute and the family_name unless it has a space in it, in which case the first part may be recorded in this attribute and the second part in the family_name attribute</li>
         </ul>
     </td>
@@ -543,7 +543,7 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Description</th>
-    <td>The operating name the sole proprietorship has registered for itself with BC Registries.<br></br>In future, when credentials may be issued for other types of businesses,  this may also be the operating name of a general partnership or the legal name of an incorporated company, a society, or a cooperative association.</td>
+    <td>The operating name the business has registered for itself with BC Registries.<br></br>In future this may also be the operating name of a general partnership or the legal name of an incorporated company, a society, or a cooperative association.</td>
   </tr>
   <tr>
     <th>Source</th>
@@ -625,7 +625,7 @@ Note that the Person credential gets the values for its name attribute values fr
     <th>Notes</th>
     <td>
         <ul><li>Credential issuance will be limited to businesses that are created in the new BC Registries system. Additional business types may be added in the future</li></ul>
-        This attribute is in close aignment with:
+        This attribute is in close alignment with:
         <ul><li>Open Ownership schema: <code>entityType</code></li></ul>
     </td>
   </tr>
@@ -689,7 +689,7 @@ Note that the Person credential gets the values for its name attribute values fr
   </tr>
   <tr>
     <th>Source</th>
-    <td>BC Registries system, set when the business is first registered or incorporated and updated by either by business filings or the Registrar (e.g., due to failure to file)</td>
+    <td>BC Registries system, set when the business is first registered or incorporated and updated either by business filings or the Registrar (e.g., due to failure to file)</td>
   </tr>
   <tr>
     <th>Data Type</th>
