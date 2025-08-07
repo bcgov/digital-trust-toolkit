@@ -4,7 +4,7 @@ title: Support model
 ---
 
 Ensure that the implementation of your digital trust use case is well supported.
-[Launch Miro activity →](https://miro.com/app/board/uXjVKxvQLoU=)
+[Launch Figma activity →](https://www.figma.com/board/BF5LBsv1bLoXDySHZ9RiSw/Support-Model?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>

@@ -3,7 +3,7 @@ title: Ecosystem Builder
 ---
 
 Build an ecosystem map to visualize and understand how key actors, credentials and experiences in your use case fit within a digital trust ecosystem.
-[Launch Miro Activity](https://miro.com/app/board/uXjVKBGGV3U=/?share_link_id=929405557124)
+[Launch Figma Activity](https://www.figma.com/board/miuCBSEvcZzEP9ANoLx6io/Ecosystem-Builder?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>
