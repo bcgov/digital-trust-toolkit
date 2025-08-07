@@ -4,7 +4,7 @@ title: Sequence diagram
 
 Create a sequence diagram to capture interactions between entities over time. This tool is essential for mapping how credentials are managed, shared and verified in your digital trust use case.
 
-[Launch Miro activity →](https://miro.com/app/board/uXjVK4zKKE8=/)
+[Launch Figma activity →](https://www.figma.com/board/iscEB1MnCzrlvsA8hhzbOO/Sequence-Diagram-Workshop?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>

@@ -3,7 +3,7 @@ title: Ideation Workshop
 ---
 
 Explore potential use cases for digital trust technology in your service area.
-[Launch Miro Activity → ](https://miro.com/app/board/uXjVK1HW990=/?share_link_id=419926456586)
+[Launch Figma Activity → ](https://www.figma.com/board/gQndHrhCQmbwfU4eyzre6w/Ideation-Workshop?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>

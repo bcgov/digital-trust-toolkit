@@ -4,7 +4,7 @@ title: Metrics for success
 ---
 
 Define how to measure the success of your digital trust project.
-[Launch Miro activity →](https://miro.com/app/board/uXjVK1HW95M=)
+[Launch Figma activity →](https://www.figma.com/board/SUNFZtxCTaneQNKxljSN4X/Metrics-for-success?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>

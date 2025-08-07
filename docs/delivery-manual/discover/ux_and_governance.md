@@ -4,7 +4,7 @@ title: UX and Governance
 
 Evaluate the existing UX processes and governance frameworks, pinpoint opportunities to incorporate digital trust solutions and ensure compliance with relevant laws and regulations.
 
-[Launch Miro activity →](https://miro.com/app/board/uXjVK60_OYg=/)
+[Launch Figma activity →](https://www.figma.com/board/cpsACQT1ImcUysc7ndQb2s/UX-and-Governance?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>

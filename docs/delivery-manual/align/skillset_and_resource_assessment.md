@@ -3,7 +3,7 @@ title: Skills and Resource Assessment
 ---
 
 Determine your available resources, assign roles and identify gaps, risks and dependencies.
-[Launch Miro Activity](https://miro.com/app/board/uXjVK7yCef8=/?share_link_id=799844720187)
+[Launch Figma Activity](https://www.figma.com/board/Qo2OXNpOtdDNlnep5X8ZJh/Skills-and-Resource-Assessment?t=OJxAPkZU9fW0fUQk-6)
 
 <table>
 	<tr>
