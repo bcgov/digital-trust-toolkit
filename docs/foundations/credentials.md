@@ -6,7 +6,26 @@ sidebar_position: 3
 ## Understanding Digital Credentials
 Digital credentials are digital equivalents of credentials like licences, identity documents and permits. They’re stored in a digital wallet such as the [BC Wallet](https://digital.gov.bc.ca/digital-trust/digital-credential-solutions/bc-wallet/) smartphone app.
 
-Learn more about digital credentials in the [explainer video](https://www.youtube.com/watch?v=cbEuFuK83Hw).
+Learn more about digital credentials in the video below.
+
+<div class="video-responsive" role="region" aria-label="Digital credentials explainer video">
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/cbEuFuK83Hw"
+    title="Digital Credentials Explainer"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+  ></iframe>
+  <p>
+    If the video does not load, you can
+    <a href="https://www.youtube.com/watch?v=cbEuFuK83Hw" target="_blank" rel="noopener noreferrer">watch it on YouTube</a>.
+  </p>
+  <!-- Debug info: Embedded YouTube video for issue #186 -->
+  
+</div>
 
 ### Existing Digital Credentials in B.C.
 Here, you’ll find a selection of credentials that are currently being explored in B.C.
