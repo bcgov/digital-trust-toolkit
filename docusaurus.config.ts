@@ -62,7 +62,15 @@ const config: Config = {
     ],
   ],
 
-  plugins: [require.resolve("docusaurus-lunr-search")],
+  plugins: [
+    require.resolve("docusaurus-lunr-search"),
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [],
+      },
+    ],
+  ],
 
   themeConfig: {
     navbar: {
